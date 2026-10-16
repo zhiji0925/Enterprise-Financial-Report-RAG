@@ -1,0 +1,3128 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                189,
+                167,
+                806,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                411,
+                228,
+                586,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(股票简称：锦蔚新材股票代码：688289.SH)(上海证券交易所科创板)"
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                285,
+                722,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "披露日期：2026年3月26日"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                462,
+                613,
+                480
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司统一社会信用代码：91320700MA3W9K7Q2T"
+                    }
+                ]
+            },
+            "bbox": [
+                331,
+                494,
+                667,
+                510
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                922,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第1页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "重要提示"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                52,
+                184,
+                71
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                82,
+                905,
+                120
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.00元(含税)，合计派发现金红利1.12亿元（含税)，占2025年度归属于上市公司股东净利润的24.24%。该预案尚需提交公司2025年年度股东大会审议。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                129,
+                897,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                197,
+                902,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(中衡审字[2026]第0621号）。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                244,
+                910,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                292,
+                905,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                340,
+                665,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                367,
+                576,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "八、公司负责人霍锦澜、主管会计工作负责人桑岚及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                395,
+                905,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                442,
+                905,
+                480
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第2页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "重要提示"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第一节释义"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第二节 致股东的信"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第三节公司简介和主要财务指标"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第四节 管理层讨论与分析"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第五节 董事会报告"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第六节公司治理"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第七节环境、社会责任和其他公司治理"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第八节 重要事项"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第九节股份变动及股东情况"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第十节财务报告"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "备查文件目录"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                87,
+                413,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                472,
+                52,
+                529,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第3页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                810,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第一节释义"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                51,
+                213,
+                72
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "释义表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                84,
+                141,
+                99
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/10b1fb3588defaf9f520f85b9d0e4efc9f27df44f663be64a30919194de0a14f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、锦蔚新材</td><td rowspan=1 colspan=1>指连云港锦蔚新材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>碳纤维</td><td rowspan=1 colspan=1>指含碳量高于90%的高强度高模量纤维材料</td></tr><tr><td rowspan=1 colspan=1>T800级</td><td rowspan=1 colspan=1>指拉伸强度5,500MPa级的高性能碳纤维牌号</td></tr><tr><td rowspan=1 colspan=1>芳纶</td><td rowspan=1 colspan=1>指芳香族聚酰胺纤维，分为对位芳纶与间位芳纶两类</td></tr><tr><td rowspan=1 colspan=1>预浸料</td><td rowspan=1 colspan=1>指将树脂基体浸渍纤维后制成的复合材料中间体</td></tr><tr><td rowspan=1 colspan=1>复合材料制品</td><td rowspan=1 colspan=1>指以碳纤维或芳纶为增强体制成的成型结构件</td></tr><tr><td rowspan=1 colspan=1>eVTOL</td><td rowspan=1 colspan=1>指电动垂直起降航空器</td></tr><tr><td rowspan=1 colspan=1>拉挤工艺</td><td rowspan=1 colspan=1>指纤维束经树脂浸渍后连续拉制成型的复合材料工艺</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                104,
+                919,
+                322
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第二节 致股东的信"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                340,
+                282,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025年，国产碳纤维在价格寒冬中熬出了自己的春天。锦蔚新材实现营业收入36.20亿元，同比增长19.1%；归属于上市公司股东的净利润4.62亿元，同比增长17.9%；T800级碳纤维干吨线全线贯通，产线开工率提升至93%。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                370,
+                907,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "这一年，行业低端产线加速出清，公司逆势放量：碳纤维销量同比增长两成以上，风电与低空经济两大市场同步打开；eVTOL机身复合材料部件通过客户首件鉴定，把纤维的强度带上了天空。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                438,
+                905,
+                476
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "高性能纤维是复合材料的'工业粮食'。2026年，公司将把产能优势转化为应用优势，推进纤维一预浸料一制品一体化布局。感谢股东在行业低谷期给予的信任。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                486,
+                904,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "董事长：霍锦澜2026年3月"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                533,
+                342,
+                550
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第三节 公司简介和主要财务指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                570,
+                418,
+                592
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、公司基本情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                606,
+                248,
+                624
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "公司基本情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                636,
+                188,
+                650
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b756b7467bc98c5b886345f0f545d1b2c8865f281e28c30b921740ec6337182d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">连云港锦蔚新材料股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">锦蔚新材</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">688289.SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">上海证券交易所科创板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">江苏省连云港市徐圩新区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2022年1月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">高性能纤维材料（碳纤维/芳纶）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">霍锦澜</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">尉蔚然</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">桑岚</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">4,800</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                655,
+                919,
+                922
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第4页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                919,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                124
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、公司历史沿革"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                135,
+                250,
+                154
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司成立于2010年，总部位于江苏连云港，2022年1月在上海证券交易所科创板上市，是国内高性能碳纤维与芳纶双线布局的新材料企业。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                160,
+                910,
+                199
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截至报告期末，公司拥有碳纤维产能1.8万吨/年(其中T800级产线1,000吨/年)、芳纶产能0.5万吨/年，并建成预浸料与复合材料制品中试基地。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                208,
+                907,
+                247
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、主要会计数据和财务指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                260,
+                344,
+                279
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/85c5cfc0b67efbada8e6b63f1922869c3ad3924cd2e93c62ff423d0f5f0156a0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "近三年主要会计数据和财务指标"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>30.40</td><td rowspan=1 colspan=1>+19.1%</td><td rowspan=1 colspan=1>26.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>4.62</td><td rowspan=1 colspan=1>3.92</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>3.35</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>4.08</td><td rowspan=1 colspan=1>3.48</td><td rowspan=1 colspan=1>+17.2%</td><td rowspan=1 colspan=1>2.95</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>+19.0%</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.83</td><td rowspan=1 colspan=1>0.70</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>0.60</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>9.50</td><td rowspan=1 colspan=1>8.30</td><td rowspan=1 colspan=1>增加1.20个百分点</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>95.60</td><td rowspan=1 colspan=1>88.20</td><td rowspan=1 colspan=1>+8.4%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>49.70</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>+4.4%</td><td rowspan=1 colspan=1>一</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                310,
+                919,
+                542
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、非经常性损益项目及金额"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                573,
+                346,
+                592
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c581a0b9c4db3119d227d2be6c1bb19349884c879c6931139a0df70f4057411b.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年非经常性损益项目明细"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.32</td><td rowspan=1 colspan=1>新材料首批次应用保险补偿及技改专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.54</td><td rowspan=1 colspan=1>占归母净利润比例11.7%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                621,
+                919,
+                743
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "五、分季度主要财务数据"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                774,
+                305,
+                793
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ecf477a843d4e68b9eb75e3e0d1ef6edc9ccffa4d0685871f72129f9547c8d9d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分季度主要财务数据"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>9.50</td><td rowspan=1 colspan=1>10.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.92</td><td rowspan=1 colspan=1>1.06</td><td rowspan=1 colspan=1>1.22</td><td rowspan=1 colspan=1>1.42</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                824,
+                919,
+                895
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第5页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第四节 管理层讨论与分析"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                51,
+                351,
+                72
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、报告期内公司所处行业情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                86,
+                364,
+                105
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025年国内碳纤维表观需求约8万吨，国产化率提升至约75%；经历2023-2024年价格快速回落后，T300级产品价格于2025年触底企稳，行业低端产能加速出清，具备T700/T800级量产能力的企业竞争格局改善。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                111,
+                902,
+                170
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "需求端，风电叶片大型化拉动大丝束碳纤维需求，低空经济（eVTOL机身与结构件）与压力容器（储氢气瓶）打开新的应用空间；高性能小丝束在航空航天与体育休闲领域保持稳定增长。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                179,
+                909,
+                218
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/9e0a6b89a355792041152cd2cca3733e10c177eef3fdcca3ee40bb5520f42bd1.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "图1：2021-2025年碳纤维产能及产线开工率"
+                    }
+                ],
+                "chart_footnote": [
+                    {
+                        "type": "text",
+                        "content": "资料来源：公司历年年度报告，经审计数据"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                254,
+                884,
+                485
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、报告期内公司从事的主要业务"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                524,
+                383,
+                543
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司主营业务为高性能碳纤维、芳纶及其复合材料制品的研发、生产与销售，产品覆盖从纤维原丝到制品的一体化链路，主要应用于风电、航空航天、低空经济与体育休闲领域。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                549,
+                904,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，T800级干吨线全线贯通并实现稳定量产，产品进入两家风电头部客户的拉挤工艺供应链；eVTOL机身复材部件完成首件鉴定并小批量交付。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                596,
+                900,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、营业收入构成及变动分析"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                649,
+                346,
+                668
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a457af6929ddd37fe0560dfc726b26fffcf80d55758437c4368bfdd0ecea0d53.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分产品/业务收入构成"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>碳纤维</td><td rowspan=1 colspan=1>26.06</td><td rowspan=1 colspan=1>72.0%</td><td rowspan=1 colspan=1>32.0%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>芳纶</td><td rowspan=1 colspan=1>7.61</td><td rowspan=1 colspan=1>21.0%</td><td rowspan=1 colspan=1>36.0%</td><td rowspan=1 colspan=1>+19.2%</td></tr><tr><td rowspan=1 colspan=1>复合材料制品</td><td rowspan=1 colspan=1>2.53</td><td rowspan=1 colspan=1>7.0%</td><td rowspan=1 colspan=1>45.0%</td><td rowspan=1 colspan=1>+25.4%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>33.8%</td><td rowspan=1 colspan=1>+19.1%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                699,
+                919,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "碳纤维收入26.06亿元，同比增长18.5%，T800级放量与开工率提升是主因；芳纶收入7.61亿元，同比增长19.2%，工业防护与光缆增强需求旺盛；复合材料制品收入2.53亿元，同比增长25.4%，eVTOL与航空复材小批量交付贡献增量。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                821,
+                904,
+                879
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图2：2025年碳纤维下游应用结构（按销量）"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                890,
+                405,
+                907
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第6页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/24ede45fd688e22d206f66433c2f94d997d58b7026a7c6168c3675c11ff42411.jpg"
+                },
+                "content": "",
+                "chart_caption": [],
+                "chart_footnote": [
+                    {
+                        "type": "text",
+                        "content": "资料来源：公司2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                78,
+                59,
+                579,
+                235
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2db4d4299049de34f6623ed2aae4576212aa0e459730098f3e14f4ba2bcb8748.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分地区收入构成"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：前五名客户合计销售金额占年度销售总额的24.6%。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>31.02</td><td rowspan=1 colspan=1>85.7%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>5.18</td><td rowspan=1 colspan=1>14.3%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                281,
+                919,
+                378
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、营业成本构成"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                410,
+                248,
+                429
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fc761e9cb8e23ffd5586a8bd0c861c940304c948e65ff16011f9ee9be610ead3.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "营业成本构成（占营业成本比例）"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>原丝及聚合原料</td><td rowspan=1 colspan=1>44.5%</td><td rowspan=1 colspan=1>43.8%</td><td rowspan=1 colspan=1>丙烯腈价格中枢回落</td></tr><tr><td rowspan=1 colspan=1>电力及能源</td><td rowspan=1 colspan=1>30.6%</td><td rowspan=1 colspan=1>31.8%</td><td rowspan=1 colspan=1>绿电采购比例提升至25%</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>24.9%</td><td rowspan=1 colspan=1>24.4%</td><td rowspan=1 colspan=1>产能利用率提升摊薄</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                460,
+                919,
+                555
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "五、期间费用与研发投入"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                569,
+                305,
+                588
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/275ceb1ec8dc4786164d399ac9bbedb22795b2de042879a82fad8b9ac95f0492.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "期间费用变动"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>1.25</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>+7.9%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.02</td><td rowspan=1 colspan=1>+13.9%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>0.26</td><td rowspan=1 colspan=1>-15.4%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                618,
+                919,
+                737
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "研发投入方面，公司2025年研发投入合计2.60亿元，占营业收入比例7.2%，其中费用化研发费用2.30亿元、资本化研发投入0.30亿元；研发人员820人，占员工总数比例17.1%。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                740,
+                899,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "六、现金流量情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                793,
+                248,
+                810
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0b0885db67423e86ee061bc8cf1779c86385de8d087100eec8c94193fcd6149d.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "现金流量主要项目"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">2025年（亿元）</td><td colspan=\"1\" rowspan=\"1\">2024年(亿元)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">经营活动产生的现金流量净额</td><td colspan=\"1\" rowspan=\"1\">6.90</td><td colspan=\"1\" rowspan=\"1\">5.80</td></tr><tr><td colspan=\"1\" rowspan=\"1\">投资活动产生的现金流量净额</td><td colspan=\"1\" rowspan=\"1\">-8.60</td><td colspan=\"1\" rowspan=\"1\">-7.20</td></tr><tr><td>筹资活动产生的现金流量净额</td><td>6.20</td><td>5.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                841,
+                919,
+                914
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                810,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                97
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内经营活动现金流量净额6.90亿元，同比增长19.0%；投资活动净流出8.60亿元，主要为T800千吨线及配套项目投入；筹资活动净流入6.20亿元，主要为银行项目贷款与中期票据融资到位。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                99,
+                909,
+                139
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "七、资产及负债项目重大变动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                152,
+                344,
+                171
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9e08955a3df279d7f594a17a1741549af097b59d0680b18bc55e991e20f54eeb.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "资产、负债项目重大变动"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>+12.7%</td><td rowspan=1 colspan=1>项目贷款与票据融资到位</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>45.60</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>+8.3%</td><td rowspan=1 colspan=1>T800千吨线及配套工程投入</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>+10.1%</td><td rowspan=1 colspan=1>Q4发货集中，尚在账期内</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                202,
+                919,
+                298
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "八、公司未来发展的展望"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                311,
+                307,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2026年经营目标：营业收入42亿元左右，同比增长约16%；T800级产线开工率保持在90%以上，低空经济相关收入实现翻番；启动T1000级工艺验证。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                335,
+                907,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产能方面，公司将推进2万吨/年碳纤维扩能项目前期工作，并建设预浸料一期产线，向'纤维一预浸料一制品'的一体化布局纵深推进。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                382,
+                910,
+                422
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "九、风险因素"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                436,
+                211,
+                455
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                461,
+                648,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "价格竞争风险：碳纤维行业价格竞争仍然激烈，低端产品价格存在再度探底可能。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                488,
+                752,
+                506
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "原材料及能源风险：丙烯腈价格与电力成本波动影响毛利率。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                516,
+                594,
+                532
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产能消化风险：行业新增产能释放快于需求增长，开工率存在波动风险。"
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                543,
+                682,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "客户认证风险：航空航天与eVTOL客户验证周期长，订单释放节奏存在不确定性。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                570,
+                754,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "技术迭代风险：国际龙头在高强高模牌号上仍保有代差优势。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                596,
+                594,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第五节 董事会报告"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                634,
+                282,
+                656
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                665,
+                900,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.00元（含税），合计派发现金红利1.12亿元（含税），占2025年度归属于上市公司股东净利润的24.24%。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                713,
+                897,
+                770
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                781,
+                912,
+                839
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第六节 公司治理"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                858,
+                260,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                889,
+                909,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                51,
+                905,
+                89
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                98,
+                905,
+                137
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                146,
+                907,
+                184
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第七节环境、社会责任和其他公司治理"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                204,
+                487,
+                225
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、环境保护信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                239,
+                248,
+                258
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "环境信息主要指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                268,
+                221,
+                284
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c74f812fd20b1f8aa4579add5025c7c2c35dac777244fc2bff6a2e503b76b6b0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1>-4.2%</td></tr><tr><td rowspan=1 colspan=1>绿电采购比例</td><td rowspan=1 colspan=1>25.0%</td><td rowspan=1 colspan=1>提高10.0个百分点</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>389,000</td><td rowspan=1 colspan=1>+8.6%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>1,650</td><td rowspan=1 colspan=1>+18.0%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                288,
+                917,
+                406
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司碳纤维产线属于高耗能环节，报告期内绿电采购比例提升至25%，丙烯腈储运完成VOCs在线监测改造；锦蔚助学'项目覆盖连云港6所乡村学校。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                410,
+                900,
+                448
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、社会责任"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                462,
+                211,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截至报告期末，公司员工总数4,800人，其中研发人员820人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                487,
+                910,
+                526
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、公司治理专项情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                539,
+                289,
+                558
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                564,
+                905,
+                604
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第八节 重要事项"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                623,
+                260,
+                643
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重大项目：报告期内T800级高性能碳纤维干吨线项目全线贯通，报告期内投入6.80亿元，累计投入10.50亿元。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                653,
+                894,
+                690
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                700,
+                630,
+                718
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对外担保：报告期内公司不存在对外担保事项。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                727,
+                489,
+                745
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为180万元，程序合规。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                755,
+                801,
+                772
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "政府补助：报告期内计入当期损益的政府补助0.32亿元，主要为新材料首批次应用保险补偿及技改专项。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                782,
+                905,
+                821
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第九节股份变动及股东情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                840,
+                373,
+                860
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "股份结构(万股)"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                872,
+                211,
+                889
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第9页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3bcb51549ed5ca6f8f6e9fec329270332e0b7cef7d9ec2aa9ad652594afbdfd6.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>50,400.0</td><td rowspan=1 colspan=1>90.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>5,600.0</td><td rowspan=1 colspan=1>10.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>56,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                147
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "前十大股东持股情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                160,
+                267,
+                178
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "截至2025年12月31日前十大股东"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                189,
+                332,
+                205
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/096c9a0f6eebeba950ca80109d067434a09103f318334bd2ec055fceb9a62a0c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "公司控股股东为锦蔚控股集团有限公司，实际控制人为霍锦澜。控股股东所持股份报告期内不存在质押、冻结情形。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>锦蔚控股集团有限公司</td><td rowspan=1 colspan=1>27.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家先进新材料产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>7.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>江苏新材料产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>4.30%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——七组合</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零五组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>锦蔚员工持股计划</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>国联新材料混合型证券投资基金</td><td rowspan=1 colspan=1>1.70%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>连云港金蔚创业投资合伙企业(有限合伙)</td><td rowspan=1 colspan=1>1.00%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>57.20%</td><td rowspan=1 colspan=1></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                209,
+                919,
+                498
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第十节 财务报告"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                558,
+                258,
+                580
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、审计意见"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                594,
+                210,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0621号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                619,
+                912,
+                697
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、合并资产负债表主要项目（摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                711,
+                410,
+                731
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "资产负债表主要项目"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                741,
+                235,
+                757
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0067774e55e0340b7057dd3744fae553acc77a131ce319325331f8403ea6ae8b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+                    }
+                ],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">期末（亿元)</td><td colspan=\"1\" rowspan=\"1\">期初(亿元)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">货币资金</td><td colspan=\"1\" rowspan=\"1\">14.20</td><td colspan=\"1\" rowspan=\"1\">12.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">应收账款及合同资产</td><td colspan=\"1\" rowspan=\"1\">9.80</td><td colspan=\"1\" rowspan=\"1\">8.90</td></tr><tr><td colspan=\"1\" rowspan=\"1\">存货</td><td colspan=\"1\" rowspan=\"1\">8.40</td><td colspan=\"1\" rowspan=\"1\">7.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">固定资产及在建工程</td><td colspan=\"1\" rowspan=\"1\">45.60</td><td colspan=\"1\" rowspan=\"1\">42.10</td></tr><tr><td colspan=\"1\" rowspan=\"1\">其他资产</td><td colspan=\"1\" rowspan=\"1\">17.60</td><td colspan=\"1\" rowspan=\"1\">17.00</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资产总计</td><td colspan=\"1\" rowspan=\"1\">95.60</td><td colspan=\"1\" rowspan=\"1\">88.20</td></tr><tr><td colspan=\"1\" rowspan=\"1\">应付账款及应付票据</td><td colspan=\"1\" rowspan=\"1\">16.80</td><td colspan=\"1\" rowspan=\"1\">15.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">合同负债</td><td colspan=\"1\" rowspan=\"1\">4.20</td><td colspan=\"1\" rowspan=\"1\">3.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">借款及其他负债</td><td colspan=\"1\" rowspan=\"1\">24.90</td><td colspan=\"1\" rowspan=\"1\">21.40</td></tr><tr><td colspan=\"1\" rowspan=\"1\">负债合计</td><td colspan=\"1\" rowspan=\"1\">45.90</td><td colspan=\"1\" rowspan=\"1\">40.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">归属于母公司股东权益合计</td><td colspan=\"1\" rowspan=\"1\">49.70</td><td colspan=\"1\" rowspan=\"1\">47.60</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                760,
+                919,
+                931
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第10页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                195
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、合并利润表主要项目（摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                227,
+                371,
+                246
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "利润表主要项目"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                256,
+                203,
+                271
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6c67a22737f32bf1af739d035d243f425639fed8e1fd2b871b285e646be0b526.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>30.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>23.96</td><td rowspan=1 colspan=1>20.49</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>5.97</td><td rowspan=1 colspan=1>5.43</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.02</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>4.62</td><td rowspan=1 colspan=1>3.92</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>4.08</td><td rowspan=1 colspan=1>3.48</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                275,
+                919,
+                444
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、合并现金流量表主要项目(摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                458,
+                410,
+                478
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/66057e72ac24b18f3090a2ff5c61007ad4526b8f2e64a467384ac45107f14057.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "现金流量表主要项目"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-8.60</td><td rowspan=1 colspan=1>-7.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>5.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                507,
+                919,
+                601
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "备查文件目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                663,
+                230,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                693,
+                764,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                720,
+                682,
+                738
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                749,
+                536,
+                765
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年年度股东大会会议资料及决议。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                776,
+                435,
+                793
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                812,
+                499,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                544,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "科创板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                954,
+                383,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第11页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                954,
+                921,
+                969
+            ]
+        }
+    ]
+]

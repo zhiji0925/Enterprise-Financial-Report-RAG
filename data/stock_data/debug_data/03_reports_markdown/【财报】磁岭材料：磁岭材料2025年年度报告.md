@@ -1,0 +1,261 @@
+# 宁波磁岭材料股份有限公司
+
+2025 年年度报告
+
+(股票简称：磁岭材料股票代码：300882.SZ)(深圳证券交易所创业板)
+
+披露日期：2026年3月20日
+
+公司统一社会信用代码：91330201MA4B6N2R8P
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.60元（含税)，合计派发现金红利0.99亿元（含税)，占2025年度归属于上市公司股东净利润的19.00%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(瀚华审字[2026]第0498号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人滕远洲、主管会计工作负责人庄砚及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、磁岭材料</td><td rowspan=1 colspan=1>指宁波磁岭材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>钕铁硼</td><td rowspan=1 colspan=1>指以钕、铁、硼为主要成分的第三代稀土永磁材料</td></tr><tr><td rowspan=1 colspan=1>晶界渗透</td><td rowspan=1 colspan=1>指将重稀土渗透至晶界以提升矫顽力的工艺技术</td></tr><tr><td rowspan=1 colspan=1>磁组件</td><td rowspan=1 colspan=1>指将磁体与结构件装配成的功能组件</td></tr><tr><td rowspan=1 colspan=1>高能积牌号</td><td rowspan=1 colspan=1>指最大磁能积达到52MGOe级及以上的产品系列</td></tr><tr><td rowspan=1 colspan=1>人形机器人磁组件</td><td rowspan=1 colspan=1>指用于人形机器人关节电机的高精度磁组件</td></tr><tr><td rowspan=1 colspan=1>表面处理</td><td rowspan=1 colspan=1>指磁体的镀镍、镀锌及环氧涂覆等防护工艺</td></tr><tr><td rowspan=1 colspan=1>氢破碎</td><td rowspan=1 colspan=1>指利用氢脆效应破碎合金铸锭的制粉工艺</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，磁材的需求版图上多了一个叫'机器人'的名字。磁岭材料实现营业收入52.30亿元，同比增长17.3%；归属于上市公司股东的净利润5.21亿元，同比增长17.9%；晶界渗透工艺产品占毛坯产量六成以上，人形机器人关节电机磁组件通过两家头部客户认证。
+
+这一年，公司车用磁体随新能源车放量，收入同比增长22.5%；稀土原料价格企稳回升，公司凭借库存与长协双机制平滑成本；风电磁体跟随海上风电装机回暖，海外客户直供比例稳步提升。
+
+小到一个关节，大到一台风机，磁性能决定能量转换的效率。2026年，公司将把机器人磁组件专线建好，把每一点磁能积都做成客户的价值。感谢股东与全体员工。
+
+董事长：滕远洲2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+## 公司基本情况
+
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">宁波磁岭材料股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">磁岭材料</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">300882.SZ</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">深圳证券交易所创业板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">浙江省宁波市镇海区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2010年11月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">磁性材料（高性能钕铁硼）</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">滕远洲</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">茹岚</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">庄砚</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">7,200</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于1998年，总部位于浙江宁波，2010年11月在深圳证券交易所创业板上市，是国内高性能钕铁硼磁体的头部企业。
+
+截至报告期末，公司具备钕铁硼毛坯产能3.5万吨/年，其中晶界渗透工艺产线占比超过60%，磁组件加工能力覆盖车用、风电与机器人三大场景。
+
+## 三、主要会计数据和财务指标
+
+## 近三年主要会计数据和财务指标
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>44.60</td><td rowspan=1 colspan=1>+17.3%</td><td rowspan=1 colspan=1>38.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>5.21</td><td rowspan=1 colspan=1>4.42</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>3.85</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>4.72</td><td rowspan=1 colspan=1>4.02</td><td rowspan=1 colspan=1>+17.4%</td><td rowspan=1 colspan=1>3.48</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>7.30</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>+17.7%</td><td rowspan=1 colspan=1>5.60</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.84</td><td rowspan=1 colspan=1>0.71</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>0.62</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>10.00</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>增加1.40个百分点</td><td rowspan=1 colspan=1>7.90</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>98.40</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>+6.3%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>53.40</td><td rowspan=1 colspan=1>50.80</td><td rowspan=1 colspan=1>+5.1%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>稀土新材料专项与技改补贴</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.19</td><td rowspan=1 colspan=1>增值税加计抵减及废料处置收益</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.49</td><td rowspan=1 colspan=1>占归母净利润比例9.4%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>11.50</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>13.50</td><td rowspan=1 colspan=1>14.70</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>1.05</td><td rowspan=1 colspan=1>1.21</td><td rowspan=1 colspan=1>1.38</td><td rowspan=1 colspan=1>1.57</td></tr></table>
+
+第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年国内高性能钕铁硼毛坯产量约28万吨，新能源汽车驱动电机、风电整机与工业电机构成需求基本盘；人形机器人进入量产元年，单台人形机器人高性能磁材用量约2-4千克，为磁材行业打开远期增量空间。
+
+成本端，氧化镨钕价格2025年企稳回升，行业库存回归健康水位；工艺端，晶界渗透技术成为高端牌号主流路线，高能积、耐高温牌号在机器人关节电机上加速导入。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为高性能钕铁硼永磁材料及磁组件的研发、生产与销售，以晶界渗透工艺为核心路线，产品覆盖车用驱动电机、风电整机与消费电子三大场景。
+
+报告期内，公司人形机器人关节电机磁组件通过两家头部客户认证并进入小批量交付；车用磁体新获两个混动平台定点；海外客户直供比例提升至13%。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>车用驱动电机磁体</td><td rowspan=1 colspan=1>32.43</td><td rowspan=1 colspan=1>62.0%</td><td rowspan=1 colspan=1>26.5%</td><td rowspan=1 colspan=1>+22.5%</td></tr><tr><td rowspan=1 colspan=1>风电整机磁体</td><td rowspan=1 colspan=1>9.41</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>22.0%</td><td rowspan=1 colspan=1>+12.8%</td></tr><tr><td rowspan=1 colspan=1>消费电子磁体</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>13.0%</td><td rowspan=1 colspan=1>24.0%</td><td rowspan=1 colspan=1>+8.5%</td></tr><tr><td rowspan=1 colspan=1>磁组件及其他</td><td rowspan=1 colspan=1>3.66</td><td rowspan=1 colspan=1>7.0%</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>+15.2%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>24.8%</td><td rowspan=1 colspan=1>+17.3%</td></tr></table>
+
+车用驱动电机磁体收入32.43亿元，同比增长22.5%，新能源车与混动平台定点放量；风电整机磁体收入9.41亿元，同比增长12.8%，海上风电装机回暖；消费电子磁体收入6.80亿元，同比增长8.5%，随智能手机出货修复；磁组件及其他收入3.66亿元，同比增长15.2%，机器人磁组件开始贡献。
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>45.51</td><td rowspan=1 colspan=1>87.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>6.79</td><td rowspan=1 colspan=1>13.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的38.4%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>稀土原料（镨钕、镝铽）</td><td rowspan=1 colspan=1>68.4%</td><td rowspan=1 colspan=1>69.6%</td><td rowspan=1 colspan=1>价格企稳回升，套保对冲部分波动</td></tr><tr><td rowspan=1 colspan=1>辅助材料及包材</td><td rowspan=1 colspan=1>13.2%</td><td rowspan=1 colspan=1>12.9%</td><td rowspan=1 colspan=1>表面处理工序优化</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>18.4%</td><td rowspan=1 colspan=1>17.5%</td><td rowspan=1 colspan=1>晶界渗透产线满产摊薄</td></tr></table>
+
+## 五、期间费用与研发投入
+
+期间费用变动
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.35</td><td rowspan=1 colspan=1>1.20</td><td rowspan=1 colspan=1>+12.5%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>1.88</td><td rowspan=1 colspan=1>+9.0%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.70</td><td rowspan=1 colspan=1>2.35</td><td rowspan=1 colspan=1>+14.9%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>-16.7%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计2.90亿元，占营业收入比例5.5%，其中费用化研发费用2.70亿元、资本化研发投入0.20亿元；研发人员860人，占员工总数比例11.9%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>7.30</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-6.80</td><td rowspan=1 colspan=1>-5.90</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.40</td></tr></table>
+
+报告期内经营活动现金流量净额7.30亿元，同比增长17.7%；投资活动净流出6.80亿元，为晶界渗透技改与机器人磁组件专线投入；筹资活动净流入3.20亿元。
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末 (亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>13.60</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>+9.7%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>13.90</td><td rowspan=1 colspan=1>+9.4%</td><td rowspan=1 colspan=1>Q4车用磁体交付放量</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>38.40</td><td rowspan=1 colspan=1>36.80</td><td rowspan=1 colspan=1>+4.3%</td><td rowspan=1 colspan=1>机器人磁组件专线技改</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入60亿元左右，同比增长约15%；机器人磁组件专线于二季度投产，全年出货50万套；海外直供比例提升至16%。
+
+技术方面，公司将量产54MGOe级高能积牌号，推进耐高温SH系列在人形机器人关节电机的导入，并同步建设磁材数字化工厂。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+稀土价格风险：镨钕等原料价格波动大，库存与套保管理难度高。
+
+客户集中风险：车用磁体客户以头部主机厂为主，年降压力大。
+
+替代技术风险：无稀土电机等路线若取得突破将削弱钕铁硼需求。
+
+出口管制风险：高性能磁材出口政策变化影响海外订单交付。
+
+竞争风险：行业产能扩张快，高端牌号同质化竞争加剧。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.60元(含税)，合计派发现金红利0.99亿元（含税)，占2025年度归属于上市公司股东净利润的19.00%。
+
+公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+## 环境信息主要指标
+
+<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>42.5</td><td rowspan=1 colspan=1>-3.8%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e)</td><td rowspan=1 colspan=1>64,300</td><td rowspan=1 colspan=1>+6.2%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>126.0</td><td rowspan=1 colspan=1>+4.5%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>820</td><td rowspan=1 colspan=1>+14.0%</td></tr></table>
+
+公司建成稀土熔盐渣与磨屑闭环回收体系，废料综合回收利用率超过98%；报告期内无重大安全环保事故。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数7,200人，其中研发人员860人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大项目：报告期内公司投资5.20亿元建设人形机器人磁组件专线，预计2026年二季度投产。
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司不存在对外担保事项。
+
+关联交易：报告期内公司与关联方发生的日常关联交易合计金额为210万元，程序合规。
+
+股权激励：报告期内公司实施2025年限制性股票激励计划，向120名核心人员授予260万股，考核目标为2026-2027年净利润复合增长率不低于15%。
+
+## 第九节 股份变动及股东情况
+
+股份结构(万股)
+
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>57,040.0</td><td rowspan=1 colspan=1>92.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>4,960.0</td><td rowspan=1 colspan=1>8.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>62,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>磁岭控股集团有限公司</td><td rowspan=1 colspan=1>23.50%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>甬江新材料产业投资基金(有限合伙)</td><td rowspan=1 colspan=1>7.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>浙江稀土永磁产业基金（有限合伙）</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金一零二组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零五组合</td><td rowspan=1 colspan=1>2.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>磁岭员工持股计划</td><td rowspan=1 colspan=1>2.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>嘉实中证稀土产业ETF</td><td rowspan=1 colspan=1>1.90%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>富国新材料新能源股票基金</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>宁波梅山磁创投资合伙企业（有限合伙)</td><td rowspan=1 colspan=1>1.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>52.90%</td><td rowspan=1 colspan=1></td></tr></table>
+
+公司控股股东为磁岭控股集团有限公司，实际控制人为滕远洲。控股股东所持股份报告期内不存在质押、冻结情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0498号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目(摘要)
+
+## 资产负债表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>13.60</td><td rowspan=1 colspan=1>12.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>13.90</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>11.60</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>38.40</td><td rowspan=1 colspan=1>36.80</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>18.40</td><td rowspan=1 colspan=1>17.90</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>98.40</td><td rowspan=1 colspan=1>92.60</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>20.60</td><td rowspan=1 colspan=1>19.50</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>19.20</td><td rowspan=1 colspan=1>17.70</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>45.00</td><td rowspan=1 colspan=1>41.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>53.40</td><td rowspan=1 colspan=1>50.80</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。
+
+## 三、合并利润表主要项目(摘要)
+
+利润表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>44.60</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>39.33</td><td rowspan=1 colspan=1>33.90</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.25</td><td rowspan=1 colspan=1>5.61</td></tr><tr><td rowspan=1 colspan=1>研发费用(含于期间费用)</td><td rowspan=1 colspan=1>2.70</td><td rowspan=1 colspan=1>2.35</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>5.21</td><td rowspan=1 colspan=1>4.42</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>4.72</td><td rowspan=1 colspan=1>4.02</td></tr></table>
+
+## 四、合并现金流量表主要项目(摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>7.30</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-6.80</td><td rowspan=1 colspan=1>-5.90</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.40</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+·报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

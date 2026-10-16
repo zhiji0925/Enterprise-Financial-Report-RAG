@@ -1,0 +1,260 @@
+# 泰诺制药股份有限公司
+
+2025年年度报告
+
+(股票简称：泰诺制药股票代码：600992.SH) (上海证券交易所主板)
+
+披露日期：2026年3月27日
+
+公司统一社会信用代码：91370100MA3C2W5T8K
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.00元(含税)，合计派发现金红利1.78亿元（含税)，占2025年度归属于上市公司股东净利润的30.43%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(瀚华审字[2026]第0165号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人邵秉文、主管会计工作负责人关慕荃及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、泰诺制药</td><td rowspan=1 colspan=1>指泰诺制药股份有限公司</td></tr><tr><td rowspan=1 colspan=1>改良新剂型</td><td rowspan=1 colspan=1>指在已上市活性成分基础上改进剂型、给药途径或释放行为的新药类别(2.2类）</td></tr><tr><td rowspan=1 colspan=1>缓控释制剂</td><td rowspan=1 colspan=1>指按预定速率缓慢释放药物以维持稳定血药浓度的制剂</td></tr><tr><td rowspan=1 colspan=1>一致性评价</td><td rowspan=1 colspan=1>指对已上市仿制药与参比制剂质量疗效一致性的评价制度</td></tr><tr><td rowspan=1 colspan=1>集中带量采购</td><td rowspan=1 colspan=1>指以量换价、由医保部门组织的药品集中采购机制</td></tr><tr><td rowspan=1 colspan=1>原料药制剂一体化</td><td rowspan=1 colspan=1>指原料药与制剂由同一企业生产以保障供应与成本的体系</td></tr><tr><td rowspan=1 colspan=1>渗透泵技术</td><td rowspan=1 colspan=1>指利用渗透压差驱动药物恒速释放的控释制剂技术</td></tr><tr><td rowspan=1 colspan=1>ANDA</td><td rowspan=1 colspan=1>指美国仿制药上市申请</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，泰诺制药实现了'仿创结合'战略的阶段性验证。公司实现营业收入47.60亿元，同比增长15.5%；归属于上市公司股东的净利润5.85亿元，同比增长14.3%；经营性现金流连续第五年高于净利润，分红比例连续三年提升。
+
+这一年，改良新剂型板块收入同比增长24.6%，占比提升至38%：公司的渗透泵控释平台迎来了第三个过评产品，高血压长效复方制剂'泰诺平'上市首个完整年销售即突破4亿元；仿制药板块在6个新批次集采中全部中选，以量补价策略兑现。
+
+仿制药不是低价值。把成熟活性成分做出临床需要的剂型、做到一致且可及的质量，同样是在创造社会价值。2026年，公司将推进缓释微球平台的第一个产品进入注册临床，向高端制剂的高峰继续攀登。感谢股东们的长期支持。
+
+董事长：邵秉文2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+## 公司基本情况
+
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">泰诺制药股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">泰诺制药</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">600992.SH</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">上海证券交易所主板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">山东省济南市高新区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">1997年6月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">医药制造业(化学制剂）</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">邵秉文</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">晏迟</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">关慕荃</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">瀚华会计师事务所(特殊普通合伙）</td></tr><tr><td colspan="1" rowspan="1">员工总数 （人)</td><td colspan="1" rowspan="1">6,800</td></tr></table>
+
+## 二、公司历史沿革
+
+公司前身为1966年创建的济南第三制药厂，1997年6月在上海证券交易所主板上市，是一家以化学制剂为主、原料药制剂一体化的综合性制药企业。
+
+截至报告期末，公司拥有制剂文号156个(其中过评品种34个）、原料药DMF备案28项，缓控释制剂年产能42亿片，产品覆盖心脑血管、消化、精神神经等领域。
+
+## 三、主要会计数据和财务指标
+
+近三年主要会计数据和财务指标
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>41.20</td><td rowspan=1 colspan=1>+15.5%</td><td rowspan=1 colspan=1>36.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>5.85</td><td rowspan=1 colspan=1>5.12</td><td rowspan=1 colspan=1>+14.3%</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>5.32</td><td rowspan=1 colspan=1>4.65</td><td rowspan=1 colspan=1>+14.4%</td><td rowspan=1 colspan=1>4.10</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>7.00</td><td rowspan=1 colspan=1>+15.7%</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.66</td><td rowspan=1 colspan=1>0.58</td><td rowspan=1 colspan=1>+14.3%</td><td rowspan=1 colspan=1>0.52</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>10.50</td><td rowspan=1 colspan=1>增加1.10个百分点</td><td rowspan=1 colspan=1>9.60</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>78.60</td><td rowspan=1 colspan=1>74.20</td><td rowspan=1 colspan=1>+5.9%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>52.00</td><td rowspan=1 colspan=1>49.00</td><td rowspan=1 colspan=1>+6.1%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>重大新药创制专项及技改补贴</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.16</td><td rowspan=1 colspan=1>闲置自有资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>递延收益摊销及增值税加计抵减</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.53</td><td rowspan=1 colspan=1>占归母净利润比例 9.1%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">第一季度</td><td colspan="1" rowspan="1">第二季度</td><td colspan="1" rowspan="1">第三季度</td><td colspan="1" rowspan="1">第四季度</td></tr><tr><td colspan="1" rowspan="1">营业收入(亿元)</td><td colspan="1" rowspan="1">10.50</td><td colspan="1" rowspan="1">11.50</td><td colspan="1" rowspan="1">12.30</td><td colspan="1" rowspan="1">13.30</td></tr><tr><td colspan="1" rowspan="1">归属于上市公司股东的净利润(亿元）</td><td colspan="1" rowspan="1">1.22</td><td colspan="1" rowspan="1">1.38</td><td colspan="1" rowspan="1">1.53</td><td colspan="1" rowspan="1">1.72</td></tr></table>
+
+## 第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年国内化学制剂市场在集采常态化后进入结构性重塑期：过评仿制药加速替代未过评存量品种，头部企业市占率持续提升；改良新剂型凭借临床差异与定价空间成为存量市场的确定性增量。全球层面，中国仿制药出海（ANDA、新兴市场注册）步伐加快。
+
+政策端，国家医保谈判与集采规则趋于精细化，对高质量的仿创结合产品保留合理利润空间；一致性评价与注射剂评价扩围持续推动行业出清，具备'原料药+高端制剂'双重能力的企业竞争优势凸显。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为化学制剂及原料药的研发、生产与销售，核心能力为缓控释与复杂制剂技术平台（渗透泵、膜控、微球)，并实现主力品种原料药自给。
+
+报告期内，公司获得3项改良新药批准(2.2类)，渗透泵平台累计过评产品达3个；泰诺平'复方氨氯地平缬沙坦渗透泵片进入医保目录快速放量；6个品种新中标国家及省级集采。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>改良新剂型制剂</td><td rowspan=1 colspan=1>18.09</td><td rowspan=1 colspan=1>38.0%</td><td rowspan=1 colspan=1>70.0%</td><td rowspan=1 colspan=1>+24.6%</td></tr><tr><td rowspan=1 colspan=1>仿制药（一致性评价）</td><td rowspan=1 colspan=1>20.94</td><td rowspan=1 colspan=1>44.0%</td><td rowspan=1 colspan=1>58.5%</td><td rowspan=1 colspan=1>+9.8%</td></tr><tr><td rowspan=1 colspan=1>原料药及中间体</td><td rowspan=1 colspan=1>8.57</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>34.0%</td><td rowspan=1 colspan=1>+14.2%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>58.4%</td><td rowspan=1 colspan=1>+15.5%</td></tr></table>
+
+改良新剂型制剂收入18.09亿元，同比增长24.6%，渗透泵平台产品集群是核心驱动；仿制药（一致性评价）收入20.94亿元，同比增长9.8%，以量补价策略下过评品种份额继续提升；原料药及中间体收入8.57亿元，同比增长14.2%，降糖类与心血管类原料药对外销售扩大。
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>45.22</td><td rowspan=1 colspan=1>95.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>2.38</td><td rowspan=1 colspan=1>5.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的31.6%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td colspan="1" rowspan="1">成本项目</td><td colspan="1" rowspan="1">2025年</td><td colspan="1" rowspan="1">2024年</td><td colspan="1" rowspan="1">变动说明</td></tr><tr><td colspan="1" rowspan="1">原料药及辅料</td><td colspan="1" rowspan="1">62.5%</td><td colspan="1" rowspan="1">63.8%</td><td colspan="1" rowspan="1">自给原料药比例升至72%</td></tr><tr><td colspan="1" rowspan="1">包材及填充物</td><td colspan="1" rowspan="1">14.2%</td><td colspan="1" rowspan="1">14.6%</td><td colspan="1" rowspan="1">低硼替代中性玻瓶</td></tr><tr><td colspan="1" rowspan="1">人工及制造费用</td><td colspan="1" rowspan="1">23.3%</td><td colspan="1" rowspan="1">21.6%</td><td colspan="1" rowspan="1">智能化车间投产摊薄</td></tr></table>
+
+## 五、期间费用与研发投入
+
+期间费用变动
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>+10.3%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>3.00</td><td rowspan=1 colspan=1>+6.7%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.80</td><td rowspan=1 colspan=1>2.45</td><td rowspan=1 colspan=1>+14.3%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.28</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>+16.7%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计3.10亿元，占营业收入比例6.5%，其中费用化研发费用2.80亿元、资本化研发投入0.30亿元；研发人员1,360人，占员工总数比例20.0%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>7.00</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-3.20</td><td rowspan=1 colspan=1>-2.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.60</td><td rowspan=1 colspan=1>0.90</td></tr></table>
+
+报告期内经营活动现金流量净额8.10亿元，同比增长15.7%，高于当期净利润；投资活动净流出3.20亿元，主要用于缓释微球产业化基地建设；筹资活动净流入0.60亿元。
+
+## 七、资产及负债项目重大变动
+
+## 资产、负债项目重大变动
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>14.60</td><td rowspan=1 colspan=1>13.80</td><td rowspan=1 colspan=1>+5.8%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>26.30</td><td rowspan=1 colspan=1>25.40</td><td rowspan=1 colspan=1>+3.5%</td><td rowspan=1 colspan=1>缓释微球车间建设</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>+6.9%</td><td rowspan=1 colspan=1>集采回款周期稳定</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入54亿元左右，同比增长约13%；改良新剂型板块收入占比提升至42%，缓释微球平台首个产品提交IND；ANDA申报3项，打开规范市场出口。
+
+产能方面，公司微球车间2026年三季度建成投产，形成年产200万支缓释微球注射剂能力，为未来三年新剂型产品落地储备产能
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+集采降价风险：公司仿制药板块收入占比44%，后续批次集采若降价超预期，以量补价逻辑存在上限。
+
+研发投入风险：改良新剂型研发周期长、投入大，若关键品种进度不及预期将影响第二增长曲线。
+
+原料药价格波动风险：部分外购原料药（如特色仿制药中间体）价格波动影响成本端。
+
+环保合规风险：原料药生产环保投入要求持续提高，可能增加运营成本。
+
+质量风险：药品质量安全为行业生命线，任何质量事件都可能对品牌与经营造成重大影响。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.00元（含税)，合计派发现金红利1.78亿元(含税)，占2025年度归属于上市公司股东净利润的30.43%。
+
+公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+## 环境信息主要指标
+
+<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>9.8</td><td rowspan=1 colspan=1>-2.4%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e)</td><td rowspan=1 colspan=1>41,500</td><td rowspan=1 colspan=1>-3.0%</td></tr><tr><td rowspan=1 colspan=1>单位产值水耗（立方米/百万元）</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=1>-5.2%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>520</td><td rowspan=1 colspan=1>+8.0%</td></tr></table>
+
+公司济南原料药基地完成RTO废气焚烧系统升级，报告期内环保罚单为零；持续开展县域基层医师慢病管理培训项目，累计覆盖医师1.2万名。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数6,800人，其中研发人员1,360人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+集采中标情况：报告期内公司6个品种新中标国家组织及省级联盟集采，其中4个为过评后首轮中选。
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司不存在对外担保事项。
+
+关联交易：报告期内公司与关联方发生的日常关联交易合计金额为310万元，程序合规。
+
+承诺履行情况：控股股东、实际控制人及董监高报告期内不存在违反承诺情形。
+
+## 第九节 股份变动及股东情况
+
+股份结构 (万股)
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>64,080.0</td><td rowspan=1 colspan=1>72.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>24,920.0</td><td rowspan=1 colspan=1>28.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>89,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>泰诺控股集团有限公司</td><td rowspan=1 colspan=1>24.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>山东省国有资产投资控股有限公司</td><td rowspan=1 colspan=1>7.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>山东健康产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>5.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>3.90%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——八组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>中国平安人寿保险一自有资金</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>泰诺员工持股计划</td><td rowspan=1 colspan=1>2.05%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>基本养老保险基金一二零四组合</td><td rowspan=1 colspan=1>1.75%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>汇添富上证医药卫生ETF</td><td rowspan=1 colspan=1>1.45%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>招商国证生物医药指数基金</td><td rowspan=1 colspan=1>1.05%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>53.30%</td><td rowspan=1 colspan=1></td></tr></table>
+
+公司控股股东为泰诺控股集团有限公司，实际控制人为邵秉文。控股股东所持股份报告期内不存在质押、冻结情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0165号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目(摘要)
+
+## 资产负债表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>14.60</td><td rowspan=1 colspan=1>13.80</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>8.20</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>26.30</td><td rowspan=1 colspan=1>25.40</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>15.20</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>78.60</td><td rowspan=1 colspan=1>74.20</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>10.60</td></tr><tr><td rowspan=1 colspan=1>借款</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>9.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>5.60</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>26.60</td><td rowspan=1 colspan=1>25.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>52.00</td><td rowspan=1 colspan=1>49.00</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。
+
+## 三、合并利润表主要项目(摘要)
+
+利润表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>41.20</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>19.80</td><td rowspan=1 colspan=1>17.47</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>15.88</td><td rowspan=1 colspan=1>14.39</td></tr><tr><td rowspan=1 colspan=1>研发费用(含于期间费用)</td><td rowspan=1 colspan=1>2.80</td><td rowspan=1 colspan=1>2.45</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>5.85</td><td rowspan=1 colspan=1>5.12</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>5.32</td><td rowspan=1 colspan=1>4.65</td></tr></table>
+
+## 四、合并现金流量表主要项目（摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>7.00</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-3.20</td><td rowspan=1 colspan=1>-2.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.60</td><td rowspan=1 colspan=1>0.90</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+·报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

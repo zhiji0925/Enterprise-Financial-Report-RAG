@@ -1,0 +1,4653 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8544,
+                "bbox": [
+                    127,
+                    20,
+                    843,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.458,
+                "bbox": [
+                    1425,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9689,
+                "bbox": [
+                    387,
+                    395,
+                    1261,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6945,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7626,
+                "bbox": [
+                    458,
+                    670,
+                    1194,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9372,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9295,
+                "bbox": [
+                    549,
+                    1156,
+                    1103,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9409,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9267,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    841,
+                    57
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    400,
+                    1258,
+                    477
+                ],
+                "score": 0.999,
+                "text": "江苏澈微电子股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    467,
+                    676,
+                    1185,
+                    711
+                ],
+                "score": 0.983,
+                "text": "(股票简称：澈微电子股票代码：002876.SZ)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    692,
+                    747,
+                    960,
+                    776
+                ],
+                "score": 0.975,
+                "text": "(深圳证券交易所主板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月10日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    557,
+                    1163,
+                    1096,
+                    1187
+                ],
+                "score": 0.994,
+                "text": "公司统一社会信用代码：91320594MA1WQ7L2XK"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.996,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9426,
+                "bbox": [
+                    127,
+                    19,
+                    842,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.885,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9478,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9755,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9815,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9692,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9729,
+                "bbox": [
+                    140,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9486,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9433,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9742,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.97,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9441,
+                "bbox": [
+                    128,
+                    2232,
+                    589,
+                    2263
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9374,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    19,
+                    841,
+                    56
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司(002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.958,
+                "text": "红利0.80元(含税)，合计派发现金红利0.77亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "25.50%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.983,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    627,
+                    606,
+                    657
+                ],
+                "score": 0.964,
+                "text": "报告（中衡审字[2026]第0578号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.991,
+                "text": "八、公司负责人尹济沧、主管会计工作负责人盛思齐及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.994,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9483,
+                "bbox": [
+                    127,
+                    19,
+                    842,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9074,
+                "bbox": [
+                    1427,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9768,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9291,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9431,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9365,
+                "bbox": [
+                    1339,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    840,
+                    56
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1424,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.953,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.961,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.962,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.995,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9548,
+                "bbox": [
+                    128,
+                    20,
+                    842,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9207,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9594,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.659,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、澈微电子</td><td rowspan=1 colspan=1>指江苏澈微电子股份有限公司</td></tr><tr><td rowspan=1 colspan=1>Bumping</td><td rowspan=1 colspan=1>指凸点加工，在晶圆上制备金属凸点作为芯片与基板的互连结构</td></tr><tr><td rowspan=1 colspan=1>WLP</td><td rowspan=1 colspan=1>指晶圆级封装，在晶圆状态下完成封装工艺的技术</td></tr><tr><td rowspan=1 colspan=1>2.5D封装</td><td rowspan=1 colspan=1>指通过中介层实现多芯片高密度互连的先进封装形态</td></tr><tr><td rowspan=1 colspan=1>3D封装</td><td rowspan=1 colspan=1>指芯片通过堆叠方式实现垂直互连的封装形态</td></tr><tr><td rowspan=1 colspan=1>TSV</td><td rowspan=1 colspan=1>指硅通孔技术，实现芯片内部垂直电气互连</td></tr><tr><td rowspan=1 colspan=1>混合键合</td><td rowspan=1 colspan=1>指芯片间铜-铜直接键合的下一代高密度互连技术</td></tr><tr><td rowspan=1 colspan=1>CP/FT</td><td rowspan=1 colspan=1>指晶圆测试与成品测试</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9646,
+                "bbox": [
+                    143,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    141,
+                    868,
+                    1497,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9859,
+                "bbox": [
+                    140,
+                    1026,
+                    1485,
+                    1163
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    141,
+                    1184,
+                    1507,
+                    1275
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9545,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.964,
+                "bbox": [
+                    142,
+                    1382,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9523,
+                "bbox": [
+                    142,
+                    1466,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7137,
+                "bbox": [
+                    144,
+                    1534,
+                    314,
+                    1570
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>江苏澈微电子股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>澈微电子</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>002876.SZ</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>深圳证券交易所主板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省苏州市工业园区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2017年9月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>半导体封装与测试</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>尹济沧</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>闻笑山</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9467,
+                "bbox": [
+                    127,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9411,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    841,
+                    56
+                ],
+                "score": 0.975,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    795,
+                    463,
+                    847
+                ],
+                "score": 0.988,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    873,
+                    1429,
+                    901
+                ],
+                "score": 1.0,
+                "text": "2025年，AI算力浪潮重塑了封测行业的价值坐标。澈微电子实现营业收入46.20亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    923,
+                    1488,
+                    948
+                ],
+                "score": 1.0,
+                "text": "22.2%；归母净利润3.02亿元，同比增长41.8%。2.5D先进封装产线自二季度起持续满载，成为公司历史"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    971,
+                    479,
+                    996
+                ],
+                "score": 1.0,
+                "text": "上产能利用率最高的一年。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1034,
+                    1473,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "我们把'高密度互连'视为未来十年封装技术的分水岭。报告期内，公司2.5D月产能扩充至4,000片12"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1081,
+                    1472,
+                    1106
+                ],
+                "score": 1.0,
+                "text": "英寸约当，混合键合中试线完成设备联调，为2026年HPC与AI芯片客户的导入做好准备。同时，传统封"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1129,
+                    974,
+                    1154
+                ],
+                "score": 0.987,
+                "text": "装通过精益降本，在消费类需求温和的背景下依然实现了正增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1191,
+                    1497,
+                    1216
+                ],
+                "score": 0.991,
+                "text": "封测是芯片从设计走向产品的'最后一公里'，也是算力物理化的'最后一道工序'。澈微将坚持'先进封装"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1235,
+                    1275,
+                    1267
+                ],
+                "score": 1.0,
+                "text": "立厂、精益运营强厂'，与客户共创中国半导体的封装高度。感谢每一位股东与澈微同仁。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1300,
+                    562,
+                    1334
+                ],
+                "score": 0.999,
+                "text": "董事长：尹济沧2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1388,
+                    685,
+                    1429
+                ],
+                "score": 0.97,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1467,
+                    406,
+                    1510
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1537,
+                    310,
+                    1570
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9413,
+                "bbox": [
+                    128,
+                    19,
+                    842,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9179,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>盛思齐</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>7,600</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9529,
+                "bbox": [
+                    142,
+                    375,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    141,
+                    434,
+                    1488,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    545,
+                    1502,
+                    636
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9539,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8588,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>37.80</td><td rowspan=1 colspan=1>+22.2%</td><td rowspan=1 colspan=1>32.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.13</td><td rowspan=1 colspan=1>+41.8%</td><td rowspan=1 colspan=1>1.68</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>2.68</td><td rowspan=1 colspan=1>1.87</td><td rowspan=1 colspan=1>+43.3%</td><td rowspan=1 colspan=1>1.42</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>+11.5%</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>+41.8%</td><td rowspan=1 colspan=1>0.17</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>5.00</td><td rowspan=1 colspan=1>3.70</td><td rowspan=1 colspan=1>增加1.30个百分点</td><td rowspan=1 colspan=1>3.00</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>118.60</td><td rowspan=1 colspan=1>106.80</td><td rowspan=1 colspan=1>+11.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>62.30</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>+6.3%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.956,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.957,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9295,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    1512,
+                    1520,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.26</td><td rowspan=1 colspan=1>先进封装产线专项补助</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>处置设备残值等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.34</td><td rowspan=1 colspan=1>占归母净利润比例11.3%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.957,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8451,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9861,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>11.10</td><td rowspan=1 colspan=1>11.80</td><td rowspan=1 colspan=1>13.10</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.58</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>0.96</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9455,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9363,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    840,
+                    56
+                ],
+                "score": 0.977,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    409,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    442,
+                    1476,
+                    467
+                ],
+                "score": 1.0,
+                "text": "公司成立于2005年，总部位于苏州工业园区，2017年9月在深圳证券交易所上市，是覆盖凸点加工"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    489,
+                    943,
+                    515
+                ],
+                "score": 0.999,
+                "text": "晶圆级封装、2.5D/3D先进封装及传统封测的全流程封测企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    553,
+                    1494,
+                    579
+                ],
+                "score": 1.0,
+                "text": "公司建有苏州本部与昆山两大基地，12英寸约当月产能合计9.5万片；2.5D先进封装专线于2024年底"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    598,
+                    1394,
+                    628
+                ],
+                "score": 1.0,
+                "text": "建成，2025年完成三次扩产。公司为中芯国际等晶圆代工厂及多家IC设计公司提供配套封装服务。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 1.0,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.98,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9459,
+                "bbox": [
+                    127,
+                    19,
+                    842,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9189,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4992,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9606,
+                "bbox": [
+                    141,
+                    204,
+                    605,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854,
+                "bbox": [
+                    140,
+                    263,
+                    1507,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    139,
+                    421,
+                    1500,
+                    559
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9566,
+                "bbox": [
+                    141,
+                    589,
+                    636,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    140,
+                    649,
+                    1498,
+                    740
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9791,
+                "bbox": [
+                    143,
+                    760,
+                    1505,
+                    852
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9565,
+                "bbox": [
+                    142,
+                    881,
+                    573,
+                    927
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9282,
+                "bbox": [
+                    143,
+                    951,
+                    498,
+                    989
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    998,
+                    1520,
+                    1275
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>凸点加工及晶圆级封装</td><td rowspan=1 colspan=1>21.71</td><td rowspan=1 colspan=1>47.0%</td><td rowspan=1 colspan=1>26.2%</td><td rowspan=1 colspan=1>+26.4%</td></tr><tr><td rowspan=1 colspan=1>2.5D/3D先进封装</td><td rowspan=1 colspan=1>12.94</td><td rowspan=1 colspan=1>28.0%</td><td rowspan=1 colspan=1>21.8%</td><td rowspan=1 colspan=1>+51.2%</td></tr><tr><td rowspan=1 colspan=1>传统封装及测试</td><td rowspan=1 colspan=1>11.55</td><td rowspan=1 colspan=1>25.0%</td><td rowspan=1 colspan=1>17.4%</td><td rowspan=1 colspan=1>+5.2%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>23.5%</td><td rowspan=1 colspan=1>+22.2%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    139,
+                    1283,
+                    1501,
+                    1421
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.919,
+                "bbox": [
+                    143,
+                    1447,
+                    433,
+                    1483
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    1493,
+                    1520,
+                    1715
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>36.96</td><td rowspan=1 colspan=1>80.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>9.24</td><td rowspan=1 colspan=1>20.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9479,
+                "bbox": [
+                    142,
+                    1728,
+                    727,
+                    1764
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9553,
+                "bbox": [
+                    143,
+                    1791,
+                    412,
+                    1834
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9347,
+                "bbox": [
+                    144,
+                    1859,
+                    535,
+                    1896
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9869,
+                "bbox": [
+                    132,
+                    1905,
+                    1521,
+                    2133
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>直接材料</td><td rowspan=1 colspan=1>42.8%</td><td rowspan=1 colspan=1>44.1%</td><td rowspan=1 colspan=1>国产基板导入降低采购成本</td></tr><tr><td rowspan=1 colspan=1>直接人工</td><td rowspan=1 colspan=1>17.6%</td><td rowspan=1 colspan=1>17.2%</td><td rowspan=1 colspan=1>产线自动化率提升</td></tr><tr><td rowspan=1 colspan=1>折旧摊销</td><td rowspan=1 colspan=1>26.5%</td><td rowspan=1 colspan=1>24.8%</td><td rowspan=1 colspan=1>2.5D产线转固</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9458,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9376,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    840,
+                    56
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    209,
+                    597,
+                    246
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    271,
+                    1499,
+                    296
+                ],
+                "score": 1.0,
+                "text": "2025年，先进封装成为全球半导体产业景气度最高的环节之一。市场研究机构数据显示，全球先进封"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    319,
+                    1484,
+                    344
+                ],
+                "score": 1.0,
+                "text": "装市场规模约540亿美元，同比增长约19%；AI加速器对2.5D/3D封装需求爆发，头部封测产能持续紧张"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    365,
+                    596,
+                    390
+                ],
+                "score": 1.0,
+                "text": "，行业资本开支向高密度互连倾斜。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    429,
+                    1489,
+                    454
+                ],
+                "score": 1.0,
+                "text": "国内方面，封测环节是中国半导体产业链国产化率最高的环节，但在混合键合、大尺寸中介层等前沿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    477,
+                    1488,
+                    502
+                ],
+                "score": 0.997,
+                "text": "方向仍处于追赶期。随着国产AI芯片设计公司进入高端算力市场，具备2.5D/3D量产能力的本土封测厂商"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    523,
+                    363,
+                    552
+                ],
+                "score": 1.0,
+                "text": "迎来结构性机会。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    627,
+                    629
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    656,
+                    1486,
+                    681
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为半导体封装与测试服务，产品形态覆盖凸点加工、晶圆级封装、2.5D/3D先进封装及"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    702,
+                    1225,
+                    732
+                ],
+                "score": 1.0,
+                "text": "传统框架封装。公司是国内少数同时具备Bumping与2.5D量产能力的独立封测企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    766,
+                    1497,
+                    796
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司2.5D封装服务于国产高性能计算与AI芯片客户，形成专线专用、长协锁定的合作模式"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    815,
+                    943,
+                    840
+                ],
+                "score": 0.999,
+                "text": "；传统封测聚焦功率、安防与消费类芯片，产能利用率82.4%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    886,
+                    566,
+                    924
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    955,
+                    492,
+                    985
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1287,
+                    1473,
+                    1316
+                ],
+                "score": 1.0,
+                "text": "凸点加工及晶圆级封装收入21.71亿元，同比增长26.4%，随AI芯片客户放量保持高稼动；2.5D/3D"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1334,
+                    1492,
+                    1362
+                ],
+                "score": 1.0,
+                "text": "先进封装收入12.94亿元，同比增长51.2%，是公司投入产出比最高的成长线；传统封装及测试收入11.55"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1385,
+                    681,
+                    1410
+                ],
+                "score": 0.999,
+                "text": "亿元，在消费需求温和复苏下保持正增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1449,
+                    427,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1735,
+                    722,
+                    1757
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的52.4%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1794,
+                    408,
+                    1835
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1866,
+                    528,
+                    1891
+                ],
+                "score": 0.953,
+                "text": "营业成本构成（占营业成本比例)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.98,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.957,
+                "bbox": [
+                    128,
+                    20,
+                    842,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9291,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9815,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    234
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>能源及其他</td><td rowspan=1 colspan=1>13.1%</td><td rowspan=1 colspan=1>13.9%</td><td rowspan=1 colspan=1>节能改造摊薄</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9631,
+                "bbox": [
+                    143,
+                    263,
+                    506,
+                    306
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4525,
+                "bbox": [
+                    143,
+                    333,
+                    313,
+                    368
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    133,
+                    378,
+                    1521,
+                    655
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.28</td><td rowspan=1 colspan=1>1.15</td><td rowspan=1 colspan=1>+11.3%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.52</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>+8.6%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>2.75</td><td rowspan=1 colspan=1>+12.7%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.42</td><td rowspan=1 colspan=1>0.48</td><td rowspan=1 colspan=1>-12.5%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8202,
+                "bbox": [
+                    140,
+                    663,
+                    1488,
+                    753
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    142,
+                    785,
+                    413,
+                    828
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8753,
+                "bbox": [
+                    143,
+                    854,
+                    365,
+                    890
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    133,
+                    901,
+                    1520,
+                    1121
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-10.60</td><td rowspan=1 colspan=1>-9.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>1.00</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9646,
+                "bbox": [
+                    140,
+                    1129,
+                    1494,
+                    1265
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.96,
+                "bbox": [
+                    143,
+                    1298,
+                    571,
+                    1341
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8559,
+                "bbox": [
+                    142,
+                    1366,
+                    446,
+                    1403
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    132,
+                    1412,
+                    1519,
+                    1752
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>+22.4%</td><td rowspan=1 colspan=1>经营积累及定增资金到位</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>13.40</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>+19.6%</td><td rowspan=1 colspan=1>Q4先进封装收入放量</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>+14.0%</td><td rowspan=1 colspan=1>原材料战略备货</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>61.20</td><td rowspan=1 colspan=1>52.40</td><td rowspan=1 colspan=1>+16.8%</td><td rowspan=1 colspan=1>2.5D扩产设备转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>7.10</td><td rowspan=1 colspan=1>-40.8%</td><td rowspan=1 colspan=1>混合键合中试线建设</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    142,
+                    1783,
+                    510,
+                    1826
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    140,
+                    1841,
+                    1487,
+                    1931
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9796,
+                "bbox": [
+                    141,
+                    1952,
+                    1470,
+                    2041
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.955,
+                "bbox": [
+                    142,
+                    2076,
+                    349,
+                    2118
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    141,
+                    2132,
+                    1073,
+                    2173
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9477,
+                "bbox": [
+                    127,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9393,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    841,
+                    56
+                ],
+                "score": 0.975,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1423,
+                    20,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    269,
+                    499,
+                    302
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    307,
+                    365
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    666,
+                    1481,
+                    696
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计3.25亿元，占营业收入比例7.0%，其中费用化研发费用3.10亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    715,
+                    1107,
+                    744
+                ],
+                "score": 0.999,
+                "text": "元、资本化研发投入0.15亿元；研发人员1,150人，占员工总数比例15.1%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    788,
+                    407,
+                    829
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    860,
+                    360,
+                    886
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1135,
+                    1474,
+                    1160
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额8.70亿元，同比增长11.5%；投资活动现金净流出10.60亿元，主要"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1182,
+                    1485,
+                    1207
+                ],
+                "score": 1.0,
+                "text": "为先进封装产能扩张；筹资活动净流入3.80亿元，来自2025年8月向特定对象发行的股票募集资金净额及"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1225,
+                    281,
+                    1260
+                ],
+                "score": 0.999,
+                "text": "银行借款。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1297,
+                    566,
+                    1342
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1372,
+                    440,
+                    1401
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1787,
+                    501,
+                    1822
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1846,
+                    1480,
+                    1876
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入55亿元左右，先进封装收入占比提升至45%以上。公司计划上半年完成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1896,
+                    1294,
+                    1922
+                ],
+                "score": 1.0,
+                "text": "混合键合中试线验证并导入首批客户认证，同时将2.5D月产能扩充至6,000片12英寸约当。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1955,
+                    1463,
+                    1988
+                ],
+                "score": 0.999,
+                "text": "公司已启动'封装智能化'三年计划，目标将主力产线自动化率提升至92%以上，人均产值提升25%，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2005,
+                    567,
+                    2035
+                ],
+                "score": 1.0,
+                "text": "以对冲封测行业的人工成本上行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2075,
+                    345,
+                    2120
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2139,
+                    1063,
+                    2166
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.996,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9576,
+                "bbox": [
+                    127,
+                    20,
+                    843,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.916,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    198,
+                    122,
+                    1447,
+                    162
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    141,
+                    186,
+                    1498,
+                    274
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9617,
+                "bbox": [
+                    198,
+                    297,
+                    1363,
+                    338
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9587,
+                "bbox": [
+                    198,
+                    360,
+                    1508,
+                    402
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9537,
+                "bbox": [
+                    199,
+                    424,
+                    1277,
+                    466
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9643,
+                "bbox": [
+                    142,
+                    511,
+                    468,
+                    560
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807,
+                "bbox": [
+                    140,
+                    582,
+                    1491,
+                    672
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    140,
+                    693,
+                    1484,
+                    829
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    140,
+                    852,
+                    1510,
+                    989
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9605,
+                "bbox": [
+                    142,
+                    1035,
+                    431,
+                    1083
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    140,
+                    1105,
+                    1503,
+                    1289
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    140,
+                    1310,
+                    1498,
+                    1400
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9759,
+                "bbox": [
+                    141,
+                    1421,
+                    1500,
+                    1511
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9648,
+                "bbox": [
+                    141,
+                    1556,
+                    805,
+                    1606
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9531,
+                "bbox": [
+                    141,
+                    1639,
+                    412,
+                    1682
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9183,
+                "bbox": [
+                    142,
+                    1708,
+                    368,
+                    1745
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    1754,
+                    1520,
+                    2031
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤)</td><td rowspan=1 colspan=1>6.82</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>25.10</td><td rowspan=1 colspan=1>+8.4%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗(万立方米）</td><td rowspan=1 colspan=1>312.5</td><td rowspan=1 colspan=1>+4.1%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元)</td><td rowspan=1 colspan=1>5,860</td><td rowspan=1 colspan=1>+22.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9215,
+                "bbox": [
+                    140,
+                    2040,
+                    1499,
+                    2128
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9472,
+                "bbox": [
+                    127,
+                    2232,
+                    589,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9387,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    841,
+                    57
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    124,
+                    1441,
+                    160
+                ],
+                "score": 0.999,
+                "text": "客户集中风险：公司前五名客户收入占比52.4%，AI类客户订单若不及预期将显著影响产能利用。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    193,
+                    1489,
+                    218
+                ],
+                "score": 1.0,
+                "text": "技术迭代风险：若混合键合等前沿技术研发或客户认证进度不及预期，公司在高端封装的先发优势可"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    236,
+                    279,
+                    271
+                ],
+                "score": 1.0,
+                "text": "能被削弱。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    303,
+                    1354,
+                    332
+                ],
+                "score": 1.0,
+                "text": "折旧压力风险：先进封装产线资本开支大、折旧周期长，若需求波动将对利润率形成挤压。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    366,
+                    1501,
+                    396
+                ],
+                "score": 1.0,
+                "text": "行业周期风险：封测行业具有较强周期属性，若全球半导体进入去库存阶段，公司产能利用率将承压。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    432,
+                    1266,
+                    458
+                ],
+                "score": 0.987,
+                "text": "贸易环境风险：部分高端设备与材料的出口管制变化可能影响公司扩产计划与成本。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    502,
+                    464,
+                    561
+                ],
+                "score": 0.987,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    587,
+                    1485,
+                    618
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    639,
+                    1147,
+                    664
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    698,
+                    1477,
+                    729
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    749,
+                    1411,
+                    774
+                ],
+                "score": 0.965,
+                "text": "0.80元（含税)，合计派发现金红利0.77亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    792,
+                    266,
+                    827
+                ],
+                "score": 0.996,
+                "text": "25.50%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    860,
+                    1500,
+                    885
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    907,
+                    1499,
+                    932
+                ],
+                "score": 0.992,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    955,
+                    617,
+                    980
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1030,
+                    426,
+                    1085
+                ],
+                "score": 0.971,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1111,
+                    1489,
+                    1136
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1160,
+                    1497,
+                    1185
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1207,
+                    1491,
+                    1233
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1253,
+                    465,
+                    1278
+                ],
+                "score": 0.991,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1318,
+                    1489,
+                    1343
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1365,
+                    1223,
+                    1391
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1429,
+                    1491,
+                    1454
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1473,
+                    333,
+                    1503
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1560,
+                    796,
+                    1602
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1642,
+                    406,
+                    1683
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1714,
+                    361,
+                    1739
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    2043,
+                    1491,
+                    2072
+                ],
+                "score": 1.0,
+                "text": "封测属于高耗能环节，公司持续推进节能技改：报告期内完成两个厂区冰机系统变频改造与纯水回收"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    2093,
+                    1368,
+                    2118
+                ],
+                "score": 0.994,
+                "text": "系统升级，单位收入能耗同比下降4.2%；自建光伏装机累计6.8MW，年发电量约720万千瓦时。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.996,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9509,
+                "bbox": [
+                    127,
+                    19,
+                    842,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9164,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9517,
+                "bbox": [
+                    143,
+                    120,
+                    350,
+                    165
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    140,
+                    180,
+                    1503,
+                    270
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9579,
+                "bbox": [
+                    142,
+                    302,
+                    478,
+                    346
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807,
+                "bbox": [
+                    140,
+                    360,
+                    1498,
+                    450
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9628,
+                "bbox": [
+                    142,
+                    496,
+                    431,
+                    544
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9597,
+                "bbox": [
+                    199,
+                    567,
+                    1041,
+                    607
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9611,
+                "bbox": [
+                    198,
+                    630,
+                    809,
+                    670
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9797,
+                "bbox": [
+                    140,
+                    693,
+                    1492,
+                    784
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9589,
+                "bbox": [
+                    198,
+                    805,
+                    1403,
+                    846
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9767,
+                "bbox": [
+                    141,
+                    870,
+                    1498,
+                    958
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    142,
+                    1003,
+                    617,
+                    1053
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4879,
+                "bbox": [
+                    144,
+                    1080,
+                    350,
+                    1117
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    133,
+                    1125,
+                    1520,
+                    1350
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>93,120.0</td><td rowspan=1 colspan=1>97.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,880.0</td><td rowspan=1 colspan=1>3.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>96,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9432,
+                "bbox": [
+                    143,
+                    1382,
+                    444,
+                    1425
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6938,
+                "bbox": [
+                    143,
+                    1450,
+                    550,
+                    1487
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    131,
+                    1496,
+                    1522,
+                    2178
+                ],
+                "index": 18,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>澈微控股（苏州）有限公司</td><td rowspan=1 colspan=1>22.35%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>苏州工业园区产业发展基金</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>华澄微产业投资(有限合伙)</td><td rowspan=1 colspan=1>3.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金一零六组合</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金一二零一组合</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>中证A500交易型开放式指数基金</td><td rowspan=1 colspan=1>1.55%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>太平洋人寿保险- 分红险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>苏州澈越投资合伙企业（员工持股平台）</td><td rowspan=1 colspan=1>1.25%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>50.45%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9442,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9404,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    840,
+                    56
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    120,
+                    347,
+                    168
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    188,
+                    1495,
+                    213
+                ],
+                "score": 0.998,
+                "text": "截至报告期末，公司员工总数7,600人，其中研发人员1,150人。报告期内公司持续完善职业发展通道与培"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    235,
+                    1469,
+                    261
+                ],
+                "score": 1.0,
+                "text": "训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    307,
+                    470,
+                    345
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    368,
+                    1489,
+                    393
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    415,
+                    1029,
+                    441
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    493,
+                    426,
+                    544
+                ],
+                "score": 0.98,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    574,
+                    1032,
+                    600
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    636,
+                    801,
+                    666
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    700,
+                    1486,
+                    730
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内，公司向实际控制人控制之外的参股企业采购设备合计560万元，程序合规、定"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    744,
+                    252,
+                    782
+                ],
+                "score": 1.0,
+                "text": "价公允。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    812,
+                    1393,
+                    842
+                ],
+                "score": 1.0,
+                "text": "承诺履行情况：2025年向特定对象发行股票相关各方所做承诺均在履行中，无违反承诺情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    876,
+                    1490,
+                    905
+                ],
+                "score": 1.0,
+                "text": "重大投资：报告期内公司以募集资金及自有资金合计投入先进封装扩产项目9.80亿元，项目进度符合"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    918,
+                    225,
+                    958
+                ],
+                "score": 1.0,
+                "text": "计划。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1003,
+                    611,
+                    1050
+                ],
+                "score": 0.979,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1084,
+                    346,
+                    1117
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1383,
+                    438,
+                    1424
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1455,
+                    545,
+                    1485
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.996,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9527,
+                "bbox": [
+                    127,
+                    19,
+                    842,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9206,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9762,
+                "bbox": [
+                    140,
+                    121,
+                    1465,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9597,
+                "bbox": [
+                    142,
+                    256,
+                    430,
+                    305
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9438,
+                "bbox": [
+                    141,
+                    339,
+                    349,
+                    382
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847,
+                "bbox": [
+                    139,
+                    396,
+                    1509,
+                    581
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9544,
+                "bbox": [
+                    141,
+                    612,
+                    681,
+                    659
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5843,
+                "bbox": [
+                    144,
+                    683,
+                    391,
+                    719
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    131,
+                    726,
+                    1521,
+                    1348
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>13.40</td><td rowspan=1 colspan=1>11.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.60</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>61.20</td><td rowspan=1 colspan=1>52.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>118.60</td><td rowspan=1 colspan=1>106.80</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>12.80</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>38.00</td><td rowspan=1 colspan=1>34.00</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>56.30</td><td rowspan=1 colspan=1>48.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>62.30</td><td rowspan=1 colspan=1>58.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9326,
+                "bbox": [
+                    140,
+                    1361,
+                    1204,
+                    1396
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561,
+                "bbox": [
+                    142,
+                    1423,
+                    616,
+                    1467
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7204,
+                "bbox": [
+                    143,
+                    1492,
+                    338,
+                    1528
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9894,
+                "bbox": [
+                    132,
+                    1537,
+                    1521,
+                    1933
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>37.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>35.34</td><td rowspan=1 colspan=1>29.33</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.32</td><td rowspan=1 colspan=1>5.78</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>2.75</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.13</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>2.68</td><td rowspan=1 colspan=1>1.87</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9602,
+                "bbox": [
+                    143,
+                    1964,
+                    680,
+                    2007
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5184,
+                "bbox": [
+                    142,
+                    2034,
+                    391,
+                    2069
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9425,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9392,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    840,
+                    56
+                ],
+                "score": 0.973,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    19,
+                    1528,
+                    59
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    129,
+                    1456,
+                    154
+                ],
+                "score": 0.983,
+                "text": "公司控股股东为澈微控股(苏州）有限公司，实际控制人为尹济沧家族，合计控制公司25.85%的股份。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    175,
+                    798,
+                    200
+                ],
+                "score": 0.997,
+                "text": "报告期内控股股东所持股份不存在质押、冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    248,
+                    426,
+                    307
+                ],
+                "score": 0.961,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    339,
+                    344,
+                    385
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    404,
+                    1496,
+                    429
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    451,
+                    1499,
+                    477
+                ],
+                "score": 0.986,
+                "text": "意见（中衡审字[2026]第0578号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    499,
+                    1490,
+                    524
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    543,
+                    277,
+                    575
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    618,
+                    672,
+                    655
+                ],
+                "score": 0.95,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    688,
+                    386,
+                    717
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1369,
+                    1195,
+                    1388
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1428,
+                    608,
+                    1463
+                ],
+                "score": 0.943,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1498,
+                    333,
+                    1524
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1969,
+                    672,
+                    2003
+                ],
+                "score": 0.948,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2039,
+                    384,
+                    2064
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9387,
+                "bbox": [
+                    128,
+                    20,
+                    842,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9156,
+                "bbox": [
+                    1426,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9853,
+                "bbox": [
+                    133,
+                    120,
+                    1520,
+                    340
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-10.60</td><td rowspan=1 colspan=1>-9.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>1.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.919,
+                "bbox": [
+                    142,
+                    349,
+                    1497,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9621,
+                "bbox": [
+                    144,
+                    484,
+                    382,
+                    531
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.964,
+                "bbox": [
+                    144,
+                    554,
+                    1265,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9639,
+                "bbox": [
+                    144,
+                    618,
+                    1129,
+                    658
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9642,
+                "bbox": [
+                    144,
+                    682,
+                    886,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.96,
+                "bbox": [
+                    144,
+                    746,
+                    721,
+                    785
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9567,
+                "bbox": [
+                    156,
+                    831,
+                    827,
+                    866
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9466,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2263
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9437,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    841,
+                    56
+                ],
+                "score": 0.975,
+                "text": "江苏澈微电子股份有限公司（002876.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "深市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 0.999,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    397,
+                    307,
+                    433
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    474,
+                    381,
+                    535
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    558,
+                    1260,
+                    592
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    625,
+                    1121,
+                    651
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    689,
+                    878,
+                    715
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    750,
+                    715,
+                    783
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    836,
+                    818,
+                    861
+                ],
+                "score": 0.993,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "江苏澈微电子股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

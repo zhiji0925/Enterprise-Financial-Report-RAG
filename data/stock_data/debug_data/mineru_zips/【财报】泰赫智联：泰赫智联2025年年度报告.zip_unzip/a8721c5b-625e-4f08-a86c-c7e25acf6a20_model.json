@@ -1,0 +1,4642 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8492,
+                "bbox": [
+                    127,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.4902,
+                "bbox": [
+                    1425,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9684,
+                "bbox": [
+                    387,
+                    395,
+                    1261,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.581,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7919,
+                "bbox": [
+                    455,
+                    670,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9361,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9282,
+                "bbox": [
+                    550,
+                    1157,
+                    1102,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9408,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9268,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    847,
+                    56
+                ],
+                "score": 0.985,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    393,
+                    399,
+                    1257,
+                    477
+                ],
+                "score": 1.0,
+                "text": "宁波泰赫智联股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    467,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.984,
+                "text": "(股票简称：泰赫智联股票代码：603218.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    692,
+                    747,
+                    960,
+                    776
+                ],
+                "score": 0.982,
+                "text": "(上海证券交易所主板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年3月25日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    557,
+                    1162,
+                    1095,
+                    1187
+                ],
+                "score": 0.996,
+                "text": "公司统一社会信用代码：91330201MA2H6XW9KF"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.996,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9402,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8668,
+                "bbox": [
+                    1425,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9472,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9746,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807,
+                "bbox": [
+                    141,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9667,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722,
+                "bbox": [
+                    140,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9716,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9468,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9411,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9739,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9694,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9425,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9365,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    313,
+                    1475,
+                    338
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    357,
+                    1472,
+                    388
+                ],
+                "score": 0.961,
+                "text": "红利1.60元（含税)，合计派发现金红利1.15亿元（含税），占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    405,
+                    884,
+                    435
+                ],
+                "score": 1.0,
+                "text": "33.63%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.98,
+                "text": "四、公司2025年度财务报告已经中允会计师事务所(特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    627,
+                    606,
+                    657
+                ],
+                "score": 0.958,
+                "text": "报告(中允审字[2026]第0526号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 0.995,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.991,
+                "text": "八、公司负责人霍纪臣、主管会计工作负责人贾亦弛及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.995,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9481,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9007,
+                "bbox": [
+                    1426,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9768,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.929,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9428,
+                "bbox": [
+                    129,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9369,
+                "bbox": [
+                    1339,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.988,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.955,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.961,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.965,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9544,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9171,
+                "bbox": [
+                    1426,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9593,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5598,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    131,
+                    244,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、泰赫智联</td><td rowspan=1 colspan=1>指宁波泰赫智联股份有限公司</td></tr><tr><td rowspan=1 colspan=1>域控制器</td><td rowspan=1 colspan=1>指集成多ECU功能、按域集中控制的汽车电子计算单元</td></tr><tr><td rowspan=1 colspan=1>L2+级辅助驾驶</td><td rowspan=1 colspan=1>指具备组合驾驶辅助功能、需驾驶员监管的辅助驾驶等级</td></tr><tr><td rowspan=1 colspan=1>行泊一体</td><td rowspan=1 colspan=1>指行车辅助与泊车辅助功能集成于单一域控制器的方案</td></tr><tr><td rowspan=1 colspan=1>高速连接器</td><td rowspan=1 colspan=1>指支持车载高速数据传输的连接器产品</td></tr><tr><td rowspan=1 colspan=1>Fakra/Mini-Fakra</td><td rowspan=1 colspan=1>指车载射频连接器接口标准</td></tr><tr><td rowspan=1 colspan=1>ASPICE</td><td rowspan=1 colspan=1>指汽车软件开发过程能力成熟度评估标准</td></tr><tr><td rowspan=1 colspan=1>国产化替代</td><td rowspan=1 colspan=1>指整车厂以国产零部件替代进口方案的采购行为</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.964,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    140,
+                    868,
+                    1497,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    140,
+                    1026,
+                    1508,
+                    1163
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    141,
+                    1184,
+                    1488,
+                    1275
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9526,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9643,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9528,
+                "bbox": [
+                    142,
+                    1467,
+                    411,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4706,
+                "bbox": [
+                    145,
+                    1534,
+                    313,
+                    1569
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>宁波泰赫智联股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>泰赫智联</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>603218.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所主板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>浙江省宁波市鄞州区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2019年5月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>汽车电子零部件</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>霍纪臣</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>程予安</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9464,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9396,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    59
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.975,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    874,
+                    1488,
+                    899
+                ],
+                "score": 0.992,
+                "text": "2025年，中国智能汽车产业链完成了从'单点功能'到'集中计算'的切换。泰赫智联实现营业收入38.90"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    923,
+                    1476,
+                    948
+                ],
+                "score": 1.0,
+                "text": "亿元，同比增长23.5%；归母净利润3.42亿元，同比增长36.8%；智能驾驶域控制器出货量突破120万套"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    971,
+                    743,
+                    996
+                ],
+                "score": 1.0,
+                "text": "，行泊一体方案在新势力头部客户渗透率过半。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1034,
+                    1500,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "这一年，公司完成了第五代域控制器平台的量产爬坡，单套算力提升至120TOPS的同时成本较上一代"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1081,
+                    1495,
+                    1106
+                ],
+                "score": 1.0,
+                "text": "下降22%；国产化方面，域控核心物料国产采购比例从46%提升至61%，帮助客户在供应链安全与成本之"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1126,
+                    333,
+                    1155
+                ],
+                "score": 1.0,
+                "text": "间找到新平衡。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1191,
+                    1476,
+                    1216
+                ],
+                "score": 0.99,
+                "text": "汽车电子的下半场是'中央计算+区域控制'。2026年，公司将发布跨域融合计算平台样品，并推进高"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1238,
+                    1324,
+                    1264
+                ],
+                "score": 1.0,
+                "text": "带宽连接器在车载网络升级中的标准化卡位。感谢客户与股东在汽车产业变革期给予的信任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1297,
+                    562,
+                    1334
+                ],
+                "score": 0.973,
+                "text": "董事长：霍纪臣 2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.969,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1463,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1538,
+                    310,
+                    1570
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9363,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9127,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>贾亦弛</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中允会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>9,800</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.953,
+                "bbox": [
+                    142,
+                    374,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    141,
+                    434,
+                    1507,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    143,
+                    545,
+                    1421,
+                    636
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9544,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8436,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>38.90</td><td rowspan=1 colspan=1>31.50</td><td rowspan=1 colspan=1>+23.5%</td><td rowspan=1 colspan=1>26.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>2.50</td><td rowspan=1 colspan=1>+36.8%</td><td rowspan=1 colspan=1>2.16</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>3.05</td><td rowspan=1 colspan=1>2.22</td><td rowspan=1 colspan=1>+37.4%</td><td rowspan=1 colspan=1>1.92</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>+26.1%</td><td rowspan=1 colspan=1>3.90</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.47</td><td rowspan=1 colspan=1>0.35</td><td rowspan=1 colspan=1>+36.8%</td><td rowspan=1 colspan=1>0.30</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>6.10</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>增加1.30个百分点</td><td rowspan=1 colspan=1>4.40</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>102.30</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>+10.5%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>54.20</td><td rowspan=1 colspan=1>+8.1%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.956,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9572,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9293,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    1512,
+                    1521,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>智能制造与技改专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>保险理赔及处置收益</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.37</td><td rowspan=1 colspan=1>占归母净利润比例10.8%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9569,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9611,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8346,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9861,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>8.50</td><td rowspan=1 colspan=1>9.40</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>10.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>0.82</td><td rowspan=1 colspan=1>0.91</td><td rowspan=1 colspan=1>0.97</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9456,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9365,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.988,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    408,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    442,
+                    1497,
+                    467
+                ],
+                "score": 1.0,
+                "text": "公司成立于2011年，总部位于浙江宁波，2019年5月在上海证券交易所主板上市，是智能驾驶域控制"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    489,
+                    1236,
+                    515
+                ],
+                "score": 1.0,
+                "text": "器与车载高速连接器的核心供应商，客户覆盖国内主要自主品牌、新势力与合资车企。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    553,
+                    1412,
+                    579
+                ],
+                "score": 0.986,
+                "text": "公司建有宁波、芜湖两大制造基地，域控制器年产能160万套；通过ASPICECL2级认证与IATR"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    1325,
+                    628
+                ],
+                "score": 1.0,
+                "text": "16949体系认证，设立智能汽车电子研究院，聚焦域控平台、车载网络与传感融合三大方向。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 1.0,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.945,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9125,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5545,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9608,
+                "bbox": [
+                    141,
+                    204,
+                    605,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    139,
+                    263,
+                    1500,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    139,
+                    421,
+                    1507,
+                    559
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    141,
+                    589,
+                    636,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    141,
+                    649,
+                    1507,
+                    741
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783,
+                "bbox": [
+                    141,
+                    760,
+                    1506,
+                    850
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9551,
+                "bbox": [
+                    142,
+                    881,
+                    573,
+                    927
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9052,
+                "bbox": [
+                    143,
+                    951,
+                    498,
+                    988
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    998,
+                    1520,
+                    1275
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>智能驾驶域控制器</td><td rowspan=1 colspan=1>21.78</td><td rowspan=1 colspan=1>56.0%</td><td rowspan=1 colspan=1>29.6%</td><td rowspan=1 colspan=1>+31.4%</td></tr><tr><td rowspan=1 colspan=1>高速连接器及线束</td><td rowspan=1 colspan=1>12.45</td><td rowspan=1 colspan=1>32.0%</td><td rowspan=1 colspan=1>26.4%</td><td rowspan=1 colspan=1>+15.8%</td></tr><tr><td rowspan=1 colspan=1>车载电源及传感器</td><td rowspan=1 colspan=1>4.67</td><td rowspan=1 colspan=1>12.0%</td><td rowspan=1 colspan=1>22.1%</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>38.90</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>27.9%</td><td rowspan=1 colspan=1>+23.5%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    139,
+                    1283,
+                    1486,
+                    1421
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9035,
+                "bbox": [
+                    143,
+                    1447,
+                    433,
+                    1483
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876,
+                "bbox": [
+                    132,
+                    1494,
+                    1520,
+                    1715
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>37.68</td><td rowspan=1 colspan=1>96.9%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>1.22</td><td rowspan=1 colspan=1>3.1%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>38.90</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9474,
+                "bbox": [
+                    142,
+                    1728,
+                    727,
+                    1764
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9559,
+                "bbox": [
+                    143,
+                    1791,
+                    412,
+                    1833
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9327,
+                "bbox": [
+                    145,
+                    1859,
+                    535,
+                    1895
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9867,
+                "bbox": [
+                    132,
+                    1905,
+                    1520,
+                    2133
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>芯片及电子元器件</td><td rowspan=1 colspan=1>58.4%</td><td rowspan=1 colspan=1>60.2%</td><td rowspan=1 colspan=1>国产化替代与集中采购降本</td></tr><tr><td rowspan=1 colspan=1>结构件及线材</td><td rowspan=1 colspan=1>16.8%</td><td rowspan=1 colspan=1>15.9%</td><td rowspan=1 colspan=1>轻量化材料导入</td></tr><tr><td rowspan=1 colspan=1>直接人工</td><td rowspan=1 colspan=1>9.2%</td><td rowspan=1 colspan=1>9.0%</td><td rowspan=1 colspan=1>自动化改造</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9455,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9391,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.988,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    209,
+                    597,
+                    246
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    271,
+                    1491,
+                    296
+                ],
+                "score": 0.999,
+                "text": "2025年，中国新能源汽车销量约1,600万辆，L2及以上辅助驾驶新车渗透率超过62%。域控制器随智"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    316,
+                    1488,
+                    345
+                ],
+                "score": 1.0,
+                "text": "驾平权从高端车型下探至10-15万元价格带，市场规模同比增长约45%；车载高速连接器随舱内外数据量"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    363,
+                    336,
+                    393
+                ],
+                "score": 1.0,
+                "text": "增长持续扩容。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    429,
+                    1496,
+                    454
+                ],
+                "score": 0.996,
+                "text": "行业格局方面，智驾芯片供应趋于多元，域控制器竞争从'芯片集成能力'转向'软件工程化+成本控制+"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    477,
+                    1497,
+                    502
+                ],
+                "score": 0.997,
+                "text": "交付确定性'的综合能力；国产供应商凭借快速响应与本地化研发配套，在自主品牌与新势力中的份额持续"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    518,
+                    224,
+                    557
+                ],
+                "score": 1.0,
+                "text": "提升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    627,
+                    629
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    654,
+                    1499,
+                    680
+                ],
+                "score": 0.999,
+                "text": "公司主营业务为智能驾驶域控制器、车载高速连接器及线束、车载电源与传感器的研发、制造与销售。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    704,
+                    1441,
+                    729
+                ],
+                "score": 1.0,
+                "text": "域控制器产品覆盖行泊一体、舱驾一体方向，高速连接器应用于车载网络、智驾摄像链路与显示系统。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    768,
+                    1495,
+                    793
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司域控制器获得3个新平台定点、连接器新增2条标准化产线，前视摄像链路组件在两家"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    814,
+                    450,
+                    844
+                ],
+                "score": 1.0,
+                "text": "主机厂实现平台化装机。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    886,
+                    566,
+                    924
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    954,
+                    492,
+                    986
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1287,
+                    1477,
+                    1316
+                ],
+                "score": 1.0,
+                "text": "智能驾驶域控制器收入21.78亿元，同比增长31.4%，是公司最大的增长来源；高速连接器及线束收"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1337,
+                    1476,
+                    1362
+                ],
+                "score": 1.0,
+                "text": "入12.45亿元，同比增长15.8%，随整车数据架构升级稳步放量；车载电源及传感器收入4.67亿元，同比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1382,
+                    431,
+                    1411
+                ],
+                "score": 1.0,
+                "text": "增长9.6%，保持稳健。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1449,
+                    427,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1735,
+                    722,
+                    1757
+                ],
+                "score": 0.997,
+                "text": "注：前五名客户合计销售金额占年度销售总额的61.8%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1793,
+                    406,
+                    1834
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1865,
+                    527,
+                    1891
+                ],
+                "score": 0.965,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9549,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9248,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9818,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    234
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>折旧及其他制造费用</td><td rowspan=1 colspan=1>15.6%</td><td rowspan=1 colspan=1>14.9%</td><td rowspan=1 colspan=1>新产线转固</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.963,
+                "bbox": [
+                    143,
+                    263,
+                    506,
+                    306
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5259,
+                "bbox": [
+                    144,
+                    332,
+                    313,
+                    368
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    133,
+                    378,
+                    1521,
+                    655
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.28</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>+16.4%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.62</td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>+14.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.15</td><td rowspan=1 colspan=1>+20.6%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>-33.3%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7718,
+                "bbox": [
+                    140,
+                    663,
+                    1488,
+                    753
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9597,
+                "bbox": [
+                    142,
+                    785,
+                    413,
+                    829
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8109,
+                "bbox": [
+                    143,
+                    854,
+                    365,
+                    890
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    133,
+                    901,
+                    1520,
+                    1121
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元)</td></tr><tr><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-5.20</td><td rowspan=1 colspan=1>-4.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>-0.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5037,
+                "bbox": [
+                    139,
+                    1129,
+                    1495,
+                    1218
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9597,
+                "bbox": [
+                    143,
+                    1251,
+                    572,
+                    1294
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4674,
+                "bbox": [
+                    143,
+                    1319,
+                    445,
+                    1356
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    1364,
+                    1520,
+                    1705
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.40</td><td rowspan=1 colspan=1>+16.7%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>+22.4%</td><td rowspan=1 colspan=1>出货量增长</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.40</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>+20.5%</td><td rowspan=1 colspan=1>新平台量产备货</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>+11.0%</td><td rowspan=1 colspan=1>芜湖基地二期投产</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>-38.1%</td><td rowspan=1 colspan=1>技改项目陆续转固</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9618,
+                "bbox": [
+                    143,
+                    1736,
+                    509,
+                    1778
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    141,
+                    1794,
+                    1507,
+                    1883
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    141,
+                    1905,
+                    1501,
+                    1993
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9547,
+                "bbox": [
+                    142,
+                    2028,
+                    349,
+                    2070
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596,
+                "bbox": [
+                    142,
+                    2085,
+                    1072,
+                    2126
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9468,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9396,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.988,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    269,
+                    499,
+                    302
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    336,
+                    308,
+                    365
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    666,
+                    1481,
+                    696
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计3.80亿元，占营业收入比例9.8%，其中费用化研发费用3.80亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    715,
+                    1107,
+                    744
+                ],
+                "score": 0.999,
+                "text": "元、资本化研发投入0.00亿元；研发人员1,620人，占员工总数比例16.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    787,
+                    407,
+                    828
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    860,
+                    360,
+                    886
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1132,
+                    1489,
+                    1162
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额5.80亿元，同比增长26.1%；投资活动净流出5.20亿元，主要为域控"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1182,
+                    1002,
+                    1207
+                ],
+                "score": 0.997,
+                "text": "产线与芜湖基地投入；筹资活动净流入0.80亿元，主要为项目贷款。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1252,
+                    565,
+                    1291
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1325,
+                    440,
+                    1354
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1738,
+                    502,
+                    1777
+                ],
+                "score": 1.0,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1802,
+                    1499,
+                    1827
+                ],
+                "score": 0.999,
+                "text": "2026年经营目标：营业收入48亿元左右，同比增长23%以上；域控制器出货量180万套，舱驾一体平"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1846,
+                    1077,
+                    1875
+                ],
+                "score": 1.0,
+                "text": "台完成两家客户定点。公司将推动域控核心BOM国产化比例提升至70%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1912,
+                    1492,
+                    1937
+                ],
+                "score": 1.0,
+                "text": "公司已启动跨域融合计算平台的A样开发，预计2026年内交付客户联调；同时拓展连接器在机器人与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1958,
+                    710,
+                    1983
+                ],
+                "score": 0.989,
+                "text": "低空载具的标准化应用，培育第二增长曲线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2027,
+                    345,
+                    2072
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2092,
+                    1062,
+                    2119
+                ],
+                "score": 0.995,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.958,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9107,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9634,
+                "bbox": [
+                    198,
+                    122,
+                    1272,
+                    162
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9635,
+                "bbox": [
+                    198,
+                    186,
+                    1392,
+                    226
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9806,
+                "bbox": [
+                    141,
+                    250,
+                    1482,
+                    338
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9602,
+                "bbox": [
+                    198,
+                    360,
+                    1422,
+                    401
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9583,
+                "bbox": [
+                    198,
+                    424,
+                    897,
+                    466
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9641,
+                "bbox": [
+                    142,
+                    511,
+                    468,
+                    560
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9813,
+                "bbox": [
+                    140,
+                    582,
+                    1491,
+                    672
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9835,
+                "bbox": [
+                    141,
+                    693,
+                    1484,
+                    829
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    141,
+                    852,
+                    1510,
+                    989
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9604,
+                "bbox": [
+                    142,
+                    1035,
+                    431,
+                    1083
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    140,
+                    1105,
+                    1503,
+                    1289
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    140,
+                    1310,
+                    1498,
+                    1400
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9759,
+                "bbox": [
+                    141,
+                    1421,
+                    1500,
+                    1511
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9645,
+                "bbox": [
+                    141,
+                    1556,
+                    805,
+                    1606
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9526,
+                "bbox": [
+                    141,
+                    1639,
+                    412,
+                    1682
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9174,
+                "bbox": [
+                    142,
+                    1708,
+                    368,
+                    1745
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    1754,
+                    1520,
+                    2031
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>3.12</td><td rowspan=1 colspan=1>+6.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>+5.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗 (万立方米)</td><td rowspan=1 colspan=1>58.4</td><td rowspan=1 colspan=1>+2.5%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元)</td><td rowspan=1 colspan=1>2,260</td><td rowspan=1 colspan=1>+14.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9156,
+                "bbox": [
+                    140,
+                    2040,
+                    1498,
+                    2127
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9418,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9485,
+                "bbox": [
+                    127,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    129,
+                    1262,
+                    155
+                ],
+                "score": 1.0,
+                "text": "客户集中风险：公司前五名客户收入占比61.8%，整车厂年降与订单波动影响较大。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    193,
+                    1385,
+                    222
+                ],
+                "score": 1.0,
+                "text": "价格压力风险：汽车电子面临持续的年度降价压力，若降本节奏不及年降幅度将侵蚀毛利率。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    257,
+                    1473,
+                    282
+                ],
+                "score": 0.984,
+                "text": "技术路线风险：智驾技术路线(纯视觉/多传感融合）与芯片平台切换快，若公司平台适配滞后将影"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    301,
+                    306,
+                    332
+                ],
+                "score": 1.0,
+                "text": "响定点获取。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    367,
+                    1414,
+                    397
+                ],
+                "score": 1.0,
+                "text": "质量与召回风险：汽车电子产品对可靠性要求极高，任何质量事件都可能影响客户关系与品牌。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    432,
+                    888,
+                    458
+                ],
+                "score": 1.0,
+                "text": "原材料风险：芯片及铜材价格波动对成本有直接影响。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    502,
+                    464,
+                    561
+                ],
+                "score": 0.987,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    587,
+                    1485,
+                    618
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    639,
+                    1147,
+                    664
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    701,
+                    1475,
+                    726
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    749,
+                    1411,
+                    774
+                ],
+                "score": 0.966,
+                "text": "1.60元(含税)，合计派发现金红利1.15亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    792,
+                    265,
+                    827
+                ],
+                "score": 0.991,
+                "text": "33.63%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    860,
+                    1500,
+                    885
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中允会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    907,
+                    1499,
+                    932
+                ],
+                "score": 0.991,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中允会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    955,
+                    617,
+                    980
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1030,
+                    426,
+                    1085
+                ],
+                "score": 0.971,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1111,
+                    1489,
+                    1136
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1160,
+                    1497,
+                    1185
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1207,
+                    1491,
+                    1233
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1253,
+                    465,
+                    1278
+                ],
+                "score": 0.993,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1318,
+                    1489,
+                    1343
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1365,
+                    1223,
+                    1391
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1429,
+                    1491,
+                    1454
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1473,
+                    333,
+                    1503
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1560,
+                    796,
+                    1602
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1642,
+                    406,
+                    1683
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1714,
+                    361,
+                    1739
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2043,
+                    1490,
+                    2072
+                ],
+                "score": 1.0,
+                "text": "公司将绿色制造纳入新基地规划：芜湖二期工厂获评绿色建筑二星级设计标识，实施焊接车间烟雾集"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    2091,
+                    895,
+                    2116
+                ],
+                "score": 0.991,
+                "text": "中处理与注塑水口料全回收，单位产值能耗同比下降4.4%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9502,
+                "bbox": [
+                    127,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9105,
+                "bbox": [
+                    1426,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9511,
+                "bbox": [
+                    143,
+                    120,
+                    350,
+                    165
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    180,
+                    1503,
+                    271
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9572,
+                "bbox": [
+                    142,
+                    302,
+                    478,
+                    346
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    140,
+                    360,
+                    1498,
+                    450
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9623,
+                "bbox": [
+                    142,
+                    496,
+                    431,
+                    544
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.96,
+                "bbox": [
+                    199,
+                    567,
+                    1041,
+                    607
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9616,
+                "bbox": [
+                    198,
+                    630,
+                    809,
+                    670
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    141,
+                    693,
+                    1473,
+                    783
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9598,
+                "bbox": [
+                    198,
+                    805,
+                    1275,
+                    846
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    141,
+                    869,
+                    1509,
+                    958
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9566,
+                "bbox": [
+                    142,
+                    1003,
+                    617,
+                    1053
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5293,
+                "bbox": [
+                    144,
+                    1080,
+                    350,
+                    1117
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    133,
+                    1125,
+                    1520,
+                    1350
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>71,280.0</td><td rowspan=1 colspan=1>99.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>720.0</td><td rowspan=1 colspan=1>1.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>72,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.938,
+                "bbox": [
+                    143,
+                    1382,
+                    444,
+                    1425
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7458,
+                "bbox": [
+                    143,
+                    1450,
+                    550,
+                    1487
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    131,
+                    1495,
+                    1522,
+                    2178
+                ],
+                "index": 18,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>泰赫控股集团有限公司</td><td rowspan=1 colspan=1>18.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>宁波通商集团有限公司</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>泓擎汽车电子基金（有限合伙）</td><td rowspan=1 colspan=1>5.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>3.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>国投创益产业基金</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金一零三组合</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零四组合</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>中证A500交易型开放式指数基金</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>太平洋人寿保险- 分红险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>泰合致远员工持股计划</td><td rowspan=1 colspan=1>1.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>46.40%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9442,
+                "bbox": [
+                    129,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9409,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    847,
+                    56
+                ],
+                "score": 0.985,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    120,
+                    347,
+                    168
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    187,
+                    1494,
+                    212
+                ],
+                "score": 0.997,
+                "text": "截至报告期末，公司员工总数9,800人，其中研发人员1,620人。报告期内公司持续完善职业发展通道与培"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    233,
+                    1471,
+                    263
+                ],
+                "score": 1.0,
+                "text": "训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    307,
+                    470,
+                    345
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    368,
+                    1489,
+                    393
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    415,
+                    1029,
+                    441
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    493,
+                    426,
+                    544
+                ],
+                "score": 0.98,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    574,
+                    1032,
+                    600
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    636,
+                    801,
+                    666
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    699,
+                    1465,
+                    729
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与参股公司发生的日常关联交易合计380万元，主要为联合研发费用分摊，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    745,
+                    277,
+                    781
+                ],
+                "score": 1.0,
+                "text": "程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    812,
+                    1266,
+                    839
+                ],
+                "score": 1.0,
+                "text": "承诺履行情况：公司控股股东、实际控制人及董监高报告期内不存在违反承诺情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    875,
+                    1502,
+                    905
+                ],
+                "score": 1.0,
+                "text": "重大合同：报告期内公司获得域控制器与连接器新定点项目12个，预计生命周期总金额约58亿元，符"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    922,
+                    421,
+                    952
+                ],
+                "score": 1.0,
+                "text": "合披露标准的已披露。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1003,
+                    611,
+                    1050
+                ],
+                "score": 0.981,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1084,
+                    346,
+                    1117
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1383,
+                    438,
+                    1424
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1455,
+                    545,
+                    1485
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9527,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9157,
+                "bbox": [
+                    1425,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    140,
+                    121,
+                    1480,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9603,
+                "bbox": [
+                    142,
+                    256,
+                    430,
+                    305
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9439,
+                "bbox": [
+                    141,
+                    339,
+                    349,
+                    382
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    139,
+                    396,
+                    1509,
+                    581
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.955,
+                "bbox": [
+                    142,
+                    612,
+                    681,
+                    659
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4885,
+                "bbox": [
+                    144,
+                    683,
+                    391,
+                    719
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    131,
+                    726,
+                    1521,
+                    1348
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.40</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>16.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>102.30</td><td rowspan=1 colspan=1>92.60</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>32.30</td><td rowspan=1 colspan=1>29.20</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>43.70</td><td rowspan=1 colspan=1>38.40</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>54.20</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.932,
+                "bbox": [
+                    140,
+                    1361,
+                    1204,
+                    1396
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9562,
+                "bbox": [
+                    142,
+                    1423,
+                    616,
+                    1467
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7602,
+                "bbox": [
+                    143,
+                    1493,
+                    338,
+                    1528
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    1537,
+                    1521,
+                    1933
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>38.90</td><td rowspan=1 colspan=1>31.50</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>28.05</td><td rowspan=1 colspan=1>22.96</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.82</td><td rowspan=1 colspan=1>5.85</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.15</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>2.50</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>3.05</td><td rowspan=1 colspan=1>2.22</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9605,
+                "bbox": [
+                    143,
+                    1964,
+                    680,
+                    2007
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5114,
+                "bbox": [
+                    142,
+                    2034,
+                    391,
+                    2069
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9427,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9392,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    1470,
+                    155
+                ],
+                "score": 0.999,
+                "text": "公司控股股东为泰赫控股集团有限公司，实际控制人为霍纪臣。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    174,
+                    277,
+                    205
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    248,
+                    426,
+                    307
+                ],
+                "score": 0.961,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    339,
+                    344,
+                    385
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    404,
+                    1496,
+                    429
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中允会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    451,
+                    1499,
+                    477
+                ],
+                "score": 0.985,
+                "text": "意见(中允审字[2026]第0526号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    499,
+                    1490,
+                    524
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    543,
+                    277,
+                    575
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    618,
+                    672,
+                    655
+                ],
+                "score": 0.948,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    688,
+                    386,
+                    717
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1369,
+                    1195,
+                    1388
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1428,
+                    608,
+                    1463
+                ],
+                "score": 0.95,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1495,
+                    334,
+                    1525
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1969,
+                    672,
+                    2003
+                ],
+                "score": 0.947,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2039,
+                    384,
+                    2064
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9344,
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9094,
+                "bbox": [
+                    1426,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9833,
+                "bbox": [
+                    133,
+                    120,
+                    1520,
+                    341
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-5.20</td><td rowspan=1 colspan=1>-4.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>-0.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9153,
+                "bbox": [
+                    142,
+                    349,
+                    1497,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9615,
+                "bbox": [
+                    144,
+                    484,
+                    382,
+                    531
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    144,
+                    554,
+                    1265,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9635,
+                "bbox": [
+                    144,
+                    618,
+                    1129,
+                    658
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9639,
+                "bbox": [
+                    144,
+                    682,
+                    886,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596,
+                "bbox": [
+                    144,
+                    746,
+                    721,
+                    785
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9564,
+                "bbox": [
+                    157,
+                    831,
+                    827,
+                    866
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9463,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2263
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9433,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    57
+                ],
+                "score": 0.986,
+                "text": "宁波泰赫智联股份有限公司（603218.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1422,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪市主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    397,
+                    307,
+                    433
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    474,
+                    381,
+                    535
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    558,
+                    1260,
+                    592
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    625,
+                    1121,
+                    651
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    689,
+                    878,
+                    715
+                ],
+                "score": 0.987,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    750,
+                    715,
+                    783
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    837,
+                    819,
+                    861
+                ],
+                "score": 0.994,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "宁波泰赫智联股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

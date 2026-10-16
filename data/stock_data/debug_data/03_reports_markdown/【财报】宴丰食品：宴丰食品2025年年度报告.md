@@ -1,0 +1,260 @@
+# 成都宴丰食品股份有限公司
+
+2025 年年度报告
+
+(股票简称：宴丰食品股票代码：605388.SH)(上海证券交易所主板)
+
+披露日期：2026年4月7日
+
+公司统一社会信用代码：91510124MA6CLW2T8F
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.60元(含税)，合计派发现金红利1.20亿元（含税)，占2025年度归属于上市公司股东净利润的31.09%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(瀚华审字[2026]第0412号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人部丰源、主管会计工作负责人糜知味及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、宴丰食品</td><td rowspan=1 colspan=1>指成都宴丰食品股份有限公司</td></tr><tr><td rowspan=1 colspan=1>复合调味品</td><td rowspan=1 colspan=1>指由多种基础调味料复配成的成品调味料</td></tr><tr><td rowspan=1 colspan=1>定制餐调</td><td rowspan=1 colspan=1>指为餐饮连锁客户定制的调味解决方案</td></tr><tr><td rowspan=1 colspan=1>川味基础调料</td><td rowspan=1 colspan=1>指豆瓣酱、火锅底料等川菜基础调味产品</td></tr><tr><td rowspan=1 colspan=1>B端/C端</td><td rowspan=1 colspan=1>指餐饮客户渠道与家庭消费渠道</td></tr><tr><td rowspan=1 colspan=1>ODM</td><td rowspan=1 colspan=1>指按客户品牌代工生产的模式</td></tr><tr><td rowspan=1 colspan=1>中央厨房</td><td rowspan=1 colspan=1>指餐饮连锁集中加工配送的厨房体系</td></tr><tr><td rowspan=1 colspan=1>郫都豆瓣</td><td rowspan=1 colspan=1>指成都市郫都区地理标志产品</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，'好味道'成为最确定的内需。宴丰食品实现营业收入28.90亿元，同比增长16.5%；归属于上市公司股东的净利润3.86亿元，同比增长12.9%；定制餐调服务连锁餐饮客户3,600家，东南亚市场收入同比增长45%。
+
+这一年，公司为头部火锅连锁定制的'一锅出'底料将客户后厨工序从7步减到2步，续单率100%；零售端'宴丰人家'下饭酱进入山姆与盒马系统，C端收入首次突破8.5亿元；马来西亚工厂投产，川味出海从贸易变成了产能。
+
+调味是餐饮的幕后英雄。2026年，公司将继续'大客户深耕+大单品破圈'双轮策略，把川味的标准化做到极致。感谢股东的支持，也感谢3,600家客户的一日三餐。
+
+董事长：郜丰源2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+## 公司基本情况
+
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">成都宴丰食品股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">宴丰食品</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">605388.SH</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">上海证券交易所主板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">四川省成都市郫都区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2021年9月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">食品制造（复合调味品）</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">郜丰源</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">宴清欢</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">糜知味</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">6,900</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于1998年，总部位于成都郫都区川味产业集群，2021年9月在上海证券交易所主板上市，是国内定制餐调与川味复合调味品的头部企业。
+
+截至报告期末，公司建成成都、眉山、马来西亚槟城三大基地，复合调味料年产能22万吨，服务国内连锁餐饮与国际客户合计3,600余家。
+
+## 三、主要会计数据和财务指标
+
+## 近三年主要会计数据和财务指标
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>28.90</td><td rowspan=1 colspan=1>24.80</td><td rowspan=1 colspan=1>+16.5%</td><td rowspan=1 colspan=1>21.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>3.86</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>+12.9%</td><td rowspan=1 colspan=1>3.05</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>3.52</td><td rowspan=1 colspan=1>3.12</td><td rowspan=1 colspan=1>+12.8%</td><td rowspan=1 colspan=1>2.78</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>4.40</td><td rowspan=1 colspan=1>+15.9%</td><td rowspan=1 colspan=1>4.00</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.84</td><td rowspan=1 colspan=1>0.74</td><td rowspan=1 colspan=1>+12.9%</td><td rowspan=1 colspan=1>0.66</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>12.70</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>增加1.10个百分点</td><td rowspan=1 colspan=1>10.70</td></tr><tr><td rowspan=1 colspan=1>总资产（亿元)</td><td rowspan=1 colspan=1>48.20</td><td rowspan=1 colspan=1>45.40</td><td rowspan=1 colspan=1>+6.2%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元)</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>29.60</td><td rowspan=1 colspan=1>+5.4%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>农产品深加工与技改专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.09</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.13</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.34</td><td rowspan=1 colspan=1>占归母净利润比例 8.8%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>6.60</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>7.40</td><td rowspan=1 colspan=1>8.00</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.82</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>1.14</td></tr></table>
+
+## 第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年中国复合调味品市场规模约2,600亿元，同比增长约12%，定制餐调随连锁化率提升(餐饮连锁化率升至约24%）持续快于行业；预制菜国标体系逐步完善，为配套调味方案打开增量
+
+竞争格局上，行业'大行业、小公司特征明显，供应链能力（稳定交付、成本、食品安全）与研发响应速度是定制餐调的核心壁垒；川味品类出海东南亚热度显著上升。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为复合调味品的研发、生产与销售，为餐饮连锁提供定制调味解决方案（B端），同时运营'宴丰人家'零售品牌（C端），并为预制菜企业提供风味配套。
+
+报告期内，公司与8家百强餐饮连锁新签年度定制协议；一锅出'系列在火锅品类市占率提升；马来西亚工厂投产服务东南亚市场，实现当地交付。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>定制餐调</td><td rowspan=1 colspan=1>13.01</td><td rowspan=1 colspan=1>45.0%</td><td rowspan=1 colspan=1>38.5%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>零售复合调味品</td><td rowspan=1 colspan=1>8.94</td><td rowspan=1 colspan=1>30.9%</td><td rowspan=1 colspan=1>33.0%</td><td rowspan=1 colspan=1>+8.4%</td></tr><tr><td rowspan=1 colspan=1>预制菜配套</td><td rowspan=1 colspan=1>6.94</td><td rowspan=1 colspan=1>24.0%</td><td rowspan=1 colspan=1>36.5%</td><td rowspan=1 colspan=1>+24.8%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>28.89</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>36.4%</td><td rowspan=1 colspan=1>+16.5%</td></tr></table>
+
+定制餐调收入13.01亿元，同比增长18.5%，新客户签约与存量续单共同驱动；零售复合调味品收入8.94亿元，同比增长8.4%，大单品进入仓储会员渠道：预制菜配套收入6.94亿元，同比增长24.8%，随下游客户放量。
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>26.60</td><td rowspan=1 colspan=1>92.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>8.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>28.90</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的29.8%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>油脂与辣椒等原料</td><td rowspan=1 colspan=1>46.2%</td><td rowspan=1 colspan=1>48.5%</td><td rowspan=1 colspan=1>油脂价格中枢回落</td></tr><tr><td rowspan=1 colspan=1>包材</td><td rowspan=1 colspan=1>15.4%</td><td rowspan=1 colspan=1>15.1%</td><td rowspan=1 colspan=1>规模化采购</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>38.4%</td><td rowspan=1 colspan=1>36.4%</td><td rowspan=1 colspan=1>自动化炒制线投产摊薄</td></tr></table>
+
+## 五、期间费用与研发投入
+
+期间费用变动
+
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>2.95</td><td rowspan=1 colspan=1>+15.3%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.95</td><td rowspan=1 colspan=1>1.78</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>0.85</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>+18.1%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>-25.0%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计0.85亿元，占营业收入比例2.9%，其中费用化研发费用0.85亿元、资本化研发投入0.00亿元；研发人员410人，占员工总数比例5.9%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>4.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.60</td><td rowspan=1 colspan=1>-2.30</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.70</td><td rowspan=1 colspan=1>0.60</td></tr></table>
+
+报告期内经营活动现金流量净额5.10亿元，同比增长15.9%；投资活动净流出2.60亿元，为海外基地与自动化产线投入；筹资活动净流入0.70亿元。
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>8.80</td><td rowspan=1 colspan=1>+9.1%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>+6.5%</td><td rowspan=1 colspan=1>原料季节性储备</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>18.90</td><td rowspan=1 colspan=1>18.10</td><td rowspan=1 colspan=1>+4.4%</td><td rowspan=1 colspan=1>马来西亚基地投产</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入34亿元左右，同比增长约18%；定制餐调客户突破4,200家，东南亚收入翻番；推出健康减盐系列，进入轻食赛道。
+
+产能方面，眉山二期自动化炒制产线将于2026年二季度投产，新增年产能6万吨，单位人工成本目标下降20%。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+客户集中风险：公司前五名客户收入占比29.8%，大客户需求波动影响显著。
+
+食品安全风险：调味品直接面向餐桌，任何质量事件都将是重大打击。
+
+原料价格风险：辣椒、油脂等农产品价格波动影响毛利率。
+
+海外经营风险：马来西亚基地面临跨国管理与汇率风险。
+
+竞争风险：复合调味品赛道参与者增多，定制订单价格竞争加剧。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.60元(含税)，合计派发现金红利1.20亿元（含税），占2025年度归属于上市公司股东净利润的31.09%。
+
+公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+## 环境信息主要指标
+
+<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>14.2</td><td rowspan=1 colspan=1>-4.6%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e）</td><td rowspan=1 colspan=1>36,800</td><td rowspan=1 colspan=1>+7.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗(万立方米)</td><td rowspan=1 colspan=1>48.6</td><td rowspan=1 colspan=1>+6.0%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元)</td><td rowspan=1 colspan=1>430</td><td rowspan=1 colspan=1>+13.0%</td></tr></table>
+
+公司参与郫县豆瓣地理标志保护与非遗工艺数字化建档；与2.1万农户建立辣椒订单种植，户均增收约4,200元。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数6,900人，其中研发人员410人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大合同：报告期内公司与某头部火锅连锁签署三年期定制供应协议，合同金额上限约6.8亿元。
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司不存在对外担保事项。
+
+关联交易：报告期内公司与关联方发生的日常关联交易合计金额为260万元，程序合规。
+
+海外投资：报告期内公司马来西亚槟城生产基地建成投产，累计投入1.2亿元。
+
+## 第九节 股份变动及股东情况
+
+股份结构 (万股)
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量（万股）</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>38,640.0</td><td rowspan=1 colspan=1>84.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>7,360.0</td><td rowspan=1 colspan=1>16.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>46,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>宴丰控股集团有限公司</td><td rowspan=1 colspan=1>26.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>四川现代服务业产业投资基金</td><td rowspan=1 colspan=1>6.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>成都天府食品产业基金</td><td rowspan=1 colspan=1>5.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——二组合</td><td rowspan=1 colspan=1>3.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零三组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>宴丰员工持股计划</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>易方达消费行业股票基金</td><td rowspan=1 colspan=1>1.70%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>富国中证消费50ETF</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>汇添富中证主要消费ETF</td><td rowspan=1 colspan=1>1.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>55.90%</td><td rowspan=1 colspan=1></td></tr></table>
+
+公司控股股东为宴丰控股集团有限公司，实际控制人为郜丰源。控股股东所持股份报告期内不存在质押、冻结情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0412号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目（摘要)
+
+资产负债表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>8.80</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>6.30</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>18.90</td><td rowspan=1 colspan=1>18.10</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>48.20</td><td rowspan=1 colspan=1>45.40</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>8.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.70</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>4.90</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>17.00</td><td rowspan=1 colspan=1>15.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>29.60</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准
+
+## 三、合并利润表主要项目（摘要)
+
+利润表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>28.90</td><td rowspan=1 colspan=1>24.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>18.38</td><td rowspan=1 colspan=1>15.97</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.23</td><td rowspan=1 colspan=1>5.49</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>0.85</td><td rowspan=1 colspan=1>0.72</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.86</td><td rowspan=1 colspan=1>3.42</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>3.52</td><td rowspan=1 colspan=1>3.12</td></tr></table>
+
+## 四、合并现金流量表主要项目(摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>4.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.60</td><td rowspan=1 colspan=1>-2.30</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.70</td><td rowspan=1 colspan=1>0.60</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+·报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

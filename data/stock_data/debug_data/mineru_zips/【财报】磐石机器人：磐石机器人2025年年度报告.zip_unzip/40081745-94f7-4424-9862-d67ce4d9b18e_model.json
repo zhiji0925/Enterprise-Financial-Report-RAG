@@ -1,0 +1,4736 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8755,
+                "bbox": [
+                    127,
+                    19,
+                    870,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6453,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9691,
+                "bbox": [
+                    350,
+                    394,
+                    1297,
+                    480
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.691,
+                "bbox": [
+                    681,
+                    536,
+                    971,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8476,
+                "bbox": [
+                    440,
+                    669,
+                    1212,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9351,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9277,
+                "bbox": [
+                    551,
+                    1156,
+                    1101,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9421,
+                "bbox": [
+                    128,
+                    2232,
+                    613,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9285,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    868,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    21,
+                    1527,
+                    59
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    357,
+                    399,
+                    1295,
+                    478
+                ],
+                "score": 1.0,
+                "text": "佛山磐石机器人股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    450,
+                    677,
+                    1203,
+                    712
+                ],
+                "score": 0.98,
+                "text": "(股票简称：磐石机器人股票代码：301502.SZ)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    678,
+                    744,
+                    972,
+                    776
+                ],
+                "score": 0.961,
+                "text": "(深圳证券交易所创业板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月15日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    559,
+                    1163,
+                    1092,
+                    1187
+                ],
+                "score": 0.996,
+                "text": "公司统一社会信用代码：91440605MA51R7X6DQ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.997,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9363,
+                "bbox": [
+                    127,
+                    19,
+                    869,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8746,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9486,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9752,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9728,
+                "bbox": [
+                    140,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9481,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9427,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.97,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9437,
+                "bbox": [
+                    129,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9373,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    866,
+                    56
+                ],
+                "score": 0.975,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.958,
+                "text": "红利1.50元(含税)，合计派发现金红利1.02亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    882,
+                    435
+                ],
+                "score": 0.988,
+                "text": "24.00%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经正行会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    627,
+                    606,
+                    657
+                ],
+                "score": 0.962,
+                "text": "报告(正行审字[2026]第0452号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    691,
+                    1491,
+                    721
+                ],
+                "score": 1.0,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    768
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1489,
+                    958
+                ],
+                "score": 0.98,
+                "text": "八、公司负责人石镌坚、主管会计工作负责人邝天泽及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9447,
+                "bbox": [
+                    127,
+                    19,
+                    869,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8862,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9767,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9292,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9426,
+                "bbox": [
+                    129,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9344,
+                "bbox": [
+                    1339,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    866,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1527,
+                    57
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.95,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.961,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.961,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9521,
+                "bbox": [
+                    128,
+                    19,
+                    868,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9077,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.959,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4889,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、磐石机器人</td><td rowspan=1 colspan=1>指佛山磐石机器人股份有限公司</td></tr><tr><td rowspan=1 colspan=1>SCARA</td><td rowspan=1 colspan=1>指应用于高速拾放的平面关节型工业机器人</td></tr><tr><td rowspan=1 colspan=1>六轴机器人</td><td rowspan=1 colspan=1>指具有六个自由度、可模拟人臂运动的多关节机器人</td></tr><tr><td rowspan=1 colspan=1>谐波减速器</td><td rowspan=1 colspan=1>指利用柔性齿轮变形实现减速传动的精密部件</td></tr><tr><td rowspan=1 colspan=1>行星滚柱丝杠</td><td rowspan=1 colspan=1>指以滚柱为传动元件的直线执行部件</td></tr><tr><td rowspan=1 colspan=1>磁组件</td><td rowspan=1 colspan=1>指永磁体与结构件集成的机器人驱动部件</td></tr><tr><td rowspan=1 colspan=1>人形机器人</td><td rowspan=1 colspan=1>指具有类人形态与运动能力的机器人整机</td></tr><tr><td rowspan=1 colspan=1>MTBF</td><td rowspan=1 colspan=1>指平均无故障工作时间，衡量可靠性</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9637,
+                "bbox": [
+                    143,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    140,
+                    867,
+                    1504,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9856,
+                "bbox": [
+                    140,
+                    1026,
+                    1501,
+                    1164
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    140,
+                    1184,
+                    1495,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9514,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9633,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9521,
+                "bbox": [
+                    142,
+                    1466,
+                    411,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4792,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1569
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>佛山磐石机器人股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>磐石机器人</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>301502.SZ</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>深圳证券交易所创业板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>广东省佛山市顺德区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2020年9月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>工业机器人及核心零部件</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>石镌坚</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>郁恒基</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.947,
+                "bbox": [
+                    128,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9395,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    867,
+                    56
+                ],
+                "score": 0.978,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    795,
+                    463,
+                    847
+                ],
+                "score": 0.988,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    874,
+                    1490,
+                    903
+                ],
+                "score": 1.0,
+                "text": "2025年，工业机器人的国产份额曲线越过了又一个山头。磐石机器人实现营业收入48.90亿元，同比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    921,
+                    1496,
+                    951
+                ],
+                "score": 1.0,
+                "text": "增长22.9%；归属于上市公司股东的净利润4.25亿元，同比增长13.0%；机器人整机出货量3.4万台，连续"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    970,
+                    392,
+                    995
+                ],
+                "score": 0.993,
+                "text": "两年跻身全球前十。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1034,
+                    1492,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "这一年，公司在汽车与新能源两大场景完成大客户整厂导入，六轴机器人出货同比增长28%；核心零"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1082,
+                    1492,
+                    1107
+                ],
+                "score": 0.977,
+                "text": "部件板块external销售占比首次过半——谐波减速器与行星滚柱丝杠不仅自给，还开始反向供应同行。人"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1128,
+                    1005,
+                    1153
+                ],
+                "score": 0.999,
+                "text": "形机器人元年，我们的减速器与磁组件已进入三家头部样机供应链。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1190,
+                    1486,
+                    1220
+                ],
+                "score": 1.0,
+                "text": "制造业的耐心与野心同样重要。2026年，公司将以'整机上量、部件外供、人形卡位'三线并进，把国"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1239,
+                    1062,
+                    1265
+                ],
+                "score": 1.0,
+                "text": "产机器人的成本与响应优势写进更多工厂的产线。感谢股东的一路同行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1297,
+                    562,
+                    1334
+                ],
+                "score": 0.999,
+                "text": "董事长：石镌坚2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.969,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1467,
+                    406,
+                    1510
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1539,
+                    309,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9248,
+                "bbox": [
+                    127,
+                    19,
+                    869,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9036,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>邝天泽</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>正行会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>6,600</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9529,
+                "bbox": [
+                    142,
+                    374,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    140,
+                    434,
+                    1505,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    545,
+                    1504,
+                    635
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9536,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5046,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>39.80</td><td rowspan=1 colspan=1>+22.9%</td><td rowspan=1 colspan=1>32.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>4.25</td><td rowspan=1 colspan=1>3.76</td><td rowspan=1 colspan=1>+13.0%</td><td rowspan=1 colspan=1>3.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>3.82</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>+12.4%</td><td rowspan=1 colspan=1>2.95</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>+22.9%</td><td rowspan=1 colspan=1>4.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.55</td><td rowspan=1 colspan=1>+13.0%</td><td rowspan=1 colspan=1>0.49</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>8.80</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>增加0.80个百分点</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>总资产（亿元)</td><td rowspan=1 colspan=1>86.40</td><td rowspan=1 colspan=1>80.80</td><td rowspan=1 colspan=1>+6.9%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>49.60</td><td rowspan=1 colspan=1>47.00</td><td rowspan=1 colspan=1>+5.5%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9545,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9224,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9881,
+                "bbox": [
+                    132,
+                    1511,
+                    1520,
+                    1795
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=2 colspan=1>说明智能制造专项与人形机器人产业链培育资金</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.25</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.43</td><td rowspan=1 colspan=1>占归母净利润比例10.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9559,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8203,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9857,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>12.70</td><td rowspan=1 colspan=1>14.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>0.96</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>1.39</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9481,
+                "bbox": [
+                    128,
+                    2231,
+                    612,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9364,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    866,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    408,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    440,
+                    1499,
+                    470
+                ],
+                "score": 1.0,
+                "text": "公司成立于2011年，总部位于佛山，2020年9月在深圳证券交易所创业板上市，是国内少数同时具备"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    489,
+                    682,
+                    515
+                ],
+                "score": 1.0,
+                "text": "机器人整机与核心零部件自研能力的厂商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    551,
+                    1496,
+                    581
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司形成整机年产能4.2万台、谐波减速器年产能30万台的格局，服务汽车、3C电子、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    600,
+                    874,
+                    626
+                ],
+                "score": 1.0,
+                "text": "新能源、通用制造四大下游，境内外客户合计1,600余家。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 0.999,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2236,
+                    607,
+                    2261
+                ],
+                "score": 0.996,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9481,
+                "bbox": [
+                    127,
+                    19,
+                    868,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.906,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    141,
+                    204,
+                    604,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847,
+                "bbox": [
+                    140,
+                    263,
+                    1491,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    140,
+                    421,
+                    1506,
+                    511
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9425,
+                "bbox": [
+                    141,
+                    537,
+                    668,
+                    576
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9818,
+                "bbox": [
+                    242,
+                    590,
+                    1468,
+                    1135
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9468,
+                "bbox": [
+                    144,
+                    1165,
+                    494,
+                    1199
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9523,
+                "bbox": [
+                    142,
+                    1226,
+                    636,
+                    1272
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    140,
+                    1285,
+                    1498,
+                    1375
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792,
+                "bbox": [
+                    141,
+                    1396,
+                    1499,
+                    1487
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9526,
+                "bbox": [
+                    142,
+                    1518,
+                    573,
+                    1563
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5407,
+                "bbox": [
+                    143,
+                    1587,
+                    498,
+                    1625
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9868,
+                "bbox": [
+                    132,
+                    1635,
+                    1520,
+                    1911
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>工业机器人整机</td><td rowspan=1 colspan=1>22.78</td><td rowspan=1 colspan=1>46.6%</td><td rowspan=1 colspan=1>30.5%</td><td rowspan=1 colspan=1>+27.8%</td></tr><tr><td rowspan=1 colspan=1>核心零部件</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>33.5%</td><td rowspan=1 colspan=1>36.0%</td><td rowspan=1 colspan=1>+23.3%</td></tr><tr><td rowspan=1 colspan=1>系统集成</td><td rowspan=1 colspan=1>9.72</td><td rowspan=1 colspan=1>19.9%</td><td rowspan=1 colspan=1>25.5%</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>31.2%</td><td rowspan=1 colspan=1>+22.9%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9765,
+                "bbox": [
+                    141,
+                    1920,
+                    1489,
+                    2054
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5007,
+                "bbox": [
+                    142,
+                    2083,
+                    605,
+                    2120
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9454,
+                "bbox": [
+                    128,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9346,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    865,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.99,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    208,
+                    596,
+                    245
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    271,
+                    1484,
+                    296
+                ],
+                "score": 0.999,
+                "text": "2025年中国工业机器人产量同比增长约20%，连续多年居全球第一大市场；国产份额从2023年的约"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    316,
+                    1458,
+                    344
+                ],
+                "score": 1.0,
+                "text": "35%提升至2025年的约52%，中大负载六轴机型成为国产替代主战场。全球人形机器人进入量产元年，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    362,
+                    743,
+                    393
+                ],
+                "score": 0.957,
+                "text": "核心部件（丝杠、减速器、磁组件)需求启动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    429,
+                    1496,
+                    454
+                ],
+                "score": 0.999,
+                "text": "需求结构上，新能源车产线改造、3C自动化回暖与通用制造业复苏形成共振；供给端，价格战趋缓后"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    476,
+                    907,
+                    502
+                ],
+                "score": 1.0,
+                "text": "行业竞争焦点转向MTBF可靠性、交付速度与整线服务能力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    539,
+                    662,
+                    574
+                ],
+                "score": 0.978,
+                "text": "图1：2023-2025年分下游行业收入（亿元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1173,
+                    488,
+                    1194
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1233,
+                    628,
+                    1267
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1291,
+                    1492,
+                    1321
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为工业机器人整机、核心零部件的研发、生产与销售，并提供自动化系统集成方案，下"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1340,
+                    690,
+                    1366
+                ],
+                "score": 0.978,
+                "text": "游覆盖汽车、3C电子、新能源与通用制造。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1404,
+                    1490,
+                    1430
+                ],
+                "score": 0.998,
+                "text": "报告期内，公司中大负载六轴机器人在两家整车厂焊装线批量替代外资品牌；谐波减速器与行星滚柱"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1452,
+                    967,
+                    1477
+                ],
+                "score": 0.998,
+                "text": "丝杠外供收入同比增长45%；人形机器人用磁组件完成A样定点。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1523,
+                    566,
+                    1560
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1591,
+                    492,
+                    1621
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1924,
+                    1483,
+                    1953
+                ],
+                "score": 0.993,
+                "text": "工业机器人整机收入22.78亿元，同比增长27.8%，出货3.4万台、均价6.7万元/台，中大负载机型占"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1971,
+                    1476,
+                    2000
+                ],
+                "score": 1.0,
+                "text": "比提升带动均价上行；核心零部件收入16.40亿元，同比增长23.3%；系统集成收入9.72亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2015,
+                    249,
+                    2051
+                ],
+                "score": 0.997,
+                "text": "12.0%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2089,
+                    595,
+                    2114
+                ],
+                "score": 0.998,
+                "text": "图2：2022-2025年整机出货量及均价"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9144,
+                "bbox": [
+                    128,
+                    19,
+                    868,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8862,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9744,
+                "bbox": [
+                    252,
+                    135,
+                    1443,
+                    666
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8858,
+                "bbox": [
+                    143,
+                    698,
+                    865,
+                    733
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9327,
+                "bbox": [
+                    145,
+                    755,
+                    432,
+                    791
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9844,
+                "bbox": [
+                    132,
+                    800,
+                    1520,
+                    1026
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>44.98</td><td rowspan=1 colspan=1>92.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>3.92</td><td rowspan=1 colspan=1>8.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9504,
+                "bbox": [
+                    142,
+                    1036,
+                    727,
+                    1070
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    143,
+                    1099,
+                    412,
+                    1142
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9227,
+                "bbox": [
+                    144,
+                    1168,
+                    534,
+                    1204
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9858,
+                "bbox": [
+                    133,
+                    1212,
+                    1520,
+                    1439
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>减速器、伺服等核心部件</td><td rowspan=1 colspan=1>46.2%</td><td rowspan=1 colspan=1>48.4%</td><td rowspan=1 colspan=1>自产减速器替代外购</td></tr><tr><td rowspan=1 colspan=1>铸件、机身及电气件</td><td rowspan=1 colspan=1>28.4%</td><td rowspan=1 colspan=1>27.6%</td><td rowspan=1 colspan=1>规模化采购议价</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>25.4%</td><td rowspan=1 colspan=1>24.0%</td><td rowspan=1 colspan=1>产量爬坡摊薄</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9606,
+                "bbox": [
+                    143,
+                    1470,
+                    506,
+                    1513
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8993,
+                "bbox": [
+                    143,
+                    1539,
+                    313,
+                    1575
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9857,
+                "bbox": [
+                    133,
+                    1584,
+                    1520,
+                    1863
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>3.55</td><td rowspan=1 colspan=1>+15.5%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.80</td><td rowspan=1 colspan=1>+14.3%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.20</td><td rowspan=1 colspan=1>-0.18</td><td rowspan=1 colspan=1>+11.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6053,
+                "bbox": [
+                    140,
+                    1870,
+                    1488,
+                    1958
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    142,
+                    1992,
+                    411,
+                    2035
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.546,
+                "bbox": [
+                    143,
+                    2061,
+                    365,
+                    2098
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9439,
+                "bbox": [
+                    129,
+                    2231,
+                    611,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9327,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    867,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    704,
+                    858,
+                    728
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司历年年度报告；均价上行反映中大负载机型占比提升"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    757,
+                    428,
+                    789
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1044,
+                    722,
+                    1065
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的24.6%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1102,
+                    408,
+                    1143
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1174,
+                    527,
+                    1200
+                ],
+                "score": 0.973,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1476,
+                    499,
+                    1509
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1543,
+                    308,
+                    1572
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1874,
+                    1481,
+                    1902
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计3.40亿元，占营业收入比例7.0%，其中费用化研发费用3.20亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1921,
+                    1107,
+                    1951
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.20亿元；研发人员1,320人，占员工总数比例20.0%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1996,
+                    404,
+                    2034
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2064,
+                    360,
+                    2093
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    606,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9217,
+                "bbox": [
+                    128,
+                    19,
+                    868,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9136,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    121,
+                    1520,
+                    340
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.60</td><td rowspan=1 colspan=1>-4.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.50</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9246,
+                "bbox": [
+                    140,
+                    349,
+                    1495,
+                    438
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9626,
+                "bbox": [
+                    142,
+                    471,
+                    572,
+                    514
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7761,
+                "bbox": [
+                    142,
+                    540,
+                    446,
+                    576
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    132,
+                    585,
+                    1520,
+                    811
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>15.80</td><td rowspan=1 colspan=1>14.60</td><td rowspan=1 colspan=1>+8.2%</td><td rowspan=1 colspan=1>经营积累及中期票据</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>11.40</td><td rowspan=1 colspan=1>+10.5%</td><td rowspan=1 colspan=1>在手订单备产与发出商品增加</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.40</td><td rowspan=1 colspan=1>+16.2%</td><td rowspan=1 colspan=1>整线项目预收款增加</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9621,
+                "bbox": [
+                    142,
+                    842,
+                    510,
+                    885
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    140,
+                    901,
+                    1497,
+                    990
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    141,
+                    1011,
+                    1491,
+                    1100
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9532,
+                "bbox": [
+                    142,
+                    1134,
+                    350,
+                    1178
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9622,
+                "bbox": [
+                    141,
+                    1191,
+                    1073,
+                    1232
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9599,
+                "bbox": [
+                    200,
+                    1255,
+                    1274,
+                    1296
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9628,
+                "bbox": [
+                    198,
+                    1319,
+                    1072,
+                    1360
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9602,
+                "bbox": [
+                    199,
+                    1383,
+                    1391,
+                    1425
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9611,
+                "bbox": [
+                    199,
+                    1446,
+                    926,
+                    1488
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9616,
+                "bbox": [
+                    199,
+                    1511,
+                    1216,
+                    1553
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9608,
+                "bbox": [
+                    142,
+                    1599,
+                    467,
+                    1647
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    140,
+                    1669,
+                    1491,
+                    1759
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    141,
+                    1780,
+                    1483,
+                    1916
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    140,
+                    1939,
+                    1510,
+                    2076
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9607,
+                "bbox": [
+                    143,
+                    2122,
+                    429,
+                    2169
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.949,
+                "bbox": [
+                    128,
+                    2232,
+                    611,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9375,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    867,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    352,
+                    1489,
+                    382
+                ],
+                "score": 0.999,
+                "text": "报告期内经营活动现金流量净额5.90亿元，同比增长22.9%；投资活动净流出4.60亿元，为整机产能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    402,
+                    799,
+                    427
+                ],
+                "score": 0.997,
+                "text": "扩建与减速器产线投入；筹资活动净流入1.80亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    471,
+                    565,
+                    511
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    542,
+                    440,
+                    574
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    846,
+                    501,
+                    881
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    909,
+                    1489,
+                    934
+                ],
+                "score": 0.999,
+                "text": "2026年经营目标：营业收入60亿元左右，同比增长约23%；整机出货4.3万台，核心零部件外供收入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    956,
+                    863,
+                    981
+                ],
+                "score": 0.999,
+                "text": "突破10亿元；人形机器人丝杠与磁组件形成小批量交付。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1017,
+                    1484,
+                    1047
+                ],
+                "score": 0.999,
+                "text": "产能方面，顺德三期整机基地将于2026年二季度投产，新增年产能1.5万台；减速器产线完成二代工"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1063,
+                    552,
+                    1092
+                ],
+                "score": 1.0,
+                "text": "艺切换，单位成本目标再降8%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1136,
+                    344,
+                    1178
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1198,
+                    1063,
+                    1225
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    1262,
+                    1267,
+                    1289
+                ],
+                "score": 1.0,
+                "text": "下游波动风险：汽车与新能源行业资本开支若放缓，公司订单增长将受到直接影响。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1327,
+                    1063,
+                    1353
+                ],
+                "score": 1.0,
+                "text": "价格竞争风险：整机市场竞争者众多，价格战若重启将侵蚀毛利率。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1388,
+                    1383,
+                    1420
+                ],
+                "score": 1.0,
+                "text": "人形机器人不确定性风险：人形产业化节奏存在不确定性，相关部件投入短期难以兑现收入。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1455,
+                    915,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "原材料风险：钕铁硼磁材与精密轴承价格波动影响成本。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1519,
+                    1207,
+                    1545
+                ],
+                "score": 1.0,
+                "text": "海外拓展风险：境外收入占比尚低，认证、关税与本地化服务能力仍在建设期。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1590,
+                    463,
+                    1648
+                ],
+                "score": 0.961,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1674,
+                    1485,
+                    1705
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1724,
+                    1147,
+                    1750
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1785,
+                    1477,
+                    1816
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1836,
+                    1411,
+                    1861
+                ],
+                "score": 0.965,
+                "text": "1.50元(含税)，合计派发现金红利1.02亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1880,
+                    265,
+                    1914
+                ],
+                "score": 0.998,
+                "text": "24.00%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1947,
+                    1500,
+                    1972
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为正行会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1994,
+                    1499,
+                    2019
+                ],
+                "score": 0.991,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘正行会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2042,
+                    617,
+                    2067
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2115,
+                    428,
+                    2172
+                ],
+                "score": 0.992,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9445,
+                "bbox": [
+                    127,
+                    19,
+                    869,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8996,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    139,
+                    122,
+                    1505,
+                    306
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    327,
+                    1499,
+                    417
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9757,
+                "bbox": [
+                    141,
+                    438,
+                    1500,
+                    528
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.966,
+                "bbox": [
+                    142,
+                    573,
+                    806,
+                    623
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564,
+                "bbox": [
+                    141,
+                    655,
+                    413,
+                    699
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.919,
+                "bbox": [
+                    142,
+                    724,
+                    368,
+                    760
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    770,
+                    1520,
+                    1046
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=2 colspan=1>指标单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>11.2</td><td rowspan=1 colspan=1>-4.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>36,800</td><td rowspan=1 colspan=1>+2.6%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>32.4</td><td rowspan=1 colspan=1>+1.8%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>540</td><td rowspan=1 colspan=1>+16.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8935,
+                "bbox": [
+                    140,
+                    1056,
+                    1500,
+                    1145
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9485,
+                "bbox": [
+                    142,
+                    1176,
+                    350,
+                    1222
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    140,
+                    1235,
+                    1502,
+                    1326
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.957,
+                "bbox": [
+                    143,
+                    1357,
+                    479,
+                    1401
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9773,
+                "bbox": [
+                    139,
+                    1416,
+                    1499,
+                    1507
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    142,
+                    1551,
+                    433,
+                    1600
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    140,
+                    1622,
+                    1482,
+                    1711
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9605,
+                "bbox": [
+                    199,
+                    1733,
+                    1042,
+                    1775
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9597,
+                "bbox": [
+                    199,
+                    1796,
+                    810,
+                    1837
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9592,
+                "bbox": [
+                    198,
+                    1860,
+                    1327,
+                    1902
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784,
+                "bbox": [
+                    141,
+                    1924,
+                    1475,
+                    2014
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9201,
+                "bbox": [
+                    142,
+                    2060,
+                    618,
+                    2108
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9453,
+                "bbox": [
+                    142,
+                    2136,
+                    351,
+                    2174
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9462,
+                "bbox": [
+                    128,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9381,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    866,
+                    56
+                ],
+                "score": 0.975,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    125,
+                    1492,
+                    156
+                ],
+                "score": 0.995,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    176,
+                    1497,
+                    201
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    224,
+                    1489,
+                    250
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    270,
+                    465,
+                    295
+                ],
+                "score": 0.989,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    335,
+                    1490,
+                    360
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    382,
+                    1222,
+                    408
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    446,
+                    1491,
+                    471
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    492,
+                    334,
+                    522
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    575,
+                    798,
+                    621
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    657,
+                    406,
+                    698
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    730,
+                    361,
+                    756
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1059,
+                    1492,
+                    1089
+                ],
+                "score": 0.998,
+                "text": "公司机器人替代人工累计帮助下游客户减少重复性高强度岗位暴露，报告期内获评省级绿色工厂；供"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1109,
+                    659,
+                    1134
+                ],
+                "score": 1.0,
+                "text": "应链社会责任审核覆盖65家核心供应商。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1177,
+                    347,
+                    1225
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1242,
+                    1493,
+                    1267
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数6,600人，其中研发人员1,320人。报告期内公司持续完善职业发展通道与培"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1288,
+                    1470,
+                    1318
+                ],
+                "score": 1.0,
+                "text": "训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1360,
+                    470,
+                    1401
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1424,
+                    1490,
+                    1450
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1467,
+                    1030,
+                    1499
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1552,
+                    423,
+                    1598
+                ],
+                "score": 0.94,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1625,
+                    1475,
+                    1658
+                ],
+                "score": 1.0,
+                "text": "重大项目：报告期内公司中标某头部新能源电池厂商整厂机器人项目，金额约4.5亿元，为单一最大"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1671,
+                    225,
+                    1709
+                ],
+                "score": 1.0,
+                "text": "订单。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1741,
+                    1033,
+                    1767
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1804,
+                    799,
+                    1831
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1868,
+                    1318,
+                    1897
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为210万元，程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1930,
+                    1468,
+                    1960
+                ],
+                "score": 1.0,
+                "text": "股权激励：报告期内公司实施2025年第二期限制性股票激励计划，向160名核心人员授予380万股，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1979,
+                    893,
+                    2005
+                ],
+                "score": 1.0,
+                "text": "考核目标为2026-2028年营业收入复合增长率不低于20%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2062,
+                    611,
+                    2106
+                ],
+                "score": 0.976,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2141,
+                    345,
+                    2171
+                ],
+                "score": 0.957,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9279,
+                "bbox": [
+                    128,
+                    19,
+                    868,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8891,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    120,
+                    1522,
+                    345
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>55,760.0</td><td rowspan=1 colspan=1>82.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>12,240.0</td><td rowspan=1 colspan=1>18.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>68,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9376,
+                "bbox": [
+                    143,
+                    376,
+                    444,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5813,
+                "bbox": [
+                    143,
+                    444,
+                    550,
+                    481
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    131,
+                    490,
+                    1521,
+                    1166
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>磐石控股集团有限公司</td><td rowspan=1 colspan=1>23.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家制造业转型升级基金股份有限公司</td><td rowspan=1 colspan=1>6.50%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.40%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>广东智能制造产业基金（有限合伙）</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——六组合</td><td rowspan=1 colspan=1>3.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金一二零二组合</td><td rowspan=1 colspan=1>2.90%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>磐石员工持股计划</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>易方达创业板ETF</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏中证机器人ETF</td><td rowspan=1 colspan=1>1.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>招商国证智能制造指数基金</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>54.30%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9246,
+                "bbox": [
+                    140,
+                    1172,
+                    1477,
+                    1262
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9585,
+                "bbox": [
+                    142,
+                    1306,
+                    430,
+                    1357
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9434,
+                "bbox": [
+                    142,
+                    1390,
+                    349,
+                    1433
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851,
+                "bbox": [
+                    139,
+                    1448,
+                    1509,
+                    1632
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9534,
+                "bbox": [
+                    142,
+                    1663,
+                    680,
+                    1709
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5061,
+                "bbox": [
+                    143,
+                    1734,
+                    391,
+                    1771
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    131,
+                    1779,
+                    1522,
+                    2176
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>15.80</td><td rowspan=1 colspan=1>14.60</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>13.10</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>11.40</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>28.40</td><td rowspan=1 colspan=1>26.20</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>15.40</td><td rowspan=1 colspan=1>15.50</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>86.40</td><td rowspan=1 colspan=1>80.80</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9415,
+                "bbox": [
+                    128,
+                    2231,
+                    612,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9375,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    867,
+                    56
+                ],
+                "score": 0.976,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    377,
+                    438,
+                    418
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    449,
+                    545,
+                    479
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1177,
+                    1470,
+                    1207
+                ],
+                "score": 0.999,
+                "text": "公司控股股东为磐石控股集团有限公司，实际控制人为石镌坚。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1221,
+                    280,
+                    1259
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1300,
+                    428,
+                    1359
+                ],
+                "score": 0.972,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1389,
+                    344,
+                    1434
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1456,
+                    1496,
+                    1481
+                ],
+                "score": 0.988,
+                "text": "公司2025年度财务报表业经正行会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1503,
+                    1499,
+                    1528
+                ],
+                "score": 0.985,
+                "text": "意见(正行审字[2026]第0452号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1550,
+                    1489,
+                    1576
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1595,
+                    277,
+                    1626
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1668,
+                    672,
+                    1706
+                ],
+                "score": 0.952,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1739,
+                    386,
+                    1768
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    607,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8911,
+                "bbox": [
+                    128,
+                    19,
+                    869,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9001,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    457
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初 (亿元)</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>15.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>11.80</td><td rowspan=1 colspan=1>11.20</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>36.80</td><td rowspan=1 colspan=1>33.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>49.60</td><td rowspan=1 colspan=1>47.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9467,
+                "bbox": [
+                    141,
+                    470,
+                    1203,
+                    504
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    142,
+                    531,
+                    616,
+                    575
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5006,
+                "bbox": [
+                    144,
+                    601,
+                    338,
+                    637
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    646,
+                    1521,
+                    1041
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>39.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>33.64</td><td rowspan=1 colspan=1>27.66</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>9.95</td><td rowspan=1 colspan=1>8.77</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>4.25</td><td rowspan=1 colspan=1>3.76</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>3.82</td><td rowspan=1 colspan=1>3.40</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9584,
+                "bbox": [
+                    142,
+                    1074,
+                    680,
+                    1117
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7838,
+                "bbox": [
+                    143,
+                    1143,
+                    390,
+                    1178
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9855,
+                "bbox": [
+                    133,
+                    1187,
+                    1520,
+                    1407
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.60</td><td rowspan=1 colspan=1>-4.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.50</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9181,
+                "bbox": [
+                    140,
+                    1416,
+                    1497,
+                    1505
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564,
+                "bbox": [
+                    144,
+                    1551,
+                    382,
+                    1599
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596,
+                "bbox": [
+                    143,
+                    1622,
+                    1265,
+                    1662
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.961,
+                "bbox": [
+                    143,
+                    1686,
+                    1130,
+                    1726
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9603,
+                "bbox": [
+                    144,
+                    1750,
+                    887,
+                    1790
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9588,
+                "bbox": [
+                    144,
+                    1814,
+                    722,
+                    1854
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.955,
+                "bbox": [
+                    157,
+                    1898,
+                    827,
+                    1934
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9466,
+                "bbox": [
+                    128,
+                    2232,
+                    612,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9407,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    866,
+                    56
+                ],
+                "score": 0.978,
+                "text": "佛山磐石机器人股份有限公司（301502.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    474,
+                    1197,
+                    498
+                ],
+                "score": 1.0,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    536,
+                    608,
+                    571
+                ],
+                "score": 0.947,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    603,
+                    334,
+                    634
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1079,
+                    672,
+                    1112
+                ],
+                "score": 0.944,
+                "text": "四、合并现金流量表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1148,
+                    385,
+                    1173
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1419,
+                    1491,
+                    1449
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1465,
+                    307,
+                    1502
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1543,
+                    379,
+                    1601
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1626,
+                    1260,
+                    1660
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1693,
+                    1121,
+                    1719
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1757,
+                    878,
+                    1783
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1820,
+                    713,
+                    1849
+                ],
+                "score": 1.0,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    1905,
+                    818,
+                    1927
+                ],
+                "score": 0.987,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    607,
+                    2260
+                ],
+                "score": 0.981,
+                "text": "佛山磐石机器人股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

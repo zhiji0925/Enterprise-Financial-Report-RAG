@@ -1,0 +1,4677 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9276,
+                "bbox": [
+                    128,
+                    19,
+                    927,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.668,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9691,
+                "bbox": [
+                    281,
+                    394,
+                    1371,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7395,
+                "bbox": [
+                    680,
+                    536,
+                    971,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8997,
+                "bbox": [
+                    455,
+                    669,
+                    1197,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9387,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9295,
+                "bbox": [
+                    552,
+                    1156,
+                    1099,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9417,
+                "bbox": [
+                    132,
+                    2232,
+                    657,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9312,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    925,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    286,
+                    396,
+                    1368,
+                    482
+                ],
+                "score": 1.0,
+                "text": "上海硅普半导体材料股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    686,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 1.0,
+                "text": "2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.983,
+                "text": "(股票简称：硅普材料股票代码：688377.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    677,
+                    747,
+                    974,
+                    776
+                ],
+                "score": 0.989,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年3月31日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    560,
+                    1163,
+                    1093,
+                    1187
+                ],
+                "score": 0.995,
+                "text": "公司统一社会信用代码：91310115MA1HQX5P8T"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    651,
+                    2260
+                ],
+                "score": 0.989,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9415,
+                "bbox": [
+                    128,
+                    19,
+                    926,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8777,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9476,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9748,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9676,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9724,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9719,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9474,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9418,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9695,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9438,
+                "bbox": [
+                    132,
+                    2231,
+                    656,
+                    2263
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9377,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    924,
+                    56
+                ],
+                "score": 0.98,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.967,
+                "text": "红利1.00元(含税)，合计派发现金红利0.52亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    882,
+                    435
+                ],
+                "score": 1.0,
+                "text": "22.81%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.959,
+                "text": "报告(瀚华审字[2026]第0761号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 0.995,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.991,
+                "text": "八、公司负责人隆禹声、主管会计工作负责人虞聆澜及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2236,
+                    651,
+                    2260
+                ],
+                "score": 0.984,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9443,
+                "bbox": [
+                    128,
+                    18,
+                    926,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8902,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9768,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9307,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9414,
+                "bbox": [
+                    133,
+                    2231,
+                    656,
+                    2263
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9342,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    925,
+                    56
+                ],
+                "score": 0.982,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.946,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.959,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.968,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2236,
+                    652,
+                    2260
+                ],
+                "score": 0.984,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.951,
+                "bbox": [
+                    129,
+                    19,
+                    926,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9062,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.645,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    132,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、硅普材料</td><td rowspan=1 colspan=1>指上海硅普半导体材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>半导体硅片</td><td rowspan=1 colspan=1>指经抛光或外延加工后用于芯片制造的硅晶圆片</td></tr><tr><td rowspan=1 colspan=1>12英寸硅片</td><td rowspan=1 colspan=1>指直径300mm的半导体硅片</td></tr><tr><td rowspan=1 colspan=1>CMP</td><td rowspan=1 colspan=1>指化学机械抛光，晶圆制造中实现全局平坦化的关键工序</td></tr><tr><td rowspan=1 colspan=1>抛光液</td><td rowspan=1 colspan=1>指CMP工艺中以纳米磨料与化学组分配制的功能性材料</td></tr><tr><td rowspan=1 colspan=1>外延片</td><td rowspan=1 colspan=1>指在衬底表面生长单晶外延层的硅片产品</td></tr><tr><td rowspan=1 colspan=1>TFT</td><td rowspan=1 colspan=1>指应用于功率器件等领域的轻掺杂硅片技术路线</td></tr><tr><td rowspan=1 colspan=1>正片</td><td rowspan=1 colspan=1>指直接用于芯片制造的硅片，区别于测试用片</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9637,
+                "bbox": [
+                    143,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    140,
+                    868,
+                    1508,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    140,
+                    1026,
+                    1506,
+                    1164
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792,
+                "bbox": [
+                    141,
+                    1184,
+                    1495,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9549,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.964,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.953,
+                "bbox": [
+                    142,
+                    1467,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6798,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1569
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>上海硅普半导体材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>硅普材料</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688377.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>上海市临港新片区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2020年9月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>半导体材料（硅片及CMP材料）</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>隆禹声</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>方照野</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9465,
+                "bbox": [
+                    132,
+                    2231,
+                    656,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.94,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    20,
+                    924,
+                    56
+                ],
+                "score": 0.979,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    795,
+                    463,
+                    847
+                ],
+                "score": 0.988,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    873,
+                    1500,
+                    898
+                ],
+                "score": 0.998,
+                "text": "2025年，中国晶圆厂在成熟制程上的扩产，让国产材料从'备选目录'走进了'主供名单'。硅普材料全年"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    923,
+                    1475,
+                    948
+                ],
+                "score": 1.0,
+                "text": "营业收入22.40亿元，同比增长27.3%；归母净利润2.28亿元，同比增长52.0%；12英寸硅片产线满产满"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    968,
+                    720,
+                    997
+                ],
+                "score": 1.0,
+                "text": "销，CMP材料进入境内主流存储与逻辑产线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1033,
+                    1474,
+                    1058
+                ],
+                "score": 1.0,
+                "text": "材料的壁垒是时间的函数。过去一年，公司12英寸正片月出货量突破15万片，累计通过21个客户端"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1080,
+                    1496,
+                    1105
+                ],
+                "score": 0.999,
+                "text": "认证；CMP抛光液在存储客户实现用量占比翻倍，抛光垫完成国产首发导入。我们把每一张硅片的良率记"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1128,
+                    947,
+                    1153
+                ],
+                "score": 0.999,
+                "text": "录、每一批抛光液的批次稳定性，都视作对客户最郑重的承诺。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1192,
+                    1486,
+                    1217
+                ],
+                "score": 0.991,
+                "text": "2026年，公司将围绕'尺寸升级、材料扩类、客户拓深'三条主线推进，让国产半导体材料在更多工艺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1239,
+                    945,
+                    1265
+                ],
+                "score": 1.0,
+                "text": "节点成为第一选择。感谢股东、客户与硅普同仁一年来的同行。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1300,
+                    562,
+                    1334
+                ],
+                "score": 0.999,
+                "text": "董事长：隆禹声2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.971,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1466,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1539,
+                    309,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    650,
+                    2259
+                ],
+                "score": 0.982,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9232,
+                "bbox": [
+                    129,
+                    19,
+                    926,
+                    58
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8989,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>虞聆澜</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>2,900</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9527,
+                "bbox": [
+                    142,
+                    374,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    141,
+                    434,
+                    1506,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    142,
+                    545,
+                    1493,
+                    636
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9539,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8063,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>17.60</td><td rowspan=1 colspan=1>+27.3%</td><td rowspan=1 colspan=1>14.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>2.28</td><td rowspan=1 colspan=1>1.50</td><td rowspan=1 colspan=1>+52.0%</td><td rowspan=1 colspan=1>1.12</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>1.96</td><td rowspan=1 colspan=1>1.28</td><td rowspan=1 colspan=1>+53.1%</td><td rowspan=1 colspan=1>0.92</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>+26.5%</td><td rowspan=1 colspan=1>3.40</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.44</td><td rowspan=1 colspan=1>0.29</td><td rowspan=1 colspan=1>+52.0%</td><td rowspan=1 colspan=1>0.22</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>增加1.30个百分点</td><td rowspan=1 colspan=1>2.50</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>94.80</td><td rowspan=1 colspan=1>86.20</td><td rowspan=1 colspan=1>+10.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>52.60</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>+7.6%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9543,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.925,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    1511,
+                    1520,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>临港新片区集成电路材料专项支持</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.02</td><td rowspan=1 colspan=1>汇兑及补贴返还等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.32</td><td rowspan=1 colspan=1>占归母净利润比例14.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.956,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9607,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7945,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9856,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>5.40</td><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>6.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.44</td><td rowspan=1 colspan=1>0.53</td><td rowspan=1 colspan=1>0.61</td><td rowspan=1 colspan=1>0.70</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9452,
+                "bbox": [
+                    132,
+                    2231,
+                    657,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.936,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    20,
+                    923,
+                    57
+                ],
+                "score": 0.978,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    408,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    439,
+                    1500,
+                    470
+                ],
+                "score": 1.0,
+                "text": "公司成立于2012年，总部位于上海临港新片区，2020年9月在上海证券交易所科创板上市，是国内最"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    489,
+                    1307,
+                    515
+                ],
+                "score": 0.999,
+                "text": "早实现12英寸半导体硅片批量销售的企业之一，同时布局CMP抛光液、抛光垫等工艺耗材。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    552,
+                    1486,
+                    582
+                ],
+                "score": 0.988,
+                "text": "公司建有月产能20万片12英寸硅片产线（报告期末实际月出货15万片）及CMP材料智能化工厂；报"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    596,
+                    1182,
+                    626
+                ],
+                "score": 1.0,
+                "text": "告期内完成第二期产能扩展设备安装，规划2026年6月前将月产能提升至25万片。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 0.993,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 0.988,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    651,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9458,
+                "bbox": [
+                    128,
+                    18,
+                    927,
+                    58
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8892,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    57
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4578,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    141,
+                    204,
+                    605,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    139,
+                    263,
+                    1507,
+                    400
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    140,
+                    421,
+                    1509,
+                    560
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561,
+                "bbox": [
+                    141,
+                    589,
+                    637,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    141,
+                    649,
+                    1484,
+                    740
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788,
+                "bbox": [
+                    140,
+                    760,
+                    1508,
+                    852
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9567,
+                "bbox": [
+                    142,
+                    881,
+                    573,
+                    927
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9112,
+                "bbox": [
+                    143,
+                    951,
+                    498,
+                    989
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    998,
+                    1520,
+                    1275
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>12英寸半导体硅片</td><td rowspan=1 colspan=1>12.10</td><td rowspan=1 colspan=1>54.0%</td><td rowspan=1 colspan=1>30.2%</td><td rowspan=1 colspan=1>+32.6%</td></tr><tr><td rowspan=1 colspan=1>CMP抛光液及抛光垫</td><td rowspan=1 colspan=1>5.82</td><td rowspan=1 colspan=1>26.0%</td><td rowspan=1 colspan=1>38.6%</td><td rowspan=1 colspan=1>+24.1%</td></tr><tr><td rowspan=1 colspan=1>功能性化学品及服务</td><td rowspan=1 colspan=1>4.48</td><td rowspan=1 colspan=1>20.0%</td><td rowspan=1 colspan=1>30.9%</td><td rowspan=1 colspan=1>+16.9%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>32.1%</td><td rowspan=1 colspan=1>+27.3%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9781,
+                "bbox": [
+                    139,
+                    1283,
+                    1496,
+                    1420
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9025,
+                "bbox": [
+                    143,
+                    1447,
+                    433,
+                    1483
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876,
+                "bbox": [
+                    132,
+                    1493,
+                    1520,
+                    1715
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>20.16</td><td rowspan=1 colspan=1>90.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>2.24</td><td rowspan=1 colspan=1>10.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9474,
+                "bbox": [
+                    142,
+                    1728,
+                    727,
+                    1764
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.956,
+                "bbox": [
+                    143,
+                    1791,
+                    412,
+                    1834
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9318,
+                "bbox": [
+                    145,
+                    1859,
+                    535,
+                    1896
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9867,
+                "bbox": [
+                    133,
+                    1905,
+                    1520,
+                    2133
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>多晶硅及原料</td><td rowspan=1 colspan=1>38.2%</td><td rowspan=1 colspan=1>40.5%</td><td rowspan=1 colspan=1>多晶硅采购价格回落</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>31.8%</td><td rowspan=1 colspan=1>31.0%</td><td rowspan=1 colspan=1>满产摊薄，产能利用率提升</td></tr><tr><td rowspan=1 colspan=1>折旧摊销</td><td rowspan=1 colspan=1>22.4%</td><td rowspan=1 colspan=1>21.6%</td><td rowspan=1 colspan=1>新增产线设备转固</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9464,
+                "bbox": [
+                    131,
+                    2231,
+                    657,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.938,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    925,
+                    57
+                ],
+                "score": 0.977,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1526,
+                    61
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    209,
+                    597,
+                    246
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    271,
+                    1499,
+                    296
+                ],
+                "score": 1.0,
+                "text": "2025年，全球半导体硅片市场面积约170亿美元，12英寸硅片占比超过70%。中国大陆晶圆产能占全"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    318,
+                    1481,
+                    343
+                ],
+                "score": 1.0,
+                "text": "球比例接近30%，境内12英寸硅片自给率约35%，国产替代空间依然显著。同期CMP材料市场规模约25"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    366,
+                    510,
+                    391
+                ],
+                "score": 1.0,
+                "text": "亿美元，国产化率不足30%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    429,
+                    1472,
+                    455
+                ],
+                "score": 0.999,
+                "text": "行业格局方面，海外五大硅片厂仍占据高端正片市场主导地位，但境内晶圆厂出于供应链安全考虑，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    476,
+                    1499,
+                    501
+                ],
+                "score": 1.0,
+                "text": "正系统性提升国产材料导入比例。具备稳定量产记录与客户端认证积累的国产厂商，正在从测试片向正片、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    525,
+                    656,
+                    550
+                ],
+                "score": 1.0,
+                "text": "从轻掺向重掺及外延等高价值品类延伸。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    627,
+                    630
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    657,
+                    1477,
+                    683
+                ],
+                "score": 0.994,
+                "text": "公司主营业务为12英寸半导体硅片（含抛光片、外延片）及CMP抛光材料的研发、生产与销售。硅"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    703,
+                    1412,
+                    729
+                ],
+                "score": 1.0,
+                "text": "片产品覆盖轻掺杂、重掺杂及外延等主要品类，应用于存储、逻辑、功率及图像传感器等芯片制造。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    766,
+                    1501,
+                    796
+                ],
+                "score": 0.999,
+                "text": "报告期内，公司硅片业务满产满销，正片出货占比提升至78%；CMP材料端形成抛光液、抛光垫双产"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    815,
+                    859,
+                    840
+                ],
+                "score": 1.0,
+                "text": "品线，覆盖氧化层、金属层与多层互连等主要工艺步骤。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    886,
+                    566,
+                    924
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    955,
+                    492,
+                    985
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1286,
+                    1490,
+                    1316
+                ],
+                "score": 0.999,
+                "text": "12英寸硅片收入12.10亿元，同比增长32.6%，正片占比与出货结构共同改善；CMP抛光液及抛光垫"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1337,
+                    1485,
+                    1362
+                ],
+                "score": 1.0,
+                "text": "收入5.82亿元，同比增长24.1%，毛利率为各业务线中最高；功能性化学品及服务收入4.48亿元，随客户"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1383,
+                    393,
+                    1412
+                ],
+                "score": 1.0,
+                "text": "制程扩类稳步增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1449,
+                    427,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1735,
+                    722,
+                    1757
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的61.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1794,
+                    408,
+                    1835
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1866,
+                    528,
+                    1891
+                ],
+                "score": 0.947,
+                "text": "营业成本构成（占营业成本比例)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    651,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "上海硅普半导体材料股份有限公司2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9528,
+                "bbox": [
+                    129,
+                    19,
+                    926,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9098,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9805,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    234
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>能源及其他</td><td rowspan=1 colspan=1>7.6%</td><td rowspan=1 colspan=1>6.9%</td><td rowspan=1 colspan=1>电价结构调整</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9623,
+                "bbox": [
+                    143,
+                    263,
+                    506,
+                    306
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.719,
+                "bbox": [
+                    143,
+                    333,
+                    313,
+                    368
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9879,
+                "bbox": [
+                    132,
+                    378,
+                    1520,
+                    654
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.02</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>+18.6%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.35</td><td rowspan=1 colspan=1>1.18</td><td rowspan=1 colspan=1>+14.4%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.18</td><td rowspan=1 colspan=1>2.72</td><td rowspan=1 colspan=1>+16.9%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.28</td><td rowspan=1 colspan=1>0.35</td><td rowspan=1 colspan=1>-20.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7978,
+                "bbox": [
+                    140,
+                    663,
+                    1505,
+                    753
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9591,
+                "bbox": [
+                    142,
+                    785,
+                    413,
+                    828
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8718,
+                "bbox": [
+                    143,
+                    854,
+                    365,
+                    890
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    133,
+                    901,
+                    1520,
+                    1121
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>4.90</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-12.80</td><td rowspan=1 colspan=1>-11.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>2.00</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9329,
+                "bbox": [
+                    142,
+                    1129,
+                    1494,
+                    1265
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9588,
+                "bbox": [
+                    143,
+                    1298,
+                    572,
+                    1341
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.845,
+                "bbox": [
+                    142,
+                    1366,
+                    446,
+                    1403
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9893,
+                "bbox": [
+                    132,
+                    1412,
+                    1520,
+                    1752
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>15.80</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>+27.4%</td><td rowspan=1 colspan=1>定增资金到位及经营积累</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>+18.5%</td><td rowspan=1 colspan=1>战略备货以保障满产</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>48.20</td><td rowspan=1 colspan=1>43.50</td><td rowspan=1 colspan=1>+10.8%</td><td rowspan=1 colspan=1>二期扩产设备转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>5.40</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>-34.1%</td><td rowspan=1 colspan=1>二期项目部分转固</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+21.6%</td><td rowspan=1 colspan=1>销量增长带动</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9613,
+                "bbox": [
+                    143,
+                    1783,
+                    509,
+                    1826
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    139,
+                    1840,
+                    1501,
+                    1977
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9797,
+                "bbox": [
+                    140,
+                    2000,
+                    1482,
+                    2089
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9535,
+                "bbox": [
+                    141,
+                    2122,
+                    348,
+                    2165
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.947,
+                "bbox": [
+                    131,
+                    2231,
+                    656,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.939,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    20,
+                    924,
+                    56
+                ],
+                "score": 0.979,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    269,
+                    499,
+                    302
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    307,
+                    365
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    666,
+                    1499,
+                    696
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计3.20亿元，占营业收入比例14.3%，其中费用化研发费用3.18亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    715,
+                    1083,
+                    744
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.02亿元；研发人员780人，占员工总数比例26.9%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    788,
+                    407,
+                    829
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    860,
+                    360,
+                    886
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1135,
+                    1487,
+                    1160
+                ],
+                "score": 0.999,
+                "text": "报告期内经营活动现金流量净额6.20亿元，同比增长26.5%，主要系回款质量良好叠加存货周转平稳"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1181,
+                    1473,
+                    1206
+                ],
+                "score": 0.992,
+                "text": "；投资活动净流出12.80亿元，集中在二期扩产项目；筹资活动净流入4.20亿元，主要为2025年2月向特"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1229,
+                    479,
+                    1255
+                ],
+                "score": 1.0,
+                "text": "定对象发行股票募集资金。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1299,
+                    565,
+                    1338
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1372,
+                    440,
+                    1401
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1787,
+                    502,
+                    1822
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1848,
+                    1495,
+                    1873
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入28亿元左右，同比增长25%左右；12英寸月产能提升至25万片，CMP材"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1897,
+                    1482,
+                    1922
+                ],
+                "score": 1.0,
+                "text": "料收入占比提升至30%。公司将推进外延片在功率与CIS客户的批量导入，并启动8英寸碳化硅衬底外延"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1941,
+                    363,
+                    1971
+                ],
+                "score": 1.0,
+                "text": "材料的前期研发。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2008,
+                    1472,
+                    2033
+                ],
+                "score": 0.998,
+                "text": "研发方面，公司规划研发投入3.9亿元，重点投向低缺陷硅片工艺、抛光垫国产配方迭代及面板级封"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2055,
+                    718,
+                    2080
+                ],
+                "score": 0.995,
+                "text": "装用材料，保持'硅片+耗材'双轮的技术纵深。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2123,
+                    344,
+                    2166
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    650,
+                    2259
+                ],
+                "score": 0.982,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9434,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9563,
+                "bbox": [
+                    129,
+                    19,
+                    927,
+                    57
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8913,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9633,
+                "bbox": [
+                    142,
+                    122,
+                    1073,
+                    162
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    141,
+                    186,
+                    1495,
+                    273
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9615,
+                "bbox": [
+                    198,
+                    297,
+                    1159,
+                    337
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9608,
+                "bbox": [
+                    198,
+                    360,
+                    1013,
+                    401
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9608,
+                "bbox": [
+                    197,
+                    424,
+                    1333,
+                    466
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9567,
+                "bbox": [
+                    199,
+                    488,
+                    1362,
+                    530
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    142,
+                    575,
+                    467,
+                    624
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    140,
+                    646,
+                    1491,
+                    736
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836,
+                "bbox": [
+                    141,
+                    757,
+                    1483,
+                    892
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    140,
+                    916,
+                    1510,
+                    1053
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9632,
+                "bbox": [
+                    142,
+                    1099,
+                    431,
+                    1147
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    139,
+                    1169,
+                    1504,
+                    1353
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    140,
+                    1374,
+                    1498,
+                    1465
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    141,
+                    1485,
+                    1500,
+                    1575
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9659,
+                "bbox": [
+                    141,
+                    1620,
+                    805,
+                    1670
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.953,
+                "bbox": [
+                    141,
+                    1703,
+                    413,
+                    1746
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.854,
+                "bbox": [
+                    142,
+                    1772,
+                    368,
+                    1808
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.989,
+                "bbox": [
+                    131,
+                    1818,
+                    1521,
+                    2099
+                ],
+                "index": 21,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>5.45</td><td rowspan=1 colspan=1>+6.8%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>20.10</td><td rowspan=1 colspan=1>+5.9%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>268.0</td><td rowspan=1 colspan=1>+3.4%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>4,150</td><td rowspan=1 colspan=1>+16.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9489,
+                "bbox": [
+                    131,
+                    2231,
+                    657,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    924,
+                    56
+                ],
+                "score": 0.981,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    129,
+                    1063,
+                    155
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    192,
+                    1487,
+                    221
+                ],
+                "score": 1.0,
+                "text": "客户集中风险：公司前五名客户收入占比61.5%，主要为境内头部晶圆厂，其资本开支节奏变化对公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    238,
+                    364,
+                    269
+                ],
+                "score": 1.0,
+                "text": "司业绩影响显著。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    304,
+                    1150,
+                    330
+                ],
+                "score": 1.0,
+                "text": "价格波动风险：硅片行业若出现阶段性产能过剩，产品价格存在下行压力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    367,
+                    1005,
+                    394
+                ],
+                "score": 1.0,
+                "text": "原材料风险：多晶硅及核心辅料价格波动可能影响毛利稳定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    427,
+                    1326,
+                    463
+                ],
+                "score": 1.0,
+                "text": "技术迭代风险：若公司在外延、低缺陷率等高端品类上研发滞后，产品结构升级将受限。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    493,
+                    1354,
+                    522
+                ],
+                "score": 1.0,
+                "text": "贸易环境风险：半导体材料部分检测设备依赖进口，相关出口管制变化可能影响扩产进度。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    567,
+                    464,
+                    625
+                ],
+                "score": 0.978,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    651,
+                    1485,
+                    682
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    701,
+                    1147,
+                    727
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    763,
+                    1477,
+                    792
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    811,
+                    1413,
+                    841
+                ],
+                "score": 0.965,
+                "text": "1.00元（含税)，合计派发现金红利0.52亿元（含税），占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    857,
+                    265,
+                    891
+                ],
+                "score": 0.993,
+                "text": "22.81%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    924,
+                    1500,
+                    949
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    971,
+                    1499,
+                    996
+                ],
+                "score": 0.992,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1019,
+                    617,
+                    1044
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1094,
+                    426,
+                    1149
+                ],
+                "score": 0.971,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1175,
+                    1490,
+                    1200
+                ],
+                "score": 0.989,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1224,
+                    1498,
+                    1249
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1271,
+                    1490,
+                    1297
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1317,
+                    466,
+                    1342
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1382,
+                    1489,
+                    1408
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1430,
+                    1223,
+                    1455
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1493,
+                    1491,
+                    1518
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1537,
+                    333,
+                    1567
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1624,
+                    796,
+                    1666
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1706,
+                    407,
+                    1747
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1778,
+                    361,
+                    1804
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    651,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "上海硅普半导体材料股份有限公司2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9483,
+                "bbox": [
+                    128,
+                    19,
+                    927,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8727,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9817,
+                "bbox": [
+                    140,
+                    122,
+                    1498,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.948,
+                "bbox": [
+                    142,
+                    243,
+                    350,
+                    287
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    140,
+                    302,
+                    1509,
+                    393
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    142,
+                    424,
+                    478,
+                    468
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    482,
+                    1499,
+                    573
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9615,
+                "bbox": [
+                    142,
+                    617,
+                    431,
+                    666
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9567,
+                "bbox": [
+                    199,
+                    689,
+                    1041,
+                    729
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9567,
+                "bbox": [
+                    198,
+                    752,
+                    809,
+                    793
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    140,
+                    816,
+                    1493,
+                    905
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783,
+                "bbox": [
+                    141,
+                    927,
+                    1508,
+                    1017
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.957,
+                "bbox": [
+                    198,
+                    1038,
+                    1289,
+                    1081
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9567,
+                "bbox": [
+                    142,
+                    1125,
+                    618,
+                    1175
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5329,
+                "bbox": [
+                    144,
+                    1202,
+                    350,
+                    1239
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9868,
+                "bbox": [
+                    133,
+                    1248,
+                    1520,
+                    1474
+                ],
+                "index": 16,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>49,920.0</td><td rowspan=1 colspan=1>96.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,080.0</td><td rowspan=1 colspan=1>4.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>52,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9382,
+                "bbox": [
+                    143,
+                    1505,
+                    443,
+                    1547
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9414,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7068,
+                "bbox": [
+                    144,
+                    1573,
+                    549,
+                    1609
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    1618,
+                    1521,
+                    2130
+                ],
+                "index": 20,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>硅控材料科技（上海）有限公司</td><td rowspan=1 colspan=1>26.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>临港科创投资（集团）有限公司</td><td rowspan=1 colspan=1>7.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>3.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>沪岳先进材料基金（有限合伙）</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金  一零组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零八组合</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>招商上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.90%</td><td rowspan=1 colspan=1>其他</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9475,
+                "bbox": [
+                    133,
+                    2231,
+                    657,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    925,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    130,
+                    1490,
+                    155
+                ],
+                "score": 0.999,
+                "text": "硅片制造属于高纯度、高耗水环节，公司持续推进闭路循环水系统与氢气回收装置改造，报告期内单"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    177,
+                    1305,
+                    202
+                ],
+                "score": 1.0,
+                "text": "位产品耗新水同比下降7.2%，氟化物排放优于行业标准40%以上，获评上海市节水型企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    241,
+                    345,
+                    292
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    310,
+                    1501,
+                    336
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司员工总数2,900人，其中研发人员780人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    355,
+                    1441,
+                    385
+                ],
+                "score": 1.0,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    429,
+                    470,
+                    467
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    490,
+                    1490,
+                    516
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    538,
+                    1029,
+                    563
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    617,
+                    426,
+                    666
+                ],
+                "score": 0.96,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    696,
+                    1032,
+                    722
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    760,
+                    799,
+                    787
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    822,
+                    1482,
+                    852
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司日常关联交易合计约210万元，均为向关联科研院所采购检测服务，程序合"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    865,
+                    191,
+                    905
+                ],
+                "score": 1.0,
+                "text": "规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    935,
+                    1500,
+                    960
+                ],
+                "score": 0.999,
+                "text": "承诺履行情况：公司控股股东、实际控制人及董监高报告期内不存在违反承诺情形；2025年定增限售"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    981,
+                    420,
+                    1006
+                ],
+                "score": 1.0,
+                "text": "股份承诺正常履行中。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1045,
+                    1282,
+                    1072
+                ],
+                "score": 0.988,
+                "text": "重大投资项目：'二期年产180万片12英寸硅片项目'累计投入进度61%，与计划一致。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1127,
+                    611,
+                    1172
+                ],
+                "score": 0.963,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1206,
+                    346,
+                    1239
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1509,
+                    437,
+                    1544
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1579,
+                    543,
+                    1605
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    651,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9151,
+                "bbox": [
+                    129,
+                    19,
+                    926,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8917,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9864,
+                "bbox": [
+                    132,
+                    119,
+                    1521,
+                    342
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>国泰半导体材料ETF联接基金</td><td rowspan=1 colspan=1>1.65%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>太平洋人寿保险- 万能险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>57.65%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9215,
+                "bbox": [
+                    140,
+                    349,
+                    1499,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9571,
+                "bbox": [
+                    142,
+                    483,
+                    430,
+                    533
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9465,
+                "bbox": [
+                    142,
+                    565,
+                    349,
+                    608
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    139,
+                    623,
+                    1509,
+                    807
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9562,
+                "bbox": [
+                    142,
+                    839,
+                    681,
+                    885
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5754,
+                "bbox": [
+                    143,
+                    909,
+                    392,
+                    946
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    131,
+                    954,
+                    1521,
+                    1574
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>15.80</td><td rowspan=1 colspan=1>12.40</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>5.10</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>8.10</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>48.20</td><td rowspan=1 colspan=1>43.50</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>94.80</td><td rowspan=1 colspan=1>86.20</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>10.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>0.90</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>28.30</td><td rowspan=1 colspan=1>26.20</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>42.00</td><td rowspan=1 colspan=1>37.30</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>52.60</td><td rowspan=1 colspan=1>48.90</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9271,
+                "bbox": [
+                    141,
+                    1588,
+                    1204,
+                    1623
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9538,
+                "bbox": [
+                    142,
+                    1649,
+                    616,
+                    1694
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4798,
+                "bbox": [
+                    144,
+                    1719,
+                    338,
+                    1755
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.989,
+                "bbox": [
+                    132,
+                    1764,
+                    1521,
+                    2162
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>17.60</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>15.21</td><td rowspan=1 colspan=1>12.11</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>5.83</td><td rowspan=1 colspan=1>5.11</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.18</td><td rowspan=1 colspan=1>2.72</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>2.28</td><td rowspan=1 colspan=1>1.50</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>1.96</td><td rowspan=1 colspan=1>1.28</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9405,
+                "bbox": [
+                    131,
+                    2231,
+                    657,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9393,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    20,
+                    924,
+                    56
+                ],
+                "score": 0.979,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 0.992,
+                "text": "公司控股股东为硅控材料科技（上海）有限公司，实际控制人为隆禹声。控股股东所持股份报告期内不存"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    402,
+                    478,
+                    427
+                ],
+                "score": 0.996,
+                "text": "在质押、冻结或减持情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    475,
+                    427,
+                    534
+                ],
+                "score": 0.974,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    564,
+                    344,
+                    609
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    631,
+                    1496,
+                    656
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    678,
+                    1499,
+                    703
+                ],
+                "score": 0.989,
+                "text": "意见（瀚华审字[2026]第0761号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    725,
+                    1489,
+                    751
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    768,
+                    279,
+                    804
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    844,
+                    672,
+                    880
+                ],
+                "score": 0.953,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    914,
+                    386,
+                    943
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1596,
+                    1196,
+                    1615
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1654,
+                    609,
+                    1691
+                ],
+                "score": 0.956,
+                "text": "三、合并利润表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1725,
+                    333,
+                    1751
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    651,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9457,
+                "bbox": [
+                    130,
+                    19,
+                    926,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8989,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9641,
+                "bbox": [
+                    144,
+                    123,
+                    680,
+                    165
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7283,
+                "bbox": [
+                    144,
+                    192,
+                    390,
+                    227
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9423,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9859,
+                "bbox": [
+                    133,
+                    237,
+                    1520,
+                    456
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>4.90</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-12.80</td><td rowspan=1 colspan=1>-11.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>2.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8657,
+                "bbox": [
+                    142,
+                    467,
+                    1497,
+                    554
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.962,
+                "bbox": [
+                    144,
+                    600,
+                    382,
+                    648
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609,
+                "bbox": [
+                    144,
+                    671,
+                    1265,
+                    711
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9628,
+                "bbox": [
+                    144,
+                    735,
+                    1129,
+                    775
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    144,
+                    799,
+                    886,
+                    839
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9592,
+                "bbox": [
+                    144,
+                    863,
+                    721,
+                    902
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9538,
+                "bbox": [
+                    157,
+                    947,
+                    827,
+                    983
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9471,
+                "bbox": [
+                    133,
+                    2232,
+                    656,
+                    2263
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    130,
+                    19,
+                    925,
+                    56
+                ],
+                "score": 0.984,
+                "text": "上海硅普半导体材料股份有限公司（688377.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    126,
+                    672,
+                    162
+                ],
+                "score": 0.945,
+                "text": "四、合并现金流量表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    197,
+                    385,
+                    222
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    471,
+                    1491,
+                    500
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    518,
+                    306,
+                    548
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    592,
+                    379,
+                    650
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    675,
+                    1260,
+                    709
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    742,
+                    1121,
+                    768
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    806,
+                    878,
+                    832
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    867,
+                    715,
+                    900
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    954,
+                    818,
+                    976
+                ],
+                "score": 0.988,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    650,
+                    2259
+                ],
+                "score": 0.982,
+                "text": "上海硅普半导体材料股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

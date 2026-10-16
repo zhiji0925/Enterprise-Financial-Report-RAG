@@ -1,0 +1,270 @@
+# 常州曜锂能源股份有限公司
+
+2025年年度报告
+
+(股票简称：曜锂能源股票代码：688331.SH)(上海证券交易所科创板)
+
+披露日期：2026年4月15日
+
+公司统一社会信用代码：91320412MA1WK5R8JN
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.80元(含税)，合计派发现金红利1.44亿元（含税)，占2025年度归属于上市公司股东净利润的19.41%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告（瀚华审字[2026]第0876号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人祁昭阳、主管会计工作负责人左书言及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、曜锂能源</td><td rowspan=1 colspan=1>指常州曜锂能源股份有限公司</td></tr><tr><td rowspan=1 colspan=1>大储电芯</td><td rowspan=1 colspan=1>指应用于电力储能系统的方形铝壳磷酸铁锂电池</td></tr><tr><td rowspan=1 colspan=1>587Ah电芯</td><td rowspan=1 colspan=1>指公司第三代大容量储能专用电芯产品</td></tr><tr><td rowspan=1 colspan=1>液冷温控</td><td rowspan=1 colspan=1>指基于液冷板的电池热管理方案</td></tr><tr><td rowspan=1 colspan=1>PACK</td><td rowspan=1 colspan=1>指电池模组与结构件集成的电池包</td></tr><tr><td rowspan=1 colspan=1>构网型储能</td><td rowspan=1 colspan=1>指具备主动支撑电网电压与频率能力的储能系统</td></tr><tr><td rowspan=1 colspan=1>容量保持率</td><td rowspan=1 colspan=1>指电池循环若干次后剩余容量与初始容量的比值</td></tr><tr><td rowspan=1 colspan=1>IEC 62619</td><td rowspan=1 colspan=1>指储能电池安全国际标准</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，新型储能从'政策驱动的示范品'变成'电力系统刚需品'。曜锂能源实现营业收入92.60亿元，同比增长29.7%；归母净利润7.42亿元，同比增长41.5%；大储电芯出货量跻身全球前五，587Ah大电芯实现全球首批量产出货。
+
+这一年，行业经历了碳酸锂价格筑底与产能出清的双重考验，公司以'大电芯+长寿命+构网型'的技术差构筑护城河：587Ah电芯循环寿命突破12,000次，系统交付成本较上一代下降14%；海外大储收入占比提升至30%，中东、欧洲市场先后破冰。
+
+电力系统的深度脱碳，需要把每一度过剩的风光'存起来、用起来'。2026年，曜锂将围绕下一代大电芯量产、构网型系统方案与全球交付网络三条主线展开。感谢客户与股东在周期底部给予的信任。
+
+董事长：祁昭阳2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+公司基本情况
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">常州曜锂能源股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">曜锂能源</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">688331.SH</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">上海证券交易所科创板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">江苏省常州市金坛区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2023年6月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">锂离子储能电池及系统</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">祁昭阳</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">明漱石</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">左书言</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">12,600</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于2018年，总部位于江苏常州，2023年6月在上海证券交易所科创板上市，是专业从事储能锂电池与储能系统研发、制造、销售及运维的国家高新技术企业。
+
+公司建有常州、宜宾两大制造基地，储能电芯规划年产能60GWh(报告期末建成38GWh)；截至2025年底，累计装机交付超过35GWh，产品通过IEC 62619、UL1973等国际认证。
+
+## 三、主要会计数据和财务指标
+
+## 近三年主要会计数据和财务指标
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>71.40</td><td rowspan=1 colspan=1>+29.7%</td><td rowspan=1 colspan=1>56.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>7.42</td><td rowspan=1 colspan=1>5.24</td><td rowspan=1 colspan=1>+41.6%</td><td rowspan=1 colspan=1>4.65</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>6.85</td><td rowspan=1 colspan=1>4.72</td><td rowspan=1 colspan=1>+45.1%</td><td rowspan=1 colspan=1>4.15</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td><td rowspan=1 colspan=1>+18.2%</td><td rowspan=1 colspan=1>9.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.93</td><td rowspan=1 colspan=1>0.66</td><td rowspan=1 colspan=1>+41.6%</td><td rowspan=1 colspan=1>0.58</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率(%)</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>6.50</td><td rowspan=1 colspan=1>增加1.60个百分点</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>218.50</td><td rowspan=1 colspan=1>186.40</td><td rowspan=1 colspan=1>+17.2%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>98.30</td><td rowspan=1 colspan=1>84.60</td><td rowspan=1 colspan=1>+16.2%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.38</td><td rowspan=1 colspan=1>新型储能产业化专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.07</td><td rowspan=1 colspan=1>汇兑收益及资产处置</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>占归母净利润比例 7.7%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>19.80</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>24.10</td><td rowspan=1 colspan=1>26.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>1.72</td><td rowspan=1 colspan=1>1.98</td><td rowspan=1 colspan=1>2.30</td></tr></table>
+
+第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年，全球新型储能新增装机约190GWh，同比增长超过30%；中国新增装机约110GWh，继续占据全球半壁江山。大储电芯环节，280Ah向500Ah+切换加速，头部厂商以大容量、长寿命、高安全构建差异化。
+
+市场结构方面，电网侧独立储能与共享储能占比过半，工商业储能在峰谷价差扩大地区快速放量；海外方面，美国大储需求稳健，中东、欧洲与新兴市场启动明显。行业从低价竞标'转向'全生命周期度电成本'竞争，具备技术差与海外渠道的厂商率先走出价格战。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为储能锂电池、储能系统的研发、制造与销售，并提供储能电站运维等技术服务。产品覆盖587Ah及280Ah系列大储电芯、液冷集装箱式储能系统及工商业一体柜。
+
+报告期内，公司587Ah电芯一季度全球首批量产，带动储能电芯均价体系企稳回升；构网型储能系统在三个电网侧项目中投运，海外收入占比提升至30%。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>储能电芯</td><td rowspan=1 colspan=1>68.52</td><td rowspan=1 colspan=1>74.0%</td><td rowspan=1 colspan=1>22.8%</td><td rowspan=1 colspan=1>+31.2%</td></tr><tr><td rowspan=1 colspan=1>储能系统集成</td><td rowspan=1 colspan=1>17.59</td><td rowspan=1 colspan=1>19.0%</td><td rowspan=1 colspan=1>27.2%</td><td rowspan=1 colspan=1>+25.4%</td></tr><tr><td rowspan=1 colspan=1>运维及技术服务</td><td rowspan=1 colspan=1>6.49</td><td rowspan=1 colspan=1>7.0%</td><td rowspan=1 colspan=1>39.4%</td><td rowspan=1 colspan=1>+18.6%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>24.6%</td><td rowspan=1 colspan=1>+29.7%</td></tr></table>
+
+储能电芯收入68.52亿元，同比增长31.2%，587Ah产品出货占比逐季提升至Q4的42%；储能系统集成收入17.59亿元，同比增长25.4%，构网型系统成为投标差异化亮点；运维及技术服务收入6.49亿元随累计装机扩大而加速增长。
+
+图1：2025年分季度营业收入及毛利率  
+![](images/2ecb431788e62ace6f75ad63100a9036e9a4562e659e62613fc83547dc913b65.jpg)  
+资料来源：公司2025年年度报告，经审计数据
+
+## 图2：2025年电芯出货应用结构
+
+![](images/138d334b49f9caa050fdb1d79870040fcdb2a1453d3ee7860a55fb2fc08bed4e.jpg)  
+资料来源：公司2025年年度报告
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>64.82</td><td rowspan=1 colspan=1>70.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>27.78</td><td rowspan=1 colspan=1>30.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的49.5%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>正负极材料</td><td rowspan=1 colspan=1>38.6%</td><td rowspan=1 colspan=1>40.2%</td><td rowspan=1 colspan=1>碳酸锂价格筑底回落</td></tr><tr><td rowspan=1 colspan=1>电解液及隔膜</td><td rowspan=1 colspan=1>21.5%</td><td rowspan=1 colspan=1>22.8%</td><td rowspan=1 colspan=1>集采长协降价</td></tr><tr><td rowspan=1 colspan=1>结构件及辅材</td><td rowspan=1 colspan=1>16.8%</td><td rowspan=1 colspan=1>15.9%</td><td rowspan=1 colspan=1>大电芯结构件用量优化</td></tr><tr><td rowspan=1 colspan=1>折旧及制造费用</td><td rowspan=1 colspan=1>14.6%</td><td rowspan=1 colspan=1>13.0%</td><td rowspan=1 colspan=1>宜宾基地转固</td></tr><tr><td rowspan=1 colspan=1>能源及人工</td><td rowspan=1 colspan=1>8.5%</td><td rowspan=1 colspan=1>8.1%</td><td rowspan=1 colspan=1>产能利用率提升</td></tr></table>
+
+## 五、期间费用与研发投入
+
+期间费用变动
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>+23.9%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.78</td><td rowspan=1 colspan=1>+15.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>4.95</td><td rowspan=1 colspan=1>4.02</td><td rowspan=1 colspan=1>+23.1%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>-5.6%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计5.10亿元，占营业收入比例5.5%，其中费用化研发费用4.95亿元、资本化研发投入0.15亿元；研发人员2,450人，占员工总数比例19.4%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-24.80</td><td rowspan=1 colspan=1>-19.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>5.60</td></tr></table>
+
+报告期内经营活动现金流量净额15.60亿元，同比增长18.2%，销售回款与票据结构改善；投资活动净流出24.80亿元，集中于宜宾基地产能建设；筹资活动净流入8.20亿元，主要为2025年5月向特定对象发行股票募集资金及项目贷款
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>+27.7%</td><td rowspan=1 colspan=1>经营积累及定增资金</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>+26.8%</td><td rowspan=1 colspan=1>Q4系统交付确认增加</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>26.40</td><td rowspan=1 colspan=1>21.80</td><td rowspan=1 colspan=1>+21.1%</td><td rowspan=1 colspan=1>海外订单备产</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>86.50</td><td rowspan=1 colspan=1>72.40</td><td rowspan=1 colspan=1>+19.5%</td><td rowspan=1 colspan=1>宜宾基地二期转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>-30.8%</td><td rowspan=1 colspan=1>宜宾三期建设推进</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入115亿元左右，同比增长24%左右；宜宾基地电芯年产能提升至46GWh，海外大储收入占比达到35%以上。
+
+技术层面，公司将推进625Ah+下一代大电芯的样品开发与客户验证，构网型储能系统完成海外标准认证，并启动储能电站'电池银行'商业模式试点。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注
+
+行业价格竞争风险：储能电芯环节若再度出现产能过剩与低价竞争，将压制毛利率修复。
+
+原材料价格风险：碳酸锂价格若大幅反弹，成本端压力将重新显现。
+
+海外政策风险：海外市场贸易政策与本地化要求变化可能影响出口与项目交付。
+
+安全风险：储能电站安全事故可能引发行业监管收紧与信任波动。
+
+应收账款风险：系统集成业务回款周期较长，应收账款规模随收入增长而上升。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.80元(含税)，合计派发现金红利1.44亿元(含税），占2025年度归属于上市公司股东净利润的19.41%。
+
+公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+环境信息主要指标
+<table><tr><td rowspan=2 colspan=1>指标综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>+12.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>+10.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>186.2</td><td rowspan=1 colspan=1>+9.4%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>9,860</td><td rowspan=1 colspan=1>+28.0%</td></tr></table>
+
+公司把电池全生命周期管理纳入ESG治理：宜宾基地获评国家级绿色工厂，绿电使用比例达36%；退役电池梯次利用中试线投运，产品碳足迹完成第三方核查并进入国际客户采购评估体系。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数12,600人，其中研发人员2,450人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司不存在对外担保事项。
+
+关联交易：报告期内公司与控股股东下属绿色能源电站项目公司销售储能系统2.15亿元，按市场价定价，程序合规并披露。
+
+承诺履行情况：公司控股股东、实际控制人及董监高报告期内不存在违反承诺情形；2025年定增限售承诺正常履行中。
+
+重大合同：报告期内公司中标中东某电网侧储能项目，合同金额约2.4亿美元，已履行信息披露义务。
+
+## 第九节 股份变动及股东情况
+
+## 股份结构(万股)
+
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>77,600.0</td><td rowspan=1 colspan=1>97.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,400.0</td><td rowspan=1 colspan=1>3.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>80,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>曜新能源集团有限公司</td><td rowspan=1 colspan=1>22.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>常州金沙科技投资有限公司</td><td rowspan=1 colspan=1>8.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>泓储绿能产业基金（有限合伙）</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金——三组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零七组合</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>招商上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>中国人寿保险- 传统 - 普通保险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>曜芯骨干员工持股计划</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>56.40%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+公司控股股东为曜新能源集团有限公司，实际控制人为祁昭阳。控股股东所持股份报告期内不存在质押、冻结情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0876号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目（摘要）
+
+## 资产负债表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>22.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>24.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>26.40</td><td rowspan=1 colspan=1>21.80</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>86.50</td><td rowspan=1 colspan=1>72.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>218.50</td><td rowspan=1 colspan=1>186.40</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>18.40</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>85.80</td><td rowspan=1 colspan=1>74.90</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>120.20</td><td rowspan=1 colspan=1>101.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>98.30</td><td rowspan=1 colspan=1>84.60</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。
+
+## 三、合并利润表主要项目（摘要)
+
+## 利润表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>71.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>69.82</td><td rowspan=1 colspan=1>54.62</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>11.68</td><td rowspan=1 colspan=1>9.82</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>4.95</td><td rowspan=1 colspan=1>4.02</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>7.42</td><td rowspan=1 colspan=1>5.24</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>6.85</td><td rowspan=1 colspan=1>4.72</td></tr></table>
+
+## 四、合并现金流量表主要项目(摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-24.80</td><td rowspan=1 colspan=1>-19.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>5.60</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

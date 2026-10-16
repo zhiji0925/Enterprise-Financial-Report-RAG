@@ -1,0 +1,4655 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8862,
+                "bbox": [
+                    128,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5584,
+                "bbox": [
+                    1447,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9688,
+                "bbox": [
+                    387,
+                    395,
+                    1261,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5664,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7811,
+                "bbox": [
+                    455,
+                    669,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9353,
+                "bbox": [
+                    642,
+                    1081,
+                    1008,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9287,
+                "bbox": [
+                    553,
+                    1157,
+                    1099,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9418,
+                "bbox": [
+                    129,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.928,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    56
+                ],
+                "score": 0.977,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    400,
+                    1258,
+                    478
+                ],
+                "score": 1.0,
+                "text": "伏曦光伏科技股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.984,
+                "text": "(股票简称：伏曦光伏股票代码：601375.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    691,
+                    745,
+                    959,
+                    775
+                ],
+                "score": 0.983,
+                "text": "(上海证券交易所主板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    648,
+                    1083,
+                    1000,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月2日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    561,
+                    1163,
+                    1090,
+                    1188
+                ],
+                "score": 0.996,
+                "text": "公司统一社会信用代码：91320900MA1XR8T7BQ"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.985,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9386,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8146,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9477,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9751,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9681,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9717,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9474,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9418,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9696,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.944,
+                "bbox": [
+                    129,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9371,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    845,
+                    56
+                ],
+                "score": 0.982,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1478,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.967,
+                "text": "红利0.50元(含税)，合计派发现金红利1.43亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "16.07%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.98,
+                "text": "四、公司2025年度财务报告已经正行会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.97,
+                "text": "报告(正行审字[2026]第0339号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 0.986,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1489,
+                    958
+                ],
+                "score": 0.993,
+                "text": "八、公司负责人岑昭阳、主管会计工作负责人平雅宁及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.997,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9468,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7826,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9758,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9283,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9424,
+                "bbox": [
+                    130,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9351,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.979,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.955,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.96,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.951,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.965,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9523,
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8775,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6571,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    754
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、伏曦光伏</td><td rowspan=1 colspan=1>指伏曦光伏科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>组件</td><td rowspan=1 colspan=1>指由电池片、玻璃、封装材料等组成的光伏发电单元</td></tr><tr><td rowspan=1 colspan=1>BC电池</td><td rowspan=1 colspan=1>指电极全部布置在电池背面的背接触电池技术路线</td></tr><tr><td rowspan=1 colspan=1>TOPCon</td><td rowspan=1 colspan=1>指隧穿氧化层钝化接触电池技术路线</td></tr><tr><td rowspan=1 colspan=1>一体化</td><td rowspan=1 colspan=1>指覆盖硅片、电池、组件的垂直一体化产能布局</td></tr><tr><td rowspan=1 colspan=1>分布式/集中式</td><td rowspan=1 colspan=1>指屋顶等分散式电站与荒漠戈壁大型地面电站两类装机场景</td></tr><tr><td rowspan=1 colspan=1>行业自律</td><td rowspan=1 colspan=1>光伏行业协会引导下以产能与价格自律为目标的行业治理机制</td></tr><tr><td rowspan=1 colspan=1>弃光率</td><td rowspan=1 colspan=1>指光伏电站未能并网消纳的发电量占理论总发电量的比例</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9636,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    140,
+                    868,
+                    1497,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    141,
+                    1026,
+                    1493,
+                    1164
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984,
+                "bbox": [
+                    140,
+                    1184,
+                    1507,
+                    1320
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9528,
+                "bbox": [
+                    200,
+                    1342,
+                    569,
+                    1382
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9629,
+                "bbox": [
+                    142,
+                    1430,
+                    693,
+                    1479
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9516,
+                "bbox": [
+                    141,
+                    1514,
+                    412,
+                    1556
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7827,
+                "bbox": [
+                    145,
+                    1582,
+                    314,
+                    1618
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    132,
+                    1627,
+                    1521,
+                    2136
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>伏曦光伏科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>伏曦光伏</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>601375.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所主板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省盐城市经济技术开发区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2011年5月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>光伏组件、电池片制造及电站运营</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>岑昭阳</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9478,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9399,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.983,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.975,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    871,
+                    1479,
+                    902
+                ],
+                "score": 0.998,
+                "text": "2025年，光伏行业完成了最痛苦也最有价值的一次出清。伏曦光伏实现营业收入236.40亿元，同比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    923,
+                    1488,
+                    948
+                ],
+                "score": 1.0,
+                "text": "增长20.1%；归属于上市公司股东的净利润8.90亿元，同比增长380.5%；经营活动现金流量净额18.60亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    971,
+                    450,
+                    996
+                ],
+                "score": 1.0,
+                "text": "元，为近三年最好水平。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1034,
+                    1479,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "2024年组件价格击穿成本、全行业失血的记忆犹新。2025年，行业自律机制推动落后产能实质性退"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1080,
+                    1482,
+                    1105
+                ],
+                "score": 0.995,
+                "text": "出，组件价格自二季度起企稳修复；公司坚持'少产组件、多产电力'的经营主线，BC差异化组件实现分销"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1128,
+                    1166,
+                    1153
+                ],
+                "score": 1.0,
+                "text": "端约0.04元/瓦的溢价，电站运营收入首次突破18亿元，成为穿越周期的压舱石。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1189,
+                    1485,
+                    1220
+                ],
+                "score": 0.987,
+                "text": "光伏的长期逻辑从未改变—度电成本仍在下降，全球装机仍在增长。2026年，公司将以'提价、出"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1237,
+                    1499,
+                    1267
+                ],
+                "score": 1.0,
+                "text": "海、轻资产运营'为基调，把资产负债表的健康度放在规模之前。潮水退去之后，留在牌桌上的人，理应赢"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1284,
+                    252,
+                    1317
+                ],
+                "score": 1.0,
+                "text": "得更多。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1344,
+                    562,
+                    1382
+                ],
+                "score": 1.0,
+                "text": "董事长：岑昭阳2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1431,
+                    686,
+                    1477
+                ],
+                "score": 0.976,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1510,
+                    407,
+                    1558
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1585,
+                    310,
+                    1618
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.992,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.94,
+                "bbox": [
+                    128,
+                    19,
+                    846,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8581,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    120,
+                    1522,
+                    404
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>莫砚初</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>平雅宁</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>正行会计师事务所（特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数 （人)</td><td rowspan=1 colspan=1>21,000</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9529,
+                "bbox": [
+                    141,
+                    431,
+                    414,
+                    477
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782,
+                "bbox": [
+                    140,
+                    491,
+                    1506,
+                    582
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9775,
+                "bbox": [
+                    142,
+                    601,
+                    1498,
+                    693
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9563,
+                "bbox": [
+                    142,
+                    724,
+                    572,
+                    769
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8599,
+                "bbox": [
+                    142,
+                    794,
+                    526,
+                    830
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    131,
+                    839,
+                    1520,
+                    1381
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>196.80</td><td rowspan=1 colspan=1>+20.1%</td><td rowspan=1 colspan=1>213.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>+381.1%</td><td rowspan=1 colspan=1>7.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>+456.3%</td><td rowspan=1 colspan=1>6.50</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td><td rowspan=1 colspan=1>-420.7%</td><td rowspan=1 colspan=1>12.50</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>+381.1%</td><td rowspan=1 colspan=1>0.25</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>5.00</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>增加3.90个百分点</td><td rowspan=1 colspan=1>4.20</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>310.60</td><td rowspan=1 colspan=1>302.40</td><td rowspan=1 colspan=1>+2.7%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>184.00</td><td rowspan=1 colspan=1>172.00</td><td rowspan=1 colspan=1>+7.0%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9425,
+                "bbox": [
+                    142,
+                    1392,
+                    968,
+                    1428
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9584,
+                "bbox": [
+                    143,
+                    1454,
+                    573,
+                    1497
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9281,
+                "bbox": [
+                    144,
+                    1522,
+                    510,
+                    1560
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    1569,
+                    1520,
+                    1852
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.55</td><td rowspan=1 colspan=1>光伏制造技改及智能化改造专项资金</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>闲置自有资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.27</td><td rowspan=1 colspan=1>递延收益摊销及增值税加计抵减</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>占归母净利润比例11.2%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9472,
+                "bbox": [
+                    143,
+                    1862,
+                    824,
+                    1896
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9584,
+                "bbox": [
+                    143,
+                    1924,
+                    507,
+                    1967
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9362,
+                "bbox": [
+                    144,
+                    1993,
+                    484,
+                    2029
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9804,
+                "bbox": [
+                    133,
+                    2037,
+                    1520,
+                    2153
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>48.20</td><td rowspan=1 colspan=1>56.80</td><td rowspan=1 colspan=1>60.40</td><td rowspan=1 colspan=1>71.00</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9467,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9369,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    844,
+                    56
+                ],
+                "score": 0.978,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    434,
+                    409,
+                    476
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    499,
+                    1498,
+                    525
+                ],
+                "score": 1.0,
+                "text": "公司成立于2007年，总部位于江苏盐城，2011年5月在上海证券交易所主板上市，系全球组件出货前"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    544,
+                    976,
+                    574
+                ],
+                "score": 1.0,
+                "text": "十的光伏制造企业，业务覆盖电池片、组件制造及电站开发运营。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    609,
+                    1489,
+                    635
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司拥有拉棒、切片、电池、组件全链条产能，其中高效电池产能28GW、组件产能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    653,
+                    862,
+                    685
+                ],
+                "score": 1.0,
+                "text": "32GW，并在江苏、安徽、内蒙古持有并网电站1.4GW。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    728,
+                    565,
+                    765
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    800,
+                    519,
+                    826
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1399,
+                    960,
+                    1421
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1460,
+                    566,
+                    1493
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1529,
+                    503,
+                    1554
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1869,
+                    818,
+                    1889
+                ],
+                "score": 0.999,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1929,
+                    501,
+                    1963
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1999,
+                    478,
+                    2025
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2236,
+                    585,
+                    2261
+                ],
+                "score": 0.996,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9557,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8732,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9751,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    234
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>2.50</td><td rowspan=1 colspan=1>3.60</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8911,
+                "bbox": [
+                    141,
+                    275,
+                    582,
+                    325
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9585,
+                "bbox": [
+                    141,
+                    358,
+                    605,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9867,
+                "bbox": [
+                    140,
+                    415,
+                    1499,
+                    554
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    140,
+                    572,
+                    1505,
+                    665
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.958,
+                "bbox": [
+                    142,
+                    694,
+                    636,
+                    740
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9791,
+                "bbox": [
+                    140,
+                    754,
+                    1482,
+                    844
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    865,
+                    1494,
+                    957
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9557,
+                "bbox": [
+                    142,
+                    986,
+                    573,
+                    1032
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8856,
+                "bbox": [
+                    144,
+                    1057,
+                    497,
+                    1094
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9881,
+                "bbox": [
+                    132,
+                    1103,
+                    1520,
+                    1379
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>光伏组件</td><td rowspan=1 colspan=1>191.48</td><td rowspan=1 colspan=1>81.0%</td><td rowspan=1 colspan=1>10.2%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>电池片 (对外销售)</td><td rowspan=1 colspan=1>26.00</td><td rowspan=1 colspan=1>11.0%</td><td rowspan=1 colspan=1>14.8%</td><td rowspan=1 colspan=1>+30.0%</td></tr><tr><td rowspan=1 colspan=1>电站运营及发电</td><td rowspan=1 colspan=1>18.92</td><td rowspan=1 colspan=1>8.0%</td><td rowspan=1 colspan=1>60.0%</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>14.8%</td><td rowspan=1 colspan=1>+20.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9706,
+                "bbox": [
+                    140,
+                    1389,
+                    1506,
+                    1524
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9114,
+                "bbox": [
+                    144,
+                    1552,
+                    432,
+                    1588
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    132,
+                    1598,
+                    1520,
+                    1822
+                ],
+                "index": 16,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>158.40</td><td rowspan=1 colspan=1>67.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>78.00</td><td rowspan=1 colspan=1>33.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9525,
+                "bbox": [
+                    142,
+                    1833,
+                    727,
+                    1869
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9589,
+                "bbox": [
+                    143,
+                    1896,
+                    412,
+                    1939
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9142,
+                "bbox": [
+                    144,
+                    1964,
+                    534,
+                    2001
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9843,
+                "bbox": [
+                    132,
+                    2010,
+                    1520,
+                    2180
+                ],
+                "index": 20,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=2 colspan=1>变动说明硅料价格低位叠加自供比例提升</td></tr><tr><td rowspan=1 colspan=1>硅片及电池片</td><td rowspan=1 colspan=1>52.6%</td><td rowspan=1 colspan=1>58.4%</td></tr><tr><td rowspan=1 colspan=1>玻璃、辅材及封装材料</td><td rowspan=1 colspan=1>24.8%</td><td rowspan=1 colspan=1>23.1%</td><td rowspan=1 colspan=1>双玻占比提升</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9417,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9402,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.978,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    574,
+                    323
+                ],
+                "score": 0.99,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    362,
+                    597,
+                    400
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    423,
+                    1490,
+                    449
+                ],
+                "score": 1.0,
+                "text": "2025年全球光伏新增装机约600GW，同比增长约10%，增速回归常态区间；国内装机在电价市场化"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    470,
+                    1490,
+                    495
+                ],
+                "score": 0.999,
+                "text": "与并网消纳约束下结构性放缓，而中东、拉美等新兴市场需求高增。供给端，行业自律推动多晶硅、组件"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    519,
+                    713,
+                    544
+                ],
+                "score": 1.0,
+                "text": "价格自低位修复，主产业链亏损面明显收窄。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    581,
+                    1497,
+                    606
+                ],
+                "score": 0.999,
+                "text": "技术端，BC组件凭借美观与高功率在分布式场景形成溢价，TOPCon仍占集中式主流。政策端，新能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    629,
+                    1230,
+                    655
+                ],
+                "score": 0.996,
+                "text": "源全面入市电价机制落地，光伏制造从'规模红利'彻底切换到'技术+运营'的效率竞争。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    701,
+                    628,
+                    735
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    759,
+                    1473,
+                    790
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为高效光伏电池片、组件的研发、生产与销售，并开展电站开发建设与持有运营业务，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    809,
+                    487,
+                    835
+                ],
+                "score": 0.998,
+                "text": "形成'制造+运营'双轮结构。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    873,
+                    1485,
+                    899
+                ],
+                "score": 0.984,
+                "text": "报告期内，公司TBC（隧穿背接触）组件量产效率达24.8%，分布式场景销量占比提升至35%；电站"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    920,
+                    1158,
+                    945
+                ],
+                "score": 0.991,
+                "text": "板块新增并网260MW，'滚动开发、择机出让'的轻资产模式开始贡献稳定回报。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    991,
+                    566,
+                    1029
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1059,
+                    492,
+                    1091
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1390,
+                    1480,
+                    1420
+                ],
+                "score": 0.998,
+                "text": "光伏组件收入191.48亿元，同比增长18.5%，价格修复叠加出货增长是主因；电池片对外销售26.00"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1440,
+                    1498,
+                    1470
+                ],
+                "score": 0.998,
+                "text": "亿元，同比增长30.0%；电站运营及发电收入18.92亿元，同比增长12.0%，毛利率60.0%，为公司盈利的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1484,
+                    308,
+                    1520
+                ],
+                "score": 1.0,
+                "text": "重要稳定器。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1554,
+                    428,
+                    1586
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1840,
+                    722,
+                    1862
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的21.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1899,
+                    408,
+                    1940
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1971,
+                    528,
+                    1996
+                ],
+                "score": 0.948,
+                "text": "营业成本构成（占营业成本比例)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.985,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9542,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8534,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.987,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    289
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>13.6%</td><td rowspan=1 colspan=1>13.2%</td><td rowspan=1 colspan=1>产线智能化改造摊薄</td></tr><tr><td rowspan=1 colspan=1>运输及电站运维成本</td><td rowspan=1 colspan=1>9.0%</td><td rowspan=1 colspan=1>5.3%</td><td rowspan=1 colspan=1>出口运价回落、电站规模扩大</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9615,
+                "bbox": [
+                    142,
+                    320,
+                    507,
+                    363
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6843,
+                "bbox": [
+                    143,
+                    389,
+                    314,
+                    426
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9888,
+                "bbox": [
+                    132,
+                    435,
+                    1521,
+                    712
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.60</td><td rowspan=1 colspan=1>+5.6%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>-8.8%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+7.8%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>-16.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7736,
+                "bbox": [
+                    139,
+                    720,
+                    1489,
+                    810
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    141,
+                    842,
+                    413,
+                    886
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8204,
+                "bbox": [
+                    143,
+                    912,
+                    365,
+                    946
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    132,
+                    956,
+                    1520,
+                    1177
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-22.40</td><td rowspan=1 colspan=1>-25.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.00</td><td rowspan=1 colspan=1>9.50</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7404,
+                "bbox": [
+                    140,
+                    1186,
+                    1488,
+                    1276
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    142,
+                    1308,
+                    572,
+                    1352
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8963,
+                "bbox": [
+                    142,
+                    1377,
+                    446,
+                    1414
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    132,
+                    1422,
+                    1520,
+                    1648
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>48.60</td><td rowspan=1 colspan=1>+7.6%</td><td rowspan=1 colspan=1>经营回款改善及中期票据发行</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>45.80</td><td rowspan=1 colspan=1>52.40</td><td rowspan=1 colspan=1>-12.6%</td><td rowspan=1 colspan=1>行业去库存、按单生产模式见效</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>+6.6%</td><td rowspan=1 colspan=1>境外应收随出口增加</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9606,
+                "bbox": [
+                    142,
+                    1680,
+                    510,
+                    1722
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    140,
+                    1736,
+                    1495,
+                    1828
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798,
+                "bbox": [
+                    141,
+                    1848,
+                    1498,
+                    1938
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9546,
+                "bbox": [
+                    142,
+                    1971,
+                    350,
+                    2015
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9599,
+                "bbox": [
+                    141,
+                    2029,
+                    1073,
+                    2069
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9594,
+                "bbox": [
+                    198,
+                    2092,
+                    1362,
+                    2134
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9459,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9378,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.979,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    325,
+                    500,
+                    359
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    394,
+                    308,
+                    422
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    723,
+                    1482,
+                    753
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计5.90亿元，占营业收入比例2.5%，其中费用化研发费用5.50亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    771,
+                    1107,
+                    801
+                ],
+                "score": 0.999,
+                "text": "元、资本化研发投入0.40亿元；研发人员3,150人，占员工总数比例15.0%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    844,
+                    407,
+                    885
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    916,
+                    361,
+                    945
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1189,
+                    1479,
+                    1219
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额18.60亿元，上年同期为净流出5.80亿元，存货去化与回款改善是核"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1235,
+                    1360,
+                    1267
+                ],
+                "score": 0.996,
+                "text": "心原因；投资活动净流出22.40亿元，主要为电站建设与技改投入；筹资活动净流入12.00亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1310,
+                    565,
+                    1351
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1382,
+                    440,
+                    1410
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1684,
+                    501,
+                    1719
+                ],
+                "score": 1.0,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1744,
+                    1486,
+                    1770
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入255亿元左右，同比增长约8%；组件出货维持全球前十，BC组件出货占"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1790,
+                    1366,
+                    1820
+                ],
+                "score": 1.0,
+                "text": "比提升至25%；新增并网电站300MW以上。公司判断主产业链价格将呈'弱修复、低波动'格局。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1853,
+                    1490,
+                    1884
+                ],
+                "score": 1.0,
+                "text": "海外方面，公司将在中东推进200MW组件合资产能落地，规避贸易壁垒并贴近高溢价市场；国内以"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1903,
+                    653,
+                    1929
+                ],
+                "score": 0.999,
+                "text": "电站运营+绿电交易'增强盈利的确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1973,
+                    344,
+                    2015
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2036,
+                    1063,
+                    2062
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2097,
+                    1354,
+                    2126
+                ],
+                "score": 1.0,
+                "text": "价格波动风险：若行业自律约束弱化、产能再度无序释放，组件价格存在再度探底的可能。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.992,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9406,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9564,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8424,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9637,
+                "bbox": [
+                    199,
+                    122,
+                    1421,
+                    162
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9615,
+                "bbox": [
+                    199,
+                    185,
+                    1284,
+                    226
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9607,
+                "bbox": [
+                    199,
+                    249,
+                    1246,
+                    290
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9561,
+                "bbox": [
+                    198,
+                    313,
+                    1102,
+                    355
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9628,
+                "bbox": [
+                    142,
+                    400,
+                    468,
+                    449
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    471,
+                    1509,
+                    561
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    141,
+                    582,
+                    1484,
+                    717
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    140,
+                    741,
+                    1510,
+                    878
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    142,
+                    924,
+                    431,
+                    972
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    140,
+                    994,
+                    1503,
+                    1177
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    1199,
+                    1498,
+                    1289
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.975,
+                "bbox": [
+                    141,
+                    1310,
+                    1499,
+                    1399
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9646,
+                "bbox": [
+                    141,
+                    1445,
+                    805,
+                    1495
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9513,
+                "bbox": [
+                    141,
+                    1529,
+                    412,
+                    1571
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8646,
+                "bbox": [
+                    143,
+                    1597,
+                    367,
+                    1633
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    1643,
+                    1520,
+                    1920
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>绿电使用比例</td><td rowspan=1 colspan=1>42.0%</td><td rowspan=1 colspan=1>提高6.5个百分点</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>18.6</td><td rowspan=1 colspan=1>-3.2%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(万吨CO2e)</td><td rowspan=1 colspan=1>86.5</td><td rowspan=1 colspan=1>-4.5%</td></tr><tr><td rowspan=1 colspan=1>单位产值水耗（立方米/百万元)</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>-6.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8297,
+                "bbox": [
+                    139,
+                    1928,
+                    1503,
+                    2016
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9485,
+                "bbox": [
+                    141,
+                    2049,
+                    348,
+                    2094
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9451,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.978,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    127,
+                    1413,
+                    157
+                ],
+                "score": 1.0,
+                "text": "贸易壁垒风险：美国、欧盟等市场关税与溯源政策多变，公司出口收入占比较高，受影响面大。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    192,
+                    1275,
+                    219
+                ],
+                "score": 0.999,
+                "text": "技术路线风险：BC产能投入较大，若下代电池技术迭代超预期，存在资产减值压力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    256,
+                    1235,
+                    283
+                ],
+                "score": 0.999,
+                "text": "应收及电站资产风险：境外应收账款回收与电站补贴电价结算周期存在不确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    321,
+                    1093,
+                    347
+                ],
+                "score": 1.0,
+                "text": "汇率风险：公司境外收入占比约33%，人民币汇率波动影响汇兑损益。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    391,
+                    464,
+                    450
+                ],
+                "score": 0.987,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    476,
+                    1501,
+                    507
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议10次、监事会会议6次、股东大会3次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    526,
+                    1146,
+                    552
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    588,
+                    1477,
+                    617
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    636,
+                    1412,
+                    666
+                ],
+                "score": 0.964,
+                "text": "0.50元（含税)，合计派发现金红利1.43亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    682,
+                    262,
+                    714
+                ],
+                "score": 0.981,
+                "text": "16.07%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    749,
+                    1500,
+                    774
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为正行会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    796,
+                    1499,
+                    821
+                ],
+                "score": 0.991,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘正行会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    844,
+                    617,
+                    869
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    919,
+                    426,
+                    974
+                ],
+                "score": 0.971,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1001,
+                    1491,
+                    1027
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1049,
+                    1497,
+                    1074
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1096,
+                    1491,
+                    1121
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1142,
+                    468,
+                    1171
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1207,
+                    1489,
+                    1232
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1254,
+                    1223,
+                    1280
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1315,
+                    1490,
+                    1344
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1362,
+                    332,
+                    1391
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1449,
+                    796,
+                    1491
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1530,
+                    407,
+                    1571
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1603,
+                    361,
+                    1629
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1931,
+                    1495,
+                    1960
+                ],
+                "score": 0.999,
+                "text": "公司自有电站年发电约16.5亿千瓦时，可折算减少二氧化碳排放约95万吨；盐城基地获评国家级绿色"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    141,
+                    1972,
+                    226,
+                    2018
+                ],
+                "score": 1.0,
+                "text": "工厂。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    2051,
+                    346,
+                    2095
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.992,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9509,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7927,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801,
+                "bbox": [
+                    139,
+                    122,
+                    1504,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9559,
+                "bbox": [
+                    142,
+                    243,
+                    478,
+                    287
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784,
+                "bbox": [
+                    140,
+                    302,
+                    1500,
+                    392
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9618,
+                "bbox": [
+                    143,
+                    437,
+                    432,
+                    486
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9769,
+                "bbox": [
+                    140,
+                    508,
+                    1509,
+                    597
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9553,
+                "bbox": [
+                    199,
+                    619,
+                    1042,
+                    659
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9768,
+                "bbox": [
+                    143,
+                    683,
+                    1482,
+                    772
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    141,
+                    794,
+                    1463,
+                    884
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9561,
+                "bbox": [
+                    199,
+                    905,
+                    1216,
+                    947
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9575,
+                "bbox": [
+                    142,
+                    993,
+                    618,
+                    1042
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5235,
+                "bbox": [
+                    143,
+                    1069,
+                    350,
+                    1106
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    133,
+                    1114,
+                    1520,
+                    1339
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>128,700.0</td><td rowspan=1 colspan=1>45.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>157,300.0</td><td rowspan=1 colspan=1>55.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>286,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.952,
+                "bbox": [
+                    143,
+                    1371,
+                    444,
+                    1414
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7074,
+                "bbox": [
+                    144,
+                    1440,
+                    550,
+                    1476
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.939,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    131,
+                    1484,
+                    1522,
+                    2167
+                ],
+                "index": 18,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>伏曦控股集团有限公司</td><td rowspan=1 colspan=1>24.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>盐城市国有资产投资集团有限公司</td><td rowspan=1 colspan=1>6.50%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>中证光伏产业指数基金（等）</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——八组合</td><td rowspan=1 colspan=1>3.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>中国人寿保险股份有限公司一传统险产品</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>江苏沿海开发集团产业基金</td><td rowspan=1 colspan=1>2.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>伏曦员工持股计划</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>基本养老保险基金一零零一组合</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>易方达上证50指数增强基金</td><td rowspan=1 colspan=1>1.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>54.10%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.947,
+                "bbox": [
+                    129,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    845,
+                    56
+                ],
+                "score": 0.98,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    130,
+                    1482,
+                    155
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数21,000人，其中研发人员3,150人。报告期内公司持续完善职业发展通道与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    177,
+                    1496,
+                    202
+                ],
+                "score": 1.0,
+                "text": "培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    248,
+                    470,
+                    286
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    310,
+                    1489,
+                    335
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    357,
+                    1030,
+                    383
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    436,
+                    424,
+                    485
+                ],
+                "score": 0.966,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    511,
+                    1502,
+                    544
+                ],
+                "score": 1.0,
+                "text": "行业自律参与情况：公司作为组件产能自律机制参与方，报告期内主动压缩低效名义产能3GW，技改"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    561,
+                    315,
+                    592
+                ],
+                "score": 1.0,
+                "text": "转产BC产品。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    626,
+                    1032,
+                    652
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    691,
+                    1472,
+                    716
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司为控股电站项目公司提供融资担保合计8.2亿元，均为正常经营所需，履行"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    736,
+                    306,
+                    767
+                ],
+                "score": 1.0,
+                "text": "了审议程序。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    800,
+                    1457,
+                    830
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为1.2亿元，主要为硅料长协采购，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    848,
+                    364,
+                    878
+                ],
+                "score": 1.0,
+                "text": "定价参照市场价。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    913,
+                    1207,
+                    939
+                ],
+                "score": 1.0,
+                "text": "承诺履行情况：控股股东、实际控制人及董监高报告期内不存在违反承诺情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    993,
+                    610,
+                    1038
+                ],
+                "score": 0.962,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1073,
+                    346,
+                    1106
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1372,
+                    438,
+                    1413
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1446,
+                    543,
+                    1472
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.985,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9504,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8746,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    140,
+                    121,
+                    1499,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9588,
+                "bbox": [
+                    142,
+                    256,
+                    430,
+                    305
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9425,
+                "bbox": [
+                    141,
+                    339,
+                    348,
+                    382
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    139,
+                    396,
+                    1509,
+                    581
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9539,
+                "bbox": [
+                    142,
+                    612,
+                    681,
+                    659
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6374,
+                "bbox": [
+                    144,
+                    684,
+                    390,
+                    719
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    131,
+                    726,
+                    1521,
+                    1406
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>48.60</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>36.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>45.80</td><td rowspan=1 colspan=1>52.40</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>128.40</td><td rowspan=1 colspan=1>126.80</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>45.50</td><td rowspan=1 colspan=1>38.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>310.60</td><td rowspan=1 colspan=1>302.40</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>68.40</td><td rowspan=1 colspan=1>72.30</td></tr><tr><td rowspan=1 colspan=1>短期借款及一年内到期的非流动负债</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>28.50</td></tr><tr><td rowspan=1 colspan=1>长期借款及其他负债</td><td rowspan=1 colspan=1>33.60</td><td rowspan=1 colspan=1>29.60</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>126.60</td><td rowspan=1 colspan=1>130.40</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>184.00</td><td rowspan=1 colspan=1>172.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9221,
+                "bbox": [
+                    141,
+                    1418,
+                    1203,
+                    1454
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9551,
+                "bbox": [
+                    142,
+                    1479,
+                    616,
+                    1524
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.611,
+                "bbox": [
+                    144,
+                    1549,
+                    338,
+                    1585
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    132,
+                    1594,
+                    1521,
+                    1989
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>196.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>201.41</td><td rowspan=1 colspan=1>188.73</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>18.10</td><td rowspan=1 colspan=1>18.60</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>5.10</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>1.85</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>1.42</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    143,
+                    2022,
+                    679,
+                    2065
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7297,
+                "bbox": [
+                    143,
+                    2091,
+                    391,
+                    2127
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9432,
+                "bbox": [
+                    129,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9373,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    845,
+                    56
+                ],
+                "score": 0.98,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1525,
+                    59
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    127,
+                    1491,
+                    156
+                ],
+                "score": 1.0,
+                "text": "公司控股股东为伏曦控股集团有限公司，实际控制人为岑昭阳家族。控股股东所持股份报告期内不存在质"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    174,
+                    335,
+                    205
+                ],
+                "score": 1.0,
+                "text": "押、冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    248,
+                    426,
+                    307
+                ],
+                "score": 0.961,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    339,
+                    344,
+                    384
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    404,
+                    1496,
+                    429
+                ],
+                "score": 0.988,
+                "text": "公司2025年度财务报表业经正行会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    451,
+                    1499,
+                    477
+                ],
+                "score": 0.986,
+                "text": "意见(正行审字[2026]第0339号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    499,
+                    1490,
+                    524
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    543,
+                    277,
+                    575
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    618,
+                    672,
+                    655
+                ],
+                "score": 0.948,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    688,
+                    386,
+                    716
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1426,
+                    1194,
+                    1444
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1484,
+                    609,
+                    1521
+                ],
+                "score": 0.953,
+                "text": "三、合并利润表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1555,
+                    333,
+                    1581
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2026,
+                    673,
+                    2060
+                ],
+                "score": 0.985,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2096,
+                    386,
+                    2122
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9319,
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8625,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9846,
+                "bbox": [
+                    133,
+                    120,
+                    1520,
+                    340
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-22.40</td><td rowspan=1 colspan=1>-25.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.00</td><td rowspan=1 colspan=1>9.50</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9156,
+                "bbox": [
+                    141,
+                    349,
+                    1497,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9614,
+                "bbox": [
+                    144,
+                    484,
+                    382,
+                    531
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    144,
+                    554,
+                    1265,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9632,
+                "bbox": [
+                    144,
+                    618,
+                    1129,
+                    658
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9637,
+                "bbox": [
+                    144,
+                    682,
+                    886,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    144,
+                    746,
+                    721,
+                    785
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9564,
+                "bbox": [
+                    156,
+                    831,
+                    827,
+                    866
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9473,
+                "bbox": [
+                    130,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9432,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    57
+                ],
+                "score": 0.977,
+                "text": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    397,
+                    308,
+                    433
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    474,
+                    381,
+                    535
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    558,
+                    1260,
+                    592
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    625,
+                    1121,
+                    651
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    689,
+                    878,
+                    715
+                ],
+                "score": 0.987,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    750,
+                    715,
+                    783
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    836,
+                    818,
+                    861
+                ],
+                "score": 0.994,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "伏曦光伏科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

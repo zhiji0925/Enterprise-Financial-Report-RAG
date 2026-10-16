@@ -1,0 +1,4690 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8993,
+                "bbox": [
+                    127,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6256,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9682,
+                "bbox": [
+                    387,
+                    395,
+                    1261,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5701,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7567,
+                "bbox": [
+                    455,
+                    670,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9344,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.927,
+                "bbox": [
+                    554,
+                    1156,
+                    1098,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9423,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.928,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    391,
+                    401,
+                    1258,
+                    478
+                ],
+                "score": 0.991,
+                "text": "苏州铨核科技股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.981,
+                "text": "(股票简称：铨核科技股票代码：688395.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    676,
+                    745,
+                    973,
+                    776
+                ],
+                "score": 0.99,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月17日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    561,
+                    1163,
+                    1091,
+                    1187
+                ],
+                "score": 0.995,
+                "text": "公司统一社会信用代码：91320594MA1XQ9R6TE"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.993,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9419,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8742,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9473,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9749,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9676,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9716,
+                "bbox": [
+                    140,
+                    685,
+                    1498,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9468,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9411,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9691,
+                "bbox": [
+                    140,
+                    1035,
+                    1498,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9441,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9369,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.993,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.959,
+                "text": "红利0.60元(含税)，合计派发现金红利0.22亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "25.58%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所(特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.963,
+                "text": "报告(中衡审字[2026]第0903号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1489,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.992,
+                "text": "八、公司负责人梅仲谦、主管会计工作负责人晏清和及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1041,
+                    1492,
+                    1071
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9495,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8819,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9763,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9295,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9434,
+                "bbox": [
+                    129,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9357,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.955,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.96,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.951,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.962,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.955,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9041,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9593,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6147,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、铨核科技</td><td rowspan=1 colspan=1>指苏州铨核科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>EDA</td><td rowspan=1 colspan=1>指Electronic Design Automation，电子设计自动化软件工具</td></tr><tr><td rowspan=1 colspan=1>SPICE仿真</td><td rowspan=1 colspan=1>指晶体管级电路仿真引擎，模拟电路设计的核心验证手段</td></tr><tr><td rowspan=1 colspan=1>全流程EDA</td><td rowspan=1 colspan=1>指覆盖原理图、版图、仿真、签核等设计全环节的工具链</td></tr><tr><td rowspan=1 colspan=1>签核工具</td><td rowspan=1 colspan=1>指用于流片前最终验证(时序、物理规则、寄生提取等)的工具</td></tr><tr><td rowspan=1 colspan=1>PDK</td><td rowspan=1 colspan=1>指工艺设计套件，晶圆厂向设计公司提供的工艺参数包</td></tr><tr><td rowspan=1 colspan=1>订阅制</td><td rowspan=1 colspan=1>指按年度授权使用并持续续费的商业模式</td></tr><tr><td rowspan=1 colspan=1>IP授权</td><td rowspan=1 colspan=1>指半导体知识产权核的许可使用业务</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9642,
+                "bbox": [
+                    143,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9842,
+                "bbox": [
+                    140,
+                    867,
+                    1492,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    141,
+                    1026,
+                    1477,
+                    1164
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    141,
+                    1184,
+                    1500,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9539,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9638,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9525,
+                "bbox": [
+                    142,
+                    1467,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4932,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1569
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>苏州铨核科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>铨核科技</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688395.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省苏州市高新区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2022年11月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>工业软件 (EDA)</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>梅仲谦</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>简行舟</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9472,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9395,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    846,
+                    56
+                ],
+                "score": 0.983,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    795,
+                    463,
+                    847
+                ],
+                "score": 0.988,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    875,
+                    1472,
+                    900
+                ],
+                "score": 0.997,
+                "text": "2025年，EDA行业完成了从'可用'到'可信'的关键一跃。铨核科技实现营业收入6.80亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    921,
+                    1486,
+                    951
+                ],
+                "score": 0.999,
+                "text": "30.8%；归母净利润0.86亿元，同比增长53.6%；模拟全流程EDA国内市占率提升至约12%，签核工具首"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    970,
+                    630,
+                    995
+                ],
+                "score": 1.0,
+                "text": "次进入两家12英寸晶圆厂的参考流程。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1034,
+                    1458,
+                    1059
+                ],
+                "score": 0.996,
+                "text": "软件的价值在于生态。这一年，公司发起'铨核开发者伙伴计划'，与三所高校共建EDA联合实验室，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1082,
+                    1467,
+                    1107
+                ],
+                "score": 1.0,
+                "text": "新增生态开发伙伴超过80家；订阅制收入占比提升至41%，收入的可持续性显著增强。我们相信，中国"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1128,
+                    872,
+                    1153
+                ],
+                "score": 0.998,
+                "text": "EDA的突破口不在单点工具，而在'流程级'的成色与口碑。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1192,
+                    1491,
+                    1217
+                ],
+                "score": 1.0,
+                "text": "2026年，公司将发布新一代并行SPICE仿真引擎，把大规模电路仿真的速度作为核心攻坚方向，并以"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1238,
+                    1381,
+                    1263
+                ],
+                "score": 0.999,
+                "text": "签核工具为支点切入数字全流程。感谢所有客户与股东给予国产EDA的每一次试用、每一份耐心。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1295,
+                    563,
+                    1335
+                ],
+                "score": 0.999,
+                "text": "董事长：梅仲谦2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.97,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1466,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1539,
+                    309,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9413,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9036,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>晏清和</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>1,050</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9526,
+                "bbox": [
+                    142,
+                    375,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    140,
+                    434,
+                    1499,
+                    570
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    141,
+                    592,
+                    1500,
+                    684
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9551,
+                "bbox": [
+                    142,
+                    714,
+                    573,
+                    759
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8391,
+                "bbox": [
+                    142,
+                    783,
+                    526,
+                    821
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    132,
+                    830,
+                    1520,
+                    1371
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入 (亿元)</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>+30.8%</td><td rowspan=1 colspan=1>4.10</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>0.56</td><td rowspan=1 colspan=1>+53.6%</td><td rowspan=1 colspan=1>0.42</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.40</td><td rowspan=1 colspan=1>+55.0%</td><td rowspan=1 colspan=1>0.28</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>+35.7%</td><td rowspan=1 colspan=1>0.90</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>0.16</td><td rowspan=1 colspan=1>+53.6%</td><td rowspan=1 colspan=1>0.12</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>3.70</td><td rowspan=1 colspan=1>2.50</td><td rowspan=1 colspan=1>增加1.20个百分点</td><td rowspan=1 colspan=1>2.00</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>28.40</td><td rowspan=1 colspan=1>25.60</td><td rowspan=1 colspan=1>+10.9%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>23.80</td><td rowspan=1 colspan=1>22.60</td><td rowspan=1 colspan=1>+5.3%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9502,
+                "bbox": [
+                    141,
+                    1382,
+                    968,
+                    1418
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.96,
+                "bbox": [
+                    142,
+                    1445,
+                    573,
+                    1489
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.938,
+                "bbox": [
+                    144,
+                    1513,
+                    511,
+                    1551
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    1559,
+                    1520,
+                    1842
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>工业软件专项及研发费用补助</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.02</td><td rowspan=1 colspan=1>软件增值税退税即征即退</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>占归母净利润比例 27.9%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9527,
+                "bbox": [
+                    143,
+                    1853,
+                    825,
+                    1887
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9605,
+                "bbox": [
+                    143,
+                    1914,
+                    507,
+                    1957
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9174,
+                "bbox": [
+                    144,
+                    1983,
+                    484,
+                    2020
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9793,
+                "bbox": [
+                    132,
+                    2028,
+                    1521,
+                    2144
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>1.35</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>2.00</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9456,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9374,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    409,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    439,
+                    1487,
+                    470
+                ],
+                "score": 1.0,
+                "text": "公司成立于2013年，总部位于苏州高新区，2022年11月在上海证券交易所科创板上市，是国内极少"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    487,
+                    1491,
+                    517
+                ],
+                "score": 1.0,
+                "text": "数提供模拟电路设计全流程EDA工具的厂商，产品覆盖原理图捕获、电路仿真、版图设计、寄生提取与物"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    534,
+                    306,
+                    564
+                ],
+                "score": 1.0,
+                "text": "理验证签核。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    600,
+                    1492,
+                    626
+                ],
+                "score": 0.998,
+                "text": "报告期内，公司新版并行SPICE仿真引擎完成内测，大电路上仿真速度较上一代提升4.2倍；累计服务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    648,
+                    997,
+                    674
+                ],
+                "score": 1.0,
+                "text": "客户超过380家，覆盖集成电路设计、晶圆代工、高校院所等类型。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    719,
+                    566,
+                    756
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    790,
+                    519,
+                    815
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1389,
+                    960,
+                    1411
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1449,
+                    565,
+                    1485
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1520,
+                    504,
+                    1545
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1860,
+                    817,
+                    1880
+                ],
+                "score": 0.999,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1919,
+                    501,
+                    1953
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1988,
+                    478,
+                    2014
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9564,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8987,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9758,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    235
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>0.20</td><td rowspan=1 colspan=1>0.23</td><td rowspan=1 colspan=1>0.25</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9442,
+                "bbox": [
+                    141,
+                    275,
+                    582,
+                    325
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    141,
+                    358,
+                    605,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9858,
+                "bbox": [
+                    140,
+                    415,
+                    1506,
+                    553
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    140,
+                    573,
+                    1501,
+                    711
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9586,
+                "bbox": [
+                    142,
+                    743,
+                    636,
+                    787
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    140,
+                    801,
+                    1498,
+                    938
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9767,
+                "bbox": [
+                    142,
+                    960,
+                    1495,
+                    1049
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9535,
+                "bbox": [
+                    142,
+                    1082,
+                    573,
+                    1126
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8104,
+                "bbox": [
+                    143,
+                    1152,
+                    497,
+                    1189
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    1198,
+                    1520,
+                    1475
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>模拟电路全流程EDA</td><td rowspan=1 colspan=1>4.28</td><td rowspan=1 colspan=1>62.9%</td><td rowspan=1 colspan=1>89.2%</td><td rowspan=1 colspan=1>+34.2%</td></tr><tr><td rowspan=1 colspan=1>射频EDA工具</td><td rowspan=1 colspan=1>1.50</td><td rowspan=1 colspan=1>22.1%</td><td rowspan=1 colspan=1>85.6%</td><td rowspan=1 colspan=1>+25.0%</td></tr><tr><td rowspan=1 colspan=1>IP授权及技术服务</td><td rowspan=1 colspan=1>1.02</td><td rowspan=1 colspan=1>15.0%</td><td rowspan=1 colspan=1>82.4%</td><td rowspan=1 colspan=1>+22.6%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>88.5%</td><td rowspan=1 colspan=1>+30.8%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9091,
+                "bbox": [
+                    142,
+                    1483,
+                    1494,
+                    1573
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9222,
+                "bbox": [
+                    144,
+                    1599,
+                    433,
+                    1635
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    1645,
+                    1520,
+                    1868
+                ],
+                "index": 16,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>6.12</td><td rowspan=1 colspan=1>90.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>10.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9505,
+                "bbox": [
+                    142,
+                    1880,
+                    727,
+                    1915
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    143,
+                    1943,
+                    412,
+                    1985
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8447,
+                "bbox": [
+                    144,
+                    2011,
+                    535,
+                    2049
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9762,
+                "bbox": [
+                    132,
+                    2057,
+                    1520,
+                    2169
+                ],
+                "index": 20,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=2 colspan=1>变动说明规模化交付效率提升</td></tr><tr><td rowspan=1 colspan=1>技术支持与实施服务成本</td><td rowspan=1 colspan=1>58.5%</td><td rowspan=1 colspan=1>60.2%</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9445,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9383,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    574,
+                    323
+                ],
+                "score": 0.987,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    362,
+                    597,
+                    400
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    423,
+                    1496,
+                    448
+                ],
+                "score": 1.0,
+                "text": "2025年，全球EDA市场规模约160亿美元，同比增长约10%，三巨头合计份额仍超过70%。中国EDA"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    471,
+                    1486,
+                    496
+                ],
+                "score": 0.999,
+                "text": "市场约120亿元人民币，国产工具整体自给率仍不足15%，但在模拟全流程、签核等环节，本土厂商已形"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    517,
+                    392,
+                    546
+                ],
+                "score": 1.0,
+                "text": "成可用的替代路径。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    581,
+                    1492,
+                    606
+                ],
+                "score": 0.998,
+                "text": "行业政策方面，工业软件与EDA持续获得专项资金与税收优惠支持，境内晶圆厂与设计公司在采购流"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    629,
+                    1490,
+                    654
+                ],
+                "score": 1.0,
+                "text": "程中给予国产工具同等甚至优先的验证机会。随着境内晶圆制造产能占比提升，PDK生态与制造侧签核工"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    676,
+                    626,
+                    701
+                ],
+                "score": 1.0,
+                "text": "具将成为国产EDA最重要的增量入口。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    749,
+                    627,
+                    784
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    809,
+                    1490,
+                    834
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为EDA工具软件的研发、销售与技术服务，收入模式包括永久授权、年度订阅与技术服"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    858,
+                    1484,
+                    883
+                ],
+                "score": 0.995,
+                "text": "务三种，其中订阅制收入占比持续提升。公司核心产品为模拟电路全流程工具链'铨流'系列与签核工具'铨"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    901,
+                    256,
+                    933
+                ],
+                "score": 1.0,
+                "text": "证'系列。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    966,
+                    1487,
+                    996
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司研发人员730人，占员工总数69.5%；产品迭代方面全年发布大小版本23个，客户续"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1013,
+                    304,
+                    1044
+                ],
+                "score": 1.0,
+                "text": "费率92.6%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1085,
+                    567,
+                    1126
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1154,
+                    492,
+                    1186
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1486,
+                    1488,
+                    1516
+                ],
+                "score": 1.0,
+                "text": "模拟电路全流程EDA收入4.28亿元，同比增长34.2%，为主要增长来源；射频EDA工具受益于滤波器"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1535,
+                    1465,
+                    1561
+                ],
+                "score": 1.0,
+                "text": "与射频前端设计客户扩容，收入1.50亿元；IP授权及技术服务收入1.02亿元，随客户定制需求稳步增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1601,
+                    427,
+                    1633
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1887,
+                    722,
+                    1908
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的46.8%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1945,
+                    406,
+                    1986
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2018,
+                    528,
+                    2044
+                ],
+                "score": 0.95,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9538,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8975,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9864,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    291
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>授权介质及算力成本</td><td rowspan=1 colspan=1>24.1%</td><td rowspan=1 colspan=1>23.0%</td><td rowspan=1 colspan=1>云端算力使用增加</td></tr><tr><td rowspan=1 colspan=1>其他成本</td><td rowspan=1 colspan=1>17.4%</td><td rowspan=1 colspan=1>16.8%</td><td rowspan=1 colspan=1>基本平稳</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    142,
+                    320,
+                    507,
+                    363
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7331,
+                "bbox": [
+                    143,
+                    389,
+                    313,
+                    426
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    435,
+                    1521,
+                    711
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.50</td><td rowspan=1 colspan=1>+24.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>0.98</td><td rowspan=1 colspan=1>0.82</td><td rowspan=1 colspan=1>+19.5%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.48</td><td rowspan=1 colspan=1>+21.8%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>+100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7647,
+                "bbox": [
+                    139,
+                    720,
+                    1506,
+                    810
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    141,
+                    842,
+                    413,
+                    886
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8599,
+                "bbox": [
+                    143,
+                    912,
+                    365,
+                    946
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9866,
+                "bbox": [
+                    132,
+                    956,
+                    1520,
+                    1176
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.40</td><td rowspan=1 colspan=1>-2.00</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>-0.20</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9398,
+                "bbox": [
+                    141,
+                    1186,
+                    1498,
+                    1322
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.96,
+                "bbox": [
+                    142,
+                    1355,
+                    572,
+                    1398
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8649,
+                "bbox": [
+                    142,
+                    1423,
+                    446,
+                    1461
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    132,
+                    1469,
+                    1520,
+                    1808
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>+8.5%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>+27.8%</td><td rowspan=1 colspan=1>Q4订阅续费集中确认</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>+23.9%</td><td rowspan=1 colspan=1>预收订阅费增加</td></tr><tr><td rowspan=1 colspan=1>无形资产</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>1.95</td><td rowspan=1 colspan=1>+7.7%</td><td rowspan=1 colspan=1>资本化研发投入增加</td></tr><tr><td rowspan=1 colspan=1>开发支出</td><td rowspan=1 colspan=1>0.95</td><td rowspan=1 colspan=1>0.75</td><td rowspan=1 colspan=1>+26.7%</td><td rowspan=1 colspan=1>仿真引擎项目投入</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    142,
+                    1839,
+                    510,
+                    1882
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9796,
+                "bbox": [
+                    139,
+                    1897,
+                    1495,
+                    1988
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    139,
+                    2008,
+                    1501,
+                    2097
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9515,
+                "bbox": [
+                    142,
+                    2131,
+                    348,
+                    2174
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9463,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9367,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 20
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.986,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    325,
+                    500,
+                    359
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    394,
+                    308,
+                    422
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    722,
+                    1496,
+                    752
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计3.20亿元，占营业收入比例47.1%，其中费用化研发费用3.02亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    771,
+                    1084,
+                    801
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.18亿元；研发人员730人，占员工总数比例69.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    844,
+                    407,
+                    885
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    916,
+                    361,
+                    945
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1192,
+                    1487,
+                    1217
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额1.90亿元，同比增长35.7%，订阅预收模式带来良性的现金结构，合"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1239,
+                    1487,
+                    1264
+                ],
+                "score": 1.0,
+                "text": "同负债余额较期初增长23.9%；投资活动净流出2.40亿元，主要为总部研发大楼购置与算力集群投入；筹"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1286,
+                    507,
+                    1312
+                ],
+                "score": 1.0,
+                "text": "资活动小幅净流入0.30亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1355,
+                    565,
+                    1395
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1430,
+                    440,
+                    1456
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1843,
+                    501,
+                    1878
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1905,
+                    1486,
+                    1931
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入8.8亿元左右，同比增长约29%；订阅制收入占比提升至45%以上。产品"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1948,
+                    1440,
+                    1980
+                ],
+                "score": 1.0,
+                "text": "层面，公司将完成新一代并行SPICE仿真引擎发布，并将签核工具推进至三家12英寸晶圆厂参考流程。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    2014,
+                    1493,
+                    2044
+                ],
+                "score": 0.999,
+                "text": "公司将以'仿真引擎'与'签核生态'两大基座向数字全流程延伸，规划三年内形成覆盖模数混合设计全流"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2060,
+                    334,
+                    2089
+                ],
+                "score": 1.0,
+                "text": "程的工具版图。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2133,
+                    344,
+                    2174
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9588,
+                "bbox": [
+                    127,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.889,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9628,
+                "bbox": [
+                    141,
+                    122,
+                    1073,
+                    162
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    140,
+                    186,
+                    1500,
+                    274
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9525,
+                "bbox": [
+                    197,
+                    297,
+                    1306,
+                    337
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9797,
+                "bbox": [
+                    141,
+                    361,
+                    1499,
+                    449
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9575,
+                "bbox": [
+                    197,
+                    471,
+                    1272,
+                    513
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9562,
+                "bbox": [
+                    197,
+                    535,
+                    1130,
+                    576
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.962,
+                "bbox": [
+                    142,
+                    623,
+                    468,
+                    672
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    693,
+                    1492,
+                    783
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.983,
+                "bbox": [
+                    140,
+                    805,
+                    1484,
+                    939
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    140,
+                    963,
+                    1510,
+                    1100
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9617,
+                "bbox": [
+                    142,
+                    1146,
+                    431,
+                    1193
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    139,
+                    1216,
+                    1504,
+                    1400
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    140,
+                    1421,
+                    1498,
+                    1512
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9746,
+                "bbox": [
+                    140,
+                    1534,
+                    1500,
+                    1622
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9656,
+                "bbox": [
+                    141,
+                    1667,
+                    805,
+                    1717
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9531,
+                "bbox": [
+                    141,
+                    1750,
+                    412,
+                    1793
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9434,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8447,
+                "bbox": [
+                    142,
+                    1819,
+                    368,
+                    1855
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.989,
+                "bbox": [
+                    131,
+                    1865,
+                    1521,
+                    2146
+                ],
+                "index": 21,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>+11.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>1.32</td><td rowspan=1 colspan=1>+10.0%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>8.6</td><td rowspan=1 colspan=1>+1.2%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>+9.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9489,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    129,
+                    1063,
+                    155
+                ],
+                "score": 0.999,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    193,
+                    1491,
+                    218
+                ],
+                "score": 1.0,
+                "text": "生态依赖风险：EDA行业生态由国际三巨头主导，若境内客户验证与导入速度不及预期，国产替代进"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    236,
+                    279,
+                    271
+                ],
+                "score": 0.997,
+                "text": "程将放缓。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    301,
+                    1298,
+                    334
+                ],
+                "score": 1.0,
+                "text": "人才流失风险：EDA研发高度依赖高端算法人才，核心团队流失将直接影响产品迭代。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    368,
+                    1490,
+                    393
+                ],
+                "score": 1.0,
+                "text": "技术差距风险：在大规模并行仿真、数字全流程等领域，公司与国际头部产品仍有代差，追赶需要持"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    411,
+                    279,
+                    446
+                ],
+                "score": 1.0,
+                "text": "续高投入。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    479,
+                    1262,
+                    505
+                ],
+                "score": 1.0,
+                "text": "客户集中风险：公司前五名客户收入占比46.8%，大客户预算波动对收入影响较大。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    542,
+                    1121,
+                    569
+                ],
+                "score": 1.0,
+                "text": "知识产权风险：EDA涉及大量算法专利，存在潜在诉讼或授权争议风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    614,
+                    464,
+                    673
+                ],
+                "score": 0.987,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    698,
+                    1485,
+                    729
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议7次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    750,
+                    1146,
+                    775
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    813,
+                    1475,
+                    838
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    860,
+                    1411,
+                    885
+                ],
+                "score": 0.965,
+                "text": "0.60元（含税)，合计派发现金红利0.22亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    903,
+                    266,
+                    938
+                ],
+                "score": 0.996,
+                "text": "25.58%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    971,
+                    1500,
+                    996
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1018,
+                    1499,
+                    1043
+                ],
+                "score": 0.992,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1066,
+                    617,
+                    1091
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1139,
+                    427,
+                    1196
+                ],
+                "score": 0.991,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1222,
+                    1490,
+                    1247
+                ],
+                "score": 0.989,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1271,
+                    1498,
+                    1296
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1318,
+                    1490,
+                    1344
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1364,
+                    466,
+                    1389
+                ],
+                "score": 0.999,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1429,
+                    1489,
+                    1455
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1477,
+                    1223,
+                    1502
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1541,
+                    1491,
+                    1566
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1587,
+                    333,
+                    1616
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1671,
+                    796,
+                    1713
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1753,
+                    406,
+                    1794
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1825,
+                    361,
+                    1851
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9497,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8805,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9826,
+                "bbox": [
+                    140,
+                    122,
+                    1500,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9476,
+                "bbox": [
+                    142,
+                    242,
+                    350,
+                    287
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    140,
+                    302,
+                    1509,
+                    392
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9598,
+                "bbox": [
+                    143,
+                    424,
+                    478,
+                    468
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98,
+                "bbox": [
+                    140,
+                    482,
+                    1499,
+                    573
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9618,
+                "bbox": [
+                    143,
+                    617,
+                    431,
+                    666
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9583,
+                "bbox": [
+                    199,
+                    689,
+                    1040,
+                    729
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9602,
+                "bbox": [
+                    198,
+                    753,
+                    809,
+                    793
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9615,
+                "bbox": [
+                    199,
+                    816,
+                    1012,
+                    857
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609,
+                "bbox": [
+                    199,
+                    880,
+                    1275,
+                    922
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    142,
+                    944,
+                    1499,
+                    1034
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.945,
+                "bbox": [
+                    142,
+                    1078,
+                    617,
+                    1127
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6218,
+                "bbox": [
+                    144,
+                    1155,
+                    350,
+                    1192
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    133,
+                    1201,
+                    1521,
+                    1427
+                ],
+                "index": 16,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量（万股）</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>33,840.0</td><td rowspan=1 colspan=1>94.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,160.0</td><td rowspan=1 colspan=1>6.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>36,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9538,
+                "bbox": [
+                    143,
+                    1458,
+                    444,
+                    1500
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4912,
+                "bbox": [
+                    143,
+                    1526,
+                    549,
+                    1562
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.942,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    132,
+                    1571,
+                    1522,
+                    2138
+                ],
+                "index": 20,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>铨核控股（苏州）有限公司</td><td rowspan=1 colspan=1>24.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>苏州高新区创投集团</td><td rowspan=1 colspan=1>6.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>5.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>泓文软件产业基金(有限合伙)</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金——七组合</td><td rowspan=1 colspan=1>2.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零三组合</td><td rowspan=1 colspan=1>1.90%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>招商上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>核聚人才持股计划(第二期)</td><td rowspan=1 colspan=1>1.45%</td><td rowspan=1 colspan=1>其他</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9491,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    128,
+                    1488,
+                    153
+                ],
+                "score": 0.999,
+                "text": "公司作为软件企业，环境影响主要为算力与办公能耗。报告期内公司将部分仿真算力迁移至绿电供应"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    177,
+                    1282,
+                    202
+                ],
+                "score": 1.0,
+                "text": "的数据中心，PUE低于1.25；连续第二年实现全员纸质办公零化，电子签署覆盖率100%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    243,
+                    348,
+                    290
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    310,
+                    1499,
+                    335
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数1,050人，其中研发人员730人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    357,
+                    1438,
+                    383
+                ],
+                "score": 1.0,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    429,
+                    470,
+                    467
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    490,
+                    1490,
+                    516
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    538,
+                    1029,
+                    563
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    617,
+                    426,
+                    666
+                ],
+                "score": 0.96,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    696,
+                    1032,
+                    722
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    760,
+                    799,
+                    786
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    821,
+                    1006,
+                    853
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司不存在与关联方发生的日常关联交易。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    888,
+                    1266,
+                    914
+                ],
+                "score": 1.0,
+                "text": "承诺履行情况：公司控股股东、实际控制人及董监高报告期内未发生违反承诺情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    950,
+                    1491,
+                    980
+                ],
+                "score": 1.0,
+                "text": "股权激励：报告期内公司完成第二期限制性股票激励计划授予，授予价格45.20元/股，业绩考核目标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    998,
+                    773,
+                    1023
+                ],
+                "score": 0.984,
+                "text": "为2026-2028年营业收入复合增长率不低于28%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1080,
+                    611,
+                    1125
+                ],
+                "score": 0.962,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1159,
+                    346,
+                    1192
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1462,
+                    436,
+                    1497
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1530,
+                    544,
+                    1559
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9467,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9069,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9811,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    284
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>华夏人工智能主题混合基金</td><td rowspan=1 colspan=1>1.25%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>52.60%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9126,
+                "bbox": [
+                    140,
+                    291,
+                    1498,
+                    380
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9594,
+                "bbox": [
+                    142,
+                    426,
+                    430,
+                    475
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9402,
+                "bbox": [
+                    142,
+                    509,
+                    349,
+                    552
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852,
+                "bbox": [
+                    139,
+                    566,
+                    1509,
+                    752
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9547,
+                "bbox": [
+                    141,
+                    783,
+                    681,
+                    829
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6756,
+                "bbox": [
+                    143,
+                    853,
+                    391,
+                    889
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9893,
+                "bbox": [
+                    132,
+                    897,
+                    1521,
+                    1464
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>8.20</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.80</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.30</td></tr><tr><td rowspan=1 colspan=1>开发支出</td><td rowspan=1 colspan=1>0.95</td><td rowspan=1 colspan=1>0.75</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>28.40</td><td rowspan=1 colspan=1>25.60</td></tr><tr><td rowspan=1 colspan=1>应付职工薪酬</td><td rowspan=1 colspan=1>1.20</td><td rowspan=1 colspan=1>1.02</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>1.98</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>3.00</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>23.80</td><td rowspan=1 colspan=1>22.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.936,
+                "bbox": [
+                    141,
+                    1474,
+                    1204,
+                    1510
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9557,
+                "bbox": [
+                    142,
+                    1537,
+                    616,
+                    1581
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.598,
+                "bbox": [
+                    143,
+                    1607,
+                    338,
+                    1642
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9889,
+                "bbox": [
+                    132,
+                    1650,
+                    1521,
+                    2047
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>0.78</td><td rowspan=1 colspan=1>0.62</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>4.72</td><td rowspan=1 colspan=1>3.85</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.48</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>0.56</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.40</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    143,
+                    2078,
+                    680,
+                    2121
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9053,
+                "bbox": [
+                    142,
+                    2148,
+                    391,
+                    2183
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9455,
+                "bbox": [
+                    127,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9398,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    296,
+                    1490,
+                    325
+                ],
+                "score": 0.987,
+                "text": "公司控股股东为铨核控股（苏州）有限公司，实际控制人为梅仲谦、简行舟。控股股东所持股份报告期内"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    343,
+                    450,
+                    372
+                ],
+                "score": 1.0,
+                "text": "不存在质押、冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    418,
+                    426,
+                    477
+                ],
+                "score": 0.961,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    508,
+                    344,
+                    553
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    574,
+                    1496,
+                    599
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    617,
+                    1499,
+                    647
+                ],
+                "score": 0.986,
+                "text": "意见（中衡审字[2026]第0903号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    669,
+                    1489,
+                    695
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    711,
+                    279,
+                    747
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    787,
+                    672,
+                    825
+                ],
+                "score": 0.959,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    858,
+                    387,
+                    887
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1482,
+                    1192,
+                    1500
+                ],
+                "score": 1.0,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1542,
+                    608,
+                    1577
+                ],
+                "score": 0.946,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1609,
+                    334,
+                    1639
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2083,
+                    672,
+                    2117
+                ],
+                "score": 0.947,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2153,
+                    384,
+                    2178
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.993,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9332,
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9046,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9824,
+                "bbox": [
+                    133,
+                    120,
+                    1520,
+                    341
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.40</td><td rowspan=1 colspan=1>-2.00</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>-0.20</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9094,
+                "bbox": [
+                    141,
+                    349,
+                    1497,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9612,
+                "bbox": [
+                    144,
+                    484,
+                    382,
+                    531
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.963,
+                "bbox": [
+                    144,
+                    554,
+                    1265,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.963,
+                "bbox": [
+                    144,
+                    618,
+                    1129,
+                    658
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    144,
+                    682,
+                    886,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9591,
+                "bbox": [
+                    144,
+                    746,
+                    721,
+                    785
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9558,
+                "bbox": [
+                    157,
+                    831,
+                    827,
+                    866
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9472,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2263
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9429,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    845,
+                    57
+                ],
+                "score": 0.986,
+                "text": "苏州铨核科技股份有限公司（688395.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    397,
+                    308,
+                    433
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    474,
+                    381,
+                    535
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    558,
+                    1260,
+                    592
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    625,
+                    1121,
+                    651
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    689,
+                    878,
+                    715
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    750,
+                    715,
+                    783
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    837,
+                    819,
+                    861
+                ],
+                "score": 0.996,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "苏州铨核科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

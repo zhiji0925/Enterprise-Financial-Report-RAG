@@ -1,0 +1,262 @@
+# 西安云鸢动力股份有限公司
+
+2025 年年度报告
+
+(股票简称：云鸢动力股票代码：688308.SH)(上海证券交易所科创板)
+
+披露日期：2026年3月26日
+
+公司统一社会信用代码：91610131MA6UPQ5N7E
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.80元(含税)，合计派发现金红利0.97亿元（含税)，占2025年度归属于上市公司股东净利润的25.13%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经中衡会计师事务所(特殊普通合伙）审计，并出具了标准无保留意见审计报告（中衡审字[2026]第0508号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人云执衡、主管会计工作负责人阚行舟及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、云鸢动力</td><td rowspan=1 colspan=1>指西安云鸢动力股份有限公司</td></tr><tr><td rowspan=1 colspan=1>两机</td><td rowspan=1 colspan=1>指航空发动机与燃气轮机</td></tr><tr><td rowspan=1 colspan=1>环形锻件</td><td rowspan=1 colspan=1>指通过轧环工艺成形的回转类锻件</td></tr><tr><td rowspan=1 colspan=1>等温锻造</td><td rowspan=1 colspan=1>指在恒定高温下以极低应变速率成形的精密锻造工艺</td></tr><tr><td rowspan=1 colspan=1>涡轮盘</td><td rowspan=1 colspan=1>指发动机高温核心段安装叶片的旋转盘件</td></tr><tr><td rowspan=1 colspan=1>长协</td><td rowspan=1 colspan=1>指与主机厂签署的多年期框架采购协议</td></tr><tr><td rowspan=1 colspan=1>转包</td><td rowspan=1 colspan=1>指承接国际航空制造商的零部件外包订单</td></tr><tr><td rowspan=1 colspan=1>探伤</td><td rowspan=1 colspan=1>指对锻件内部缺陷进行无损检测</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，中国'两机'产业链按下了加速键。云鸢动力实现营业收入31.90亿元，同比增长20.8%；归属于上市公司股东的净利润3.86亿元，同比增长12.9%；与主机集团的长协覆盖率提升至70%，等温锻生产线建成投产，公司向高温部件精密锻造的深水区又迈进了一步。
+
+这一年，环形锻件在三代机与国产大飞机两个方向同步放量；叶片精锻件通过国际转包客户年度审核，出口收入同比增长21%；最关键的是，等温锻产线一次性通过工艺鉴定，为下一个十年卡住了身位航空锻件的竞争，最终是工艺极限与交付信誉的竞争。
+
+锻件虽小，承力千钧。2026年，公司将以等温锻能力爬坡为主线，推动涡轮盘用超大型锻件的首件认证，让'中国心脏'的每一环都有云鸢的金属组织。感谢股东与国家重点型号给我们的信任
+
+董事长：云执衡2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+公司基本情况
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">西安云鸢动力股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">云鸢动力</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">688308.SH</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">上海证券交易所科创板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">陕西省西安市阎良区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2022年1月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">航空锻件</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">云执衡</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">卓翎</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">阚行舟</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">4,850</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于2010年，总部位于西安阎良航空高技术产业基地，2022年1月在上海证券交易所科创板上市，是国内航空发动机与燃气轮机用高端锻件的头部民营企业。
+
+截至报告期末，公司拥有40吨米对击锤、等温锻压机等大型装备，具备直径2.2米级环形锻件、超大型钛合金锻件的批产能力，探伤与理化检测中心通过NADCAP认证。
+
+## 三、主要会计数据和财务指标
+
+## 近三年主要会计数据和财务指标
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>31.90</td><td rowspan=1 colspan=1>26.40</td><td rowspan=1 colspan=1>+20.8%</td><td rowspan=1 colspan=1>21.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>3.86</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>+12.9%</td><td rowspan=1 colspan=1>3.02</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>3.08</td><td rowspan=1 colspan=1>+11.0%</td><td rowspan=1 colspan=1>2.70</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>3.90</td><td rowspan=1 colspan=1>+20.5%</td><td rowspan=1 colspan=1>3.40</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.71</td><td rowspan=1 colspan=1>0.63</td><td rowspan=1 colspan=1>+12.9%</td><td rowspan=1 colspan=1>0.56</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%)</td><td rowspan=1 colspan=1>8.50</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>增加0.70个百分点</td><td rowspan=1 colspan=1>7.20</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>76.80</td><td rowspan=1 colspan=1>71.60</td><td rowspan=1 colspan=1>+7.3%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元)</td><td rowspan=1 colspan=1>46.40</td><td rowspan=1 colspan=1>44.40</td><td rowspan=1 colspan=1>+4.5%</td><td rowspan=1 colspan=1></td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=2 colspan=1>说明航空发动机及燃气轮机重大专项配套资助</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.26</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.44</td><td rowspan=1 colspan=1>占归母净利润比例11.4%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>7.50</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>9.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.76</td><td rowspan=1 colspan=1>0.88</td><td rowspan=1 colspan=1>1.02</td><td rowspan=1 colspan=1>1.20</td></tr></table>
+
+第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年国内航空发动机产业链进入批量交付与新研并举的高景气阶段，两机专项'带动高温合金、钛合金锻件需求快速增长；国产大飞机产能爬坡为机体环形锻件打开长期空间。全球航空转包市场随民航复苏持续回暖，国际采购向具备认证与产能优势的亚太厂商倾斜。
+
+供给端，等温锻造、超大件轧环等先进工艺成为高端锻件的准入门槛；行业格局向'材料一锻造一检测'一体化能力企业集中，长协锁定下头部锻件厂商的排产能见度普遍到2027年以后。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为航空发动机、燃气轮机及飞机结构件用高端锻件的研发与生产，核心产品为环形锻件、叶片精锻件与机匣结构锻件，并以长协模式服务主机集团。
+
+报告期内，公司等温锻产线建成投产并完成工艺鉴定；为国产大飞机供应的机翼环形件通过首件鉴定进入批产；国际转包叶片订单新增两个机型。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>环形锻件</td><td rowspan=1 colspan=1>16.59</td><td rowspan=1 colspan=1>52.0%</td><td rowspan=1 colspan=1>35.0%</td><td rowspan=1 colspan=1>+14.0%</td></tr><tr><td rowspan=1 colspan=1>叶片精锻件</td><td rowspan=1 colspan=1>9.89</td><td rowspan=1 colspan=1>31.0%</td><td rowspan=1 colspan=1>39.5%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>机匣及结构锻件</td><td rowspan=1 colspan=1>5.42</td><td rowspan=1 colspan=1>17.0%</td><td rowspan=1 colspan=1>37.0%</td><td rowspan=1 colspan=1>+21.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>31.90</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>36.8%</td><td rowspan=1 colspan=1>+20.8%</td></tr></table>
+
+环形锻件收入16.59亿元，同比增长14.0%，发动机型号放量与大飞机机体件共同驱动；叶片精锻件收入9.89亿元，同比增长18.5%，转包与新机型贡献增量；机匣及结构锻件收入5.42亿元，同比增长21.0%，等温锻工艺打开新空间。
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>27.12</td><td rowspan=1 colspan=1>85.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>4.78</td><td rowspan=1 colspan=1>15.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>31.90</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的68.5%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>高温合金/钛合金原材料</td><td rowspan=1 colspan=1>54.6%</td><td rowspan=1 colspan=1>55.8%</td><td rowspan=1 colspan=1>长协锁价与成材率提升</td></tr><tr><td rowspan=1 colspan=1>能耗（电、燃气）</td><td rowspan=1 colspan=1>14.2%</td><td rowspan=1 colspan=1>14.6%</td><td rowspan=1 colspan=1>谷电排产优化</td></tr><tr><td rowspan=1 colspan=1>人工及模具费用</td><td rowspan=1 colspan=1>31.2%</td><td rowspan=1 colspan=1>29.6%</td><td rowspan=1 colspan=1>模损率下降，产能利用率提升</td></tr></table>
+
+## 五、期间费用与研发投入
+
+## 期间费用变动
+
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>0.86</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>+19.4%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.32</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>+13.2%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.25</td><td rowspan=1 colspan=1>1.95</td><td rowspan=1 colspan=1>+15.4%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>-20.0%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计2.40亿元，占营业收入比例7.5%，其中费用化研发费用2.25亿元、资本化研发投入0.15亿元；研发人员820人，占员工总数比例16.9%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>3.90</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-5.20</td><td rowspan=1 colspan=1>-4.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>2.00</td></tr></table>
+
+报告期内经营活动现金流量净额4.70亿元，同比增长20.5%；投资活动净流出5.20亿元，主要为等温锻产线与检测中心建设；筹资活动净流入2.40亿元。
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>+10.7%</td><td rowspan=1 colspan=1>可转债募集资金到位</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>32.40</td><td rowspan=1 colspan=1>29.60</td><td rowspan=1 colspan=1>+9.5%</td><td rowspan=1 colspan=1>等温锻产线建成投产</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>10.60</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>+8.2%</td><td rowspan=1 colspan=1>长协备产在制品增加</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入38.5亿元左右，同比增长约21%；等温锻产能利用率爬坡至60%，涡轮盘用超大型锻件完成首件认证；长协收入占比稳定在70%左右。
+
+技术方面，公司将启动粉末涡轮盘用包套锻造工艺预研，并扩建探伤中心以承接第三代检测标准，持续抬高行业准入壁垒。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+客户集中风险：公司前五名客户收入占比68.5%，主机集团采购节奏变化影响显著。
+
+型号波动风险：重点型号批产节奏调整可能导致排产与收入波动。
+
+原材料风险：高温合金供应集中且价格高企，成材率波动影响毛利。
+
+工艺风险：等温锻等新工艺爬坡若不及预期，将影响新品交付与单位成本。
+
+保密与资质风险：军品业务资质与保密管理要求严格，违规风险不可承受。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.80元(含税），合计派发现金红利0.97亿元（含税），占2025年度归属于上市公司股东净利润的25.13%。
+
+公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+## 环境信息主要指标
+
+<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗(吨标准煤）</td><td rowspan=1 colspan=1>58,600</td><td rowspan=1 colspan=1>+9.2%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e)</td><td rowspan=1 colspan=1>126,500</td><td rowspan=1 colspan=1>+8.6%</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>18.4</td><td rowspan=1 colspan=1>-9.8%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>1,120</td><td rowspan=1 colspan=1>+22.0%</td></tr></table>
+
+锻造行业能耗强度高，公司通过谷电排产与余热利用使单位产值能耗同比下降9.8%；报告期内安全生产事故为零，通过武器装备科研生产单位二级保密资格复查
+
+## 二、社会责任
+
+截至报告期末，公司员工总数4,850人，其中研发人员820人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大合同：报告期内公司与主机集团签署新一轮三年期长协，覆盖2026-2028年主要型号锻件供应金额上限约32亿元。
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司不存在对外担保事项。
+
+关联交易：报告期内公司与关联方发生的日常关联交易合计金额为4,100万元，主要为模具与检测服务，定价公允。
+
+再融资：公司2025年6月完成公开发行可转换公司债券，募集资金4.2亿元，用于等温锻产线建设项目。
+
+## 第九节 股份变动及股东情况
+
+股份结构 (万股)
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>47,520.0</td><td rowspan=1 colspan=1>88.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>6,480.0</td><td rowspan=1 colspan=1>12.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>54,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>云鸢控股集团有限公司</td><td rowspan=1 colspan=1>26.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家军民融合产业投资基金</td><td rowspan=1 colspan=1>7.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>陕西航空航天产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.30%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——二组合</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>军工产业混合所有制改革基金</td><td rowspan=1 colspan=1>3.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零一组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>云鸢员工持股计划</td><td rowspan=1 colspan=1>2.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>易方达科创板50ETF联接基金</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>58.30%</td><td rowspan=1 colspan=1></td></tr></table>
+
+公司控股股东为云鸢控股集团有限公司，实际控制人为云执衡。控股股东所持股份报告期内不存在质押、冻结情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙)审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0508号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规
+
+定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目（摘要）
+
+## 资产负债表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初（亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>9.00</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>10.60</td><td rowspan=1 colspan=1>9.80</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>32.40</td><td rowspan=1 colspan=1>29.60</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>12.00</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>76.80</td><td rowspan=1 colspan=1>71.60</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>13.20</td><td rowspan=1 colspan=1>12.10</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>6.60</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>9.40</td><td rowspan=1 colspan=1>8.50</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>30.40</td><td rowspan=1 colspan=1>27.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>46.40</td><td rowspan=1 colspan=1>44.40</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。
+
+## 三、合并利润表主要项目（摘要)
+
+利润表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>31.90</td><td rowspan=1 colspan=1>26.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>20.16</td><td rowspan=1 colspan=1>16.84</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>5.55</td><td rowspan=1 colspan=1>4.87</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>2.25</td><td rowspan=1 colspan=1>1.95</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.86</td><td rowspan=1 colspan=1>3.42</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>3.08</td></tr></table>
+
+## 四、合并现金流量表主要项目（摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>3.90</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-5.20</td><td rowspan=1 colspan=1>-4.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>2.00</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+·载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+·报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

@@ -1,0 +1,260 @@
+# 上海曜石半导体股份有限公司
+
+2025 年年度报告
+
+(股票简称：曜石半导体股票代码：688212.SH)(上海证券交易所科创板)
+
+披露日期：2026年3月20日
+
+公司统一社会信用代码：91310115MA1K2XR9XQ
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.20元(含税)，合计派发现金红利0.54亿元（含税)，占2025年度归属于上市公司股东净利润的19.85%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(中衡审字[2026]第0112号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人张聿明、主管会计工作负责人戚望舒及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、曜石半导体</td><td rowspan=1 colspan=1>指上海曜石半导体股份有限公司</td></tr><tr><td rowspan=1 colspan=1>边缘AI</td><td rowspan=1 colspan=1>指部署于终端设备侧、靠近数据源执行推理的人工智能计算</td></tr><tr><td rowspan=1 colspan=1>SoC</td><td rowspan=1 colspan=1>指System on Chip，片上系统，在单一芯片上集成处理器、存储及外设控制等系统级功能</td></tr><tr><td rowspan=1 colspan=1>NPU</td><td rowspan=1 colspan=1>指Neural Processing Unit，神经网络处理器，面向神经网络推理运算的专用加速单元</td></tr><tr><td rowspan=1 colspan=1>流片</td><td rowspan=1 colspan=1>指芯片设计完成后交付晶圆代工厂进行试制生产的过程</td></tr><tr><td rowspan=1 colspan=1>ISP</td><td rowspan=1 colspan=1>指Image Signal Processor，图像信号处理器</td></tr><tr><td rowspan=1 colspan=1>Fabless</td><td rowspan=1 colspan=1>指无晶圆厂芯片设计经营模式</td></tr><tr><td rowspan=1 colspan=1>智巡系列</td><td rowspan=1 colspan=1>指公司面向智能安防与机器人场景的边缘AI SoC产品系列</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年，人工智能从模型能力竞赛走向规模化落地，端侧智能成为产业共识。这一年，曜石半导体实现营业收入19.60亿元，同比增长32.4%；归属于上市公司股东的净利润2.72亿元，同比增长47.0%。自研NPU在智能安防与机器人两大场景完成规模化装机，边缘AI芯片出货量突破480万颗。
+
+我们始终相信，算力的终局形态是'云边端协同'。过去一年，公司完成了第三代智巡系列SoC的量产导入，单芯片AI算力提升至28TOPS，能效比达到上一代的1.8倍；在机器人方向，我们推出了首颗支持多传感器融合定位与实时决策的R系列芯片，并进入三家头部人形机器人厂商的供应链。
+
+2026年，公司将以'端侧智能基座'为战略主轴，持续加大NPU架构与先进封装协同设计上的研发投入，与生态伙伴共同把边缘智能带入更多行业。感谢每一位股东、客户与曜芯人的信任与同行。
+
+董事长：张聿明2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+公司基本情况
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">上海曜石半导体股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">曜石半导体</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">688212.SH</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">上海证券交易所科创板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">上海市浦东新区张江高科技园区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2021年4月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">集成电路设计（Fabless）</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">张聿明</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">林嘉澍</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">戚望舒</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">1,850</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于2016年，总部位于上海张江，是一家专注于端侧智能处理芯片研发设计的Fabless企业。公司2021年4月在上海证券交易所科创板上市，募集资金主要用于新一代AISoC研发及产业化。
+
+报告期内，公司完成第三代智巡系列流片并量产，机器人视觉处理R系列芯片发布，累计获得授权发明专利286项，其中2025年新增54项。
+
+## 三、主要会计数据和财务指标
+
+近三年主要会计数据和财务指标
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>19.60</td><td rowspan=1 colspan=1>14.80</td><td rowspan=1 colspan=1>+32.4%</td><td rowspan=1 colspan=1>11.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（(亿元)</td><td rowspan=1 colspan=1>2.72</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>+47.0%</td><td rowspan=1 colspan=1>1.10</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>2.31</td><td rowspan=1 colspan=1>1.58</td><td rowspan=1 colspan=1>+46.2%</td><td rowspan=1 colspan=1>0.92</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>+18.7%</td><td rowspan=1 colspan=1>2.60</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.60</td><td rowspan=1 colspan=1>0.41</td><td rowspan=1 colspan=1>+47.0%</td><td rowspan=1 colspan=1>0.24</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%)</td><td rowspan=1 colspan=1>7.10</td><td rowspan=1 colspan=1>5.40</td><td rowspan=1 colspan=1>增加1.70个百分点</td><td rowspan=1 colspan=1>3.70</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>58.20</td><td rowspan=1 colspan=1>49.60</td><td rowspan=1 colspan=1>+17.3%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>40.10</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>+10.8%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.32</td><td rowspan=1 colspan=1>重点集成电路企业专项扶持资金</td></tr><tr><td rowspan=1 colspan=1>金融资产投资收益及理财收益</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>个税手续费返还等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.41</td><td rowspan=1 colspan=1>占归母净利润比例15.1%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>3.90</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>5.90</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.52</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.73</td><td rowspan=1 colspan=1>0.85</td></tr></table>
+
+第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年，全球半导体市场规模约7,100亿美元，同比增长约11%，其中端侧AI芯片成为增长最快的细分赛道之一。随着大模型小型化与推理优化技术成熟，智能手机、PC、安防、机器人、汽车座舱等终端全面进入AI化换代周期，市场研究机构预计2026年全球边缘AI芯片市场规模将超过350亿美元。
+
+国内市场方面，人工智能+'行动持续推进，安防、工业检测、服务机器人等场景的国产算力芯片采购比例明显提升。公司所处的边缘AISoC赛道受益于场景国产化与端侧算力升级的双轮驱动，行业景气度处于高位。
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为边缘AI处理器及SoC芯片、高清视音频处理芯片的研发设计与销售，并提供技术服务。智巡系列SoC集成了公司自研NPU、CPU与ISP，覆盖智能安防摄像机、巡检机器人、无人机等终端；高澜系列视音频处理芯片服务于会议一体机与商用显示市场。
+
+公司采用Fabless经营模式，晶圆制造与封装测试环节由境内头部晶圆代工及封测厂商完成。报告期内，公司在7nm制程上完成两款新品流片，采用chiplet级设计以平衡算力与成本。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>边缘AI处理器及SoC芯片</td><td rowspan=1 colspan=1>11.96</td><td rowspan=1 colspan=1>61.0%</td><td rowspan=1 colspan=1>44.8%</td><td rowspan=1 colspan=1>+45.2%</td></tr><tr><td rowspan=1 colspan=1>高清视音频处理芯片</td><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>24.0%</td><td rowspan=1 colspan=1>40.1%</td><td rowspan=1 colspan=1>+18.6%</td></tr><tr><td rowspan=1 colspan=1>技术服务及其他</td><td rowspan=1 colspan=1>2.94</td><td rowspan=1 colspan=1>15.0%</td><td rowspan=1 colspan=1>32.4%</td><td rowspan=1 colspan=1>+12.5%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>19.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>42.5%</td><td rowspan=1 colspan=1>+32.4%</td></tr></table>
+
+分产品看，边缘AI处理器及SoC芯片收入11.96亿元，同比增长45.2%，是公司增长的核心引擎；高清视音频处理芯片保持稳健增长；技术服务收入随客户定制化需求提升而扩大。
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>13.72</td><td rowspan=1 colspan=1>70.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>5.88</td><td rowspan=1 colspan=1>30.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>19.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的38.6%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>晶圆采购及封测成本</td><td rowspan=1 colspan=1>78.2%</td><td rowspan=1 colspan=1>76.5%</td><td rowspan=1 colspan=1>新品采用先进制程，单位晶圆成本上升</td></tr><tr><td rowspan=1 colspan=1>IP授权及摊销</td><td rowspan=1 colspan=1>9.8%</td><td rowspan=1 colspan=1>11.2%</td><td rowspan=1 colspan=1>自研IP占比提升，外购授权占比下降</td></tr><tr><td rowspan=1 colspan=1>人工及其他成本</td><td rowspan=1 colspan=1>12.0%</td><td rowspan=1 colspan=1>12.3%</td><td rowspan=1 colspan=1>规模效应摊薄</td></tr></table>
+
+## 五、期间费用与研发投入
+
+## 期间费用变动
+
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>+25.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.05</td><td rowspan=1 colspan=1>0.95</td><td rowspan=1 colspan=1>+10.5%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>3.60</td><td rowspan=1 colspan=1>+30.6%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.15</td><td rowspan=1 colspan=1>-0.10</td><td rowspan=1 colspan=1>+50.0%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计4.70亿元，占营业收入比例24.0%，其中费用化研发费用4.70亿元、资本化研发投入0.00亿元；研发人员860人，占员工总数比例46.5%。
+
+## 六、现金流量情况
+
+现金流量主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-6.80</td><td rowspan=1 colspan=1>-5.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>-1.20</td></tr></table>
+
+报告期内公司经营活动现金流量净额3.80亿元，同比增长18.8%，销售回款质量良好；投资活动现金净流出6.80亿元，主要系理财配置及研发大楼建设投入：筹资活动现金流量净额2.40亿元，主要来自员工持股计划项下的股份变动资金流入及银行借款净增加。
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>+43.8%</td><td rowspan=1 colspan=1>经营积累及理财资金到期赎回</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>6.42</td><td rowspan=1 colspan=1>4.88</td><td rowspan=1 colspan=1>+31.6%</td><td rowspan=1 colspan=1>第四季度出货增加</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>5.85</td><td rowspan=1 colspan=1>4.62</td><td rowspan=1 colspan=1>+26.6%</td><td rowspan=1 colspan=1>为2026年一季度备货</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>8.95</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>+31.6%</td><td rowspan=1 colspan=1>总部研发大楼投用</td></tr><tr><td rowspan=1 colspan=1>交易性金融资产</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>4.50</td><td rowspan=1 colspan=1>-28.9%</td><td rowspan=1 colspan=1>现金管理结构调整</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年，公司经营目标为：营业收入24亿元以上，同比增长不低于22%；研发投入占收入比例保持20%以上。产品层面，公司将完成第四代NPU架构研发，算力能效目标再提升30%，并启动车载座舱AI芯片的前期定义。
+
+产能与生态层面，公司将与晶圆代工及封测伙伴签订2026-2028年长期产能保障协议，降低供给波动风险；同时扩大边缘智能软件栈'曜界'的开发者生态，目标接入设备型号数翻倍。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+技术迭代风险：端侧AI芯片架构演进速度快，若公司新一代NPU架构研发进度不及预期或性能落后于竞争对手，将影响产品竞争力。
+
+客户集中风险：公司前五名客户收入占比38.6%，若主要客户需求波动或自研芯片替代，将对收入产生较大影响。
+
+供应链风险：先进制程晶圆代工与封测产能存在阶段性紧张，若产能保障或交付周期出现不利变化，可能影响新品量产节奏。
+
+市场竞争风险：边缘AISoC赛道国内外厂商密集进入，价格竞争可能压制毛利率。
+
+宏观与地缘风险：集成电路产业链相关政策及贸易环境变化可能对供应链安排与海外销售产生影响。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.20元(含税)，合计派发现金红利0.54亿元（含税)，占2025年度归属于上市公司股东净利润的19.85%。
+
+公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+## 环境信息主要指标
+
+<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>1.86</td><td rowspan=1 colspan=1>+4.1%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>3.42</td><td rowspan=1 colspan=1>+3.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>52.3</td><td rowspan=1 colspan=1>+2.0%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>1,250</td><td rowspan=1 colspan=1>+15.0%</td></tr></table>
+
+公司为Fabless设计企业，环境影响主要来自办公与实验室运行。报告期内，公司完成张江总部研发大楼绿色建筑二星级认证，推行全流程电子化办公，人均能耗同比下降6.8%。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数1,850人，其中研发人员860人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大诉讼、仲裁事项：报告期内，公司不存在《证券法》规定的重大诉讼、仲裁事项。
+
+对外担保：报告期内，公司及其控股子公司不存在对外担保事项。
+
+关联交易：报告期内，公司与关联方发生的日常关联交易合计金额为320万元，均已履行审议程序并披露，定价公允。
+
+承诺履行情况：控股股东、实际控制人及公司董事、监事、高级管理人员报告期内未发生违反承诺的情形，首发及再融资相关承诺均在履行中。
+
+聘任会计师事务所：报告期内不存在改聘、解聘会计师事务所的情形。
+
+## 第九节股份变动及股东情况
+
+## 股份结构(万股)
+
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>42,940.0</td><td rowspan=1 colspan=1>95.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,260.0</td><td rowspan=1 colspan=1>5.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>45,200.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td colspan="1" rowspan="1">序号</td><td colspan="1" rowspan="1">股东名称</td><td colspan="1" rowspan="1">持股比例</td><td colspan="1" rowspan="1">股东性质</td></tr><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">曜石控股有限公司</td><td colspan="1" rowspan="1">28.42%</td><td colspan="1" rowspan="1">境内非国有法人</td></tr><tr><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">上海科技创业投资（集团）有限公司</td><td colspan="1" rowspan="1">8.20%</td><td colspan="1" rowspan="1">国有法人</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">国家集成电路产业投资基金二期股份有限公司</td><td colspan="1" rowspan="1">6.50%</td><td colspan="1" rowspan="1">国有法人</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">香港中央结算有限公司</td><td colspan="1" rowspan="1">4.10%</td><td colspan="1" rowspan="1">境外法人</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">泓湖半导体产业基金（有限合伙）</td><td colspan="1" rowspan="1">2.85%</td><td colspan="1" rowspan="1">境内非国有法人</td></tr><tr><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">蔚芯成长员工持股计划</td><td colspan="1" rowspan="1">2.60%</td><td colspan="1" rowspan="1">其他</td></tr><tr><td colspan="1" rowspan="1">7</td><td colspan="1" rowspan="1">全国社保基金——二组合</td><td colspan="1" rowspan="1">2.30%</td><td colspan="1" rowspan="1">其他</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">基本养老保险基金八零二组合</td><td colspan="1" rowspan="1">1.95%</td><td colspan="1" rowspan="1">其他</td></tr><tr><td colspan="1" rowspan="1">9</td><td colspan="1" rowspan="1">招商上证科创板50成份ETF</td><td colspan="1" rowspan="1">2.10%</td><td colspan="1" rowspan="1">其他</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">中国人寿保险股份有限公司 - 传统 - 普通保险产品</td><td colspan="1" rowspan="1">1.88%</td><td colspan="1" rowspan="1">其他</td></tr><tr><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1">前十大股东合计</td><td colspan="1" rowspan="1">60.90%</td><td colspan="1" rowspan="1"></td></tr></table>
+
+公司控股股东为曜石控股有限公司，实际控制人为张聿明、林嘉澍夫妇，二人合计间接控制公司31.6%的股份。报告期内，控股股东所持公司股份不存在质押、冻结或表决权受限情形。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0112号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目（摘要)
+
+资产负债表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>8.90</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>6.42</td><td rowspan=1 colspan=1>4.88</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>5.85</td><td rowspan=1 colspan=1>4.62</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>8.95</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>58.20</td><td rowspan=1 colspan=1>49.60</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>9.35</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>18.10</td><td rowspan=1 colspan=1>13.40</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>40.10</td><td rowspan=1 colspan=1>36.20</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准
+
+## 三、合并利润表主要项目(摘要)
+
+利润表主要项目
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>19.60</td><td rowspan=1 colspan=1>14.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>11.27</td><td rowspan=1 colspan=1>8.66</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.50</td><td rowspan=1 colspan=1>5.17</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>4.70</td><td rowspan=1 colspan=1>3.60</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>2.72</td><td rowspan=1 colspan=1>1.85</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>2.31</td><td rowspan=1 colspan=1>1.58</td></tr></table>
+
+## 四、合并现金流量表主要项目（摘要)
+
+## 现金流量表主要项目
+
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-6.80</td><td rowspan=1 colspan=1>-5.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>-1.20</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+·报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

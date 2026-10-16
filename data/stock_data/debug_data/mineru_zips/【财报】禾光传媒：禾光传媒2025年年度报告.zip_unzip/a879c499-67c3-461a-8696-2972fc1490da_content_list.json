@@ -1,0 +1,1878 @@
+[
+    {
+        "type": "text",
+        "text": "浙江禾光文化传媒股份有限公司",
+        "text_level": 1,
+        "bbox": [
+            189,
+            167,
+            806,
+            204
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025年年度报告",
+        "bbox": [
+            410,
+            228,
+            586,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(股票简称：禾光传媒股票代码：300628.SZ) (深圳证券交易所创业板)",
+        "bbox": [
+            275,
+            286,
+            721,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "披露日期：2026年4月2日",
+        "bbox": [
+            388,
+            462,
+            608,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公司统一社会信用代码：91330106MA2K8W4X9L",
+        "bbox": [
+            332,
+            494,
+            663,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            922,
+            22
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "第1页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "重要提示",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            184,
+            71
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。",
+        "bbox": [
+            84,
+            82,
+            905,
+            120
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.50元(含税)，合计派发现金红利0.46亿元（含税)，占2025年度归属于上市公司股东净利润的20.81%。该预案尚需提交公司2025年年度股东大会审议。",
+        "bbox": [
+            84,
+            129,
+            897,
+            187
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。",
+        "bbox": [
+            84,
+            197,
+            902,
+            235
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、公司2025年度财务报告已经正行会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(正行审字[2026]第0513号）。",
+        "bbox": [
+            84,
+            244,
+            910,
+            282
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。",
+        "bbox": [
+            84,
+            292,
+            905,
+            330
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。",
+        "bbox": [
+            84,
+            340,
+            665,
+            357
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。",
+        "bbox": [
+            84,
+            367,
+            576,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "八、公司负责人聂照临、主管会计工作负责人郁蔓青及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。",
+        "bbox": [
+            84,
+            395,
+            904,
+            434
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。",
+        "bbox": [
+            84,
+            442,
+            905,
+            480
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "第2页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节 管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录",
+        "bbox": [
+            85,
+            87,
+            413,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 2,
+        "bbox": [
+            472,
+            52,
+            529,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "第3页/共11页",
+        "bbox": [
+            810,
+            954,
+            919,
+            969
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一节释义",
+        "text_level": 2,
+        "bbox": [
+            85,
+            51,
+            213,
+            72
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "释义表",
+        "text_level": 2,
+        "bbox": [
+            85,
+            84,
+            141,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/89aee93e1eb1029b001d0a1506fafbc5f5837dfdd3490bfc79f4be91ce34ca1f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、禾光传媒</td><td rowspan=1 colspan=1>指浙江禾光文化传媒股份有限公司</td></tr><tr><td rowspan=1 colspan=1>微短剧</td><td rowspan=1 colspan=1>指单集时长数十秒至数分钟、以竖屏或横屏形式在网络平台播出的剧集形态</td></tr><tr><td rowspan=1 colspan=1>分账剧</td><td rowspan=1 colspan=1>指按平台实际播放数据与内容方分成的发行模式</td></tr><tr><td rowspan=1 colspan=1>品牌定制剧</td><td rowspan=1 colspan=1>指由品牌方付费定制、融合产品场景的短剧内容</td></tr><tr><td rowspan=1 colspan=1>版权发行</td><td rowspan=1 colspan=1>指将自制或采购的剧集版权向电视台及平台授权发行的业务</td></tr><tr><td rowspan=1 colspan=1>艺人经纪</td><td rowspan=1 colspan=1>指为签约艺人提供商务、宣传及项目对接的经纪服务</td></tr><tr><td rowspan=1 colspan=1>出海短剧</td><td rowspan=1 colspan=1>指面向境外用户发行的译制或本地化短剧内容</td></tr><tr><td rowspan=1 colspan=1>AI制作管线</td><td rowspan=1 colspan=1>指在剧本评估、译制、后期等环节引入生成式AI工具的制作流程</td></tr></table>",
+        "bbox": [
+            78,
+            104,
+            919,
+            322
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二节 致股东的信",
+        "text_level": 2,
+        "bbox": [
+            85,
+            340,
+            282,
+            361
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2025年，竖屏里的故事长成了大生意。禾光传媒实现营业收入21.60亿元，同比增长18.7%；归属于上市公司股东的净利润2.21亿元，同比增长15.1%；微短剧业务收入首次突破11亿元，海外短剧分账及广告收入3.20亿元，成为增长最快的曲线。",
+        "bbox": [
+            84,
+            370,
+            905,
+            429
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这一年，公司上线微短剧86部，其中海外发行42部；《长夜灯影》系列实现平台续订；AI制作管线让单部短剧的综合制作成本下降17%，把内容工业的边际成本实实在在打了下来。",
+        "bbox": [
+            85,
+            438,
+            910,
+            476
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内容公司的资产负债表上，最重要的资产是人。2026年，公司将继续把利润投向编剧梯队与AI管线，让好故事拥有工程化的生产线。感谢每一位点开播放键的观众。",
+        "bbox": [
+            84,
+            486,
+            900,
+            524
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "董事长：聂照临2026年3月",
+        "bbox": [
+            121,
+            533,
+            342,
+            551
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三节 公司简介和主要财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            570,
+            418,
+            592
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一、公司基本情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            606,
+            248,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公司基本情况",
+        "text_level": 2,
+        "bbox": [
+            87,
+            636,
+            188,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c24639ea94450d04e74f52914cecda00b6b285a5bbb7991c9703d083236989d6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">浙江禾光文化传媒股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">禾光传媒</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">300628.SZ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">深圳证券交易所创业板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">浙江省杭州市西湖区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2017年4月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">影视内容 （微短剧)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">聂照临</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">文棠</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">郁蔓青</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">正行会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">3,400</td></tr></table>",
+        "bbox": [
+            78,
+            655,
+            919,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            75,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "第4页/共11页",
+        "bbox": [
+            808,
+            954,
+            919,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            78,
+            51,
+            919,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二、公司历史沿革",
+        "text_level": 2,
+        "bbox": [
+            84,
+            135,
+            250,
+            154
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公司成立于2008年，总部位于浙江杭州，2017年4月在深圳证券交易所创业板上市，是以微短剧为核心、贯通长视频版权发行与艺人经纪的内容公司。",
+        "bbox": [
+            84,
+            160,
+            910,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "截至报告期末，公司累计上线微短剧超过300部，全网粉丝矩阵1.8亿，签约艺人及主创团队46组，海外发行覆盖42个国家和地区。",
+        "bbox": [
+            84,
+            208,
+            912,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、主要会计数据和财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            260,
+            346,
+            279
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近三年主要会计数据和财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            290,
+            317,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8cbab1e495b1d3399748ec74c0f086b6878696b4475b04d55c04f5c0e5a36a87.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>+18.7%</td><td rowspan=1 colspan=1>15.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>2.21</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>+15.1%</td><td rowspan=1 colspan=1>1.68</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>1.68</td><td rowspan=1 colspan=1>+14.3%</td><td rowspan=1 colspan=1>1.45</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>+23.8%</td><td rowspan=1 colspan=1>1.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.24</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>+15.1%</td><td rowspan=1 colspan=1>0.18</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>6.00</td><td rowspan=1 colspan=1>增加0.90个百分点</td><td rowspan=1 colspan=1>5.40</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>58.20</td><td rowspan=1 colspan=1>55.60</td><td rowspan=1 colspan=1>+4.7%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>32.70</td><td rowspan=1 colspan=1>31.40</td><td rowspan=1 colspan=1>+4.1%</td><td rowspan=1 colspan=1>一</td></tr></table>",
+        "bbox": [
+            78,
+            310,
+            919,
+            542
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "四、非经常性损益项目及金额",
+        "text_level": 2,
+        "bbox": [
+            85,
+            573,
+            346,
+            592
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bdcb24c769bc418fd67f5732fbd3833f4ca2850893d729d5c78b69e0fa15532.jpg",
+        "table_caption": [
+            "2025年非经常性损益项目明细"
+        ],
+        "table_footnote": [
+            "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>文化产业专项资金与内容出海扶持</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.09</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.29</td><td rowspan=1 colspan=1>占归母净利润比例13.1%</td></tr></table>",
+        "bbox": [
+            78,
+            621,
+            919,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "五、分季度主要财务数据",
+        "text_level": 2,
+        "bbox": [
+            85,
+            774,
+            305,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5528226181e30a392b08d3b4860614877aa2b5b8a999e9607d78671739b577c2.jpg",
+        "table_caption": [
+            "2025年分季度主要财务数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>5.00</td><td rowspan=1 colspan=1>5.60</td><td rowspan=1 colspan=1>6.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.42</td><td rowspan=1 colspan=1>0.48</td><td rowspan=1 colspan=1>0.60</td><td rowspan=1 colspan=1>0.71</td></tr></table>",
+        "bbox": [
+            78,
+            824,
+            919,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            75,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "第5页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第四节 管理层讨论与分析",
+        "bbox": [
+            85,
+            51,
+            351,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一、报告期内公司所处行业情况",
+        "text_level": 2,
+        "bbox": [
+            84,
+            86,
+            364,
+            105
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2025年中国微短剧市场规模约680亿元，首次超过全年电影票房，同比增速仍保持在20%以上；平台分账、品牌定制与出海发行构成三大商业模式，海外短剧应用全年流水合计约20亿美元，中国内容第一次在海外形成规模化付费。",
+        "bbox": [
+            84,
+            111,
+            910,
+            171
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "监管与AI是行业的两枚硬币：备案审核制度全面落地，内容合规成为准入门槛；生成式AI在剧本评估、译制与后期环节快速渗透，单部制作成本普遍下降15%-20%，行业竞争正从'数量红利'转向'质量与效率红利'。",
+        "bbox": [
+            84,
+            179,
+            912,
+            237
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "二、报告期内公司从事的主要业务",
+        "text_level": 2,
+        "bbox": [
+            84,
+            252,
+            383,
+            271
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公司主营业务为微短剧、长视频版权发行与艺人经纪，形成'自制分账+品牌定制+海外发行'的内容矩阵，覆盖IP开发、承制、发行全链路。",
+        "bbox": [
+            84,
+            277,
+            905,
+            316
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司微短剧上线86部，其中品牌定制剧18部、海外发行42部；与三家头部平台签署年度分账框架协议；《长夜灯影》第二季完成制作并实现续订。",
+        "bbox": [
+            84,
+            324,
+            897,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三、营业收入构成及变动分析",
+        "text_level": 2,
+        "bbox": [
+            85,
+            376,
+            346,
+            395
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/34741708631e3185f3129e737bb648cead2a6a444d1e3ac0d79de9d508fe3847.jpg",
+        "table_caption": [
+            "2025年分产品/业务收入构成"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>微短剧</td><td rowspan=1 colspan=1>11.23</td><td rowspan=1 colspan=1>52.0%</td><td rowspan=1 colspan=1>44.0%</td><td rowspan=1 colspan=1>+38.5%</td></tr><tr><td rowspan=1 colspan=1>长视频版权发行</td><td rowspan=1 colspan=1>7.34</td><td rowspan=1 colspan=1>34.0%</td><td rowspan=1 colspan=1>34.0%</td><td rowspan=1 colspan=1>+2.8%</td></tr><tr><td rowspan=1 colspan=1>艺人经纪及营销</td><td rowspan=1 colspan=1>3.03</td><td rowspan=1 colspan=1>14.0%</td><td rowspan=1 colspan=1>28.0%</td><td rowspan=1 colspan=1>+9.5%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>38.4%</td><td rowspan=1 colspan=1>+18.7%</td></tr></table>",
+        "bbox": [
+            78,
+            426,
+            919,
+            545
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "微短剧收入11.23亿元，同比增长38.5%，分账与品牌定制共同放量；长视频版权发行收入7.34亿元，同比增长2.8%，存量剧集续订保持平稳；艺人经纪及营销收入3.03亿元，同比增长9.5%，短剧爆款带动艺人热度与商务合作增长。",
+        "bbox": [
+            84,
+            548,
+            899,
+            607
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d273c9de1ae000a85030cebbeb4bd684b672dca331c5ce0a0d906bcec029973.jpg",
+        "table_caption": [
+            "2025年分地区收入构成"
+        ],
+        "table_footnote": [
+            "注：前五名客户合计销售金额占年度销售总额的31.5%。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>18.40</td><td rowspan=1 colspan=1>85.2%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>14.8%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>",
+        "bbox": [
+            78,
+            638,
+            919,
+            733
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四、营业成本构成",
+        "text_level": 2,
+        "bbox": [
+            85,
+            765,
+            248,
+            783
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/def4c10025391a2b20ca6a18550763e8e5f5b54d5441d722db9953aff780c6db.jpg",
+        "table_caption": [
+            "营业成本构成（占营业成本比例）"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>内容制作成本</td><td rowspan=1 colspan=1>58.6%</td><td rowspan=1 colspan=1>60.2%</td><td rowspan=1 colspan=1>AI管线降本与规模效应显现</td></tr><tr><td rowspan=1 colspan=1>IP授权及剧本开发</td><td rowspan=1 colspan=1>22.4%</td><td rowspan=1 colspan=1>21.8%</td><td rowspan=1 colspan=1>自制比例提升，外购IP减少</td></tr><tr><td rowspan=1 colspan=1>人工及运营费用</td><td rowspan=1 colspan=1>19.0%</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>制作效率提升摊薄</td></tr></table>",
+        "bbox": [
+            78,
+            814,
+            919,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            23
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            75,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "第6页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "五、期间费用与研发投入",
+        "text_level": 2,
+        "bbox": [
+            85,
+            51,
+            305,
+            70
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/488ce6a0e4896a9bd3e5993d6149a050de0fd710c449d076e9672780c0e332e3.jpg",
+        "table_caption": [
+            "期间费用变动"
+        ],
+        "table_footnote": [
+            "研发投入方面，公司2025年研发投入合计0.85亿元，占营业收入比例3.9%，其中费用化研发费用0.85亿元、资本化研发投入0.00亿元；研发人员310人，占员工总数比例9.1%。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.50</td><td rowspan=1 colspan=1>+14.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.68</td><td rowspan=1 colspan=1>1.55</td><td rowspan=1 colspan=1>+8.4%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>0.85</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>+18.1%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>+66.7%</td></tr></table>",
+        "bbox": [
+            78,
+            101,
+            919,
+            219
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "六、现金流量情况",
+        "text_level": 2,
+        "bbox": [
+            84,
+            274,
+            248,
+            293
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b02bb0e73ffb015880e64288ddb80906daef390adb62e34e4160148c38113054.jpg",
+        "table_caption": [
+            "现金流量主要项目"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>2.10</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-1.80</td><td rowspan=1 colspan=1>-1.50</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>0.20</td></tr></table>",
+        "bbox": [
+            78,
+            324,
+            919,
+            418
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "报告期内经营活动现金流量净额2.60亿元，同比增长23.8%；投资活动净流出1.80亿元，主要为剧集版权投入与办公基地改造；筹资活动净流入0.30亿元。",
+        "bbox": [
+            84,
+            422,
+            904,
+            460
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "七、资产及负债项目重大变动",
+        "text_level": 2,
+        "bbox": [
+            85,
+            474,
+            344,
+            493
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/51464911f1059061c866645927560c6c1b090156bb33d65f647e878b0ba7cefb.jpg",
+        "table_caption": [
+            "资产、负债项目重大变动"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末 (亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>10.40</td><td rowspan=1 colspan=1>+7.7%</td><td rowspan=1 colspan=1>经营积累与短剧分账回款</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>12.10</td><td rowspan=1 colspan=1>+4.1%</td><td rowspan=1 colspan=1>在制剧集投入增加</td></tr><tr><td rowspan=1 colspan=1>商誉及无形资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>+2.1%</td><td rowspan=1 colspan=1>影视版权库持续扩充</td></tr></table>",
+        "bbox": [
+            78,
+            523,
+            919,
+            620
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "八、公司未来发展的展望",
+        "text_level": 2,
+        "bbox": [
+            85,
+            633,
+            307,
+            651
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2026年经营目标：营业收入26亿元左右，同比增长约20%；微短剧上线量保持80部以上，海外发行收入突破4.5亿元；AI译制管线覆盖30个语种。",
+        "bbox": [
+            84,
+            658,
+            902,
+            696
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内容方面，公司将启动'星火编剧计划'，签约青年编剧100名；与平台共建精品短剧剧场厂牌，把单纯分账升级为'保底+分账'的混合模式",
+        "bbox": [
+            84,
+            706,
+            910,
+            744
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "九、风险因素",
+        "text_level": 2,
+        "bbox": [
+            85,
+            758,
+            210,
+            776
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：",
+        "bbox": [
+            85,
+            782,
+            648,
+            800
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "平台政策风险：微短剧分账与备案规则变化直接影响收入与排播节奏。",
+        "bbox": [
+            119,
+            809,
+            663,
+            827
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内容监管风险：题材合规审核趋严，存在上线延期或下架风险。",
+        "bbox": [
+            119,
+            837,
+            611,
+            854
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "应收账款风险：平台客户回款周期长，存在坏账与现金流压力。",
+        "bbox": [
+            119,
+            865,
+            611,
+            882
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人才流失风险：编剧、制片与头部艺人属核心资源，竞争挖角激烈。",
+        "bbox": [
+            119,
+            891,
+            647,
+            909
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "第7页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "技术变革风险：生成式AI对传统制作体系既是降本工具，也是竞争变量。",
+        "bbox": [
+            119,
+            51,
+            682,
+            68
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第五节 董事会报告",
+        "text_level": 2,
+        "bbox": [
+            85,
+            89,
+            282,
+            109
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。",
+        "bbox": [
+            84,
+            120,
+            900,
+            158
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.50元(含税)，合计派发现金红利0.46亿元(含税)，占2025年度归属于上市公司股东净利润的20.81%。",
+        "bbox": [
+            84,
+            166,
+            897,
+            224
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度财务报告审计机构为正行会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘正行会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。",
+        "bbox": [
+            84,
+            234,
+            912,
+            293
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第六节 公司治理",
+        "text_level": 2,
+        "bbox": [
+            85,
+            312,
+            260,
+            332
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。",
+        "bbox": [
+            84,
+            343,
+            909,
+            422
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。",
+        "bbox": [
+            84,
+            430,
+            905,
+            469
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。",
+        "bbox": [
+            84,
+            478,
+            907,
+            516
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第七节环境、社会责任和其他公司治理",
+        "text_level": 2,
+        "bbox": [
+            85,
+            536,
+            485,
+            557
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一、环境保护信息",
+        "text_level": 2,
+        "bbox": [
+            85,
+            570,
+            248,
+            589
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "环境信息主要指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            600,
+            221,
+            615
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1689648df5f69bcab361c0669e812187e79f5449a5b91070895fca6fa9b65126.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>指标剧组单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>6.2</td><td rowspan=1 colspan=1>-8.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e)</td><td rowspan=1 colspan=1>9,600</td><td rowspan=1 colspan=1>+5.4%</td></tr><tr><td rowspan=1 colspan=1>无纸化审批覆盖率</td><td rowspan=1 colspan=1>82.0%</td><td rowspan=1 colspan=1>提高12.0个百分点</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>+15.0%</td></tr></table>",
+        "bbox": [
+            78,
+            620,
+            919,
+            738
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公司推行'绿色剧组'标准，电子场记与无纸化剧本覆盖全部在制项目，全年减少纸质消耗约38吨；禾光公益放映'走进12个县域，覆盖观众3.2万人次。",
+        "bbox": [
+            84,
+            741,
+            905,
+            781
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "二、社会责任",
+        "text_level": 2,
+        "bbox": [
+            85,
+            794,
+            210,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "截至报告期末，公司员工总数3,400人，其中研发人员310人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。",
+        "bbox": [
+            84,
+            820,
+            912,
+            858
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三、公司治理专项情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            871,
+            287,
+            890
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            75,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "第8页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。",
+        "bbox": [
+            84,
+            51,
+            905,
+            89
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第八节 重要事项",
+        "text_level": 2,
+        "bbox": [
+            85,
+            109,
+            260,
+            129
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重大合同：报告期内公司与两家头部视频平台签署2026-2027年度微短剧分账框架协议，保底分账金额合计1.8亿元。",
+        "bbox": [
+            84,
+            140,
+            907,
+            177
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。",
+        "bbox": [
+            119,
+            187,
+            628,
+            204
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对外担保：报告期内公司不存在对外担保事项。",
+        "bbox": [
+            119,
+            215,
+            489,
+            231
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为320万元，主要为艺人经纪协作服务，定价公允。",
+        "bbox": [
+            84,
+            242,
+            902,
+            280
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "应收账款：截至报告期末，公司应收账款及合同资产8.40亿元，占营业收入比例38.9%，较上年下降约5.6个百分点，平台回款政策整体改善。",
+        "bbox": [
+            84,
+            290,
+            904,
+            328
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第九节 股份变动及股东情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            347,
+            373,
+            367
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "股份结构(万股)",
+        "bbox": [
+            85,
+            379,
+            211,
+            395
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/dfbc9e72e920d8cb1acec808cd7f6770fa0ddbfb746fe1421139e40dd526da4f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>87,400.0</td><td rowspan=1 colspan=1>95.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>4,600.0</td><td rowspan=1 colspan=1>5.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>92,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>",
+        "bbox": [
+            78,
+            399,
+            919,
+            494
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "前十大股东持股情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            508,
+            267,
+            526
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/02b3c50e20c134bac8e24e42cbc460a9b285dfa39775886e6db72093409282d9.jpg",
+        "table_caption": [
+            "截至2025年12月31日前十大股东"
+        ],
+        "table_footnote": [
+            "公司控股股东为禾光控股集团有限公司，实际控制人为聂照临。控股股东所持股份报告期内不存在质押、冻结情形。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>禾光控股集团有限公司</td><td rowspan=1 colspan=1>19.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>杭州文创产业发展集团有限公司</td><td rowspan=1 colspan=1>5.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.30%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>浙江文化产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>3.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>中欧文体娱乐混合型证券投资基金</td><td rowspan=1 colspan=1>3.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金一零三组合</td><td rowspan=1 colspan=1>2.90%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>禾光一号员工持股计划</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>基本养老保险基金八零二组合</td><td rowspan=1 colspan=1>2.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>广发中证全指传媒交易型开放式指数基金</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>杭州湖畔影业投资合伙企业（有限合伙）</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>48.60%</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            77,
+            557,
+            919,
+            846
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第十节 财务报告",
+        "text_level": 2,
+        "bbox": [
+            85,
+            907,
+            258,
+            927
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            75,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "第9页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一、审计意见",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            210,
+            70
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度财务报表业经正行会计师事务所(特殊普通合伙)审计，并于2026年3月出具了标准无保留意见(正行审字[2026]第0513号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。",
+        "bbox": [
+            84,
+            76,
+            912,
+            154
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "二、合并资产负债表主要项目（摘要）",
+        "text_level": 2,
+        "bbox": [
+            85,
+            168,
+            411,
+            187
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/438a56f8ad499201f55d5cb2b187e1ebea0a313ff29871ffb112ba89a51720e6.jpg",
+        "table_caption": [
+            "资产负债表主要项目"
+        ],
+        "table_footnote": [
+            "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>10.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>8.40</td><td rowspan=1 colspan=1>8.10</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>12.10</td></tr><tr><td rowspan=1 colspan=1>商誉及无形资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>9.60</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>16.20</td><td rowspan=1 colspan=1>15.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>58.20</td><td rowspan=1 colspan=1>55.60</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>9.30</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>9.10</td><td rowspan=1 colspan=1>8.70</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>25.50</td><td rowspan=1 colspan=1>24.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>32.70</td><td rowspan=1 colspan=1>31.40</td></tr></table>",
+        "bbox": [
+            78,
+            217,
+            919,
+            508
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "三、合并利润表主要项目（摘要)",
+        "text_level": 2,
+        "bbox": [
+            85,
+            539,
+            373,
+            558
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利润表主要项目",
+        "text_level": 2,
+        "bbox": [
+            85,
+            569,
+            203,
+            585
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b92ee342013fadbae6e588805a2e3316d12fac3485da07e548a171a0ec9df39f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>18.20</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>13.31</td><td rowspan=1 colspan=1>11.47</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>5.43</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>0.85</td><td rowspan=1 colspan=1>0.72</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>2.21</td><td rowspan=1 colspan=1>1.92</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>1.92</td><td rowspan=1 colspan=1>1.68</td></tr></table>",
+        "bbox": [
+            78,
+            588,
+            919,
+            757
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四、合并现金流量表主要项目(摘要)",
+        "text_level": 2,
+        "bbox": [
+            85,
+            771,
+            410,
+            790
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b081c2e8df55c8ad99625254513e808c4cf45a7d71de2eaea92e6823ee7c510a.jpg",
+        "table_caption": [
+            "现金流量表主要项目"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>2.10</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-1.80</td><td rowspan=1 colspan=1>-1.50</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>0.20</td></tr></table>",
+        "bbox": [
+            78,
+            820,
+            919,
+            916
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            541,
+            23
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "第10页/共11页",
+        "bbox": [
+            801,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。",
+        "bbox": [
+            84,
+            51,
+            905,
+            89
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "备查文件目录",
+        "text_level": 2,
+        "bbox": [
+            85,
+            109,
+            230,
+            129
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。",
+        "bbox": [
+            85,
+            140,
+            764,
+            156
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。",
+        "bbox": [
+            85,
+            167,
+            682,
+            184
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。",
+        "bbox": [
+            85,
+            195,
+            534,
+            211
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "公司2025年年度股东大会会议资料及决议。",
+        "bbox": [
+            85,
+            222,
+            435,
+            237
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)",
+        "bbox": [
+            94,
+            258,
+            499,
+            273
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "浙江禾光文化传媒股份有限公司（300628.SZ)2025年年度报告",
+        "bbox": [
+            75,
+            8,
+            541,
+            23
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "创业板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "第11页/共11页",
+        "bbox": [
+            801,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "浙江禾光文化传媒股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 10
+    }
+]

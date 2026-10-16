@@ -1,0 +1,4540 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9095,
+                "bbox": [
+                    128,
+                    19,
+                    901,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5652,
+                "bbox": [
+                    1447,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9692,
+                "bbox": [
+                    316,
+                    394,
+                    1334,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5844,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.818,
+                "bbox": [
+                    455,
+                    669,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.935,
+                "bbox": [
+                    642,
+                    1081,
+                    1008,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9268,
+                "bbox": [
+                    547,
+                    1156,
+                    1104,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9401,
+                "bbox": [
+                    132,
+                    2232,
+                    636,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9293,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.978,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    324,
+                    399,
+                    1329,
+                    477
+                ],
+                "score": 1.0,
+                "text": "上海黛荷生物科技股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    465,
+                    676,
+                    1188,
+                    711
+                ],
+                "score": 0.982,
+                "text": "(股票简称：黛荷生物股票代码：605316.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    691,
+                    745,
+                    959,
+                    775
+                ],
+                "score": 0.983,
+                "text": "(上海证券交易所主板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    648,
+                    1083,
+                    1000,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月3日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    556,
+                    1163,
+                    1097,
+                    1187
+                ],
+                "score": 0.993,
+                "text": "公司统一社会信用代码：91310115MA7HT8N2WP"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2237,
+                    629,
+                    2260
+                ],
+                "score": 0.991,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9378,
+                "bbox": [
+                    128,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8002,
+                "bbox": [
+                    1447,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9476,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.975,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9674,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9722,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9716,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9474,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9414,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9693,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.943,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9373,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.985,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.966,
+                "text": "红利3.00元(含税)，合计派发现金红利1.92亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "22.78%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.983,
+                "text": "四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.98,
+                "text": "报告（瀚华审字[2026]第0348号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.991,
+                "text": "八、公司负责人戴若荷、主管会计工作负责人阚清露及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9431,
+                "bbox": [
+                    128,
+                    18,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8028,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9752,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9289,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9404,
+                "bbox": [
+                    133,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9336,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    899,
+                    56
+                ],
+                "score": 0.985,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.955,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.961,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.951,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.968,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9496,
+                "bbox": [
+                    130,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8755,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6128,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、黛荷生物</td><td rowspan=1 colspan=1>指上海黛荷生物科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>功效护肤</td><td rowspan=1 colspan=1>指以特定皮肤功效为核心宣称的护肤品类别</td></tr><tr><td rowspan=1 colspan=1>械字号敷料</td><td rowspan=1 colspan=1>指按医疗器械注册管理的医用敷料</td></tr><tr><td rowspan=1 colspan=1>重组胶原蛋白</td><td rowspan=1 colspan=1>指以生物发酵技术生产的胶原类功能蛋白</td></tr><tr><td rowspan=1 colspan=1>大单品</td><td rowspan=1 colspan=1>指销售占比高、品牌认知度强的核心产品</td></tr><tr><td rowspan=1 colspan=1>DTC</td><td rowspan=1 colspan=1>指直面消费者的品牌直营销售模式</td></tr><tr><td rowspan=1 colspan=1>东方美谷</td><td rowspan=1 colspan=1>指上海市奉贤区美丽健康产业集聚区</td></tr><tr><td rowspan=1 colspan=1>备案/注册</td><td rowspan=1 colspan=1>指化妆品备案与医疗器械注册的监管程序</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9637,
+                "bbox": [
+                    142,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    141,
+                    868,
+                    1484,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    141,
+                    1026,
+                    1502,
+                    1163
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    140,
+                    1184,
+                    1494,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9544,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1336
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9639,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9523,
+                "bbox": [
+                    142,
+                    1467,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6862,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1570
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>上海黛荷生物科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>黛荷生物</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>605316.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所主板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>上海市奉贤区东方美谷</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2021年11月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>化妆品 (功能性护肤)</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>戴若荷</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>萧疏桐</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9445,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9395,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.986,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    797,
+                    463,
+                    846
+                ],
+                "score": 0.977,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    873,
+                    1429,
+                    901
+                ],
+                "score": 1.0,
+                "text": "2025年，理性护肤时代给了功效品牌最好的舞台。黛荷生物实现营业收入42.10亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    923,
+                    1475,
+                    948
+                ],
+                "score": 1.0,
+                "text": "21.7%；归属于上市公司股东的净利润8.43亿元，同比增长13.6%；黛荷修'大单品年销突破11亿元，抖"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    968,
+                    746,
+                    997
+                ],
+                "score": 1.0,
+                "text": "音渠道收入占比达41%，DTC占比提升至38%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1034,
+                    1477,
+                    1059
+                ],
+                "score": 0.998,
+                "text": "这一年，公司重组胶原蛋白原料完成二代工艺迭代，自供比例突破60%，让'械字号敷料'板块收入同"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1080,
+                    1491,
+                    1105
+                ],
+                "score": 0.992,
+                "text": "比增长30.4%；'黛荷修'精华与'青莲'洁颜两大单品矩阵成型，在抖音美妆榜top5中占两席；线下轻医美协"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1129,
+                    473,
+                    1154
+                ],
+                "score": 1.0,
+                "text": "作渠道拓展至480家机构。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1192,
+                    1485,
+                    1217
+                ],
+                "score": 1.0,
+                "text": "美妆是没有终点的马拉松，比拼的是复购率与研发耐心。2026年，公司将把营收的4%持续投入功效"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1239,
+                    988,
+                    1265
+                ],
+                "score": 0.998,
+                "text": "研究，用可公开的第三方临床数据说话。感谢每一位'荷粉'与股东。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1299,
+                    562,
+                    1333
+                ],
+                "score": 1.0,
+                "text": "董事长：戴若荷2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.975,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1466,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1537,
+                    310,
+                    1570
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9266,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8653,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>阚清露</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>5,200</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9531,
+                "bbox": [
+                    142,
+                    375,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    140,
+                    434,
+                    1494,
+                    523
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9781,
+                "bbox": [
+                    142,
+                    545,
+                    1492,
+                    635
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9535,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4596,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>34.60</td><td rowspan=1 colspan=1>+21.7%</td><td rowspan=1 colspan=1>28.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>8.43</td><td rowspan=1 colspan=1>7.42</td><td rowspan=1 colspan=1>+13.6%</td><td rowspan=1 colspan=1>6.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>7.86</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>+13.9%</td><td rowspan=1 colspan=1>6.10</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.50</td><td rowspan=1 colspan=1>+14.7%</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>1.32</td><td rowspan=1 colspan=1>1.16</td><td rowspan=1 colspan=1>+13.6%</td><td rowspan=1 colspan=1>1.03</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%)</td><td rowspan=1 colspan=1>19.30</td><td rowspan=1 colspan=1>17.50</td><td rowspan=1 colspan=1>增加1.80个百分点</td><td rowspan=1 colspan=1>16.80</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>62.80</td><td rowspan=1 colspan=1>57.40</td><td rowspan=1 colspan=1>+9.4%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>44.80</td><td rowspan=1 colspan=1>42.60</td><td rowspan=1 colspan=1>+5.2%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9537,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9577,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9237,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883,
+                "bbox": [
+                    132,
+                    1512,
+                    1520,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=2 colspan=1>说明东方美谷产业专项及品牌培育资金</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.15</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>增值税加计抵减及处置收益</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>占归母净利润比例 6.8%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9556,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9607,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8153,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9856,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>8.80</td><td rowspan=1 colspan=1>12.20</td><td rowspan=1 colspan=1>10.10</td><td rowspan=1 colspan=1>11.00</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>1.66</td><td rowspan=1 colspan=1>2.42</td><td rowspan=1 colspan=1>2.04</td><td rowspan=1 colspan=1>2.31</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9459,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9349,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.978,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    409,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    440,
+                    1486,
+                    470
+                ],
+                "score": 1.0,
+                "text": "公司成立于2013年，总部位于上海奉贤东方美谷，2021年11月在上海证券交易所主板上市，是以重"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    487,
+                    682,
+                    517
+                ],
+                "score": 1.0,
+                "text": "组胶原蛋白技术为特色的功能性护肤企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    553,
+                    1483,
+                    578
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司拥有发明专利46项，重组胶原蛋白发酵产能20吨/年，自有品牌覆盖功效护肤与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    599,
+                    672,
+                    629
+                ],
+                "score": 1.0,
+                "text": "医用敷料两大品类，全网会员超2,900万。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 1.0,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9446,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8678,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7255,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    141,
+                    204,
+                    604,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9799,
+                "bbox": [
+                    143,
+                    263,
+                    1495,
+                    354
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798,
+                "bbox": [
+                    141,
+                    374,
+                    1484,
+                    466
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9573,
+                "bbox": [
+                    141,
+                    495,
+                    636,
+                    541
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    143,
+                    555,
+                    1497,
+                    645
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    142,
+                    666,
+                    1490,
+                    757
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    142,
+                    788,
+                    572,
+                    833
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9346,
+                "bbox": [
+                    143,
+                    857,
+                    497,
+                    894
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    903,
+                    1520,
+                    1181
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>功能性护肤品</td><td rowspan=1 colspan=1>28.63</td><td rowspan=1 colspan=1>68.0%</td><td rowspan=1 colspan=1>76.5%</td><td rowspan=1 colspan=1>+19.8%</td></tr><tr><td rowspan=1 colspan=1>械字号医用敷料</td><td rowspan=1 colspan=1>9.68</td><td rowspan=1 colspan=1>23.0%</td><td rowspan=1 colspan=1>68.0%</td><td rowspan=1 colspan=1>+30.4%</td></tr><tr><td rowspan=1 colspan=1>美容原料及其他</td><td rowspan=1 colspan=1>3.79</td><td rowspan=1 colspan=1>9.0%</td><td rowspan=1 colspan=1>62.0%</td><td rowspan=1 colspan=1>+10.5%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>73.5%</td><td rowspan=1 colspan=1>+21.7%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9666,
+                "bbox": [
+                    140,
+                    1189,
+                    1482,
+                    1279
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9361,
+                "bbox": [
+                    143,
+                    1305,
+                    432,
+                    1341
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    132,
+                    1351,
+                    1520,
+                    1575
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>40.00</td><td rowspan=1 colspan=1>95.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>5.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9517,
+                "bbox": [
+                    142,
+                    1586,
+                    728,
+                    1620
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9577,
+                "bbox": [
+                    143,
+                    1649,
+                    412,
+                    1692
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9403,
+                "bbox": [
+                    144,
+                    1718,
+                    534,
+                    1754
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    133,
+                    1763,
+                    1520,
+                    1990
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>包材及容器</td><td rowspan=1 colspan=1>31.8%</td><td rowspan=1 colspan=1>33.5%</td><td rowspan=1 colspan=1>轻玻瓶与替换装导入</td></tr><tr><td rowspan=1 colspan=1>原料及配方</td><td rowspan=1 colspan=1>27.4%</td><td rowspan=1 colspan=1>26.2%</td><td rowspan=1 colspan=1>自供胶原比例升至60%</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>40.8%</td><td rowspan=1 colspan=1>40.3%</td><td rowspan=1 colspan=1>产能利用率提升</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    2020,
+                    505,
+                    2063
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7097,
+                "bbox": [
+                    142,
+                    2089,
+                    313,
+                    2125
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9432,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.938,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    208,
+                    596,
+                    245
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    271,
+                    1486,
+                    297
+                ],
+                "score": 1.0,
+                "text": "2025年中国化妆品零售额同比增长约6%，其中功效护肤与皮肤学级护肤增速超15%，显著跑赢行业"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    317,
+                    1282,
+                    343
+                ],
+                "score": 0.989,
+                "text": "；监管端化妆品功效宣称评价体系全面落地，'无功效、不宣称'倒逼行业向研发驱动转型。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    379,
+                    1474,
+                    408
+                ],
+                "score": 1.0,
+                "text": "渠道端，抖音美妆GMV同比增长约30%，超头主播依赖度下降、品牌自播占比上升，为强品牌力的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    428,
+                    1164,
+                    453
+                ],
+                "score": 0.996,
+                "text": "国货提供了更健康的内容电商生态；医用敷料凭借'械字号'信任背书保持高景气。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    502,
+                    627,
+                    535
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    561,
+                    1488,
+                    587
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为功能性护肤品与械字号医用敷料的研发、生产与销售，并对外供应重组胶原蛋白原料"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    609,
+                    672,
+                    634
+                ],
+                "score": 0.977,
+                "text": "，形成'原料一产品一品牌'的一体化链路。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    674,
+                    1481,
+                    700
+                ],
+                "score": 0.991,
+                "text": "报告期内，'黛荷修'重组胶原精华上市次年销售破11亿元；医用敷料新增三张二类证，进入更多公立"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    719,
+                    818,
+                    747
+                ],
+                "score": 1.0,
+                "text": "医院创面护理场景；原料外销签约5家头部美妆集团。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    793,
+                    565,
+                    830
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    860,
+                    492,
+                    892
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1192,
+                    1475,
+                    1222
+                ],
+                "score": 0.999,
+                "text": "功能性护肤品收入28.63亿元，同比增长19.8%，大单品与品牌自播是主引擎；械字号医用敷料收入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1240,
+                    1436,
+                    1270
+                ],
+                "score": 1.0,
+                "text": "9.68亿元，同比增长30.4%，院内与电商协同放量；美容原料及其他收入3.79亿元，同比增长10.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1307,
+                    428,
+                    1339
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1594,
+                    722,
+                    1615
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的21.6%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1652,
+                    408,
+                    1693
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1724,
+                    527,
+                    1750
+                ],
+                "score": 0.97,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2025,
+                    499,
+                    2059
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2093,
+                    309,
+                    2123
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9399,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8983,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9888,
+                "bbox": [
+                    133,
+                    120,
+                    1522,
+                    397
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>20.60</td><td rowspan=1 colspan=1>16.50</td><td rowspan=1 colspan=1>+24.8%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.32</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>+13.2%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>1.38</td><td rowspan=1 colspan=1>+15.9%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.30</td><td rowspan=1 colspan=1>-0.26</td><td rowspan=1 colspan=1>+15.4%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7659,
+                "bbox": [
+                    140,
+                    406,
+                    1489,
+                    495
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    142,
+                    528,
+                    413,
+                    571
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8953,
+                "bbox": [
+                    143,
+                    596,
+                    365,
+                    632
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    133,
+                    644,
+                    1521,
+                    863
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-3.40</td><td rowspan=1 colspan=1>-2.90</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.20</td><td rowspan=1 colspan=1>1.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5654,
+                "bbox": [
+                    140,
+                    871,
+                    1496,
+                    960
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    142,
+                    993,
+                    572,
+                    1036
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9102,
+                "bbox": [
+                    143,
+                    1061,
+                    446,
+                    1099
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9877,
+                "bbox": [
+                    133,
+                    1108,
+                    1520,
+                    1334
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>+10.7%</td><td rowspan=1 colspan=1>经营积累</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>3.30</td><td rowspan=1 colspan=1>+27.3%</td><td rowspan=1 colspan=1>预售与会员储值增长</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>+6.9%</td><td rowspan=1 colspan=1>二期发酵车间投产</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9616,
+                "bbox": [
+                    143,
+                    1364,
+                    510,
+                    1407
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    140,
+                    1422,
+                    1503,
+                    1511
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    1534,
+                    1498,
+                    1622
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9555,
+                "bbox": [
+                    142,
+                    1656,
+                    349,
+                    1699
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9632,
+                "bbox": [
+                    141,
+                    1714,
+                    1073,
+                    1755
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9619,
+                "bbox": [
+                    197,
+                    1778,
+                    1247,
+                    1819
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9638,
+                "bbox": [
+                    198,
+                    1841,
+                    1042,
+                    1882
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9628,
+                "bbox": [
+                    199,
+                    1905,
+                    1013,
+                    1945
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    199,
+                    1969,
+                    1042,
+                    2010
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9612,
+                "bbox": [
+                    200,
+                    2033,
+                    925,
+                    2074
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9623,
+                "bbox": [
+                    143,
+                    2122,
+                    466,
+                    2169
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.949,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9431,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    409,
+                    1482,
+                    439
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计1.65亿元，占营业收入比例3.9%，其中费用化研发费用1.60亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    459,
+                    1082,
+                    484
+                ],
+                "score": 0.99,
+                "text": "元、资本化研发投入0.05亿元；研发人员520人，占员工总数比例10.0%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    531,
+                    407,
+                    572
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    602,
+                    360,
+                    628
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    874,
+                    1487,
+                    904
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额8.60亿元，同比增长14.7%，高于当期净利润；投资活动净流出3.40"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    924,
+                    1003,
+                    949
+                ],
+                "score": 0.999,
+                "text": "亿元，为发酵产能与办公研发中心投入；筹资活动净流入1.20亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    993,
+                    565,
+                    1033
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1068,
+                    439,
+                    1094
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1368,
+                    501,
+                    1403
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1428,
+                    1497,
+                    1458
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入50亿元左右，同比增长约19%；医疗器械注册证新增2张，医美机构渠道"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1475,
+                    741,
+                    1505
+                ],
+                "score": 1.0,
+                "text": "收入翻番；东南亚市场通过跨境电商试点出海。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1541,
+                    1489,
+                    1566
+                ],
+                "score": 1.0,
+                "text": "研发方面，公司将启动重组胶原三螺旋结构的中试放大，并扩建功效评价中心，力争每个大单品都有"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1587,
+                    480,
+                    1616
+                ],
+                "score": 1.0,
+                "text": "公开的人体功效试验报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1657,
+                    344,
+                    1700
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1721,
+                    1063,
+                    1748
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1785,
+                    1238,
+                    1812
+                ],
+                "score": 1.0,
+                "text": "渠道集中风险：公司抖音渠道收入占比41%，平台规则与流量成本变化影响盈利。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1846,
+                    1035,
+                    1877
+                ],
+                "score": 1.0,
+                "text": "产品迭代风险：美妆消费潮流变化快，大单品存在生命周期压力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1913,
+                    1005,
+                    1939
+                ],
+                "score": 1.0,
+                "text": "监管风险：功效宣称与医疗器械注册监管趋严，合规成本上升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1976,
+                    1033,
+                    2003
+                ],
+                "score": 1.0,
+                "text": "竞争风险：胶原赛道参与者快速增加，原料与产品价格竞争加剧。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2040,
+                    917,
+                    2067
+                ],
+                "score": 1.0,
+                "text": "舆情风险：品牌型企业对质量安全与网络舆情高度敏感。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2112,
+                    463,
+                    2170
+                ],
+                "score": 0.969,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9508,
+                "bbox": [
+                    129,
+                    19,
+                    901,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8548,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    140,
+                    122,
+                    1492,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982,
+                "bbox": [
+                    141,
+                    232,
+                    1485,
+                    367
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.984,
+                "bbox": [
+                    140,
+                    391,
+                    1510,
+                    529
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9585,
+                "bbox": [
+                    142,
+                    573,
+                    431,
+                    622
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    140,
+                    643,
+                    1504,
+                    827
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    140,
+                    849,
+                    1497,
+                    939
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    141,
+                    960,
+                    1500,
+                    1048
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9642,
+                "bbox": [
+                    142,
+                    1096,
+                    805,
+                    1144
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9514,
+                "bbox": [
+                    141,
+                    1178,
+                    412,
+                    1221
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.84,
+                "bbox": [
+                    143,
+                    1247,
+                    368,
+                    1283
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    132,
+                    1292,
+                    1519,
+                    1568
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>8.9</td><td rowspan=1 colspan=1>-5.2%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e)</td><td rowspan=1 colspan=1>18,600</td><td rowspan=1 colspan=1>+3.6%</td></tr><tr><td rowspan=1 colspan=1>包装可回收材料比例</td><td rowspan=1 colspan=1>38.0%</td><td rowspan=1 colspan=1>提高6.0个百分点</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>+18.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5362,
+                "bbox": [
+                    142,
+                    1578,
+                    1506,
+                    1666
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9456,
+                "bbox": [
+                    142,
+                    1698,
+                    350,
+                    1743
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9758,
+                "bbox": [
+                    140,
+                    1758,
+                    1508,
+                    1848
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9527,
+                "bbox": [
+                    142,
+                    1880,
+                    478,
+                    1924
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    140,
+                    1938,
+                    1499,
+                    2028
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.959,
+                "bbox": [
+                    143,
+                    2074,
+                    431,
+                    2122
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9419,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9378,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    130,
+                    1483,
+                    155
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    177,
+                    1146,
+                    202
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    238,
+                    1478,
+                    267
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    286,
+                    1413,
+                    316
+                ],
+                "score": 0.964,
+                "text": "3.00元（含税)，合计派发现金红利1.92亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    332,
+                    265,
+                    366
+                ],
+                "score": 0.991,
+                "text": "22.78%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    399,
+                    1500,
+                    424
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    447,
+                    1499,
+                    472
+                ],
+                "score": 0.994,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    490,
+                    620,
+                    521
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    569,
+                    427,
+                    624
+                ],
+                "score": 0.982,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    649,
+                    1491,
+                    674
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    699,
+                    1498,
+                    725
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    747,
+                    1490,
+                    772
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    790,
+                    467,
+                    819
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    857,
+                    1489,
+                    882
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    904,
+                    1222,
+                    930
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    967,
+                    1489,
+                    992
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1011,
+                    333,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1098,
+                    797,
+                    1141
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1181,
+                    406,
+                    1222
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1253,
+                    361,
+                    1279
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1581,
+                    1500,
+                    1610
+                ],
+                "score": 0.988,
+                "text": "公司推行替换装计划，全年减少塑料包材约280吨；'荷光计划'持续资助乡村女童美育项目，累计覆盖"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1626,
+                    321,
+                    1662
+                ],
+                "score": 1.0,
+                "text": "1.2万名儿童。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1699,
+                    348,
+                    1746
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1766,
+                    1500,
+                    1791
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司员工总数5,200人，其中研发人员520人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1813,
+                    1439,
+                    1839
+                ],
+                "score": 0.999,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1885,
+                    470,
+                    1923
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1946,
+                    1490,
+                    1971
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1993,
+                    1029,
+                    2019
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2072,
+                    426,
+                    2121
+                ],
+                "score": 0.975,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9445,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8762,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9619,
+                "bbox": [
+                    199,
+                    122,
+                    1042,
+                    161
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9644,
+                "bbox": [
+                    198,
+                    185,
+                    1216,
+                    226
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9619,
+                "bbox": [
+                    199,
+                    249,
+                    810,
+                    290
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9615,
+                "bbox": [
+                    198,
+                    313,
+                    1309,
+                    355
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788,
+                "bbox": [
+                    142,
+                    377,
+                    1507,
+                    467
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9531,
+                "bbox": [
+                    142,
+                    511,
+                    617,
+                    560
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.506,
+                "bbox": [
+                    144,
+                    587,
+                    351,
+                    626
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9866,
+                "bbox": [
+                    133,
+                    634,
+                    1520,
+                    859
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>54,400.0</td><td rowspan=1 colspan=1>85.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>9,600.0</td><td rowspan=1 colspan=1>15.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>64,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.946,
+                "bbox": [
+                    143,
+                    891,
+                    444,
+                    933
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5759,
+                "bbox": [
+                    143,
+                    959,
+                    550,
+                    995
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    131,
+                    1004,
+                    1521,
+                    1681
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>黛荷控股集团有限公司</td><td rowspan=1 colspan=1>28.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>上海东方美谷产业基金（有限合伙）</td><td rowspan=1 colspan=1>6.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.40%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>中金公司医药健康产业基金</td><td rowspan=1 colspan=1>4.30%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——四组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零三组合</td><td rowspan=1 colspan=1>2.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>黛荷员工持股计划</td><td rowspan=1 colspan=1>2.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>易方达消费行业股票基金</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>汇添富美丽中国混合基金</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>华夏国证消费ETF</td><td rowspan=1 colspan=1>1.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>56.80%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.919,
+                "bbox": [
+                    140,
+                    1687,
+                    1477,
+                    1776
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9616,
+                "bbox": [
+                    142,
+                    1820,
+                    430,
+                    1871
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9493,
+                "bbox": [
+                    142,
+                    1904,
+                    349,
+                    1948
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    139,
+                    1961,
+                    1510,
+                    2145
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9337,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9433,
+                "bbox": [
+                    132,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.977,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1525,
+                    59
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    126,
+                    1034,
+                    157
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    190,
+                    1209,
+                    221
+                ],
+                "score": 1.0,
+                "text": "产品质量：报告期内公司未发生重大质量安全事件，未受到监管部门行政处罚。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    257,
+                    799,
+                    284
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    321,
+                    1300,
+                    347
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为85万元，程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    383,
+                    1501,
+                    413
+                ],
+                "score": 1.0,
+                "text": "股权激励：报告期内公司实施2025年限制性股票激励计划，向85名核心人员授予190万股，考核目标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    431,
+                    745,
+                    456
+                ],
+                "score": 0.995,
+                "text": "为2026-2027年净利润复合增长率不低于15%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    513,
+                    611,
+                    558
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    592,
+                    345,
+                    623
+                ],
+                "score": 0.962,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    895,
+                    436,
+                    930
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    965,
+                    543,
+                    991
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1690,
+                    1470,
+                    1720
+                ],
+                "score": 0.998,
+                "text": "公司控股股东为黛荷控股集团有限公司，实际控制人为戴若荷。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1736,
+                    279,
+                    1773
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1814,
+                    428,
+                    1873
+                ],
+                "score": 0.972,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1905,
+                    343,
+                    1947
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1969,
+                    1496,
+                    1994
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2016,
+                    1497,
+                    2041
+                ],
+                "score": 0.989,
+                "text": "意见（瀚华审字[2026]第0348号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2062,
+                    1493,
+                    2091
+                ],
+                "score": 1.0,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    2106,
+                    279,
+                    2142
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.989,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9418,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8611,
+                "bbox": [
+                    1448,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561,
+                "bbox": [
+                    142,
+                    121,
+                    680,
+                    166
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.597,
+                "bbox": [
+                    144,
+                    191,
+                    390,
+                    227
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9891,
+                "bbox": [
+                    132,
+                    235,
+                    1521,
+                    915
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>16.80</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>4.10</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>11.60</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>22.00</td><td rowspan=1 colspan=1>20.30</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>62.80</td><td rowspan=1 colspan=1>57.40</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>3.30</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>7.00</td><td rowspan=1 colspan=1>5.30</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>18.00</td><td rowspan=1 colspan=1>14.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>44.80</td><td rowspan=1 colspan=1>42.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9321,
+                "bbox": [
+                    141,
+                    926,
+                    1203,
+                    961
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9555,
+                "bbox": [
+                    142,
+                    988,
+                    616,
+                    1032
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5629,
+                "bbox": [
+                    144,
+                    1058,
+                    337,
+                    1093
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9889,
+                "bbox": [
+                    132,
+                    1101,
+                    1520,
+                    1498
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>34.60</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>11.16</td><td rowspan=1 colspan=1>9.48</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>24.22</td><td rowspan=1 colspan=1>19.67</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>1.38</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>8.43</td><td rowspan=1 colspan=1>7.42</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>7.86</td><td rowspan=1 colspan=1>6.90</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.949,
+                "bbox": [
+                    143,
+                    1530,
+                    680,
+                    1573
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7123,
+                "bbox": [
+                    144,
+                    1599,
+                    390,
+                    1634
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8699,
+                "bbox": [
+                    133,
+                    1643,
+                    1519,
+                    1963
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元)</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-3.40</td><td rowspan=1 colspan=1>-2.90</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.20</td><td rowspan=1 colspan=1>1.00</td></tr><tr><td rowspan=1 colspan=3>公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9594,
+                "bbox": [
+                    144,
+                    2009,
+                    382,
+                    2055
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9561,
+                "bbox": [
+                    143,
+                    2079,
+                    1265,
+                    2119
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9397,
+                "bbox": [
+                    132,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9372,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    125,
+                    671,
+                    162
+                ],
+                "score": 0.954,
+                "text": "二、合并资产负债表主要项目（摘要）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    196,
+                    386,
+                    225
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    932,
+                    1195,
+                    952
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    993,
+                    608,
+                    1028
+                ],
+                "score": 0.949,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1060,
+                    333,
+                    1090
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1534,
+                    672,
+                    1568
+                ],
+                "score": 0.968,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1604,
+                    385,
+                    1629
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1998,
+                    381,
+                    2058
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2083,
+                    1260,
+                    2117
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    136,
+                    2238,
+                    628,
+                    2258
+                ],
+                "score": 0.987,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1523,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9534,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.693,
+                "bbox": [
+                    1449,
+                    25,
+                    1524,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9613,
+                "bbox": [
+                    144,
+                    123,
+                    1128,
+                    161
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9569,
+                "bbox": [
+                    144,
+                    187,
+                    886,
+                    225
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9549,
+                "bbox": [
+                    145,
+                    251,
+                    721,
+                    289
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9478,
+                "bbox": [
+                    158,
+                    335,
+                    826,
+                    370
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9377,
+                "bbox": [
+                    1326,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9436,
+                "bbox": [
+                    133,
+                    2232,
+                    634,
+                    2263
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "上海黛荷生物科技股份有限公司（605316.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "沪主板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    129,
+                    1122,
+                    155
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    193,
+                    878,
+                    219
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    256,
+                    714,
+                    285
+                ],
+                "score": 0.979,
+                "text": "·公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    341,
+                    818,
+                    365
+                ],
+                "score": 0.993,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第11页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2259
+                ],
+                "score": 0.996,
+                "text": "上海黛荷生物科技股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

@@ -1,0 +1,344 @@
+{
+  "metainfo": {
+    "sha1": "stock_10017",
+    "company_name": "澈微电子",
+    "file_name": "【财报】澈微电子：澈微电子2025年年度报告.md"
+  },
+  "content": {
+    "chunks": [
+      {
+        "id": 0,
+        "page": 1,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "江苏澈微电子股份有限公司\n2025 年年度报告\n(股票简称：澈微电子股票代码：002876.SZ)(深圳证券交易所主板)\n披露日期：2026年4月10日\n公司统一社会信用代码：91320594MA1WQ7L2XK"
+      },
+      {
+        "id": 1,
+        "page": 2,
+        "lines": [
+          1,
+          10
+        ],
+        "text": "重要提示\n一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。\n二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.80元(含税)，合计派发现金红利0.77亿元（含税)，占2025年度归属于上市公司股东净利润的25.50%。该预案尚需提交公司2025年年度股东大会审议。\n三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。\n四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告（中衡审字[2026]第0578号）。\n五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。\n六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。\n七、报告期内，公司不存在违反规定程序对外提供担保的情况。\n八、公司负责人尹济沧、主管会计工作负责人盛思齐及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。\n九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+      },
+      {
+        "id": 2,
+        "page": 3,
+        "lines": [
+          1,
+          13
+        ],
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节 管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录\n目录"
+      },
+      {
+        "id": 3,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "第一节释义\n释义表"
+      },
+      {
+        "id": 4,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、澈微电子</td><td rowspan=1 colspan=1>指江苏澈微电子股份有限公司</td></tr><tr><td rowspan=1 colspan=1>Bumping</td><td rowspan=1 colspan=1>指凸点加工，在晶圆上制备金属凸点作为芯片与基板的互连结构</td></tr><tr><td rowspan=1 colspan=1>WLP</td><td rowspan=1 colspan=1>指晶圆级封装，在晶圆状态下完成封装工艺的技术</td></tr><tr><td rowspan=1 colspan=1>2.5D封装</td><td rowspan=1 colspan=1>指通过中介层实现多芯片高密度互连的先进封装形态</td></tr><tr><td rowspan=1 colspan=1>3D封装</td><td rowspan=1 colspan=1>指芯片通过堆叠方式实现垂直互连的封装形态</td></tr><tr><td rowspan=1 colspan=1>TSV</td><td rowspan=1 colspan=1>指硅通孔技术，实现芯片内部垂直电气互连</td></tr><tr><td rowspan=1 colspan=1>混合键合</td><td rowspan=1 colspan=1>指芯片间铜-铜直接键合的下一代高密度互连技术</td></tr><tr><td rowspan=1 colspan=1>CP/FT</td><td rowspan=1 colspan=1>指晶圆测试与成品测试</td></tr></table>"
+      },
+      {
+        "id": 5,
+        "page": 4,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "第二节 致股东的信\n2025年，AI算力浪潮重塑了封测行业的价值坐标。澈微电子实现营业收入46.20亿元，同比增长22.2%；归母净利润3.02亿元，同比增长41.8%。2.5D先进封装产线自二季度起持续满载，成为公司历史上产能利用率最高的一年。\n我们把'高密度互连'视为未来十年封装技术的分水岭。报告期内，公司2.5D月产能扩充至4,000片12英寸约当，混合键合中试线完成设备联调，为2026年HPC与AI芯片客户的导入做好准备。同时，传统封装通过精益降本，在消费类需求温和的背景下依然实现了正增长。\n封测是芯片从设计走向产品的'最后一公里'，也是算力物理化的'最后一道工序'。澈微将坚持'先进封装立厂、精益运营强厂'，与客户共创中国半导体的封装高度。感谢每一位股东与澈微同仁。\n董事长：尹济沧2026年3月\n第三节 公司简介和主要财务指标\n一、公司基本情况\n公司基本情况"
+      },
+      {
+        "id": 6,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">江苏澈微电子股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">澈微电子</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">002876.SZ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">深圳证券交易所主板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">江苏省苏州市工业园区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2017年9月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">半导体封装与测试</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">尹济沧</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">闻笑山</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">盛思齐</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">7,600</td></tr></table>"
+      },
+      {
+        "id": 7,
+        "page": 5,
+        "lines": [
+          1,
+          4
+        ],
+        "text": "二、公司历史沿革\n公司成立于2005年，总部位于苏州工业园区，2017年9月在深圳证券交易所上市，是覆盖凸点加工晶圆级封装、2.5D/3D先进封装及传统封测的全流程封测企业。\n公司建有苏州本部与昆山两大基地，12英寸约当月产能合计9.5万片；2.5D先进封装专线于2024年底建成，2025年完成三次扩产。公司为中芯国际等晶圆代工厂及多家IC设计公司提供配套封装服务。\n三、主要会计数据和财务指标"
+      },
+      {
+        "id": 8,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "近三年主要会计数据和财务指标\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>37.80</td><td rowspan=1 colspan=1>+22.2%</td><td rowspan=1 colspan=1>32.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.13</td><td rowspan=1 colspan=1>+41.8%</td><td rowspan=1 colspan=1>1.68</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>2.68</td><td rowspan=1 colspan=1>1.87</td><td rowspan=1 colspan=1>+43.3%</td><td rowspan=1 colspan=1>1.42</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>+11.5%</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>+41.8%</td><td rowspan=1 colspan=1>0.17</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>5.00</td><td rowspan=1 colspan=1>3.70</td><td rowspan=1 colspan=1>增加1.30个百分点</td><td rowspan=1 colspan=1>3.00</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>118.60</td><td rowspan=1 colspan=1>106.80</td><td rowspan=1 colspan=1>+11.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>62.30</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>+6.3%</td><td rowspan=1 colspan=1>一</td></tr></table>\n注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+      },
+      {
+        "id": 9,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、非经常性损益项目及金额"
+      },
+      {
+        "id": 10,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年非经常性损益项目明细\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.26</td><td rowspan=1 colspan=1>先进封装产线专项补助</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>处置设备残值等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.34</td><td rowspan=1 colspan=1>占归母净利润比例11.3%</td></tr></table>\n非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+      },
+      {
+        "id": 11,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、分季度主要财务数据"
+      },
+      {
+        "id": 12,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分季度主要财务数据\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>11.10</td><td rowspan=1 colspan=1>11.80</td><td rowspan=1 colspan=1>13.10</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.58</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>0.96</td></tr></table>"
+      },
+      {
+        "id": 13,
+        "page": 6,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "第四节 管理层讨论与分析\n一、报告期内公司所处行业情况\n2025年，先进封装成为全球半导体产业景气度最高的环节之一。市场研究机构数据显示，全球先进封装市场规模约540亿美元，同比增长约19%；AI加速器对2.5D/3D封装需求爆发，头部封测产能持续紧张，行业资本开支向高密度互连倾斜。\n国内方面，封测环节是中国半导体产业链国产化率最高的环节，但在混合键合、大尺寸中介层等前沿方向仍处于追赶期。随着国产AI芯片设计公司进入高端算力市场，具备2.5D/3D量产能力的本土封测厂商迎来结构性机会。\n二、报告期内公司从事的主要业务\n公司主营业务为半导体封装与测试服务，产品形态覆盖凸点加工、晶圆级封装、2.5D/3D先进封装及传统框架封装。公司是国内少数同时具备Bumping与2.5D量产能力的独立封测企业。\n报告期内，公司2.5D封装服务于国产高性能计算与AI芯片客户，形成专线专用、长协锁定的合作模式；传统封测聚焦功率、安防与消费类芯片，产能利用率82.4%。\n三、营业收入构成及变动分析"
+      },
+      {
+        "id": 14,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分产品/业务收入构成\n<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>凸点加工及晶圆级封装</td><td rowspan=1 colspan=1>21.71</td><td rowspan=1 colspan=1>47.0%</td><td rowspan=1 colspan=1>26.2%</td><td rowspan=1 colspan=1>+26.4%</td></tr><tr><td rowspan=1 colspan=1>2.5D/3D先进封装</td><td rowspan=1 colspan=1>12.94</td><td rowspan=1 colspan=1>28.0%</td><td rowspan=1 colspan=1>21.8%</td><td rowspan=1 colspan=1>+51.2%</td></tr><tr><td rowspan=1 colspan=1>传统封装及测试</td><td rowspan=1 colspan=1>11.55</td><td rowspan=1 colspan=1>25.0%</td><td rowspan=1 colspan=1>17.4%</td><td rowspan=1 colspan=1>+5.2%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>23.5%</td><td rowspan=1 colspan=1>+22.2%</td></tr></table>"
+      },
+      {
+        "id": 15,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "凸点加工及晶圆级封装收入21.71亿元，同比增长26.4%，随AI芯片客户放量保持高稼动；2.5D/3D先进封装收入12.94亿元，同比增长51.2%，是公司投入产出比最高的成长线；传统封装及测试收入11.55亿元，在消费需求温和复苏下保持正增长。"
+      },
+      {
+        "id": 16,
+        "page": 6,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年分地区收入构成\n<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>36.96</td><td rowspan=1 colspan=1>80.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>9.24</td><td rowspan=1 colspan=1>20.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>\n注：前五名客户合计销售金额占年度销售总额的52.4%。"
+      },
+      {
+        "id": 17,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、营业成本构成"
+      },
+      {
+        "id": 18,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "营业成本构成（占营业成本比例)\n<table><tr><td colspan=\"1\" rowspan=\"1\">成本项目</td><td colspan=\"1\" rowspan=\"1\">2025年</td><td colspan=\"1\" rowspan=\"1\">2024年</td><td colspan=\"1\" rowspan=\"1\">变动说明</td></tr><tr><td colspan=\"1\" rowspan=\"1\">直接材料</td><td colspan=\"1\" rowspan=\"1\">42.8%</td><td colspan=\"1\" rowspan=\"1\">44.1%</td><td colspan=\"1\" rowspan=\"1\">国产基板导入降低采购成本</td></tr><tr><td colspan=\"1\" rowspan=\"1\">直接人工</td><td colspan=\"1\" rowspan=\"1\">17.6%</td><td colspan=\"1\" rowspan=\"1\">17.2%</td><td colspan=\"1\" rowspan=\"1\">产线自动化率提升</td></tr><tr><td colspan=\"1\" rowspan=\"1\">折旧摊销</td><td colspan=\"1\" rowspan=\"1\">26.5%</td><td colspan=\"1\" rowspan=\"1\">24.8%</td><td colspan=\"1\" rowspan=\"1\">2.5D产线转固</td></tr><tr><td colspan=\"1\" rowspan=\"1\">能源及其他</td><td colspan=\"1\" rowspan=\"1\">13.1%</td><td colspan=\"1\" rowspan=\"1\">13.9%</td><td colspan=\"1\" rowspan=\"1\">节能改造摊薄</td></tr></table>"
+      },
+      {
+        "id": 19,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "五、期间费用与研发投入\n期间费用变动"
+      },
+      {
+        "id": 20,
+        "page": 7,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.28</td><td rowspan=1 colspan=1>1.15</td><td rowspan=1 colspan=1>+11.3%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.52</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>+8.6%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>2.75</td><td rowspan=1 colspan=1>+12.7%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.42</td><td rowspan=1 colspan=1>0.48</td><td rowspan=1 colspan=1>-12.5%</td></tr></table>"
+      },
+      {
+        "id": 21,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "研发投入方面，公司2025年研发投入合计3.25亿元，占营业收入比例7.0%，其中费用化研发费用3.10亿元、资本化研发投入0.15亿元；研发人员1,150人，占员工总数比例15.1%。\n六、现金流量情况"
+      },
+      {
+        "id": 22,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "现金流量主要项目\n<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-10.60</td><td rowspan=1 colspan=1>-9.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>1.00</td></tr></table>"
+      },
+      {
+        "id": 23,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "报告期内经营活动现金流量净额8.70亿元，同比增长11.5%；投资活动现金净流出10.60亿元，主要为先进封装产能扩张；筹资活动净流入3.80亿元，来自2025年8月向特定对象发行的股票募集资金净额及银行借款。\n七、资产及负债项目重大变动"
+      },
+      {
+        "id": 24,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "资产、负债项目重大变动\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>+22.4%</td><td rowspan=1 colspan=1>经营积累及定增资金到位</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>13.40</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>+19.6%</td><td rowspan=1 colspan=1>Q4先进封装收入放量</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>+14.0%</td><td rowspan=1 colspan=1>原材料战略备货</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>61.20</td><td rowspan=1 colspan=1>52.40</td><td rowspan=1 colspan=1>+16.8%</td><td rowspan=1 colspan=1>2.5D扩产设备转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>7.10</td><td rowspan=1 colspan=1>-40.8%</td><td rowspan=1 colspan=1>混合键合中试线建设</td></tr></table>"
+      },
+      {
+        "id": 25,
+        "page": 7,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "八、公司未来发展的展望\n2026年经营目标：营业收入55亿元左右，先进封装收入占比提升至45%以上。公司计划上半年完成混合键合中试线验证并导入首批客户认证，同时将2.5D月产能扩充至6,000片12英寸约当。\n公司已启动'封装智能化'三年计划，目标将主力产线自动化率提升至92%以上，人均产值提升25%，以对冲封测行业的人工成本上行。\n九、风险因素\n公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+      },
+      {
+        "id": 26,
+        "page": 8,
+        "lines": [
+          1,
+          18
+        ],
+        "text": "客户集中风险：公司前五名客户收入占比52.4%，AI类客户订单若不及预期将显著影响产能利用。\n技术迭代风险：若混合键合等前沿技术研发或客户认证进度不及预期，公司在高端封装的先发优势可能被削弱。\n折旧压力风险：先进封装产线资本开支大、折旧周期长，若需求波动将对利润率形成挤压。\n行业周期风险：封测行业具有较强周期属性，若全球半导体进入去库存阶段，公司产能利用率将承压。\n贸易环境风险：部分高端设备与材料的出口管制变化可能影响公司扩产计划与成本。\n第五节 董事会报告\n报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。\n公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.80元（含税)，合计派发现金红利0.77亿元（含税)，占2025年度归属于上市公司股东净利润的25.50%。\n公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。\n第六节 公司治理\n报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。\n投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。\n内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。\n第七节环境、社会责任和其他公司治理\n一、环境保护信息\n环境信息主要指标\n<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤)</td><td rowspan=1 colspan=1>6.82</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>25.10</td><td rowspan=1 colspan=1>+8.4%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗(万立方米）</td><td rowspan=1 colspan=1>312.5</td><td rowspan=1 colspan=1>+4.1%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元)</td><td rowspan=1 colspan=1>5,860</td><td rowspan=1 colspan=1>+22.0%</td></tr></table>\n封测属于高耗能环节，公司持续推进节能技改：报告期内完成两个厂区冰机系统变频改造与纯水回收系统升级，单位收入能耗同比下降4.2%；自建光伏装机累计6.8MW，年发电量约720万千瓦时。"
+      },
+      {
+        "id": 27,
+        "page": 9,
+        "lines": [
+          1,
+          11
+        ],
+        "text": "二、社会责任\n截至报告期末，公司员工总数7,600人，其中研发人员1,150人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。\n三、公司治理专项情况\n报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。\n第八节 重要事项\n重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。\n对外担保：报告期内公司不存在对外担保事项。\n关联交易：报告期内，公司向实际控制人控制之外的参股企业采购设备合计560万元，程序合规、定价公允。\n承诺履行情况：2025年向特定对象发行股票相关各方所做承诺均在履行中，无违反承诺情形。\n重大投资：报告期内公司以募集资金及自有资金合计投入先进封装扩产项目9.80亿元，项目进度符合计划。\n第九节 股份变动及股东情况"
+      },
+      {
+        "id": 28,
+        "page": 9,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "股份结构(万股)\n<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>93,120.0</td><td rowspan=1 colspan=1>97.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,880.0</td><td rowspan=1 colspan=1>3.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>96,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+      },
+      {
+        "id": 29,
+        "page": 9,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "前十大股东持股情况"
+      },
+      {
+        "id": 30,
+        "page": 9,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "截至2025年12月31日前十大股东\n<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>澈微控股（苏州）有限公司</td><td rowspan=1 colspan=1>22.35%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>苏州工业园区产业发展基金</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>华澄微产业投资(有限合伙)</td><td rowspan=1 colspan=1>3.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金一零六组合</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金一二零一组合</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>中证A500交易型开放式指数基金</td><td rowspan=1 colspan=1>1.55%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>太平洋人寿保险- 分红险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>苏州澈越投资合伙企业（员工持股平台）</td><td rowspan=1 colspan=1>1.25%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>50.45%</td><td rowspan=1 colspan=1></td></tr></table>"
+      },
+      {
+        "id": 31,
+        "page": 10,
+        "lines": [
+          1,
+          6
+        ],
+        "text": "公司控股股东为澈微控股(苏州）有限公司，实际控制人为尹济沧家族，合计控制公司25.85%的股份。  \n报告期内控股股东所持股份不存在质押、冻结情形。\n第十节 财务报告\n一、审计意见\n公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0578号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。\n二、合并资产负债表主要项目（摘要)"
+      },
+      {
+        "id": 32,
+        "page": 10,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "资产负债表主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>15.20</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>13.40</td><td rowspan=1 colspan=1>11.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.60</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>61.20</td><td rowspan=1 colspan=1>52.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>118.60</td><td rowspan=1 colspan=1>106.80</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>12.80</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>38.00</td><td rowspan=1 colspan=1>34.00</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>56.30</td><td rowspan=1 colspan=1>48.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>62.30</td><td rowspan=1 colspan=1>58.60</td></tr></table>\n注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+      },
+      {
+        "id": 33,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "三、合并利润表主要项目（摘要)\n利润表主要项目"
+      },
+      {
+        "id": 34,
+        "page": 10,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>37.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>35.34</td><td rowspan=1 colspan=1>29.33</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>6.32</td><td rowspan=1 colspan=1>5.78</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>2.75</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.02</td><td rowspan=1 colspan=1>2.13</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>2.68</td><td rowspan=1 colspan=1>1.87</td></tr></table>"
+      },
+      {
+        "id": 35,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "四、合并现金流量表主要项目(摘要)\n现金流量表主要项目"
+      },
+      {
+        "id": 36,
+        "page": 11,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>8.70</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-10.60</td><td rowspan=1 colspan=1>-9.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>1.00</td></tr></table>\n公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。\n备查文件目录\n载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。\n载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。\n·报告期内公开披露过的所有公司文件的正本及公告原稿。\n公司2025年年度股东大会会议资料及决议。\n(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "metainfo": {
+    "sha1": "stock_10012",
+    "company_name": "氢澜动力",
+    "file_name": "【财报】氢澜动力：氢澜动力2025年年度报告.md"
+  },
+  "content": {
+    "chunks": [
+      {
+        "id": 0,
+        "page": 1,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "苏州氢澜动力股份有限公司\n2025 年年度报告\n(股票简称：氢澜动力股票代码：688349.SH)(上海证券交易所科创板)\n披露日期：2026年3月28日\n公司统一社会信用代码：91320594MA26P8K3XC"
+      },
+      {
+        "id": 1,
+        "page": 2,
+        "lines": [
+          1,
+          10
+        ],
+        "text": "重要提示\n一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。\n二、鉴于公司2025年为实现盈利后的首个会计年度，整体经营规模仍处于快速扩张期，碱性电解槽二期等产能建设项目资金需求较大，为保持财务稳健、增强持续发展能力，公司2025年度不进行利润分配，亦不实施资本公积转增股本。\n三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。\n四、公司2025年度财务报告已经中衡会计师事务所(特殊普通合伙）审计，并出具了标准无保留意见审计报告（中衡审字[2026]第0187号）。\n五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。\n六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。\n七、报告期内，公司不存在违反规定程序对外提供担保的情况。\n八、公司负责人厉承澜、主管会计工作负责人闻人潇及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。\n九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+      },
+      {
+        "id": 2,
+        "page": 3,
+        "lines": [
+          1,
+          13
+        ],
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录\n目录"
+      },
+      {
+        "id": 3,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "第一节释义\n释义表"
+      },
+      {
+        "id": 4,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、氢澜动力</td><td rowspan=1 colspan=1>指苏州氢澜动力股份有限公司</td></tr><tr><td rowspan=1 colspan=1>电解槽</td><td rowspan=1 colspan=1>指通过电解水制取氢气的核心装备</td></tr><tr><td rowspan=1 colspan=1>碱性电解槽(ALK）</td><td rowspan=1 colspan=1>指以氢氧化钾溶液为电解液的电解水制氢设备</td></tr><tr><td rowspan=1 colspan=1>PEM电解槽</td><td rowspan=1 colspan=1>指以质子交换膜为电解质的电解水制氢设备</td></tr><tr><td rowspan=1 colspan=1>燃料电池系统</td><td rowspan=1 colspan=1>指以氢气为燃料、通过电化学反应发电的车用或固定式动力系统</td></tr><tr><td rowspan=1 colspan=1>绿氢</td><td rowspan=1 colspan=1>指使用可再生能源电力电解水制取的氢气</td></tr><tr><td rowspan=1 colspan=1>电堆</td><td rowspan=1 colspan=1>指燃料电池或电解槽中由多片单电池堆叠而成的核心部件</td></tr><tr><td rowspan=1 colspan=1>示范应用城市群</td><td rowspan=1 colspan=1>指国家燃料电池汽车示范应用政策中以城市联合体为单位实施的示范项目</td></tr></table>"
+      },
+      {
+        "id": 5,
+        "page": 4,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "第二节 致股东的信\n2025年，绿氢产业从示范走向了规模化。氢澜动力实现营业收入12.60亿元，同比增长37.0%；归属于上市公司股东的净利润0.68亿元，实现了上市以来的首次年度盈利这条扭亏的曲线，公司走了三年。\n这一年，公司1000标方碱性电解槽在内蒙古、新疆三个绿氢大项目中标，全年电解槽出货248台套；PEM电解槽在化工副产氢提纯与电网调峰场景实现批量交付；燃料电池系统搭载商用车交付1,150台。行业最困难的时刻已经过去，装备企业的订单正在变成现金流。\n氢能的产业长坡才刚刚开始。2026年，公司将持续加码大标方碱槽与兆瓦级PEM两条产品线，把'度电制氢成本'降下来的每一次技术迭代，都当作对股东的承诺。感谢一路信任氢澜的投资者。\n董事长：厉承澜2026年3月\n第三节 公司简介和主要财务指标\n一、公司基本情况\n公司基本情况"
+      },
+      {
+        "id": 6,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">苏州氢澜动力股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">氢澜动力</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">688349.SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">上海证券交易所科创板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">江苏省苏州市虎丘区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2022年9月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">氢能装备（电解槽及燃料电池系统）</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">厉承澜</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">欧叙白</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">闻人潇</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">3,100</td></tr></table>"
+      },
+      {
+        "id": 7,
+        "page": 5,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "二、公司历史沿革\n公司成立于2016年，总部位于苏州，2022年9月在上海证券交易所科创板上市，是国内少数同时布局碱性电解槽、PEM电解槽与燃料电池系统三大产品线的氢能装备企业\n截至报告期末，公司在苏州、内蒙古包头两地建有制造基地，形成碱性电解槽年产1.2GW、PEM电解槽年产300MW、燃料电池系统年产3,000台的产能格局。\n三、主要会计数据和财务指标\n近三年主要会计数据和财务指标"
+      },
+      {
+        "id": 8,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>9.20</td><td rowspan=1 colspan=1>+37.0%</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>-0.35</td><td rowspan=1 colspan=1>-294.3%</td><td rowspan=1 colspan=1>-0.82</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>-0.55</td><td rowspan=1 colspan=1>-138.2%</td><td rowspan=1 colspan=1>-1.02</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td><td rowspan=1 colspan=1>+80.0%</td><td rowspan=1 colspan=1>0.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>-0.06</td><td rowspan=1 colspan=1>-294.3%</td><td rowspan=1 colspan=1>-0.15</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>-1.30</td><td rowspan=1 colspan=1>增加3.70个百分点</td><td rowspan=1 colspan=1>-3.10</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>42.60</td><td rowspan=1 colspan=1>39.80</td><td rowspan=1 colspan=1>+7.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>29.50</td><td rowspan=1 colspan=1>27.20</td><td rowspan=1 colspan=1>+8.5%</td><td rowspan=1 colspan=1>一</td></tr></table>\n注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+      },
+      {
+        "id": 9,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、非经常性损益项目及金额"
+      },
+      {
+        "id": 10,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年非经常性损益项目明细\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=2 colspan=1>说明燃料电池汽车示范应用城市群奖励及绿氢制备装备专项补助</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.42</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>闲置募集资金现金管理收益</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.02</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.47</td><td rowspan=1 colspan=1>占归母净利润比例 69.1%</td></tr></table>\n非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+      },
+      {
+        "id": 11,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、分季度主要财务数据"
+      },
+      {
+        "id": 12,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分季度主要财务数据\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.90</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>4.00</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>0.13</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>0.28</td></tr></table>"
+      },
+      {
+        "id": 13,
+        "page": 6,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "第四节 管理层讨论与分析\n一、报告期内公司所处行业情况\n2025年国内绿氢项目进入招标放量期，全年电解槽招标规模约4.5GW，同比增长超过60%；绿氢在合成氨、合成甲醇、炼化替代等场景的经济性拐点渐近。政策层面，氢能被纳入《能源法》管理体系，绿氢管道输送与储运试点扩大。\n燃料电池汽车示范应用城市群政策进入收官评估期，重卡成为主力车型，2025年燃料电池重卡销量同比增长约50%。装备端，1000标方以上大标方碱槽、兆瓦级PEM成为招标主流规格，行业集中度快速提升。\n二、报告期内公司从事的主要业务\n公司主营业务为氢能装备的研发、生产与销售，产品覆盖碱性电解槽、PEM电解槽两大制氢装备及燃料电池系统用氢装备，并提供绿氢项目EPC配套与运维服务。\n报告期内，公司第二代1000标方碱性电解槽实现直流电耗4.3千瓦时/标方，较第一代下降8%，在新疆库车、内蒙古鄂尔多斯两个国家级绿氢项目中中标份额居前；兆瓦级PEM电解槽切入电网侧储能调峰示范场景。\n三、营业收入构成及变动分析"
+      },
+      {
+        "id": 14,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分产品/业务收入构成\n<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>碱性电解槽</td><td rowspan=1 colspan=1>8.06</td><td rowspan=1 colspan=1>64.0%</td><td rowspan=1 colspan=1>23.5%</td><td rowspan=1 colspan=1>+37.4%</td></tr><tr><td rowspan=1 colspan=1>PEM电解槽</td><td rowspan=1 colspan=1>2.27</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>18.6%</td><td rowspan=1 colspan=1>+29.1%</td></tr><tr><td rowspan=1 colspan=1>燃料电池系统</td><td rowspan=1 colspan=1>2.27</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>15.2%</td><td rowspan=1 colspan=1>+41.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>21.3%</td><td rowspan=1 colspan=1>+37.0%</td></tr></table>"
+      },
+      {
+        "id": 15,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "碱性电解槽收入8.06亿元，同比增长37.4%，大标方产品占比提升至70%；PEM电解槽收入2.27亿元，同比增长29.1%，电网侧与出口订单贡献增量；燃料电池系统收入2.27亿元，同比增长41.0%，重卡配套放量是主要驱动。"
+      },
+      {
+        "id": 16,
+        "page": 6,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年分地区收入构成\n<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>11.72</td><td rowspan=1 colspan=1>93.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>0.88</td><td rowspan=1 colspan=1>7.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>\n注：前五名客户合计销售金额占年度销售总额的46.8%。"
+      },
+      {
+        "id": 17,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、营业成本构成"
+      },
+      {
+        "id": 18,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "营业成本构成（占营业成本比例）\n<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>电极及膜材料</td><td rowspan=1 colspan=1>44.6%</td><td rowspan=1 colspan=1>46.8%</td><td rowspan=1 colspan=1>国产铱基催化剂导入降本</td></tr><tr><td rowspan=1 colspan=1>钢结构及极板</td><td rowspan=1 colspan=1>28.4%</td><td rowspan=1 colspan=1>27.2%</td><td rowspan=1 colspan=1>大宗价格平稳，自制比例提升</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>27.0%</td><td rowspan=1 colspan=1>26.0%</td><td rowspan=1 colspan=1>包头基地投产摊薄</td></tr></table>"
+      },
+      {
+        "id": 19,
+        "page": 7,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、期间费用与研发投入"
+      },
+      {
+        "id": 20,
+        "page": 7,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "期间费用变动\n<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>0.48</td><td rowspan=1 colspan=1>0.40</td><td rowspan=1 colspan=1>+20.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>+16.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>+22.2%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>+25.0%</td></tr></table>\n研发投入方面，公司2025年研发投入合计1.25亿元，占营业收入比例9.9%，其中费用化研发费用1.10亿元、资本化研发投入0.15亿元；研发人员780人，占员工总数比例25.2%。"
+      },
+      {
+        "id": 21,
+        "page": 7,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "六、现金流量情况"
+      },
+      {
+        "id": 22,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "现金流量主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.20</td><td rowspan=1 colspan=1>-3.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>2.60</td></tr></table>"
+      },
+      {
+        "id": 23,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "报告期内经营活动现金流量净额0.90亿元，同比改善0.40亿元，大项目执行'3331'回款节奏；投资活动净流出4.20亿元，主要为包头基地与二期产能建设；筹资活动净流入3.80亿元，为发行可转换公司债券所致。\n七、资产及负债项目重大变动"
+      },
+      {
+        "id": 24,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "资产、负债项目重大变动\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末 (亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.20</td><td rowspan=1 colspan=1>+19.4%</td><td rowspan=1 colspan=1>经营积累及可转债募集资金到位</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>+51.2%</td><td rowspan=1 colspan=1>碱性电解槽二期产能建设投入</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>+21.1%</td><td rowspan=1 colspan=1>绿氢项目预收设备款增加</td></tr></table>"
+      },
+      {
+        "id": 25,
+        "page": 7,
+        "lines": [
+          1,
+          7
+        ],
+        "text": "八、公司未来发展的展望\n2026年经营目标：营业收入16亿元左右，同比增长约27%；碱性电解槽出货350台套以上，PEM电解槽在电网侧形成规模化订单。公司第三代2000标方碱槽样机预计2026年下半年完成客户验证。\n降本方面，公司目标将碱性电解槽单位制氢电耗再降3%，铱载量降低30%的PEM膜电极实现中试量产，以'度电制氢成本'为核心指标参与全球绿氢项目竞争。\n九、风险因素\n公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：\n政策依赖风险：燃料电池系统业务与示范应用城市群补贴政策挂钩，财政奖补退坡可能影响下游整车客户需求。\n招标节奏风险：绿氢大项目审批与招标节奏受宏观投资与并网消纳影响，订单确认存在季度间波动。"
+      },
+      {
+        "id": 26,
+        "page": 8,
+        "lines": [
+          1,
+          17
+        ],
+        "text": "技术路线风险：碱性与PEM两大路线仍处并行竞争阶段，若技术路线切换快于预期，存在产能与研发投入错配风险。\n应收账款风险：大项目客户回款周期长，公司应收账款及合同资产随收入扩张而增加，存在坏账计提压力。\n原材料价格风险：铱、铂等贵金属价格高位波动，对PEM电解槽毛利率形成挤压。\n第五节 董事会报告\n报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。\n鉴于公司2025年为实现盈利后的首个会计年度，整体经营规模仍处于快速扩张期，碱性电解槽二期等产能建设项目资金需求较大，为保持财务稳健、增强持续发展能力，公司2025年度不进行利润分配，亦不实施资本公积转增股本。\n公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。\n第六节 公司治理\n报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。\n投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。\n内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。\n第七节环境、社会责任和其他公司治理\n一、环境保护信息\n环境信息主要指标\n<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（吨标准煤）</td><td rowspan=1 colspan=1>28,500</td><td rowspan=1 colspan=1>+28.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>62,300</td><td rowspan=1 colspan=1>+25.2%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>46.2</td><td rowspan=1 colspan=1>+18.0%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>420</td><td rowspan=1 colspan=1>+35.0%</td></tr></table>\n公司产品本身服务于绿色低碳转型，生产环节以装配与测试为主。报告期内包头基地引入屋顶光伏与余热回收系统，单位产值综合能耗同比实现由升转稳。\n二、社会责任"
+      },
+      {
+        "id": 27,
+        "page": 9,
+        "lines": [
+          1,
+          11
+        ],
+        "text": "截至报告期末，公司员工总数3,100人，其中研发人员780人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。\n三、公司治理专项情况\n报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。\n第八节 重要事项\n重大合同：报告期内公司及子公司中标金额1亿元以上的绿氢装备合同3项，合计金额约5.6亿元，均在履行中。\n重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。\n对外担保：报告期内公司不存在对外担保事项。\n关联交易：报告期内公司与关联方发生的日常关联交易合计金额为230万元，主要为委托检测服务，程序合规。\n可转债：公司2025年8月完成向不特定对象发行可转换公司债券，募集资金4.2亿元，用于碱性电解槽二期产能建设项目。\n第九节股份变动及股东情况\n股份结构(万股)"
+      },
+      {
+        "id": 28,
+        "page": 9,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>50,400.0</td><td rowspan=1 colspan=1>90.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>5,600.0</td><td rowspan=1 colspan=1>10.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>56,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+      },
+      {
+        "id": 29,
+        "page": 9,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "前十大股东持股情况"
+      },
+      {
+        "id": 30,
+        "page": 9,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "截至2025年12月31日前十大股东\n<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>氢澜控股集团有限公司</td><td rowspan=1 colspan=1>28.50%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家绿色发展基金股份有限公司</td><td rowspan=1 colspan=1>8.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>长三角制造业转型升级基金（有限合伙）</td><td rowspan=1 colspan=1>4.50%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>苏州创新产业引导基金（有限合伙)</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>氢澜一号员工持股计划</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>全国社保基金——六组合</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>基本养老保险基金一二零一组合</td><td rowspan=1 colspan=1>1.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>国家能源集团绿色产业基金</td><td rowspan=1 colspan=1>0.95%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>0.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>53.25%</td><td rowspan=1 colspan=1></td></tr></table>"
+      },
+      {
+        "id": 31,
+        "page": 10,
+        "lines": [
+          1,
+          6
+        ],
+        "text": "公司控股股东为氢澜控股集团有限公司，实际控制人为厉承澜。控股股东所持股份报告期内不存在质押、冻结情形。\n第十节 财务报告\n一、审计意见\n公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0187号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。\n二、合并资产负债表主要项目（摘要)\n资产负债表主要项目"
+      },
+      {
+        "id": 32,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>3.90</td><td rowspan=1 colspan=1>2.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>3.40</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>17.30</td><td rowspan=1 colspan=1>16.20</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>10.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>42.60</td><td rowspan=1 colspan=1>39.80</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>3.60</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.90</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>6.60</td><td rowspan=1 colspan=1>7.10</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>13.10</td><td rowspan=1 colspan=1>12.60</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>29.50</td><td rowspan=1 colspan=1>27.20</td></tr></table>\n注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+      },
+      {
+        "id": 33,
+        "page": 10,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "三、合并利润表主要项目(摘要)"
+      },
+      {
+        "id": 34,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "利润表主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>9.20</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>9.92</td><td rowspan=1 colspan=1>7.43</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>2.45</td><td rowspan=1 colspan=1>2.04</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>0.90</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>-0.35</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>-0.55</td></tr></table>"
+      },
+      {
+        "id": 35,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "四、合并现金流量表主要项目(摘要)\n现金流量表主要项目"
+      },
+      {
+        "id": 36,
+        "page": 11,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.20</td><td rowspan=1 colspan=1>-3.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>2.60</td></tr></table>\n公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。\n备查文件目录\n载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。\n载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。\n·报告期内公开披露过的所有公司文件的正本及公告原稿。\n公司2025年年度股东大会会议资料及决议。\n(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+      }
+    ]
+  }
+}

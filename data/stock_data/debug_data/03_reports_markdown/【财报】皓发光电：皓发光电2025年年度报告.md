@@ -1,0 +1,271 @@
+# 武汉皓发光电股份有限公司
+
+2025 年年度报告
+
+(股票简称：皓发光电股票代码：301508.SZ)(深圳证券交易所创业板)
+
+披露日期：2026年4月8日
+
+公司统一社会信用代码：91420100MA4KXQ8L2D
+
+## 重要提示
+
+一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。
+
+二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.50元（含税），同时以资本公积向全体股东每10股转增4股，合计派发现金红利1.60亿元（含税），占2025年度归属于上市公司股东净利润的17.47%。该预案尚需提交公司2025年年度股东大会审议。
+
+三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。
+
+四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(瀚华审字[2026]第0402号）。
+
+五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。
+
+六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。
+
+七、报告期内，公司不存在违反规定程序对外提供担保的情况。
+
+八、公司负责人姜泓璟、主管会计工作负责人许望舒及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。
+
+九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。
+
+重要提示  
+第一节释义  
+第二节 致股东的信  
+第三节公司简介和主要财务指标  
+第四节 管理层讨论与分析  
+第五节 董事会报告  
+第六节公司治理  
+第七节环境、社会责任和其他公司治理  
+第八节 重要事项  
+第九节股份变动及股东情况  
+第十节财务报告  
+备查文件目录
+
+## 目录
+
+## 第一节释义
+
+## 释义表
+
+<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、皓发光电</td><td rowspan=1 colspan=1>指武汉皓发光电股份有限公司</td></tr><tr><td rowspan=1 colspan=1>光模块</td><td rowspan=1 colspan=1>指实现光信号与电信号相互转换的光电子器件组件</td></tr><tr><td rowspan=1 colspan=1>800G/1.6T</td><td rowspan=1 colspan=1>指单端口传输速率800Gbps/1,600Gbps的光模块产品</td></tr><tr><td rowspan=1 colspan=1>硅光</td><td rowspan=1 colspan=1>指基于硅基光电子工艺集成光学器件的技术路线</td></tr><tr><td rowspan=1 colspan=1>CPO</td><td rowspan=1 colspan=1>指光电共封装技术，将光引擎与交换芯片协同封装</td></tr><tr><td rowspan=1 colspan=1>LPO</td><td rowspan=1 colspan=1>指线性直驱光模块，去除数字信号处理环节以降低功耗与时延</td></tr><tr><td rowspan=1 colspan=1>数通市场</td><td rowspan=1 colspan=1>指面向云计算与数据中心的光模块需求</td></tr><tr><td rowspan=1 colspan=1>DSP芯片</td><td rowspan=1 colspan=1>指光模块中的数字信号处理芯片</td></tr></table>
+
+## 第二节 致股东的信
+
+2025年是AI算力把光互连推向'万亿元时代'入口的一年。皓发光电实现营业收入78.20亿元，同比增长59.9%；归母净利润9.16亿元，同比增长72.4%；800G光模块出货量稳居全球第一梯队，1.6T产品完成首批客户送样并获批量订单。
+
+速率的竞争背后是工艺与平台的竞争。这一年，公司自研硅光引擎在800G产品中的渗透率提升至45%，摆脱了对外部硅光代工资源的依赖；在先进的LPO与CPO方向上，我们与两家头部云厂商建立联合实验室，把下一代数据中心光互连的功耗曲线重新定义。
+
+光模块是数字世界的'血管'。2026年，公司将围绕1.6T量产、硅光平台迭代与海外产能布局三条主线推进，让算力之光照进每一座数据中心。感谢每一位客户、员工与股东的信任。
+
+董事长：姜泓璟2026年3月
+
+## 第三节 公司简介和主要财务指标
+
+## 一、公司基本情况
+
+## 公司基本情况
+
+<table><tr><td colspan="1" rowspan="1">项目</td><td colspan="1" rowspan="1">内容</td></tr><tr><td colspan="1" rowspan="1">公司中文全称</td><td colspan="1" rowspan="1">武汉皓发光电股份有限公司</td></tr><tr><td colspan="1" rowspan="1">证券简称</td><td colspan="1" rowspan="1">皓发光电</td></tr><tr><td colspan="1" rowspan="1">证券代码</td><td colspan="1" rowspan="1">301508.SZ</td></tr><tr><td colspan="1" rowspan="1">上市板块</td><td colspan="1" rowspan="1">深圳证券交易所创业板</td></tr><tr><td colspan="1" rowspan="1">注册地/总部</td><td colspan="1" rowspan="1">湖北省武汉市东湖新技术开发区</td></tr><tr><td colspan="1" rowspan="1">上市时间</td><td colspan="1" rowspan="1">2022年6月</td></tr><tr><td colspan="1" rowspan="1">所处行业</td><td colspan="1" rowspan="1">光器件、光模块制造</td></tr><tr><td colspan="1" rowspan="1">董事长</td><td colspan="1" rowspan="1">姜泓璟</td></tr><tr><td colspan="1" rowspan="1">总经理</td><td colspan="1" rowspan="1">凌肃</td></tr><tr><td colspan="1" rowspan="1">董事会秘书</td><td colspan="1" rowspan="1">许望舒</td></tr><tr><td colspan="1" rowspan="1">审计机构</td><td colspan="1" rowspan="1">瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td colspan="1" rowspan="1">员工总数（人）</td><td colspan="1" rowspan="1">6,200</td></tr></table>
+
+## 二、公司历史沿革
+
+公司成立于2016年，总部位于武汉东湖新技术开发区（中国光谷），2022年6月在深圳证券交易所创业板上市，是专业从事高速光模块、硅光引擎及光器件研发、制造与销售的企业。
+
+公司建有武汉总部与鄂州智能制造基地，具备光芯片贴装、耦合、封装测试全流程制造能力；海外马来西亚槟城制造基地一期于2025年6月投产，形成双基地交付格局。
+
+## 三、主要会计数据和财务指标
+
+## 近三年主要会计数据和财务指标
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>78.20</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>+59.9%</td><td rowspan=1 colspan=1>31.50</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>9.16</td><td rowspan=1 colspan=1>5.32</td><td rowspan=1 colspan=1>+72.2%</td><td rowspan=1 colspan=1>2.96</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>8.65</td><td rowspan=1 colspan=1>4.81</td><td rowspan=1 colspan=1>+79.8%</td><td rowspan=1 colspan=1>2.55</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>7.60</td><td rowspan=1 colspan=1>+63.2%</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>1.43</td><td rowspan=1 colspan=1>0.83</td><td rowspan=1 colspan=1>+72.2%</td><td rowspan=1 colspan=1>0.46</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>13.60</td><td rowspan=1 colspan=1>8.80</td><td rowspan=1 colspan=1>增加4.80个百分点</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>136.50</td><td rowspan=1 colspan=1>108.60</td><td rowspan=1 colspan=1>+25.7%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>71.80</td><td rowspan=1 colspan=1>63.40</td><td rowspan=1 colspan=1>+13.2%</td><td rowspan=1 colspan=1>一</td></tr></table>
+
+注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。
+
+## 四、非经常性损益项目及金额
+
+2025年非经常性损益项目明细
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额(亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.28</td><td rowspan=1 colspan=1>光电子产业专项及出口信用贴息</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.14</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.09</td><td rowspan=1 colspan=1>政府产业基金投资收益等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.51</td><td rowspan=1 colspan=1>占归母净利润比例 5.6%</td></tr></table>
+
+非经常性损益项目数据来源：公司财务报表附注，并经审计确认。
+
+## 五、分季度主要财务数据
+
+2025年分季度主要财务数据
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>16.20</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>20.30</td><td rowspan=1 colspan=1>23.10</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>1.78</td><td rowspan=1 colspan=1>2.11</td><td rowspan=1 colspan=1>2.42</td><td rowspan=1 colspan=1>2.85</td></tr></table>
+
+## 第四节 管理层讨论与分析
+
+## 一、报告期内公司所处行业情况
+
+2025年，全球AI算力资本开支合计超过5,000亿美元，带动高速光模块需求爆发。市场研究机构数据显示，2025年全球800G及以上光模块出货量同比增长超过60%，1.6T开始小批量部署；全球光模块市场规模约260亿美元，其中数通占比接近八成。
+
+行业格局上，中国厂商凭借垂直整合与快速迭代能力已占据全球高速光模块出货量的过半份额。硅光LPO、CPO等新技术的导入节奏，正在重塑行业成本曲线与竞争座次；具备'芯片一引擎一模块一系统'垂直能力与海外产能布局的厂商将获得超额份额。
+
+图1：2021-2025年营业收入及同比增速  
+![](images/26525fb4b8018aa08b9e8d55403d7c4cbc732f57068e1aa4f427b70288e02b27.jpg)  
+资料来源：公司历年年度报告，经审计数据
+
+## 二、报告期内公司从事的主要业务
+
+公司主营业务为高速光模块及硅光器件的研发、制造与销售，产品覆盖400G、800G、1.6T系列，主要服务于全球头部云计算厂商与电信设备商的数通与电信市场。
+
+报告期内，公司800G产品月产能爬升至18万只，良率98.2%；硅光自研引擎导入第二代800G并量产出货；马来西亚基地通过两家北美客户审厂，海外产能占比提升至22%。
+
+## 三、营业收入构成及变动分析
+
+2025年分产品/业务收入构成
+<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>800G及以上高速光模块</td><td rowspan=1 colspan=1>45.36</td><td rowspan=1 colspan=1>58.0%</td><td rowspan=1 colspan=1>36.2%</td><td rowspan=1 colspan=1>+84.4%</td></tr><tr><td rowspan=1 colspan=1>400G光模块</td><td rowspan=1 colspan=1>24.24</td><td rowspan=1 colspan=1>31.0%</td><td rowspan=1 colspan=1>32.5%</td><td rowspan=1 colspan=1>+33.2%</td></tr><tr><td rowspan=1 colspan=1>硅光引擎及光器件</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>11.0%</td><td rowspan=1 colspan=1>29.8%</td><td rowspan=1 colspan=1>+41.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>78.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>33.8%</td><td rowspan=1 colspan=1>+59.9%</td></tr></table>
+
+800G及以上高速光模块收入45.36亿元，同比增长84.4%，在总收入中占比58%，为公司增长主引擎；400G光模块收入24.24亿元，同比增长33.2%，在推理侧集群与DCI场景需求带动下重回增长；硅光引擎及光器件收入8.60亿元，同比增长41.0%，对外销售与自用配套同步扩大。
+
+图2：2023-2025年分速率产品收入（亿元)
+
+![](images/41ea687eb90716681da8129c1ce1bb2923af2a9153b321b01745076ea789d841.jpg)  
+资料来源：公司2025年年度报告
+
+2025年分地区收入构成
+<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>30.62</td><td rowspan=1 colspan=1>39.2%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>47.58</td><td rowspan=1 colspan=1>60.8%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>78.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>
+
+注：前五名客户合计销售金额占年度销售总额的65.2%。
+
+## 四、营业成本构成
+
+营业成本构成（占营业成本比例）
+<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>光芯片及有源器件</td><td rowspan=1 colspan=1>52.6%</td><td rowspan=1 colspan=1>55.4%</td><td rowspan=1 colspan=1>自研硅光引擎替代外购</td></tr><tr><td rowspan=1 colspan=1>结构件及无源器件</td><td rowspan=1 colspan=1>18.9%</td><td rowspan=1 colspan=1>17.8%</td><td rowspan=1 colspan=1>国产采购比例提升</td></tr><tr><td rowspan=1 colspan=1>直接人工</td><td rowspan=1 colspan=1>9.6%</td><td rowspan=1 colspan=1>10.2%</td><td rowspan=1 colspan=1>自动化产线投产</td></tr><tr><td rowspan=1 colspan=1>折旧及其他制造费用</td><td rowspan=1 colspan=1>18.9%</td><td rowspan=1 colspan=1>16.6%</td><td rowspan=1 colspan=1>双基地扩产转固</td></tr></table>
+
+## 五、期间费用与研发投入
+
+期间费用变动
+<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>2.35</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>+27.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>1.72</td><td rowspan=1 colspan=1>+22.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>6.70</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+31.4%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.28</td><td rowspan=1 colspan=1>-0.15</td><td rowspan=1 colspan=1>+86.7%</td></tr></table>
+
+研发投入方面，公司2025年研发投入合计6.70亿元，占营业收入比例8.6%，其中费用化研发费用6.70亿元、资本化研发投入0.00亿元；研发人员2,050人，占员工总数比例33.1%。
+
+## 六、现金流量情况
+
+## 现金流量主要项目
+
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-9.80</td><td rowspan=1 colspan=1>-8.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>1.50</td></tr></table>
+
+报告期内经营活动现金流量净额12.40亿元，同比增长63.2%，与净利润同步高增；投资活动净流出9.80亿元，主要为产能扩张与硅光研发平台投入；筹资活动净流入2.00亿元，主要来自经营性借款与套保保证金的净变动。
+
+## 七、资产及负债项目重大变动
+
+资产、负债项目重大变动
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>+33.3%</td><td rowspan=1 colspan=1>经营积累及盈利回款</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>+52.1%</td><td rowspan=1 colspan=1>Q4出货放量</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>11.90</td><td rowspan=1 colspan=1>+41.2%</td><td rowspan=1 colspan=1>1.6T量产备料</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>32.60</td><td rowspan=1 colspan=1>25.40</td><td rowspan=1 colspan=1>+28.3%</td><td rowspan=1 colspan=1>鄂州基地二期及槟城基地转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>-35.8%</td><td rowspan=1 colspan=1>海外基地一期投产转固</td></tr></table>
+
+## 八、公司未来发展的展望
+
+2026年经营目标：营业收入110亿元左右，同比增长约40%；1.6T光模块在上半年实现规模量产，全年出货目标80万只以上；海外产能占比提升至30%。
+
+技术层面，公司将推进第三代硅光引擎（支持200G/lane）的验证导入，完成LPO产品在两类场景的商用落地，并启动CPO样品的联合测试。
+
+## 九、风险因素
+
+公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：
+
+客户集中风险：公司前五名客户收入占比65.2%，主要为境外头部云厂商，其资本开支节奏变化对公司业绩影响显著。
+
+技术迭代风险：光模块速率升级周期约两年，若公司1.6T量产或硅光导入进度不及预期，将削弱竞争力。
+
+价格下行风险：高速光模块单价年降幅度较大，需以降本对冲。
+
+地缘与贸易风险：海外收入占比61%，关税与出口政策变化可能影响需求与交付模式。
+
+汇率风险：公司境外收入以美元计价，汇率波动影响利润率。
+
+## 第五节 董事会报告
+
+报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。
+
+公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利2.50元（含税），同时以资本公积向全体股东每10股转增4股，合计派发现金红利1.60亿元（含税），占2025年度归属于上市公司股东净利润的17.47%。
+
+公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。
+
+## 第六节 公司治理
+
+报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。
+
+投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。
+
+内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。
+
+## 第七节环境、社会责任和其他公司治理
+
+## 一、环境保护信息
+
+环境信息主要指标
+<table><tr><td rowspan=2 colspan=1>指标综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>3.86</td><td rowspan=1 colspan=1>+21.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>+19.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>42.6</td><td rowspan=1 colspan=1>+15.0%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>1,680</td><td rowspan=1 colspan=1>+35.0%</td></tr></table>
+
+公司持续推进绿色制造：鄂州基地屋顶光伏装机8MW，年发电约880万千瓦时；槟城基地按LEED银级标准建设；单位产品能耗较上一代产线下降12%。
+
+## 二、社会责任
+
+截至报告期末，公司员工总数6,200人，其中研发人员2,050人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。
+
+## 三、公司治理专项情况
+
+报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。
+
+## 第八节 重要事项
+
+重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。
+
+对外担保：报告期内公司为全资子公司皓发（香港）提供不高于1.2亿美元的担保额度，用于境外采购开立信用证，程序合规。
+
+关联交易：报告期内公司日常关联交易合计420万元，主要为向参股硅光代工企业采购少量工程批晶圆，定价公允。
+
+承诺履行情况：公司控股股东、实际控制人及董监高报告期内不存在违反承诺情形。
+
+重大合同：报告期内公司与两家境外客户签订2026-2027年800G/1.6T长期供货框架协议，合计金额约9.6亿美元，已履行信息披露义务。
+
+## 第九节 股份变动及股东情况
+
+## 股份结构(万股)
+
+<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>56,320.0</td><td rowspan=1 colspan=1>88.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>7,680.0</td><td rowspan=1 colspan=1>12.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>64,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>
+
+## 前十大股东持股情况
+
+截至2025年12月31日前十大股东
+<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>皓发控股有限公司</td><td rowspan=1 colspan=1>19.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>武汉光谷产业投资有限公司</td><td rowspan=1 colspan=1>8.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>泓光启辰创业投资基金（有限合伙）</td><td rowspan=1 colspan=1>6.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>5.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金——八组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金一二零二组合</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>鄂商产业升级投资基金</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华安创业板50指数基金</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>皓远共赢员工持股计划</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>57.30%</td><td rowspan=1 colspan=1></td></tr></table>
+
+公司控股股东为皓发控股有限公司，实际控制人为姜泓璟。报告期内控股股东所持股份不存在质押、冻结情形，持股比例未发生变化。
+
+## 第十节 财务报告
+
+## 一、审计意见
+
+公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0402号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。
+
+## 二、合并资产负债表主要项目（摘要）
+
+资产负债表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>16.80</td></tr><tr><td rowspan=1 colspan=1>应收账款</td><td rowspan=1 colspan=1>21.60</td><td rowspan=1 colspan=1>14.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>11.90</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>32.60</td><td rowspan=1 colspan=1>25.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>136.50</td><td rowspan=1 colspan=1>108.60</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>12.40</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>2.60</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>43.10</td><td rowspan=1 colspan=1>30.20</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>64.70</td><td rowspan=1 colspan=1>45.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>71.80</td><td rowspan=1 colspan=1>63.40</td></tr></table>
+
+注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。
+
+## 三、合并利润表主要项目（摘要)
+
+## 利润表主要项目
+
+<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>78.20</td><td rowspan=1 colspan=1>48.90</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>51.77</td><td rowspan=1 colspan=1>33.99</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>10.87</td><td rowspan=1 colspan=1>8.52</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>6.70</td><td rowspan=1 colspan=1>5.10</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>9.16</td><td rowspan=1 colspan=1>5.32</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>8.65</td><td rowspan=1 colspan=1>4.81</td></tr></table>
+
+## 四、合并现金流量表主要项目(摘要)
+
+现金流量表主要项目
+<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-9.80</td><td rowspan=1 colspan=1>-8.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>2.00</td><td rowspan=1 colspan=1>1.50</td></tr></table>
+
+公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。
+
+## 备查文件目录
+
+载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。
+
+载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。
+
+报告期内公开披露过的所有公司文件的正本及公告原稿。
+
+公司2025年年度股东大会会议资料及决议。
+
+(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)

@@ -1,0 +1,335 @@
+{
+  "metainfo": {
+    "sha1": "stock_10007",
+    "company_name": "峰锆功率",
+    "file_name": "【财报】峰锆功率：峰锆功率2025年年度报告.md"
+  },
+  "content": {
+    "chunks": [
+      {
+        "id": 0,
+        "page": 1,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "无锡峰锆功率半导体股份有限公司\n2025年年度报告\n(股票简称：峰锆功率股票代码：605226.SH)(上海证券交易所主板)\n披露日期：2026年3月27日\n公司统一社会信用代码：91320211MA1N8RQ3XB"
+      },
+      {
+        "id": 1,
+        "page": 2,
+        "lines": [
+          1,
+          10
+        ],
+        "text": "重要提示\n一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。\n二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.50元(含税)，合计派发现金红利0.93亿元（含税)，占2025年度归属于上市公司股东净利润的29.52%。该预案尚需提交公司2025年年度股东大会审议。\n三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。\n四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(瀚华审字[2026]第0345号）。\n五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。\n六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。\n七、报告期内，公司不存在违反规定程序对外提供担保的情况。\n八、公司负责人顾定澜、主管会计工作负责人闻天阔及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。\n九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+      },
+      {
+        "id": 2,
+        "page": 3,
+        "lines": [
+          1,
+          13
+        ],
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节 管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录\n目录"
+      },
+      {
+        "id": 3,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "第一节释义\n释义表"
+      },
+      {
+        "id": 4,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、峰锆功率</td><td rowspan=1 colspan=1>指无锡峰锆功率半导体股份有限公司</td></tr><tr><td rowspan=1 colspan=1>IGBT</td><td rowspan=1 colspan=1>指绝缘栅双极型晶体管，用于电力电子系统的功率变换与开关控制</td></tr><tr><td rowspan=1 colspan=1>SiC</td><td rowspan=1 colspan=1>指碳化硅，第三代半导体材料，耐高压、低损耗</td></tr><tr><td rowspan=1 colspan=1>MOSFET</td><td rowspan=1 colspan=1>指金属氧化物半导体场效应晶体管</td></tr><tr><td rowspan=1 colspan=1>车规级</td><td rowspan=1 colspan=1>指满足汽车电子可靠性标准(AEC-Q101等）的产品等级</td></tr><tr><td rowspan=1 colspan=1>8英寸碳化硅产线</td><td rowspan=1 colspan=1>指以6英寸向8英寸升级的碳化硅器件制造产线</td></tr><tr><td rowspan=1 colspan=1>电驱平台</td><td rowspan=1 colspan=1>指新能源汽车集成功率模块供的组合方案，按2025年出货结构推算</td></tr><tr><td rowspan=1 colspan=1>光伏储能</td><td rowspan=1 colspan=1>指光伏发电及储能变流应用场景</td></tr></table>"
+      },
+      {
+        "id": 5,
+        "page": 4,
+        "lines": [
+          1,
+          7
+        ],
+        "text": "第二节 致股东的信\n2025年，功率半导体的国产化从'替代可用'走向'替代好用'。峰锆功率全年实现营业收入28.60亿元，同比增长23.8%；归母净利润3.15亿元，同比增长38.2%。SiC MOSFET收入接近翻倍，车规收入占比首次过半。\n这一年，我们迎来了两个里程碑：一是8英寸碳化硅产线完成通线并进入批量爬坡，单位芯片成本较6英寸下降约26%；二是与三家头部主机厂签订800V平台电驱用SiC模块的2026-2028年长协，锁定未来三年的产能基本盘。同时，我们在光储场景推出新一代微逆用SiC器件，迈出车规之外的第二增长探索。\n功率器件是能源转换的'关节'。无论电网形态如何演变、汽车动力如何切换，对更高效率功率开关的需求只会更迫切。感谢股东与客户的信任，峰锆人将继续把每一颗器件做到极致。\n董事长：顾定澜2026年3月\n第三节 公司简介和主要财务指标\n一、公司基本情况"
+      },
+      {
+        "id": 6,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "公司基本情况\n<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">无锡峰锆功率半导体股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">峰锆功率</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">605226.SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">上海证券交易所主板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">江苏省无锡市新吴区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2017年6月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">功率半导体器件（IDM)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">顾定澜</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">岑砚秋</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">闻天阔</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">3,400</td></tr></table>"
+      },
+      {
+        "id": 7,
+        "page": 5,
+        "lines": [
+          1,
+          4
+        ],
+        "text": "二、公司历史沿革\n公司成立于2009年，总部位于江苏无锡，是覆盖芯片设计、晶圆制造、模块封测的功率半导体IDM企业。公司2017年6月在上海证券交易所主板上市。\n公司建有6英寸IGBT产线（月产能6万片6英寸约当）及8英寸碳化硅产线(2025年10月通线，规划月产能1万片），功率模块年封装能力4,200万只。产品应用于新能源汽车、光伏储能、工业控制与家电变频等场景。\n三、主要会计数据和财务指标"
+      },
+      {
+        "id": 8,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "近三年主要会计数据和财务指标\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入 (亿元)</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>23.10</td><td rowspan=1 colspan=1>+23.8%</td><td rowspan=1 colspan=1>19.50</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>3.15</td><td rowspan=1 colspan=1>2.28</td><td rowspan=1 colspan=1>+38.2%</td><td rowspan=1 colspan=1>1.72</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>2.86</td><td rowspan=1 colspan=1>2.03</td><td rowspan=1 colspan=1>+40.9%</td><td rowspan=1 colspan=1>1.51</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>+19.5%</td><td rowspan=1 colspan=1>3.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.51</td><td rowspan=1 colspan=1>0.37</td><td rowspan=1 colspan=1>+38.2%</td><td rowspan=1 colspan=1>0.28</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>6.70</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>增加1.50个百分点</td><td rowspan=1 colspan=1>4.00</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>76.40</td><td rowspan=1 colspan=1>68.90</td><td rowspan=1 colspan=1>+10.9%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>48.70</td><td rowspan=1 colspan=1>45.30</td><td rowspan=1 colspan=1>+7.5%</td><td rowspan=1 colspan=1>一</td></tr></table>\n注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+      },
+      {
+        "id": 9,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、非经常性损益项目及金额"
+      },
+      {
+        "id": 10,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年非经常性损益项目明细\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>制造业转型升级专项资金</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>废弃资产处置收益等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.29</td><td rowspan=1 colspan=1>占归母净利润比例 9.2%</td></tr></table>\n非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+      },
+      {
+        "id": 11,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、分季度主要财务数据"
+      },
+      {
+        "id": 12,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分季度主要财务数据\n<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">第一季度</td><td colspan=\"1\" rowspan=\"1\">第二季度</td><td colspan=\"1\" rowspan=\"1\">第三季度</td><td colspan=\"1\" rowspan=\"1\">第四季度</td></tr><tr><td colspan=\"1\" rowspan=\"1\">营业收入(亿元)</td><td colspan=\"1\" rowspan=\"1\">6.10</td><td colspan=\"1\" rowspan=\"1\">6.80</td><td colspan=\"1\" rowspan=\"1\">7.50</td><td colspan=\"1\" rowspan=\"1\">8.20</td></tr><tr><td colspan=\"1\" rowspan=\"1\">归属于上市公司股东的净利润（亿元）</td><td colspan=\"1\" rowspan=\"1\">0.61</td><td colspan=\"1\" rowspan=\"1\">0.72</td><td colspan=\"1\" rowspan=\"1\">0.85</td><td colspan=\"1\" rowspan=\"1\">0.97</td></tr></table>"
+      },
+      {
+        "id": 13,
+        "page": 6,
+        "lines": [
+          1,
+          8
+        ],
+        "text": "第四节 管理层讨论与分析\n一、报告期内公司所处行业情况\n2025年，全球功率半导体市场规模约510亿美元，同比增长约9%。新能源汽车800V平台加速渗透碳化硅器件上车率超过25%；光伏储能系统对高压器件需求保持景气。国内市场方面，功率器件国产化率提升至约45%，车规与光储场景的国产替代空间仍然显著。\n行业竞争格局上，海外大厂仍占据车规SiC模块的主导份额，但国内车企出于供应链安全与成本考虑，正加速导入国产模块供应商。具备车规量产数据与8英寸成本优势的企业将在下一阶段竞争中占据先机。\n二、报告期内公司从事的主要业务\n公司主营业务为IGBT、SiCMOSFET等功率半导体器件及模块的研发、制造与销售。公司在无锡建有IGBT与碳化硅两条制造产线，形成'设计-制造-封测'一体化能力；模块端具备银烧结、双面散热等先进封装工艺。\n报告期内，公司车规级产品收入占比达52%，客户覆盖国内主要新能源主机厂与Tier1电驱供应商；光储类收入占比23%，工业变频与家电变频合计占比19%。\n三、营业收入构成及变动分析"
+      },
+      {
+        "id": 14,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分产品/业务收入构成\n<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>IGBT功率模块</td><td rowspan=1 colspan=1>16.59</td><td rowspan=1 colspan=1>58.0%</td><td rowspan=1 colspan=1>24.6%</td><td rowspan=1 colspan=1>+39.5%</td></tr><tr><td rowspan=1 colspan=1>SiC MOSFET及模块</td><td rowspan=1 colspan=1>7.72</td><td rowspan=1 colspan=1>27.0%</td><td rowspan=1 colspan=1>33.4%</td><td rowspan=1 colspan=1>+92.6%</td></tr><tr><td rowspan=1 colspan=1>功率分立器件</td><td rowspan=1 colspan=1>4.29</td><td rowspan=1 colspan=1>15.0%</td><td rowspan=1 colspan=1>18.9%</td><td rowspan=1 colspan=1>-3.1%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>26.8%</td><td rowspan=1 colspan=1>+23.8%</td></tr></table>"
+      },
+      {
+        "id": 15,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "IGBT模块在800V以下平台与新能效标准家电中持续放量，收入16.59亿元；SiC MOSFET及模块受益于800V电驱上量与产线爬坡，收入7.72亿元，同比增长92.6%，毛利率显著高于公司平均；传统分立器件受消费类需求疲弱影响小幅下滑。"
+      },
+      {
+        "id": 16,
+        "page": 6,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年分地区收入构成\n<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>23.45</td><td rowspan=1 colspan=1>82.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>5.15</td><td rowspan=1 colspan=1>18.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>\n注：前五名客户合计销售金额占年度销售总额的44.2%。"
+      },
+      {
+        "id": 17,
+        "page": 6,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、营业成本构成"
+      },
+      {
+        "id": 18,
+        "page": 6,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "营业成本构成（占营业成本比例）\n<table><tr><td colspan=\"1\" rowspan=\"1\">成本项目</td><td colspan=\"1\" rowspan=\"1\">2025年</td><td colspan=\"1\" rowspan=\"1\">2024年</td><td colspan=\"1\" rowspan=\"2\">变动说明8英寸碳化硅薄片导入降低单位成本</td></tr><tr><td colspan=\"1\" rowspan=\"1\">晶圆及原材料</td><td colspan=\"1\" rowspan=\"1\">61.5%</td><td colspan=\"1\" rowspan=\"1\">63.8%</td></tr><tr><td colspan=\"1\" rowspan=\"1\">成本项目</td><td colspan=\"1\" rowspan=\"1\">2025年</td><td colspan=\"1\" rowspan=\"1\">2024年</td><td colspan=\"1\" rowspan=\"1\">变动说明</td></tr><tr><td colspan=\"1\" rowspan=\"1\">封装材料</td><td colspan=\"1\" rowspan=\"1\">18.6%</td><td colspan=\"1\" rowspan=\"1\">17.9%</td><td colspan=\"1\" rowspan=\"1\">银烧结用量增加</td></tr><tr><td colspan=\"1\" rowspan=\"1\">直接人工及制造费用</td><td colspan=\"1\" rowspan=\"1\">19.9%</td><td colspan=\"1\" rowspan=\"1\">18.3%</td><td colspan=\"1\" rowspan=\"1\">产线爬坡期折旧与人员投入增加</td></tr></table>"
+      },
+      {
+        "id": 19,
+        "page": 7,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、期间费用与研发投入"
+      },
+      {
+        "id": 20,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "期间费用变动\n<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.32</td><td rowspan=1 colspan=1>1.15</td><td rowspan=1 colspan=1>+14.8%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.24</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>+12.7%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.42</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>+18.0%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.18</td><td rowspan=1 colspan=1>-0.15</td><td rowspan=1 colspan=1>+20.0%</td></tr></table>"
+      },
+      {
+        "id": 21,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "研发投入方面，公司2025年研发投入合计2.42亿元，占营业收入比例8.5%，其中费用化研发费用2.42亿元、资本化研发投入0.00亿元；研发人员620人，占员工总数比例18.2%。\n六、现金流量情况"
+      },
+      {
+        "id": 22,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "现金流量主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>4.10</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-7.40</td><td rowspan=1 colspan=1>-6.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>-0.40</td></tr></table>"
+      },
+      {
+        "id": 23,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "报告期内经营活动现金流量净额4.90亿元，同比增长19.5%，与净利润匹配度良好；投资活动现金净流出7.40亿元，主要为8英寸碳化硅产线投入：筹资活动净流入1.60亿元，主要来自绿色制造专项贷款\n七、资产及负债项目重大变动"
+      },
+      {
+        "id": 24,
+        "page": 7,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "资产、负债项目重大变动\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>10.60</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>+29.3%</td><td rowspan=1 colspan=1>经营净流入及借款增加</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>9.85</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>+24.7%</td><td rowspan=1 colspan=1>车规长协结算周期所致</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>10.30</td><td rowspan=1 colspan=1>+20.4%</td><td rowspan=1 colspan=1>SiC产线投产后备货增加</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>33.80</td><td rowspan=1 colspan=1>+14.2%</td><td rowspan=1 colspan=1>8英寸碳化硅产线转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>6.10</td><td rowspan=1 colspan=1>-47.5%</td><td rowspan=1 colspan=1>产线建设投入转固</td></tr></table>"
+      },
+      {
+        "id": 25,
+        "page": 7,
+        "lines": [
+          1,
+          4
+        ],
+        "text": "八、公司未来发展的展望\n2026年经营目标：营业收入35亿元左右，同比增长20%以上；SiC产品收入占比提升至30%以上。公司将推动8英寸碳化硅产线在上半年实现满产爬坡，并完成第二款车规主驱SiC模块的AEC认证。\n公司在研的第四代微沟槽IGBT芯片计划于2026年下半年量产，目标饱和压降低12%，进一步巩固家电与工业变频市场的成本优势。\n九、风险因素"
+      },
+      {
+        "id": 26,
+        "page": 8,
+        "lines": [
+          1,
+          18
+        ],
+        "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：\n下游景气波动风险：新能源汽车与光储行业若出现需求回落，功率器件行业可能重新面临价格竞争压力。\n产线爬坡风险：8英寸碳化硅产线良率与产出爬坡存在不确定性，若低于预期将影响SiC交付与单位成本。\n技术替代风险：氮化镓等新材料在中低压场景加速渗透，可能对IGBT部分应用形成替代。\n客户集中风险：公司前五名客户收入占比44.2%，单一客户订单波动对收入影响较大。\n原材料风险：碳化硅衬底价格若大幅波动，将影响成本与库存价值。\n第五节 董事会报告\n报告期内，公司共召开董事会会议8次、监事会会议4次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。\n公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.50元(含税)，合计派发现金红利0.93亿元（含税)，占2025年度归属于上市公司股东净利润的29.52%。\n公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。\n第六节 公司治理\n报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。\n投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。\n内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。\n第七节环境、社会责任和其他公司治理\n一、环境保护信息\n环境信息主要指标\n<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>4.86</td><td rowspan=1 colspan=1>+8.9%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>+7.6%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗(万立方米)</td><td rowspan=1 colspan=1>186.4</td><td rowspan=1 colspan=1>+5.2%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>3,420</td><td rowspan=1 colspan=1>+18.0%</td></tr></table>"
+      },
+      {
+        "id": 27,
+        "page": 9,
+        "lines": [
+          1,
+          12
+        ],
+        "text": "公司作为IDM制造企业，将绿色制造纳入产线规划：8英寸碳化硅产线配套屋顶光伏(装机4.2MW)、中水回用系统，单位芯片耗水量较上一代产线下降19%。报告期内获评国家级绿色工厂。\n二、社会责任\n截至报告期末，公司员工总数3,400人，其中研发人员620人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。\n三、公司治理专项情况\n报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。\n第八节 重要事项\n重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。\n对外担保：报告期内，公司为控股子公司峰锆（南通）半导体提供不超过2亿元的担保额度，均已履行审议程序，实际担保余额0.80亿元。\n关联交易：报告期内日常关联交易主要为向参股公司销售晶圆及采购衬底，合计1,850万元，定价参照市场价格，程序合规。\n承诺履行情况：控股股东及实际控制人报告期内不存在违反承诺的情形。\n重大合同：报告期内公司签订2026-2028年车规SiC模块长期供货协议，合计金额约14.5亿元，已履行信息披露义务。\n第九节 股份变动及股东情况"
+      },
+      {
+        "id": 28,
+        "page": 9,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "股份结构 (万股)\n<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>60,760.0</td><td rowspan=1 colspan=1>98.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>1,240.0</td><td rowspan=1 colspan=1>2.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>62,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+      },
+      {
+        "id": 29,
+        "page": 9,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "前十大股东持股情况"
+      },
+      {
+        "id": 30,
+        "page": 9,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "截至2025年12月31日前十大股东\n<table><tr><td colspan=\"1\" rowspan=\"1\">序号</td><td colspan=\"1\" rowspan=\"1\">股东名称</td><td colspan=\"1\" rowspan=\"1\">持股比例</td><td colspan=\"1\" rowspan=\"1\">股东性质</td></tr><tr><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">峰锆控股集团有限公司</td><td colspan=\"1\" rowspan=\"1\">21.60%</td><td colspan=\"1\" rowspan=\"1\">境内非国有法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">2</td><td colspan=\"1\" rowspan=\"1\">无锡产业发展集团有限公司</td><td colspan=\"1\" rowspan=\"1\">7.40%</td><td colspan=\"1\" rowspan=\"1\">国有法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">3</td><td colspan=\"1\" rowspan=\"1\">国家集成电路产业投资基金二期股份有限公司</td><td colspan=\"1\" rowspan=\"1\">5.20%</td><td colspan=\"1\" rowspan=\"1\">国有法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">4</td><td colspan=\"1\" rowspan=\"1\">香港中央结算有限公司</td><td colspan=\"1\" rowspan=\"1\">3.80%</td><td colspan=\"1\" rowspan=\"1\">境外法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">5</td><td colspan=\"1\" rowspan=\"1\">全国社保基金——五组合</td><td colspan=\"1\" rowspan=\"1\">2.40%</td><td colspan=\"1\" rowspan=\"1\">其他</td></tr><tr><td colspan=\"1\" rowspan=\"1\">6</td><td colspan=\"1\" rowspan=\"1\">泓锝创业投资合伙企业（有限合伙）</td><td colspan=\"1\" rowspan=\"1\">2.20%</td><td colspan=\"1\" rowspan=\"1\">境内非国有法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">7</td><td colspan=\"1\" rowspan=\"1\">基本养老保险基金八零五组合</td><td colspan=\"1\" rowspan=\"1\">1.90%</td><td colspan=\"1\" rowspan=\"1\">其他</td></tr><tr><td colspan=\"1\" rowspan=\"1\">8</td><td colspan=\"1\" rowspan=\"1\">太湖新材料产业投资基金</td><td colspan=\"1\" rowspan=\"1\">1.70%</td><td colspan=\"1\" rowspan=\"1\">境内非国有法人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">9</td><td colspan=\"1\" rowspan=\"1\">中证A500交易型开放式指数基金</td><td colspan=\"1\" rowspan=\"1\">1.60%</td><td colspan=\"1\" rowspan=\"1\">其他</td></tr><tr><td colspan=\"1\" rowspan=\"1\">10</td><td colspan=\"1\" rowspan=\"1\">中国人寿保险股份有限公司 - 传统 - 普通保险产品</td><td colspan=\"1\" rowspan=\"1\">1.30%</td><td colspan=\"1\" rowspan=\"1\">其他</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">前十大股东合计</td><td colspan=\"1\" rowspan=\"1\">49.10%</td><td colspan=\"1\" rowspan=\"1\"></td></tr></table>\n公司控股股东为峰锆控股集团有限公司，实际控制人为顾定澜。报告期内控股股东所持公司股份不存在质押、冻结情形，持股比例未发生变化。"
+      },
+      {
+        "id": 31,
+        "page": 10,
+        "lines": [
+          1,
+          4
+        ],
+        "text": "第十节 财务报告\n一、审计意见\n公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（瀚华审字[2026]第0345号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。\n二、合并资产负债表主要项目（摘要)"
+      },
+      {
+        "id": 32,
+        "page": 10,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "资产负债表主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>10.60</td><td rowspan=1 colspan=1>8.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>9.85</td><td rowspan=1 colspan=1>7.90</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.40</td><td rowspan=1 colspan=1>10.30</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>33.80</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>76.40</td><td rowspan=1 colspan=1>68.90</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>6.40</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.90</td><td rowspan=1 colspan=1>2.10</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>16.60</td><td rowspan=1 colspan=1>15.10</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>27.70</td><td rowspan=1 colspan=1>23.60</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>48.70</td><td rowspan=1 colspan=1>45.30</td></tr></table>\n注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+      },
+      {
+        "id": 33,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "三、合并利润表主要项目(摘要)\n利润表主要项目"
+      },
+      {
+        "id": 34,
+        "page": 10,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>23.10</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>20.94</td><td rowspan=1 colspan=1>17.23</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>4.15</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>2.42</td><td rowspan=1 colspan=1>2.05</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>3.15</td><td rowspan=1 colspan=1>2.28</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>2.86</td><td rowspan=1 colspan=1>2.03</td></tr></table>"
+      },
+      {
+        "id": 35,
+        "page": 11,
+        "lines": [
+          1,
+          10
+        ],
+        "text": "四、合并现金流量表主要项目(摘要)\n现金流量表主要项目\n<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>4.90</td><td rowspan=1 colspan=1>4.10</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-7.40</td><td rowspan=1 colspan=1>-6.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>-0.40</td></tr></table>\n公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。\n备查文件目录\n载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。\n载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。\n·报告期内公开披露过的所有公司文件的正本及公告原稿。\n公司2025年年度股东大会会议资料及决议。\n(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+      }
+    ]
+  }
+}

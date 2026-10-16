@@ -1,0 +1,4846 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8942,
+                "bbox": [
+                    128,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6244,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9678,
+                "bbox": [
+                    388,
+                    395,
+                    1261,
+                    480
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.4821,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    582
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7245,
+                "bbox": [
+                    455,
+                    670,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9342,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1122
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9268,
+                "bbox": [
+                    552,
+                    1156,
+                    1100,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9421,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9272,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    392,
+                    398,
+                    1259,
+                    478
+                ],
+                "score": 1.0,
+                "text": "常州曜锂能源股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    583
+                ],
+                "score": 1.0,
+                "text": "2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.979,
+                "text": "(股票简称：曜锂能源股票代码：688331.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    676,
+                    745,
+                    973,
+                    776
+                ],
+                "score": 0.99,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1119
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月15日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    558,
+                    1163,
+                    1093,
+                    1187
+                ],
+                "score": 0.996,
+                "text": "公司统一社会信用代码：91320412MA1WK5R8JN"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2258
+                ],
+                "score": 0.993,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9406,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8734,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9475,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9754,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.981,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9687,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.973,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9726,
+                "bbox": [
+                    140,
+                    685,
+                    1498,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9488,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9436,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9742,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9705,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9441,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9369,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    313,
+                    1476,
+                    338
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.963,
+                "text": "红利1.80元(含税)，合计派发现金红利1.44亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "19.41%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经瀚华会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.977,
+                "text": "报告（瀚华审字[2026]第0876号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1489,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 0.995,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1489,
+                    958
+                ],
+                "score": 0.993,
+                "text": "八、公司负责人祁昭阳、主管会计工作负责人左书言及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.999,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9485,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8802,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9762,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9296,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.943,
+                "bbox": [
+                    129,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9336,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.952,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.961,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.964,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.98,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9548,
+                "bbox": [
+                    129,
+                    19,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9046,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6262,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    756
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、曜锂能源</td><td rowspan=1 colspan=1>指常州曜锂能源股份有限公司</td></tr><tr><td rowspan=1 colspan=1>大储电芯</td><td rowspan=1 colspan=1>指应用于电力储能系统的方形铝壳磷酸铁锂电池</td></tr><tr><td rowspan=1 colspan=1>587Ah电芯</td><td rowspan=1 colspan=1>指公司第三代大容量储能专用电芯产品</td></tr><tr><td rowspan=1 colspan=1>液冷温控</td><td rowspan=1 colspan=1>指基于液冷板的电池热管理方案</td></tr><tr><td rowspan=1 colspan=1>PACK</td><td rowspan=1 colspan=1>指电池模组与结构件集成的电池包</td></tr><tr><td rowspan=1 colspan=1>构网型储能</td><td rowspan=1 colspan=1>指具备主动支撑电网电压与频率能力的储能系统</td></tr><tr><td rowspan=1 colspan=1>容量保持率</td><td rowspan=1 colspan=1>指电池循环若干次后剩余容量与初始容量的比值</td></tr><tr><td rowspan=1 colspan=1>IEC 62619</td><td rowspan=1 colspan=1>指储能电池安全国际标准</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9644,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    141,
+                    868,
+                    1495,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851,
+                "bbox": [
+                    140,
+                    1026,
+                    1508,
+                    1163
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801,
+                "bbox": [
+                    140,
+                    1184,
+                    1495,
+                    1274
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9544,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1336
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.964,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9525,
+                "bbox": [
+                    142,
+                    1467,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.468,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1570
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9899,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>常州曜锂能源股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>曜锂能源</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688331.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省常州市金坛区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2023年6月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>锂离子储能电池及系统</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>祁昭阳</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>明漱石</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9469,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9397,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    846,
+                    56
+                ],
+                "score": 0.985,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.974,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    871,
+                    1471,
+                    902
+                ],
+                "score": 0.998,
+                "text": "2025年，新型储能从'政策驱动的示范品'变成'电力系统刚需品'。曜锂能源实现营业收入92.60亿元，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    923,
+                    1486,
+                    948
+                ],
+                "score": 0.999,
+                "text": "同比增长29.7%；归母净利润7.42亿元，同比增长41.5%；大储电芯出货量跻身全球前五，587Ah大电芯"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    971,
+                    450,
+                    996
+                ],
+                "score": 1.0,
+                "text": "实现全球首批量产出货。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1034,
+                    1489,
+                    1059
+                ],
+                "score": 0.997,
+                "text": "这一年，行业经历了碳酸锂价格筑底与产能出清的双重考验，公司以'大电芯+长寿命+构网型'的技术"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1081,
+                    1500,
+                    1106
+                ],
+                "score": 1.0,
+                "text": "差构筑护城河：587Ah电芯循环寿命突破12,000次，系统交付成本较上一代下降14%；海外大储收入占比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1129,
+                    654,
+                    1154
+                ],
+                "score": 1.0,
+                "text": "提升至30%，中东、欧洲市场先后破冰。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1192,
+                    1484,
+                    1217
+                ],
+                "score": 0.998,
+                "text": "电力系统的深度脱碳，需要把每一度过剩的风光'存起来、用起来'。2026年，曜锂将围绕下一代大电"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1239,
+                    1381,
+                    1265
+                ],
+                "score": 0.996,
+                "text": "芯量产、构网型系统方案与全球交付网络三条主线展开。感谢客户与股东在周期底部给予的信任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    206,
+                    1298,
+                    562,
+                    1334
+                ],
+                "score": 1.0,
+                "text": "董事长：祁昭阳2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.97,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1466,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1537,
+                    310,
+                    1570
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.936,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.903,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9873,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>左书言</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>瀚华会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>12,600</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    142,
+                    375,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    140,
+                    434,
+                    1507,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782,
+                "bbox": [
+                    141,
+                    545,
+                    1473,
+                    635
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9538,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4615,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>71.40</td><td rowspan=1 colspan=1>+29.7%</td><td rowspan=1 colspan=1>56.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>7.42</td><td rowspan=1 colspan=1>5.24</td><td rowspan=1 colspan=1>+41.6%</td><td rowspan=1 colspan=1>4.65</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>6.85</td><td rowspan=1 colspan=1>4.72</td><td rowspan=1 colspan=1>+45.1%</td><td rowspan=1 colspan=1>4.15</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td><td rowspan=1 colspan=1>+18.2%</td><td rowspan=1 colspan=1>9.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.93</td><td rowspan=1 colspan=1>0.66</td><td rowspan=1 colspan=1>+41.6%</td><td rowspan=1 colspan=1>0.58</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率(%)</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>6.50</td><td rowspan=1 colspan=1>增加1.60个百分点</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>218.50</td><td rowspan=1 colspan=1>186.40</td><td rowspan=1 colspan=1>+17.2%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产(亿元)</td><td rowspan=1 colspan=1>98.30</td><td rowspan=1 colspan=1>84.60</td><td rowspan=1 colspan=1>+16.2%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9549,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9274,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883,
+                "bbox": [
+                    132,
+                    1512,
+                    1521,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.38</td><td rowspan=1 colspan=1>新型储能产业化专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.07</td><td rowspan=1 colspan=1>汇兑收益及资产处置</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>占归母净利润比例 7.7%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9566,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9612,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8292,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9859,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>19.80</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>24.10</td><td rowspan=1 colspan=1>26.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>1.72</td><td rowspan=1 colspan=1>1.98</td><td rowspan=1 colspan=1>2.30</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9471,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.934,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    409,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    442,
+                    1499,
+                    467
+                ],
+                "score": 1.0,
+                "text": "公司成立于2018年，总部位于江苏常州，2023年6月在上海证券交易所科创板上市，是专业从事储能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    489,
+                    973,
+                    515
+                ],
+                "score": 0.999,
+                "text": "锂电池与储能系统研发、制造、销售及运维的国家高新技术企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    551,
+                    1465,
+                    581
+                ],
+                "score": 0.982,
+                "text": "公司建有常州、宜宾两大制造基地，储能电芯规划年产能60GWh(报告期末建成38GWh)；截至"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    597,
+                    1223,
+                    627
+                ],
+                "score": 0.991,
+                "text": "2025年底，累计装机交付超过35GWh，产品通过IEC 62619、UL1973等国际认证。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 1.0,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.988,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9419,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8975,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.554,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    142,
+                    204,
+                    604,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    139,
+                    263,
+                    1496,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.985,
+                "bbox": [
+                    139,
+                    421,
+                    1499,
+                    560
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9544,
+                "bbox": [
+                    141,
+                    589,
+                    637,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    141,
+                    649,
+                    1498,
+                    740
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    140,
+                    760,
+                    1501,
+                    851
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9543,
+                "bbox": [
+                    142,
+                    881,
+                    573,
+                    927
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7174,
+                "bbox": [
+                    143,
+                    951,
+                    497,
+                    988
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    132,
+                    998,
+                    1519,
+                    1274
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>储能电芯</td><td rowspan=1 colspan=1>68.52</td><td rowspan=1 colspan=1>74.0%</td><td rowspan=1 colspan=1>22.8%</td><td rowspan=1 colspan=1>+31.2%</td></tr><tr><td rowspan=1 colspan=1>储能系统集成</td><td rowspan=1 colspan=1>17.59</td><td rowspan=1 colspan=1>19.0%</td><td rowspan=1 colspan=1>27.2%</td><td rowspan=1 colspan=1>+25.4%</td></tr><tr><td rowspan=1 colspan=1>运维及技术服务</td><td rowspan=1 colspan=1>6.49</td><td rowspan=1 colspan=1>7.0%</td><td rowspan=1 colspan=1>39.4%</td><td rowspan=1 colspan=1>+18.6%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>24.6%</td><td rowspan=1 colspan=1>+29.7%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8501,
+                "bbox": [
+                    140,
+                    1283,
+                    1497,
+                    1420
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9508,
+                "bbox": [
+                    142,
+                    1446,
+                    608,
+                    1484
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9816,
+                "bbox": [
+                    230,
+                    1503,
+                    1458,
+                    2043
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8766,
+                "bbox": [
+                    144,
+                    2074,
+                    637,
+                    2108
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7101,
+                "bbox": [
+                    143,
+                    2130,
+                    527,
+                    2166
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9472,
+                "bbox": [
+                    128,
+                    2232,
+                    589,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9322,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    209,
+                    597,
+                    246
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    271,
+                    1482,
+                    296
+                ],
+                "score": 1.0,
+                "text": "2025年，全球新型储能新增装机约190GWh，同比增长超过30%；中国新增装机约110GWh，继续"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    316,
+                    1488,
+                    345
+                ],
+                "score": 1.0,
+                "text": "占据全球半壁江山。大储电芯环节，280Ah向500Ah+切换加速，头部厂商以大容量、长寿命、高安全构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    363,
+                    279,
+                    394
+                ],
+                "score": 1.0,
+                "text": "建差异化。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    429,
+                    1491,
+                    455
+                ],
+                "score": 1.0,
+                "text": "市场结构方面，电网侧独立储能与共享储能占比过半，工商业储能在峰谷价差扩大地区快速放量；海"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    476,
+                    1484,
+                    501
+                ],
+                "score": 0.999,
+                "text": "外方面，美国大储需求稳健，中东、欧洲与新兴市场启动明显。行业从低价竞标'转向'全生命周期度电成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    525,
+                    865,
+                    550
+                ],
+                "score": 0.999,
+                "text": "本'竞争，具备技术差与海外渠道的厂商率先走出价格战。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    627,
+                    630
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    657,
+                    1489,
+                    683
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为储能锂电池、储能系统的研发、制造与销售，并提供储能电站运维等技术服务。产品"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    702,
+                    1125,
+                    730
+                ],
+                "score": 1.0,
+                "text": "覆盖587Ah及280Ah系列大储电芯、液冷集装箱式储能系统及工商业一体柜。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    768,
+                    1493,
+                    794
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司587Ah电芯一季度全球首批量产，带动储能电芯均价体系企稳回升；构网型储能系统"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    816,
+                    831,
+                    841
+                ],
+                "score": 0.999,
+                "text": "在三个电网侧项目中投运，海外收入占比提升至30%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    886,
+                    566,
+                    924
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    954,
+                    492,
+                    986
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1286,
+                    1491,
+                    1316
+                ],
+                "score": 1.0,
+                "text": "储能电芯收入68.52亿元，同比增长31.2%，587Ah产品出货占比逐季提升至Q4的42%；储能系统集"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1337,
+                    1453,
+                    1362
+                ],
+                "score": 0.999,
+                "text": "成收入17.59亿元，同比增长25.4%，构网型系统成为投标差异化亮点；运维及技术服务收入6.49亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1384,
+                    506,
+                    1409
+                ],
+                "score": 0.989,
+                "text": "随累计装机扩大而加速增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1453,
+                    601,
+                    1478
+                ],
+                "score": 0.998,
+                "text": "图1：2025年分季度营业收入及毛利率"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2082,
+                    628,
+                    2103
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2025年年度报告，经审计数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2136,
+                    520,
+                    2162
+                ],
+                "score": 0.998,
+                "text": "图2：2025年电芯出货应用结构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2258
+                ],
+                "score": 0.992,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6732,
+                "bbox": [
+                    129,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9048,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9695,
+                "bbox": [
+                    156,
+                    108,
+                    882,
+                    504
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9201,
+                "bbox": [
+                    145,
+                    560,
+                    492,
+                    594
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9234,
+                "bbox": [
+                    145,
+                    617,
+                    431,
+                    651
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9847,
+                "bbox": [
+                    133,
+                    661,
+                    1521,
+                    886
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>64.82</td><td rowspan=1 colspan=1>70.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>27.78</td><td rowspan=1 colspan=1>30.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9528,
+                "bbox": [
+                    142,
+                    897,
+                    727,
+                    933
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    144,
+                    960,
+                    412,
+                    1003
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9285,
+                "bbox": [
+                    145,
+                    1028,
+                    534,
+                    1066
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    132,
+                    1075,
+                    1520,
+                    1414
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>正负极材料</td><td rowspan=1 colspan=1>38.6%</td><td rowspan=1 colspan=1>40.2%</td><td rowspan=1 colspan=1>碳酸锂价格筑底回落</td></tr><tr><td rowspan=1 colspan=1>电解液及隔膜</td><td rowspan=1 colspan=1>21.5%</td><td rowspan=1 colspan=1>22.8%</td><td rowspan=1 colspan=1>集采长协降价</td></tr><tr><td rowspan=1 colspan=1>结构件及辅材</td><td rowspan=1 colspan=1>16.8%</td><td rowspan=1 colspan=1>15.9%</td><td rowspan=1 colspan=1>大电芯结构件用量优化</td></tr><tr><td rowspan=1 colspan=1>折旧及制造费用</td><td rowspan=1 colspan=1>14.6%</td><td rowspan=1 colspan=1>13.0%</td><td rowspan=1 colspan=1>宜宾基地转固</td></tr><tr><td rowspan=1 colspan=1>能源及人工</td><td rowspan=1 colspan=1>8.5%</td><td rowspan=1 colspan=1>8.1%</td><td rowspan=1 colspan=1>产能利用率提升</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9597,
+                "bbox": [
+                    143,
+                    1444,
+                    506,
+                    1487
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9075,
+                "bbox": [
+                    144,
+                    1513,
+                    313,
+                    1549
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9854,
+                "bbox": [
+                    133,
+                    1558,
+                    1520,
+                    1837
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>+23.9%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.78</td><td rowspan=1 colspan=1>+15.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>4.95</td><td rowspan=1 colspan=1>4.02</td><td rowspan=1 colspan=1>+23.1%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>-5.6%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5834,
+                "bbox": [
+                    140,
+                    1845,
+                    1488,
+                    1934
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.956,
+                "bbox": [
+                    142,
+                    1967,
+                    412,
+                    2010
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7323,
+                "bbox": [
+                    143,
+                    2037,
+                    365,
+                    2072
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9436,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9307,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    844,
+                    56
+                ],
+                "score": 0.988,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    567,
+                    488,
+                    591
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    618,
+                    428,
+                    650
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    904,
+                    722,
+                    926
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的49.5%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    959,
+                    407,
+                    1004
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1035,
+                    527,
+                    1061
+                ],
+                "score": 0.962,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1450,
+                    499,
+                    1483
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1517,
+                    308,
+                    1546
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1848,
+                    1481,
+                    1878
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计5.10亿元，占营业收入比例5.5%，其中费用化研发费用4.95亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1898,
+                    1105,
+                    1923
+                ],
+                "score": 0.999,
+                "text": "元、资本化研发投入0.15亿元；研发人员2,450人，占员工总数比例19.4%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1971,
+                    405,
+                    2009
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2040,
+                    360,
+                    2068
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第7页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9167,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9052,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    341
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-24.80</td><td rowspan=1 colspan=1>-19.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>5.60</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9559,
+                "bbox": [
+                    140,
+                    349,
+                    1486,
+                    485
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    142,
+                    518,
+                    572,
+                    561
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4897,
+                "bbox": [
+                    142,
+                    587,
+                    446,
+                    623
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    632,
+                    1520,
+                    972
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>22.40</td><td rowspan=1 colspan=1>+27.7%</td><td rowspan=1 colspan=1>经营积累及定增资金</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>+26.8%</td><td rowspan=1 colspan=1>Q4系统交付确认增加</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>26.40</td><td rowspan=1 colspan=1>21.80</td><td rowspan=1 colspan=1>+21.1%</td><td rowspan=1 colspan=1>海外订单备产</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>86.50</td><td rowspan=1 colspan=1>72.40</td><td rowspan=1 colspan=1>+19.5%</td><td rowspan=1 colspan=1>宜宾基地二期转固</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>18.20</td><td rowspan=1 colspan=1>-30.8%</td><td rowspan=1 colspan=1>宜宾三期建设推进</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9612,
+                "bbox": [
+                    142,
+                    1003,
+                    510,
+                    1046
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    142,
+                    1061,
+                    1490,
+                    1149
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    1172,
+                    1493,
+                    1262
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9529,
+                "bbox": [
+                    142,
+                    1294,
+                    350,
+                    1337
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    141,
+                    1352,
+                    1074,
+                    1393
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    197,
+                    1416,
+                    1333,
+                    1458
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9616,
+                "bbox": [
+                    198,
+                    1481,
+                    1072,
+                    1521
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9625,
+                "bbox": [
+                    198,
+                    1544,
+                    1216,
+                    1586
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9606,
+                "bbox": [
+                    199,
+                    1608,
+                    1043,
+                    1650
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9594,
+                "bbox": [
+                    199,
+                    1671,
+                    1217,
+                    1713
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9613,
+                "bbox": [
+                    142,
+                    1760,
+                    467,
+                    1807
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792,
+                "bbox": [
+                    140,
+                    1830,
+                    1491,
+                    1920
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823,
+                "bbox": [
+                    141,
+                    1941,
+                    1484,
+                    2076
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.947,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9313,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    355,
+                    1476,
+                    380
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额15.60亿元，同比增长18.2%，销售回款与票据结构改善；投资活动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    402,
+                    1474,
+                    427
+                ],
+                "score": 1.0,
+                "text": "净流出24.80亿元，集中于宜宾基地产能建设；筹资活动净流入8.20亿元，主要为2025年5月向特定对象"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    449,
+                    536,
+                    475
+                ],
+                "score": 1.0,
+                "text": "发行股票募集资金及项目贷款"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    518,
+                    565,
+                    558
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    589,
+                    440,
+                    621
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1007,
+                    501,
+                    1042
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1068,
+                    1481,
+                    1093
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入115亿元左右，同比增长24%左右；宜宾基地电芯年产能提升至46GWh"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1114,
+                    596,
+                    1143
+                ],
+                "score": 1.0,
+                "text": "，海外大储收入占比达到35%以上。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1177,
+                    1487,
+                    1207
+                ],
+                "score": 1.0,
+                "text": "技术层面，公司将推进625Ah+下一代大电芯的样品开发与客户验证，构网型储能系统完成海外标准"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1227,
+                    756,
+                    1253
+                ],
+                "score": 0.997,
+                "text": "认证，并启动储能电站'电池银行'商业模式试点。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1295,
+                    344,
+                    1338
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1359,
+                    1063,
+                    1386
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1421,
+                    1326,
+                    1453
+                ],
+                "score": 1.0,
+                "text": "行业价格竞争风险：储能电芯环节若再度出现产能过剩与低价竞争，将压制毛利率修复。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1488,
+                    1061,
+                    1514
+                ],
+                "score": 0.999,
+                "text": "原材料价格风险：碳酸锂价格若大幅反弹，成本端压力将重新显现。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1552,
+                    1208,
+                    1578
+                ],
+                "score": 1.0,
+                "text": "海外政策风险：海外市场贸易政策与本地化要求变化可能影响出口与项目交付。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1616,
+                    1034,
+                    1642
+                ],
+                "score": 0.997,
+                "text": "安全风险：储能电站安全事故可能引发行业监管收紧与信任波动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1679,
+                    1206,
+                    1705
+                ],
+                "score": 1.0,
+                "text": "应收账款风险：系统集成业务回款周期较长，应收账款规模随收入增长而上升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1750,
+                    464,
+                    1808
+                ],
+                "score": 0.981,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1835,
+                    1485,
+                    1866
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1885,
+                    1147,
+                    1911
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1947,
+                    1477,
+                    1976
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1997,
+                    1411,
+                    2022
+                ],
+                "score": 0.962,
+                "text": "1.80元(含税)，合计派发现金红利1.44亿元(含税），占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2039,
+                    265,
+                    2073
+                ],
+                "score": 0.983,
+                "text": "19.41%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9542,
+                "bbox": [
+                    128,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8898,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9859,
+                "bbox": [
+                    140,
+                    122,
+                    1511,
+                    259
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9625,
+                "bbox": [
+                    142,
+                    304,
+                    431,
+                    352
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    139,
+                    374,
+                    1504,
+                    559
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9794,
+                "bbox": [
+                    140,
+                    580,
+                    1498,
+                    670
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.974,
+                "bbox": [
+                    140,
+                    691,
+                    1500,
+                    780
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9645,
+                "bbox": [
+                    141,
+                    825,
+                    805,
+                    875
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    141,
+                    908,
+                    413,
+                    951
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4653,
+                "bbox": [
+                    142,
+                    976,
+                    369,
+                    1014
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    131,
+                    1024,
+                    1520,
+                    1299
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=2 colspan=1>指标综合能耗（万吨标准煤）</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>+12.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>+10.8%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>186.2</td><td rowspan=1 colspan=1>+9.4%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>9,860</td><td rowspan=1 colspan=1>+28.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5882,
+                "bbox": [
+                    140,
+                    1308,
+                    1497,
+                    1398
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9496,
+                "bbox": [
+                    142,
+                    1429,
+                    350,
+                    1474
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9733,
+                "bbox": [
+                    140,
+                    1488,
+                    1505,
+                    1580
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.955,
+                "bbox": [
+                    142,
+                    1610,
+                    479,
+                    1655
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9774,
+                "bbox": [
+                    139,
+                    1669,
+                    1499,
+                    1759
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9616,
+                "bbox": [
+                    142,
+                    1803,
+                    432,
+                    1852
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9591,
+                "bbox": [
+                    198,
+                    1875,
+                    1042,
+                    1916
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9598,
+                "bbox": [
+                    199,
+                    1938,
+                    809,
+                    1979
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9761,
+                "bbox": [
+                    140,
+                    2003,
+                    1500,
+                    2092
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9437,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9376,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    127,
+                    1500,
+                    155
+                ],
+                "score": 0.982,
+                "text": "公司2025年度财务报告审计机构为瀚华会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    173,
+                    1501,
+                    204
+                ],
+                "score": 0.988,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘瀚华会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    225,
+                    617,
+                    250
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    299,
+                    426,
+                    354
+                ],
+                "score": 0.971,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    382,
+                    1490,
+                    407
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    429,
+                    1496,
+                    455
+                ],
+                "score": 0.999,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    475,
+                    1488,
+                    501
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    524,
+                    467,
+                    550
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    588,
+                    1489,
+                    613
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    635,
+                    1223,
+                    661
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    696,
+                    1491,
+                    725
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    744,
+                    333,
+                    774
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    829,
+                    796,
+                    871
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    911,
+                    407,
+                    952
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    983,
+                    361,
+                    1009
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1311,
+                    1489,
+                    1341
+                ],
+                "score": 1.0,
+                "text": "公司把电池全生命周期管理纳入ESG治理：宜宾基地获评国家级绿色工厂，绿电使用比例达36%；退"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    1362,
+                    1266,
+                    1387
+                ],
+                "score": 1.0,
+                "text": "役电池梯次利用中试线投运，产品碳足迹完成第三方核查并进入国际客户采购评估体系。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1430,
+                    348,
+                    1477
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1496,
+                    1483,
+                    1522
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司员工总数12,600人，其中研发人员2,450人。报告期内公司持续完善职业发展通道与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1543,
+                    1497,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1615,
+                    470,
+                    1652
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1677,
+                    1490,
+                    1702
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1724,
+                    1029,
+                    1750
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1803,
+                    425,
+                    1852
+                ],
+                "score": 0.96,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1882,
+                    1033,
+                    1909
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1946,
+                    801,
+                    1973
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2011,
+                    1491,
+                    2036
+                ],
+                "score": 0.999,
+                "text": "关联交易：报告期内公司与控股股东下属绿色能源电站项目公司销售储能系统2.15亿元，按市场价定"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2055,
+                    422,
+                    2084
+                ],
+                "score": 1.0,
+                "text": "价，程序合规并披露。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    583,
+                    2259
+                ],
+                "score": 0.992,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第9页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9563,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8889,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788,
+                "bbox": [
+                    142,
+                    122,
+                    1508,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9539,
+                "bbox": [
+                    199,
+                    233,
+                    1491,
+                    274
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9597,
+                "bbox": [
+                    142,
+                    321,
+                    617,
+                    369
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5592,
+                "bbox": [
+                    143,
+                    396,
+                    350,
+                    432
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.986,
+                "bbox": [
+                    132,
+                    442,
+                    1520,
+                    668
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>77,600.0</td><td rowspan=1 colspan=1>97.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>2,400.0</td><td rowspan=1 colspan=1>3.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>80,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9491,
+                "bbox": [
+                    143,
+                    700,
+                    444,
+                    742
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5975,
+                "bbox": [
+                    143,
+                    768,
+                    550,
+                    803
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9844,
+                "bbox": [
+                    131,
+                    811,
+                    1521,
+                    1492
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>曜新能源集团有限公司</td><td rowspan=1 colspan=1>22.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>常州金沙科技投资有限公司</td><td rowspan=1 colspan=1>8.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>6.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>泓储绿能产业基金（有限合伙）</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金——三组合</td><td rowspan=1 colspan=1>3.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>基本养老保险基金八零七组合</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>招商上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>中国人寿保险- 传统 - 普通保险产品</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>曜芯骨干员工持股计划</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>56.40%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.7774,
+                "bbox": [
+                    141,
+                    1496,
+                    1478,
+                    1583
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9583,
+                "bbox": [
+                    142,
+                    1629,
+                    430,
+                    1679
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9456,
+                "bbox": [
+                    142,
+                    1713,
+                    350,
+                    1755
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    139,
+                    1770,
+                    1509,
+                    1954
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9521,
+                "bbox": [
+                    142,
+                    1986,
+                    680,
+                    2031
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5842,
+                "bbox": [
+                    143,
+                    2056,
+                    393,
+                    2093
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9442,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9381,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    128,
+                    1501,
+                    157
+                ],
+                "score": 1.0,
+                "text": "承诺履行情况：公司控股股东、实际控制人及董监高报告期内不存在违反承诺情形；2025年定增限售"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    174,
+                    365,
+                    203
+                ],
+                "score": 1.0,
+                "text": "承诺正常履行中。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    239,
+                    1484,
+                    268
+                ],
+                "score": 1.0,
+                "text": "重大合同：报告期内公司中标中东某电网侧储能项目，合同金额约2.4亿美元，已履行信息披露义务。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    323,
+                    611,
+                    367
+                ],
+                "score": 0.979,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    398,
+                    346,
+                    432
+                ],
+                "score": 0.932,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    704,
+                    436,
+                    739
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    773,
+                    545,
+                    801
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1500,
+                    1470,
+                    1529
+                ],
+                "score": 0.995,
+                "text": "公司控股股东为曜新能源集团有限公司，实际控制人为祁昭阳。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1544,
+                    280,
+                    1580
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1621,
+                    427,
+                    1680
+                ],
+                "score": 0.974,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1712,
+                    344,
+                    1757
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1778,
+                    1496,
+                    1803
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经瀚华会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1825,
+                    1499,
+                    1850
+                ],
+                "score": 0.989,
+                "text": "意见（瀚华审字[2026]第0876号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1872,
+                    1489,
+                    1898
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1917,
+                    277,
+                    1948
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1990,
+                    671,
+                    2027
+                ],
+                "score": 0.965,
+                "text": "二、合并资产负债表主要项目（摘要）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2061,
+                    386,
+                    2089
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1523,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9211,
+                "bbox": [
+                    129,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.884,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    131,
+                    119,
+                    1522,
+                    740
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初（亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>28.60</td><td rowspan=1 colspan=1>22.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及应收票据</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>24.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>26.40</td><td rowspan=1 colspan=1>21.80</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>86.50</td><td rowspan=1 colspan=1>72.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>218.50</td><td rowspan=1 colspan=1>186.40</td></tr><tr><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>18.40</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>85.80</td><td rowspan=1 colspan=1>74.90</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>120.20</td><td rowspan=1 colspan=1>101.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>98.30</td><td rowspan=1 colspan=1>84.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.942,
+                "bbox": [
+                    141,
+                    752,
+                    1203,
+                    787
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9575,
+                "bbox": [
+                    143,
+                    815,
+                    616,
+                    859
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4607,
+                "bbox": [
+                    144,
+                    885,
+                    337,
+                    920
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9893,
+                "bbox": [
+                    132,
+                    929,
+                    1521,
+                    1324
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>92.60</td><td rowspan=1 colspan=1>71.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>69.82</td><td rowspan=1 colspan=1>54.62</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>11.68</td><td rowspan=1 colspan=1>9.82</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>4.95</td><td rowspan=1 colspan=1>4.02</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>7.42</td><td rowspan=1 colspan=1>5.24</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>6.85</td><td rowspan=1 colspan=1>4.72</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9566,
+                "bbox": [
+                    143,
+                    1357,
+                    680,
+                    1400
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7801,
+                "bbox": [
+                    143,
+                    1426,
+                    390,
+                    1461
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9862,
+                "bbox": [
+                    133,
+                    1470,
+                    1520,
+                    1691
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>15.60</td><td rowspan=1 colspan=1>13.20</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-24.80</td><td rowspan=1 colspan=1>-19.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>8.20</td><td rowspan=1 colspan=1>5.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9359,
+                "bbox": [
+                    141,
+                    1700,
+                    1497,
+                    1788
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.957,
+                "bbox": [
+                    144,
+                    1834,
+                    382,
+                    1882
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9598,
+                "bbox": [
+                    143,
+                    1905,
+                    1265,
+                    1945
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9623,
+                "bbox": [
+                    143,
+                    1969,
+                    1130,
+                    2010
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.96,
+                "bbox": [
+                    144,
+                    2032,
+                    887,
+                    2073
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9568,
+                "bbox": [
+                    144,
+                    2096,
+                    721,
+                    2137
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9448,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9407,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    844,
+                    56
+                ],
+                "score": 0.988,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    758,
+                    1195,
+                    778
+                ],
+                "score": 0.998,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    820,
+                    608,
+                    855
+                ],
+                "score": 0.954,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    887,
+                    333,
+                    917
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1361,
+                    672,
+                    1395
+                ],
+                "score": 0.962,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1431,
+                    385,
+                    1456
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1703,
+                    1491,
+                    1732
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1748,
+                    308,
+                    1784
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1826,
+                    379,
+                    1884
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1909,
+                    1260,
+                    1943
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1976,
+                    1120,
+                    2002
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2040,
+                    878,
+                    2067
+                ],
+                "score": 1.0,
+                "text": "报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2101,
+                    715,
+                    2134
+                ],
+                "score": 1.0,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.978,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8639,
+                "bbox": [
+                    128,
+                    20,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8299,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9312,
+                "bbox": [
+                    158,
+                    122,
+                    826,
+                    155
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9413,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2263
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9262,
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2263
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.99,
+                "text": "常州曜锂能源股份有限公司（688331.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    127,
+                    818,
+                    151
+                ],
+                "score": 0.994,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "常州曜锂能源股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2234,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第12页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

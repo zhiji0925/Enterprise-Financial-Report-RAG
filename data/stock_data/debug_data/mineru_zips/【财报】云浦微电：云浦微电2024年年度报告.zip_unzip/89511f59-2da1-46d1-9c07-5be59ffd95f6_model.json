@@ -1,0 +1,5249 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8784,
+                "bbox": [
+                    129,
+                    19,
+                    635,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8929,
+                "bbox": [
+                    1345,
+                    24,
+                    1523,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7223,
+                "bbox": [
+                    677,
+                    538,
+                    975,
+                    621
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6774,
+                "bbox": [
+                    683,
+                    678,
+                    968,
+                    724
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9439,
+                "bbox": [
+                    456,
+                    828,
+                    1195,
+                    876
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9384,
+                "bbox": [
+                    625,
+                    1237,
+                    1024,
+                    1278
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9375,
+                "bbox": [
+                    130,
+                    2232,
+                    396,
+                    2263
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9264,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.988,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1343,
+                    24,
+                    1524,
+                    55
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    673,
+                    534,
+                    979,
+                    625
+                ],
+                "score": 1.0,
+                "text": "云浦微电"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    686,
+                    679,
+                    966,
+                    725
+                ],
+                "score": 1.0,
+                "text": "2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    463,
+                    834,
+                    1189,
+                    870
+                ],
+                "score": 0.986,
+                "text": "(股票简称：云浦微电股票代码：688586.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    631,
+                    1240,
+                    1017,
+                    1275
+                ],
+                "score": 1.0,
+                "text": "披露日期：2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第1页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9548,
+                "bbox": [
+                    129,
+                    19,
+                    635,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9395,
+                "bbox": [
+                    1345,
+                    24,
+                    1522,
+                    53
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9688,
+                "bbox": [
+                    143,
+                    207,
+                    592,
+                    558
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9264,
+                "bbox": [
+                    782,
+                    123,
+                    874,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.936,
+                "bbox": [
+                    130,
+                    2232,
+                    396,
+                    2263
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9264,
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2263
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.988,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    216,
+                    370,
+                    245
+                ],
+                "score": 1.0,
+                "text": "第一节公司简介"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    276,
+                    585,
+                    306
+                ],
+                "score": 1.0,
+                "text": "第二节主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    337,
+                    494,
+                    367
+                ],
+                "score": 0.97,
+                "text": "第三节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    400,
+                    372,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第四节重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    460,
+                    371,
+                    488
+                ],
+                "score": 1.0,
+                "text": "第五节风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    520,
+                    433,
+                    551
+                ],
+                "score": 1.0,
+                "text": "第六节财务报表摘要"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    875,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2234,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第2页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9412,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9305,
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9559,
+                "bbox": [
+                    142,
+                    123,
+                    429,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877,
+                "bbox": [
+                    140,
+                    194,
+                    1508,
+                    426
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836,
+                "bbox": [
+                    140,
+                    446,
+                    1507,
+                    586
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9475,
+                "bbox": [
+                    142,
+                    610,
+                    608,
+                    646
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9869,
+                "bbox": [
+                    132,
+                    656,
+                    1519,
+                    939
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品线</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>核心应用场景</td></tr><tr><td rowspan=1 colspan=1>CCP刻蚀设备</td><td rowspan=1 colspan=1>52%</td><td rowspan=1 colspan=1>46%</td><td rowspan=1 colspan=1>介质刻蚀、硬掩模打开、高深宽比</td></tr><tr><td rowspan=1 colspan=1>ICP刻蚀设备</td><td rowspan=1 colspan=1>28%</td><td rowspan=1 colspan=1>46%</td><td rowspan=1 colspan=1>硅/金属刻蚀、浅槽隔离、栅极</td></tr><tr><td rowspan=1 colspan=1>薄膜沉积设备(PECVD/ALD）</td><td rowspan=1 colspan=1>12%</td><td rowspan=1 colspan=1>40%</td><td rowspan=1 colspan=1>介电层与金属沉积配套</td></tr><tr><td rowspan=1 colspan=1>先进封装及备件服务</td><td rowspan=1 colspan=1>8%</td><td rowspan=1 colspan=1>55%</td><td rowspan=1 colspan=1>TSV刻蚀、装机后服务与备件</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9396,
+                "bbox": [
+                    145,
+                    950,
+                    367,
+                    983
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    140,
+                    1006,
+                    1500,
+                    1190
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9457,
+                "bbox": [
+                    142,
+                    1216,
+                    515,
+                    1253
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876,
+                "bbox": [
+                    133,
+                    1262,
+                    1520,
+                    1544
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>子公司名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>注册资本(亿元)</td><td rowspan=1 colspan=1>主要业务</td></tr><tr><td rowspan=1 colspan=1>苏州云浦装备制造有限公司</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>3.0</td><td rowspan=1 colspan=1>刻蚀与薄膜设备总装、调试与交付</td></tr><tr><td rowspan=1 colspan=1>云浦微电（南通）装备有限公司</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>5.0</td><td rowspan=1 colspan=1>南通产业化基地建设与运营主体</td></tr><tr><td rowspan=1 colspan=1>云浦半导体零部件(苏州)有限公司</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>射频电源、静电卡盘等核心零部件自产</td></tr><tr><td rowspan=1 colspan=1>云浦国际贸易（上海）有限公司</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>0.3</td><td rowspan=1 colspan=1>海外采购、销售与备件服务</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9428,
+                "bbox": [
+                    145,
+                    1555,
+                    494,
+                    1588
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9865,
+                "bbox": [
+                    139,
+                    1610,
+                    1502,
+                    1795
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9877,
+                "bbox": [
+                    139,
+                    1816,
+                    1506,
+                    2050
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9751,
+                "bbox": [
+                    141,
+                    2069,
+                    1499,
+                    2160
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9356,
+                "bbox": [
+                    129,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9317,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.987,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1525,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    118,
+                    426,
+                    174
+                ],
+                "score": 0.947,
+                "text": "第一节 公司简介"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    200,
+                    1434,
+                    226
+                ],
+                "score": 0.992,
+                "text": "云浦微电子装备股份有限公司（证券简称：云浦微电，代码688586.SH，以下简称“公司”）成立于"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    246,
+                    1500,
+                    274
+                ],
+                "score": 0.988,
+                "text": "2011年，总部位于上海，生产基地位于苏州与南通，是国内刻蚀设备领军企业之一（国产刻蚀双雄）。公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    297,
+                    1475,
+                    322
+                ],
+                "score": 0.982,
+                "text": "司专注提供高端刻蚀及配套薄膜沉积设备，产品覆盖CCP（电容耦合等离子体）与ICP（电感耦合等离子"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    340,
+                    1475,
+                    371
+                ],
+                "score": 0.995,
+                "text": "体）两大刻蚀技术路线，并延伸至PECVD/ALD薄膜沉积设备与先进封装TSV刻蚀设备，服务国内头部晶"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    389,
+                    925,
+                    418
+                ],
+                "score": 0.968,
+                "text": "圆代工、存储与特色工艺12英寸产线(以下客户范围泛称）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    451,
+                    1497,
+                    480
+                ],
+                "score": 0.993,
+                "text": "截至2024年12月31日，公司注册资本4.28亿元(其中无限售条件流通股2.85亿股)，员工总数约3,800人"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    501,
+                    1496,
+                    526
+                ],
+                "score": 1.0,
+                "text": "，其中研发人员占比约42%。公司累计装机刻蚀设备超过2,300台，累计获得授权专利2,400余件。公司董"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    549,
+                    1149,
+                    574
+                ],
+                "score": 1.0,
+                "text": "事长为唐启荣先生，总经理为顾晓峰先生，董事会秘书兼财务总监为廖雪女士。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    614,
+                    599,
+                    643
+                ],
+                "score": 1.0,
+                "text": "表1：公司产品矩阵与2024年收入结构"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    955,
+                    363,
+                    980
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司公告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1014,
+                    1462,
+                    1039
+                ],
+                "score": 0.983,
+                "text": "公司控股股东与子公司情况：截至2024年12月31日，控股股东上海云浦创业投资合伙企业(有限合伙）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1058,
+                    1486,
+                    1083
+                ],
+                "score": 0.993,
+                "text": "直接持有公司21.8%股份，公司无实际控制人；控股股东所持股份不存在质押、冻结情形，报告期内不存"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1107,
+                    1489,
+                    1132
+                ],
+                "score": 1.0,
+                "text": "在控股股东及其关联方资金占用与违规担保。公司主要控股子公司均为全资平台，围绕整机制造、新基地"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1154,
+                    656,
+                    1179
+                ],
+                "score": 1.0,
+                "text": "建设、核心零部件自产与海外业务布局："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1223,
+                    508,
+                    1247
+                ],
+                "score": 0.999,
+                "text": "表2：主要控股参股子公司情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1560,
+                    488,
+                    1584
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1618,
+                    1494,
+                    1643
+                ],
+                "score": 0.981,
+                "text": "公司治理结构规范，董事会由9名董事组成（含3名独立董事），下设审计、薪酬与考核、战略等专门委员"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1664,
+                    1473,
+                    1689
+                ],
+                "score": 0.984,
+                "text": "会，报告期内信息披露考评保持A级；报告期内公司完成员工持股计划第一期授予，覆盖核心骨于约600"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1713,
+                    1482,
+                    1738
+                ],
+                "score": 0.984,
+                "text": "人。公司质量管理体系通过ISO9001与IATF相关认证，产品平均无故障时间(MTBF）达到国际同业先进"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1756,
+                    225,
+                    1790
+                ],
+                "score": 1.0,
+                "text": "水平。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1823,
+                    1499,
+                    1848
+                ],
+                "score": 0.991,
+                "text": "经营模式：公司采用直销模式销售整机设备，按“合同签订一预收进度款一排产生产一发货安装一工艺验"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1867,
+                    1495,
+                    1899
+                ],
+                "score": 0.999,
+                "text": "证一客户验收”的流程确认收入；对已装机客户提供备件销售、维保改造与驻场工艺支持等衍生服务，服"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1918,
+                    1489,
+                    1943
+                ],
+                "score": 1.0,
+                "text": "务收入随装机存量滚动增长。采购方面，公司建立以国产为主、进口为辅的供应链体系，对射频电源、静"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1966,
+                    1487,
+                    1991
+                ],
+                "score": 1.0,
+                "text": "电卡盘等核心零部件实施自研自产，对真空泵、高端传感器等暂以境外品牌与国产双源并行策略保障交付"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2014,
+                    803,
+                    2039
+                ],
+                "score": 1.0,
+                "text": "连续性，报告期内国产零部件采购金额占比约58%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2074,
+                    1485,
+                    2104
+                ],
+                "score": 1.0,
+                "text": "员工情况：截至2024年12月31日，公司在职员工3,800人，其中研发人员1,596人、生产与装配调试人员"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2122,
+                    1490,
+                    2152
+                ],
+                "score": 0.999,
+                "text": "1,178人、销售与售后服务人员608人、管理人员及其他418人；硕士及以上学历占比31.5%，国家级与省"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9431,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9331,
+                "bbox": [
+                    1344,
+                    23,
+                    1522,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9585,
+                "bbox": [
+                    141,
+                    122,
+                    1515,
+                    162
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.946,
+                "bbox": [
+                    142,
+                    191,
+                    591,
+                    228
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    236,
+                    1521,
+                    576
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>人员类别</td><td rowspan=1 colspan=1>人数(人)</td><td rowspan=1 colspan=1>占比</td><td rowspan=1 colspan=1>较上年变动</td></tr><tr><td rowspan=1 colspan=1>研发人员</td><td rowspan=1 colspan=1>1,596</td><td rowspan=1 colspan=1>42.0%</td><td rowspan=1 colspan=1>+213人</td></tr><tr><td rowspan=1 colspan=1>生产与装配调试人员</td><td rowspan=1 colspan=1>1,178</td><td rowspan=1 colspan=1>31.0%</td><td rowspan=1 colspan=1>+142人</td></tr><tr><td rowspan=1 colspan=1>销售与售后服务人员</td><td rowspan=1 colspan=1>608</td><td rowspan=1 colspan=1>16.0%</td><td rowspan=1 colspan=1>+87人</td></tr><tr><td rowspan=1 colspan=1>管理人员及其他</td><td rowspan=1 colspan=1>418</td><td rowspan=1 colspan=1>11.0%</td><td rowspan=1 colspan=1>+36人</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>3,800</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>+478人</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.948,
+                "bbox": [
+                    144,
+                    587,
+                    494,
+                    619
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5342,
+                "bbox": [
+                    142,
+                    643,
+                    926,
+                    682
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.946,
+                "bbox": [
+                    143,
+                    711,
+                    383,
+                    747
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    757,
+                    1521,
+                    1379
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>时间</td><td rowspan=1 colspan=1>里程碑事件</td></tr><tr><td rowspan=1 colspan=1>2011年</td><td rowspan=1 colspan=1>公司在上海市注册成立，核心团队来自国际头部半导体设备企业</td></tr><tr><td rowspan=1 colspan=1>2013年</td><td rowspan=1 colspan=1>首台CCP刻蚀设备通过境内头部晶圆厂验证，实现国产替代突破</td></tr><tr><td rowspan=1 colspan=1>2016年</td><td rowspan=1 colspan=1>ICP刻蚀设备量产交付，形成CCP+ICP双技术路线布局</td></tr><tr><td rowspan=1 colspan=1>2018年</td><td rowspan=1 colspan=1>苏州半导体装备产业化基地建成投产(年产能500台)</td></tr><tr><td rowspan=1 colspan=1>2019年</td><td rowspan=1 colspan=1>射频电源、静电卡盘等核心零部件启动自主研发</td></tr><tr><td rowspan=1 colspan=1>2020年</td><td rowspan=1 colspan=1>PECVD薄膜沉积设备批量出货，由单品类向平台化延伸</td></tr><tr><td rowspan=1 colspan=1>2021年</td><td rowspan=1 colspan=1>于上海证券交易所科创板上市</td></tr><tr><td rowspan=1 colspan=1>2022年</td><td rowspan=1 colspan=1>先进封装TSV刻蚀设备通过头部封测客户验证</td></tr><tr><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>高深宽比介质刻蚀启动存储客户验证；南通基地开工建设</td></tr><tr><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>营业收入47.6亿元创历史新高；南通基地土建主体完成</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9482,
+                "bbox": [
+                    144,
+                    1391,
+                    494,
+                    1423
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.988,
+                "bbox": [
+                    139,
+                    1446,
+                    1506,
+                    1679
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    139,
+                    1699,
+                    1511,
+                    1931
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    142,
+                    1976,
+                    694,
+                    2024
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9754,
+                "bbox": [
+                    141,
+                    2047,
+                    1482,
+                    2137
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9363,
+                "bbox": [
+                    129,
+                    2231,
+                    396,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.928,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.987,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1343,
+                    23,
+                    1522,
+                    55
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    127,
+                    1507,
+                    157
+                ],
+                "score": 1.0,
+                "text": "级人才计划入选者合计9人。报告期内核心骨干流失率低于4%，人均培训时长62小时，员工结构保持稳定。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    193,
+                    586,
+                    227
+                ],
+                "score": 0.972,
+                "text": "表3：公司员工专业结构（2024年末）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    593,
+                    488,
+                    616
+                ],
+                "score": 0.999,
+                "text": "资料来源：公司2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    648,
+                    917,
+                    678
+                ],
+                "score": 0.999,
+                "text": "公司自设立以来始终聚焦刻蚀设备主业，主要发展沿革如下："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    717,
+                    376,
+                    743
+                ],
+                "score": 1.0,
+                "text": "表4：公司发展沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1397,
+                    488,
+                    1420
+                ],
+                "score": 0.999,
+                "text": "资料来源：公司2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1454,
+                    1475,
+                    1479
+                ],
+                "score": 1.0,
+                "text": "行业地位与荣誉：公司是国内极少数同时量产CCP与ICP两大技术路线刻蚀设备的厂商，连续三年入选中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1502,
+                    1499,
+                    1527
+                ],
+                "score": 0.983,
+                "text": "国半导体行业协会“中国半导体装备十强”；报告期内获评国家级专精特新“小巨人”企业（复核通过）、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1548,
+                    1490,
+                    1573
+                ],
+                "score": 1.0,
+                "text": "苏南国家自主创新示范区瞪羚企业，“高深宽比介质刻蚀设备关键技术与产业化”项目获江苏省科学技术"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1595,
+                    1486,
+                    1620
+                ],
+                "score": 1.0,
+                "text": "进步一等奖，双频CCP平台获中国半导体创新产品奖。公司为中国半导体行业协会常务理事单位，深度参"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1643,
+                    625,
+                    1668
+                ],
+                "score": 1.0,
+                "text": "与刻蚀设备相关行业标准的制定工作。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1705,
+                    1474,
+                    1731
+                ],
+                "score": 1.0,
+                "text": "薪酬与激励：公司实行“基本薪酬+项目奖金+中长期激励”相结合的市场化薪酬体系，报告期内人均薪"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1754,
+                    1472,
+                    1779
+                ],
+                "score": 0.998,
+                "text": "酬约23万元，研发人员薪酬带宽对标行业75分位，并建立技术序列与管理序列双通道晋升机制；公司于"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1802,
+                    1500,
+                    1827
+                ],
+                "score": 1.0,
+                "text": "2025年启动限制性股票激励计划筹备工作，将核心团队利益与公司中长期发展深度绑定。投资者关系方面"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1848,
+                    1477,
+                    1873
+                ],
+                "score": 1.0,
+                "text": "，报告期内公司组织业绩说明会3场，接待机构现场与电话调研66场次，覆盖机构投资者超过300家，上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1897,
+                    486,
+                    1922
+                ],
+                "score": 1.0,
+                "text": "证e互动年度回复率100%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1980,
+                    686,
+                    2020
+                ],
+                "score": 0.97,
+                "text": "第二节 主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2050,
+                    1475,
+                    2082
+                ],
+                "score": 1.0,
+                "text": "2024年公司营业收入与利润均创历史新高：实现营业收入47.60亿元，同比增长24.62%；归属于上市公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2099,
+                    1472,
+                    2129
+                ],
+                "score": 0.995,
+                "text": "司股东的净利润8.30亿元，同比增长36.07%；扣除非经常性损益的净利润7.60亿元，同比增长43.40%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9521,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9371,
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    122,
+                    1499,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9512,
+                "bbox": [
+                    142,
+                    238,
+                    738,
+                    275
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9891,
+                "bbox": [
+                    132,
+                    282,
+                    1521,
+                    679
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2022年</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本期比上年增減</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>3,150</td><td rowspan=1 colspan=1>3,820</td><td rowspan=1 colspan=1>4,760</td><td rowspan=1 colspan=1>+24.62%</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润</td><td rowspan=1 colspan=1>480</td><td rowspan=1 colspan=1>610</td><td rowspan=1 colspan=1>830</td><td rowspan=1 colspan=1>+36.07%</td></tr><tr><td rowspan=1 colspan=1>扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>420</td><td rowspan=1 colspan=1>530</td><td rowspan=1 colspan=1>760</td><td rowspan=1 colspan=1>+43.40%</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>480</td><td rowspan=1 colspan=1>560</td><td rowspan=1 colspan=1>690</td><td rowspan=1 colspan=1>+23.21%</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产</td><td rowspan=1 colspan=1>3,820</td><td rowspan=1 colspan=1>4,480</td><td rowspan=1 colspan=1>5,570</td><td rowspan=1 colspan=1>+24.33%</td></tr><tr><td rowspan=1 colspan=1>总资产</td><td rowspan=1 colspan=1>7,860</td><td rowspan=1 colspan=1>10,180</td><td rowspan=1 colspan=1>12,860</td><td rowspan=1 colspan=1>+26.33%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9454,
+                "bbox": [
+                    142,
+                    691,
+                    599,
+                    724
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9484,
+                "bbox": [
+                    142,
+                    746,
+                    828,
+                    783
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.988,
+                "bbox": [
+                    133,
+                    792,
+                    1521,
+                    1073
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>920</td><td rowspan=1 colspan=1>1,180</td><td rowspan=1 colspan=1>1,120</td><td rowspan=1 colspan=1>1,540</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>300</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>310</td></tr><tr><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>43.9%</td><td rowspan=1 colspan=1>44.6%</td><td rowspan=1 colspan=1>45.3%</td><td rowspan=1 colspan=1>46.2%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9506,
+                "bbox": [
+                    143,
+                    1085,
+                    598,
+                    1118
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9462,
+                "bbox": [
+                    143,
+                    1140,
+                    463,
+                    1177
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    132,
+                    1186,
+                    1521,
+                    1581
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2022年</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>2024年</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元)</td><td rowspan=1 colspan=1>1.12</td><td rowspan=1 colspan=1>1.43</td><td rowspan=1 colspan=1>1.94</td></tr><tr><td rowspan=1 colspan=1>每股经营活动现金流量净额（元）</td><td rowspan=1 colspan=1>1.12</td><td rowspan=1 colspan=1>1.31</td><td rowspan=1 colspan=1>1.61</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率</td><td rowspan=1 colspan=1>12.5%</td><td rowspan=1 colspan=1>13.6%</td><td rowspan=1 colspan=1>15.2%</td></tr><tr><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>43.5%</td><td rowspan=1 colspan=1>44.8%</td><td rowspan=1 colspan=1>45.2%</td></tr><tr><td rowspan=1 colspan=1>资产负债率（%）</td><td rowspan=1 colspan=1>50.9</td><td rowspan=1 colspan=1>52.8</td><td rowspan=1 colspan=1>51.6</td></tr><tr><td rowspan=1 colspan=1>研发投入占营业收入比例</td><td rowspan=1 colspan=1>15.8%</td><td rowspan=1 colspan=1>16.3%</td><td rowspan=1 colspan=1>17.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9479,
+                "bbox": [
+                    144,
+                    1592,
+                    598,
+                    1626
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.987,
+                "bbox": [
+                    140,
+                    1648,
+                    1499,
+                    1834
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9845,
+                "bbox": [
+                    140,
+                    1854,
+                    1509,
+                    2038
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9591,
+                "bbox": [
+                    142,
+                    2083,
+                    581,
+                    2132
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9395,
+                "bbox": [
+                    129,
+                    2232,
+                    397,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9352,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.987,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1525,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    128,
+                    1490,
+                    157
+                ],
+                "score": 1.0,
+                "text": "报告期内下游晶圆厂扩产与设备国产化替代加速共振，公司设备交付与验收节奏前低后高，第四季度收入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    174,
+                    306,
+                    205
+                ],
+                "score": 1.0,
+                "text": "创单季新高。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    245,
+                    730,
+                    270
+                ],
+                "score": 0.972,
+                "text": "表5：近三年主要会计数据（单位：人民币百万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    696,
+                    592,
+                    720
+                ],
+                "score": 0.978,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    751,
+                    821,
+                    778
+                ],
+                "score": 0.971,
+                "text": "表6：2024年分季度主要财务数据（单位：人民币百万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1090,
+                    592,
+                    1114
+                ],
+                "score": 0.978,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1146,
+                    455,
+                    1171
+                ],
+                "score": 1.0,
+                "text": "表7：近三年主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1599,
+                    591,
+                    1623
+                ],
+                "score": 0.973,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1656,
+                    1481,
+                    1681
+                ],
+                "score": 1.0,
+                "text": "2024年度公司非经常性损益合计0.70亿元，占归母净利润的比例为8.4%，主要包括：计入当期损益的政"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1702,
+                    1488,
+                    1728
+                ],
+                "score": 0.988,
+                "text": "府补助(与非日常经营相关部分）0.52亿元、理财及利息增值收益0.12亿元、股权处置与公允价值变动等"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1751,
+                    1481,
+                    1777
+                ],
+                "score": 1.0,
+                "text": "其他项目0.06亿元。扣除非经常性损益后，2023年、2024年扣非归母净利润分别为5.30亿元、7.60亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1798,
+                    625,
+                    1823
+                ],
+                "score": 1.0,
+                "text": "，主营业务盈利的修复斜率更为真实。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1859,
+                    1469,
+                    1890
+                ],
+                "score": 0.984,
+                "text": "2024年公司加权平均净资产收益率15.2%，同比提升1.6个百分点，主要系归母净利润增速（+36.07%)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1909,
+                    1499,
+                    1934
+                ],
+                "score": 0.974,
+                "text": "快于归母净资产增速(+24.33%)；扣非加权平均净资产收益率13.9%(2023年：11.8%)，盈利质量同"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1956,
+                    1472,
+                    1982
+                ],
+                "score": 1.0,
+                "text": "步改善。截至报告期末，公司每股净资产13.02元，资产负债率51.6%，财务结构能够为南通基地建设的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2004,
+                    480,
+                    2029
+                ],
+                "score": 0.999,
+                "text": "高强度资本开支提供支撑。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2085,
+                    575,
+                    2130
+                ],
+                "score": 0.984,
+                "text": "第三节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    391,
+                    2260
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9436,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9289,
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    139,
+                    122,
+                    1508,
+                    354
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9864,
+                "bbox": [
+                    140,
+                    374,
+                    1502,
+                    560
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9881,
+                "bbox": [
+                    139,
+                    580,
+                    1508,
+                    859
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    139,
+                    880,
+                    1508,
+                    1064
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9444,
+                "bbox": [
+                    142,
+                    1091,
+                    591,
+                    1128
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    132,
+                    1136,
+                    1520,
+                    1531
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1>客户</td><td rowspan=1 colspan=1>销售金额（(亿元）</td><td rowspan=1 colspan=1>占年度销售比例</td><td rowspan=1 colspan=1>销售内容</td></tr><tr><td rowspan=1 colspan=1>客户一（境内头部晶圆代工厂）</td><td rowspan=1 colspan=1>14.3</td><td rowspan=1 colspan=1>30.0%</td><td rowspan=1 colspan=1>CCP、ICP刻蚀设备</td></tr><tr><td rowspan=1 colspan=1>客户二（境内3D存储制造商）</td><td rowspan=1 colspan=1>7.6</td><td rowspan=1 colspan=1>16.0%</td><td rowspan=1 colspan=1>介质刻蚀、CCP刻蚀设备</td></tr><tr><td rowspan=1 colspan=1>客户三（境内特色工艺晶圆厂）</td><td rowspan=1 colspan=1>3.3</td><td rowspan=1 colspan=1>6.9%</td><td rowspan=1 colspan=1>ICP刻蚀、薄膜沉积设备</td></tr><tr><td rowspan=1 colspan=1>客户四（境内先进封装企业）</td><td rowspan=1 colspan=1>1.4</td><td rowspan=1 colspan=1>2.9%</td><td rowspan=1 colspan=1>TSV刻蚀设备</td></tr><tr><td rowspan=1 colspan=1>客户五（境外晶圆制造商）</td><td rowspan=1 colspan=1>1.0</td><td rowspan=1 colspan=1>2.1%</td><td rowspan=1 colspan=1>CCP刻蚀设备及备件</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>27.6</td><td rowspan=1 colspan=1>58.0%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9191,
+                "bbox": [
+                    142,
+                    1544,
+                    1309,
+                    1578
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    139,
+                    1600,
+                    1490,
+                    1737
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829,
+                "bbox": [
+                    140,
+                    1757,
+                    1498,
+                    1895
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9724,
+                "bbox": [
+                    140,
+                    1915,
+                    1489,
+                    2006
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    140,
+                    2026,
+                    1506,
+                    2117
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9346,
+                "bbox": [
+                    128,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9239,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    634,
+                    56
+                ],
+                "score": 0.976,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1525,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    128,
+                    1481,
+                    154
+                ],
+                "score": 0.985,
+                "text": "(一）行业情况。2024年全球半导体设备市场约1,092亿美元，中国大陆市场规模约383亿美元、占全球"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    176,
+                    1485,
+                    201
+                ],
+                "score": 0.982,
+                "text": "约35%，为全球第一大设备市场。刻蚀设备为晶圆制造中价值量居前的品类(全球约215亿美元）。在境"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    226,
+                    1495,
+                    247
+                ],
+                "score": 0.998,
+                "text": "内晶圆厂持续扩产、先进制程与3D存储工艺升级、以及供应链自主可控需求推动下，刻蚀设备国产化率由"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    269,
+                    1475,
+                    294
+                ],
+                "score": 0.992,
+                "text": "2023年约17%提升至2024年约20%，仍处于快速提升通道。公司所处赛道兼具“市场总量增长+国产化"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    317,
+                    421,
+                    342
+                ],
+                "score": 1.0,
+                "text": "率提升”的双重红利。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    381,
+                    1479,
+                    406
+                ],
+                "score": 0.983,
+                "text": "（二）经营回顾。报告期内公司销售设备合计699台（其中刻蚀设备612台、薄膜沉积设备87台），创历"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    425,
+                    1491,
+                    457
+                ],
+                "score": 0.98,
+                "text": "史最好交付水平；营业收入47.60亿元，同比增长24.62%。分产品看，CCP刻蚀收入24.8亿元（+18.5%）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    476,
+                    1490,
+                    501
+                ],
+                "score": 0.97,
+                "text": "、ICP刻蚀13.3亿元（+30%)、薄膜沉积5.7亿元（+76%)、先进封装及备件服务3.8亿元(与上年基本"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    522,
+                    1176,
+                    547
+                ],
+                "score": 0.989,
+                "text": "持平)。ICP与高端机型占比提升带动综合毛利率同比提升0.4个百分点至45.2%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    588,
+                    1498,
+                    613
+                ],
+                "score": 0.982,
+                "text": "(三）销售模式与客户情况。公司采用直销模式，设备销售遵循“签订合同一预收进度款一排产生产一发"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    635,
+                    1485,
+                    660
+                ],
+                "score": 0.994,
+                "text": "货安装一工艺验证一客户验收确认收入”的流程，验收周期通常3-6个月；对已装机设备提供备件销售与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    682,
+                    1494,
+                    708
+                ],
+                "score": 0.985,
+                "text": "维保服务。报告期内公司服务超过60家晶圆制造与封测客户(本报告客户均按行业类别泛称)，前五大客"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    727,
+                    1486,
+                    752
+                ],
+                "score": 0.991,
+                "text": "户收入合计27.6亿元、占比58.0%，主要系下游晶圆制造行业集中度较高所致：公司在头部代工客户产线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    776,
+                    1495,
+                    801
+                ],
+                "score": 1.0,
+                "text": "的刻蚀设备国产份额持续提升，报告期内新增存储类客户3家、封测类客户5家，海外及出口交付收入占比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    820,
+                    253,
+                    853
+                ],
+                "score": 1.0,
+                "text": "约10%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    886,
+                    1488,
+                    911
+                ],
+                "score": 1.0,
+                "text": "分区域看，报告期内公司境内收入42.8亿元、占比90.0%，其中长三角地区占比约62%，与苏州基地及下"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    935,
+                    1498,
+                    960
+                ],
+                "score": 1.0,
+                "text": "游产线集聚区形成就近协同；境外及出口交付收入4.8亿元、占比10.0%，主要为面向东南亚封测基地与东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    982,
+                    1491,
+                    1008
+                ],
+                "score": 1.0,
+                "text": "北亚晶圆厂的整机及备件交付，境外收入同比增长约55%。随着南通基地投产与海外服务网络扩展，公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1030,
+                    508,
+                    1055
+                ],
+                "score": 1.0,
+                "text": "境外收入占比有望稳步提升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1096,
+                    584,
+                    1124
+                ],
+                "score": 0.961,
+                "text": "表8：前五大客户销售情况（2024年）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1547,
+                    1298,
+                    1571
+                ],
+                "score": 0.99,
+                "text": "资料来源：公司2024年年度报告（客户名称按披露规则隐匿；单项占比经四舍五入，分项加总与合计存在尾差）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    1605,
+                    1477,
+                    1634
+                ],
+                "score": 0.992,
+                "text": "(四)核心竞争力分析。其一，双技术路线平台化布局。公司是国内少数同时量产CCP与ICP两大技术路"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1651,
+                    1481,
+                    1682
+                ],
+                "score": 1.0,
+                "text": "线的刻蚀设备商，刻蚀品类覆盖介质、硅、金属全工序场景，并延伸至PECVD/ALD沉积设备；前十大客"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1701,
+                    975,
+                    1726
+                ],
+                "score": 1.0,
+                "text": "户中已有六家向公司采购两类以上设备，单客户价值量持续提升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1765,
+                    1489,
+                    1790
+                ],
+                "score": 1.0,
+                "text": "其二，核心零部件自研与供应链可控。射频电源、静电卡盘等关键零部件实现自研自产，国产采购金额占"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1813,
+                    1475,
+                    1833
+                ],
+                "score": 0.995,
+                "text": "比约58%，单台物料成本较外购方案下降约8%：在出口管制与交付周期竞争背景下，供应链自主可控能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1859,
+                    772,
+                    1884
+                ],
+                "score": 1.0,
+                "text": "力直接决定订单获取与交付节奏，构成隐性壁垒。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1923,
+                    1479,
+                    1949
+                ],
+                "score": 1.0,
+                "text": "其三，装机存量与服务滚存。公司累计装机刻蚀设备超过2,300台，备件与维保服务随装机规模滚动增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1971,
+                    1237,
+                    1996
+                ],
+                "score": 1.0,
+                "text": "，该部分收入毛利率高于整机且周期属性弱，有效平滑整机交付节奏带来的业绩波动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2034,
+                    1496,
+                    2060
+                ],
+                "score": 0.985,
+                "text": "其四，研发体系与工程师红利。研发人员占比42%(1,596人），累计授权专利2,400余件；公司建立与头"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2082,
+                    1474,
+                    2107
+                ],
+                "score": 1.0,
+                "text": "部客户联合验证、驻场开发的研发机制，新一代机型在客户产线的验证导入周期较行业平均缩短约20%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第6页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.95,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9348,
+                "bbox": [
+                    1344,
+                    22,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.986,
+                "bbox": [
+                    142,
+                    122,
+                    1504,
+                    306
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9497,
+                "bbox": [
+                    142,
+                    333,
+                    476,
+                    370
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    131,
+                    379,
+                    1521,
+                    718
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动</td></tr><tr><td rowspan=1 colspan=1>在手订单（年末，亿元）</td><td rowspan=1 colspan=1>45.2</td><td rowspan=1 colspan=1>58.4</td><td rowspan=1 colspan=1>+29.2%</td></tr><tr><td rowspan=1 colspan=1>合同负债（年末，亿元)</td><td rowspan=1 colspan=1>14.7</td><td rowspan=1 colspan=1>21.3</td><td rowspan=1 colspan=1>+44.9%</td></tr><tr><td rowspan=1 colspan=1>存货（年末，亿元）</td><td rowspan=1 colspan=1>19.5</td><td rowspan=1 colspan=1>26.8</td><td rowspan=1 colspan=1>+37.4%</td></tr><tr><td rowspan=1 colspan=1>其中：发出商品占比</td><td rowspan=1 colspan=1>58%</td><td rowspan=1 colspan=1>62%</td><td rowspan=1 colspan=1>+4pct</td></tr><tr><td rowspan=1 colspan=1>设备年出货量（台）</td><td rowspan=1 colspan=1>552</td><td rowspan=1 colspan=1>699</td><td rowspan=1 colspan=1>+26.6%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9415,
+                "bbox": [
+                    142,
+                    727,
+                    495,
+                    762
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9848,
+                "bbox": [
+                    139,
+                    784,
+                    1504,
+                    969
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9503,
+                "bbox": [
+                    141,
+                    994,
+                    581,
+                    1032
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    1040,
+                    1520,
+                    1377
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>研发项目</td><td rowspan=1 colspan=1>当前阶段</td><td rowspan=1 colspan=1>本期投入（亿元）</td><td rowspan=1 colspan=1>预计完成/量产时间</td></tr><tr><td rowspan=1 colspan=1>高深宽比介质刻蚀设备(3D NAND)</td><td rowspan=1 colspan=1>存储客户验证中</td><td rowspan=1 colspan=1>2.6</td><td rowspan=1 colspan=1>2025年</td></tr><tr><td rowspan=1 colspan=1>双频CCP新一代平台</td><td rowspan=1 colspan=1>工艺导入</td><td rowspan=1 colspan=1>1.8</td><td rowspan=1 colspan=1>2025年</td></tr><tr><td rowspan=1 colspan=1>PECVD/ALD薄膜沉积平台迭代</td><td rowspan=1 colspan=1>批量出货、迭代开发</td><td rowspan=1 colspan=1>1.2</td><td rowspan=1 colspan=1>持续迭代</td></tr><tr><td rowspan=1 colspan=1>TSV刻蚀设备（深宽比15:1机型）</td><td rowspan=1 colspan=1>客户验证</td><td rowspan=1 colspan=1>0.9</td><td rowspan=1 colspan=1>2026年</td></tr><tr><td rowspan=1 colspan=1>新一代射频电源自研</td><td rowspan=1 colspan=1>小批量自供</td><td rowspan=1 colspan=1>0.7</td><td rowspan=1 colspan=1>2025年</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9429,
+                "bbox": [
+                    142,
+                    1390,
+                    1495,
+                    1458
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9832,
+                "bbox": [
+                    140,
+                    1479,
+                    1505,
+                    1618
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982,
+                "bbox": [
+                    140,
+                    1639,
+                    1484,
+                    1775
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    139,
+                    1796,
+                    1500,
+                    1982
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    139,
+                    2001,
+                    1507,
+                    2140
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9374,
+                "bbox": [
+                    129,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9317,
+                "bbox": [
+                    1337,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    634,
+                    56
+                ],
+                "score": 0.976,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1524,
+                    56
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    125,
+                    1490,
+                    155
+                ],
+                "score": 0.994,
+                "text": "(五)订单与交付。截至2024年12月31日，公司在手订单58.4亿元，创历史新高，为2024年营业收入的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    173,
+                    1489,
+                    204
+                ],
+                "score": 1.0,
+                "text": "1.23倍；合同负债21.3亿元，同比增长44.9%，主要为客户按合同支付的预付进度款。期末存货26.8亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    224,
+                    1495,
+                    250
+                ],
+                "score": 0.985,
+                "text": "，其中发出商品占比约62%(对应已送达客户产线、尚在验证或验收流程中的设备约166台），为2025年"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    272,
+                    480,
+                    297
+                ],
+                "score": 1.0,
+                "text": "一季度收入确认奠定基础。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    339,
+                    468,
+                    364
+                ],
+                "score": 1.0,
+                "text": "表9：2024年经营质量指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    733,
+                    488,
+                    757
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    792,
+                    1453,
+                    817
+                ],
+                "score": 0.982,
+                "text": "(六）研发投入。报告期内研发投入8.10亿元，占营业收入17.0%，同比增长29.8%，重点投向：面向"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    835,
+                    1496,
+                    866
+                ],
+                "score": 1.0,
+                "text": "3DNAND的高深宽比介质刻蚀技术、双频CCP新一代平台、PECVD/ALD薄膜沉积平台、先进封装TSV刻"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    882,
+                    1491,
+                    914
+                ],
+                "score": 0.983,
+                "text": "蚀（深宽比10:1量产向15:1演进）、以及射频电源与静电卡盘等核心零部件自研。截至年末，公司累计授"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    933,
+                    1055,
+                    958
+                ],
+                "score": 0.998,
+                "text": "权专利2,400余件，其中发明专利占比约68%。主要在研项目进展如下："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    998,
+                    574,
+                    1029
+                ],
+                "score": 0.958,
+                "text": "表10：主要研发项目进展（2024年）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1396,
+                    1487,
+                    1419
+                ],
+                "score": 0.991,
+                "text": "资料来源：公司2024年年度报告(上述五个重点项目本期投入合计7.2亿元，占研发投入的88.9%，其余为量产平台优化与预研项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1424,
+                    187,
+                    1459
+                ],
+                "score": 0.908,
+                "text": "目)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    1486,
+                    1491,
+                    1511
+                ],
+                "score": 0.985,
+                "text": "(七)成本与供应链。公司核心零部件国产采购金额占比约58%；自研射频电源、静电卡盘实现批量自供"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1534,
+                    1497,
+                    1559
+                ],
+                "score": 0.999,
+                "text": "，单台物料成本下降约8%，同时缓解关键部件进口周期风险。苏州基地年产能500台满产运行，南通生产"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1578,
+                    1094,
+                    1610
+                ],
+                "score": 1.0,
+                "text": "基地建设按期推进，预计2026年投产，届时公司总年产能将提升至800台。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1647,
+                    1459,
+                    1672
+                ],
+                "score": 0.986,
+                "text": "(八）现金流与财务状况。经营活动现金流量净额6.90亿元，同比增长23.2%；预收款模式（合同负债"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1694,
+                    1472,
+                    1719
+                ],
+                "score": 0.991,
+                "text": "21.3亿元)有效平滑经营现金流。全年资本开支约9.5亿元，主要投向南通基地建设与苏州基地技改。公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1736,
+                    683,
+                    1768
+                ],
+                "score": 1.0,
+                "text": "司资产负债率51.6%，有息负债规模可控。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    1803,
+                    1489,
+                    1828
+                ],
+                "score": 0.988,
+                "text": "(九）质量体系与中长期战略。质量与交付方面，公司执行高于行业惯例的整机出厂标准，产品平均无故"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1852,
+                    1477,
+                    1877
+                ],
+                "score": 0.978,
+                "text": "障时间(MTBF）达到国际同业先进水平，2024年客户现场设备平均开机率（uptime）保持在92%以上"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1898,
+                    1483,
+                    1923
+                ],
+                "score": 0.999,
+                "text": "；公司建立“总部总装+客户驻场”双重质量管控体系，报告期内整机一次验收通过率约85%、较上年提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1944,
+                    1466,
+                    1969
+                ],
+                "score": 1.0,
+                "text": "升4个百分点，备件与维保服务24小时到场率达98%，质量口碑成为客户复购与平台化采购的重要基础。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    2009,
+                    1499,
+                    2035
+                ],
+                "score": 1.0,
+                "text": "中长期战略方面，公司坚持“刻蚀为基、平台延伸”主线：一是保持CCP+ICP双技术路线领先，重点突破"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2057,
+                    1484,
+                    2082
+                ],
+                "score": 1.0,
+                "text": "高深宽比介质刻蚀设备在3DNAND产线的量产应用，跻身大陆存储刻蚀设备主力供应商；二是将薄膜沉"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    2100,
+                    1482,
+                    2132
+                ],
+                "score": 0.979,
+                "text": "积设备(PECVD/ALD）培育为第二产品支柱，收入占比稳步提升；三是把握先进封装产业升级机遇，推"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1520,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9424,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.928,
+                "bbox": [
+                    1343,
+                    23,
+                    1522,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    139,
+                    122,
+                    1513,
+                    212
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9807,
+                "bbox": [
+                    139,
+                    232,
+                    1503,
+                    372
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711,
+                "bbox": [
+                    140,
+                    391,
+                    1500,
+                    482
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9537,
+                "bbox": [
+                    142,
+                    526,
+                    432,
+                    574
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9824,
+                "bbox": [
+                    139,
+                    596,
+                    1507,
+                    736
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9834,
+                "bbox": [
+                    139,
+                    755,
+                    1505,
+                    894
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9832,
+                "bbox": [
+                    139,
+                    913,
+                    1502,
+                    1052
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.971,
+                "bbox": [
+                    143,
+                    1071,
+                    1508,
+                    1164
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9695,
+                "bbox": [
+                    142,
+                    1182,
+                    1509,
+                    1273
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9758,
+                "bbox": [
+                    141,
+                    1294,
+                    1500,
+                    1385
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9854,
+                "bbox": [
+                    139,
+                    1405,
+                    1503,
+                    1590
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9829,
+                "bbox": [
+                    139,
+                    1610,
+                    1510,
+                    1749
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9874,
+                "bbox": [
+                    139,
+                    1769,
+                    1505,
+                    2003
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9814,
+                "bbox": [
+                    138,
+                    2021,
+                    1488,
+                    2160
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9366,
+                "bbox": [
+                    129,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9211,
+                "bbox": [
+                    1337,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    634,
+                    56
+                ],
+                "score": 0.976,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1341,
+                    21,
+                    1523,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    128,
+                    1486,
+                    154
+                ],
+                "score": 0.999,
+                "text": "进TSV刻蚀设备由10:1向15:1深宽比演进，力争先进封装及服务收入占比提升至15%以上；四是依托南通"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    176,
+                    1506,
+                    201
+                ],
+                "score": 1.0,
+                "text": "基地建成800台/年产能，深化射频电源、静电卡盘等核心零部件自研自产，持续巩固供应链自主可控优势。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    242,
+                    1489,
+                    263
+                ],
+                "score": 0.985,
+                "text": "（十）2025年经营计划。公司2025年度经营目标：营业收入62-65亿元，同比增长约30%-37%。重点工"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    290,
+                    1489,
+                    311
+                ],
+                "score": 0.991,
+                "text": "作：保障在手订单按期交付验收、推进高深宽比介质刻蚀设备在存储客户的量产验证、加快南通基地建设"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    335,
+                    1471,
+                    360
+                ],
+                "score": 1.0,
+                "text": "与投产准备、拓展先进封装设备在封测头部客户与东南亚封测基地的份额，并持续提升自研零部件比例。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    171,
+                    399,
+                    1489,
+                    425
+                ],
+                "score": 0.98,
+                "text": "(十一）可能与经营目标相关的风险。若下游晶圆厂资本开支计划推迟、存储客户量产验证进度不及预期"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    442,
+                    1063,
+                    474
+                ],
+                "score": 1.0,
+                "text": "或南通基地投产延迟，上述经营目标存在不能实现的风险，详见第五节。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    528,
+                    425,
+                    572
+                ],
+                "score": 0.977,
+                "text": "第四节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    605,
+                    1474,
+                    630
+                ],
+                "score": 0.983,
+                "text": "(一）利润分配方案。公司2024年度利润分配预案为：以总股本4.28亿股为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    651,
+                    1497,
+                    676
+                ],
+                "score": 0.988,
+                "text": "2.50元(含税)，合计派发现金红利1.07亿元，占2024年度归母净利润的12.9%，不送股、不以资本公积"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    699,
+                    1413,
+                    724
+                ],
+                "score": 1.0,
+                "text": "转增股本。公司处于产能扩张与研发高投入阶段，分红比例的设定兼顾了股东回报与业务发展需要。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    763,
+                    1495,
+                    789
+                ],
+                "score": 0.975,
+                "text": "（二）重大投资建设。南通半导体装备产业化基地（规划总产能配合苏州基地合计800台/年）报告期内完"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    807,
+                    1483,
+                    838
+                ],
+                "score": 1.0,
+                "text": "成土建主体结构，累计投入约8.5亿元；项目建成后将为公司2026年及以后的交付能力提供保障。公司同"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    857,
+                    1092,
+                    883
+                ],
+                "score": 0.976,
+                "text": "时决议在南通基地配套建设核心零部件(射频电源、静电卡盘）自产车间。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    921,
+                    1491,
+                    947
+                ],
+                "score": 0.986,
+                "text": "(三）募集资金使用情况。公司科创板首次公开发行募集资金已按披露用途基本使用完毕，“高端刻蚀设"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    968,
+                    1490,
+                    993
+                ],
+                "score": 1.0,
+                "text": "备产业化项目”已达到预定可使用状态并实现批量交付；超募资金经股东大会批准后用于南通基地建设与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1015,
+                    859,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "补充流动资金。报告期内不存在募集资金违规使用情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1077,
+                    1494,
+                    1105
+                ],
+                "score": 0.991,
+                "text": "(四)客户集中与关联交易。公司前五大客户收入占比约58%，主要系下游晶圆制造行业集中度较高所致"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1127,
+                    1498,
+                    1152
+                ],
+                "score": 0.985,
+                "text": "；报告期内日常关联交易金额较小(约0.32亿元)，定价公允，相关议案已经董事会及股东大会审议通过。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1189,
+                    1501,
+                    1219
+                ],
+                "score": 0.964,
+                "text": "(五）审计情况。公司2024年度财务报告经中衡会计师事务所(特殊普通合伙)审计，并出具了标准无保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1235,
+                    390,
+                    1265
+                ],
+                "score": 1.0,
+                "text": "留意见的审计报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    1301,
+                    1489,
+                    1326
+                ],
+                "score": 0.983,
+                "text": "(六）其他重大事项。报告期内公司不存在重大诉讼、仲裁及行政处罚；未发生影响持续经营的重大安全"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1350,
+                    1004,
+                    1375
+                ],
+                "score": 0.999,
+                "text": "事故；公司与境外供应商的业务往来符合相关出口管制及合规要求。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1411,
+                    1489,
+                    1437
+                ],
+                "score": 0.989,
+                "text": "(七)政府补助与税收优惠。报告期内公司计入当期损益的政府补助合计0.52亿元，其中高端装备产业扶"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1460,
+                    1492,
+                    1486
+                ],
+                "score": 1.0,
+                "text": "持专项补助0.31亿元、研发专项补助0.21亿元；公司为高新技术企业，适用15%企业所得税优惠税率；南"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1505,
+                    1490,
+                    1533
+                ],
+                "score": 1.0,
+                "text": "通半导体装备产业化基地已纳入江苏省省级重大项目库，在用地、用能等要素保障及项目贷款贴息方面获"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1552,
+                    307,
+                    1582
+                ],
+                "score": 1.0,
+                "text": "得政策支持。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    1618,
+                    1493,
+                    1644
+                ],
+                "score": 0.967,
+                "text": "(八）期后事项。除本报告“第四节（一）”所述利润分配预案（已于2025年3月26日经公司第二届董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1666,
+                    1500,
+                    1691
+                ],
+                "score": 0.996,
+                "text": "会第十次会议审议通过，尚需提交2024年年度股东大会审议）外，自资产负债表日至本报告披露日，公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1709,
+                    596,
+                    1741
+                ],
+                "score": 1.0,
+                "text": "不存在其他应披露的重大期后事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    1777,
+                    1495,
+                    1803
+                ],
+                "score": 0.969,
+                "text": "(九）环境、社会责任与公司治理(ESG)。环境维度：公司推行绿色制造与节能改造，2024年苏州基地"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1822,
+                    1482,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "单位产值综合能耗同比下降5.6%，厂区分布式光伏年发电量约320万千瓦时，全年环保投入约3,800万元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1871,
+                    1489,
+                    1896
+                ],
+                "score": 1.0,
+                "text": "，废弃物合规处置率100%，报告期内未发生环保行政处罚。社会责任与治理维度：公司依法纳税，2024"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1919,
+                    1491,
+                    1944
+                ],
+                "score": 1.0,
+                "text": "年缴纳税费合计3.2亿元；设立“云浦工程师学院”并与高校共建实训基地，年度培训投入2,600万元；安"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1965,
+                    1112,
+                    1990
+                ],
+                "score": 1.0,
+                "text": "全生产投入3,500万元，组织应急演练46场，报告期内未发生重大安全事故。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2028,
+                    1476,
+                    2053
+                ],
+                "score": 0.996,
+                "text": "报告期内公司召开董事会8次、股东大会3次，独立董事对关联交易、募集资金使用等事项发表独立意见；"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2076,
+                    1473,
+                    2101
+                ],
+                "score": 1.0,
+                "text": "信息披露考评保持A级。公司持续完善ESG治理架构，董事会战略委员会已将ESG事项纳入审议范围，计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2123,
+                    1186,
+                    2149
+                ],
+                "score": 1.0,
+                "text": "划于2025年披露公司首份ESG专项报告，推动环境友好与治理规范水平持续提升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9452,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9347,
+                "bbox": [
+                    1343,
+                    22,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9574,
+                "bbox": [
+                    142,
+                    123,
+                    432,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    140,
+                    193,
+                    1499,
+                    284
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9792,
+                "bbox": [
+                    140,
+                    305,
+                    1500,
+                    396
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    140,
+                    416,
+                    1501,
+                    553
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    141,
+                    574,
+                    1499,
+                    664
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    141,
+                    685,
+                    1498,
+                    775
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    141,
+                    796,
+                    1499,
+                    887
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    140,
+                    907,
+                    1498,
+                    1046
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9866,
+                "bbox": [
+                    140,
+                    1066,
+                    1489,
+                    1250
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844,
+                "bbox": [
+                    140,
+                    1271,
+                    1499,
+                    1411
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9856,
+                "bbox": [
+                    139,
+                    1430,
+                    1502,
+                    1615
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9614,
+                "bbox": [
+                    142,
+                    1660,
+                    506,
+                    1708
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    139,
+                    1730,
+                    1487,
+                    1868
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.947,
+                "bbox": [
+                    141,
+                    1894,
+                    806,
+                    1932
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.986,
+                "bbox": [
+                    132,
+                    1940,
+                    1521,
+                    2166
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年12月31日</td><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年12月31日</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>2,360</td><td rowspan=1 colspan=1>短期借款</td><td rowspan=1 colspan=1>980</td></tr><tr><td rowspan=1 colspan=1>交易性金融资产</td><td rowspan=1 colspan=1>820</td><td rowspan=1 colspan=1>应付票据及应付账款</td><td rowspan=1 colspan=1>1,720</td></tr><tr><td rowspan=1 colspan=1>应收票据及应收账款</td><td rowspan=1 colspan=1>1,580</td><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2,130</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.941,
+                "bbox": [
+                    129,
+                    2231,
+                    396,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9371,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    634,
+                    56
+                ],
+                "score": 0.976,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1523,
+                    56
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    123,
+                    427,
+                    171
+                ],
+                "score": 0.996,
+                "text": "第五节 风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    201,
+                    1491,
+                    227
+                ],
+                "score": 0.983,
+                "text": "(一）下游资本开支波动风险。公司收入高度依赖晶圆厂资本开支，若下游客户扩产计划推迟或削减，公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    249,
+                    944,
+                    274
+                ],
+                "score": 0.999,
+                "text": "司订单与收入确认可能不及预期；设备验收周期存在不确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    312,
+                    1488,
+                    337
+                ],
+                "score": 0.987,
+                "text": "（二）验证与客户集中风险。高端设备导入需经历长周期工艺验证，存在验证不通过或延期的风险；前五"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    358,
+                    1238,
+                    386
+                ],
+                "score": 1.0,
+                "text": "大客户收入占比约58%，若主要客户采购节奏波动，公司短期业绩可能受到较大影响。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    424,
+                    1490,
+                    449
+                ],
+                "score": 0.98,
+                "text": "（三）供应链风险。部分高精度零部件（真空泵、高端传感器等）仍依赖境外供应，若出口管制升级或供"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    471,
+                    1490,
+                    496
+                ],
+                "score": 0.996,
+                "text": "应受限，可能影响公司交付进度与成本；公司正通过自研与国产供应商导入降低相关风险（当前国产采购"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    517,
+                    397,
+                    545
+                ],
+                "score": 0.982,
+                "text": "金额占比约58%)。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    580,
+                    1491,
+                    610
+                ],
+                "score": 0.992,
+                "text": "(四)技术迭代风险。刻蚀技术向更高深宽比、更高选择比方向快速演进，若公司研发投入不足或技术路"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    629,
+                    595,
+                    655
+                ],
+                "score": 0.973,
+                "text": "线判断失误，可能削弱产品竞争力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    693,
+                    1490,
+                    718
+                ],
+                "score": 0.986,
+                "text": "(五）竞争加剧风险。海外头部厂商与国内同业均在加大中国市场投入，价格与商务条款竞争可能压缩公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    740,
+                    974,
+                    766
+                ],
+                "score": 1.0,
+                "text": "司毛利率；海外市场的贸易政策与知识产权摩擦亦构成潜在风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    170,
+                    804,
+                    1490,
+                    830
+                ],
+                "score": 0.983,
+                "text": "(六）产能建设风险。南通基地建设进度、投产爬坡与人员招聘存在不确定性；若投产延迟，公司可能面"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    850,
+                    507,
+                    880
+                ],
+                "score": 1.0,
+                "text": "临订单交付瓶颈或违约风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    167,
+                    915,
+                    1490,
+                    941
+                ],
+                "score": 0.989,
+                "text": "(七)人才流失风险。半导体设备研发高度依赖核心技术骨干与工艺验证团队，行业人才竞争激烈。公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    963,
+                    1461,
+                    988
+                ],
+                "score": 0.989,
+                "text": "通过员工持股计划、有竞争力的薪酬体系与系统性培养机制保持队伍稳定，报告期核心骨于流失率低于"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1012,
+                    1133,
+                    1033
+                ],
+                "score": 0.977,
+                "text": "4%；若未来关键研发岗位流失率上升，可能影响新产品开发与客户验证进度。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1074,
+                    1471,
+                    1099
+                ],
+                "score": 0.983,
+                "text": "(八）安全生产与环保风险。设备装配调试与客户驻场服务涉及特种气体、等离子体工艺与高电压环境，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1121,
+                    1457,
+                    1146
+                ],
+                "score": 0.999,
+                "text": "存在安全生产管控压力。公司已建立覆盖苏州、南通及客户驻场场景的EHS管理体系并通过ISO14001、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1164,
+                    1480,
+                    1195
+                ],
+                "score": 0.998,
+                "text": "ISO45001认证，报告期内未发生重大安全事故与环保行政处罚；随着南通基地投产，公司将持续加大安"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1211,
+                    304,
+                    1242
+                ],
+                "score": 1.0,
+                "text": "全环保投入。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    169,
+                    1280,
+                    1475,
+                    1305
+                ],
+                "score": 0.983,
+                "text": "(九）汇率与海外经营风险。公司境外销售与部分采购以外币计价结算，报告期内境外收入占比约10%，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1329,
+                    1488,
+                    1350
+                ],
+                "score": 0.986,
+                "text": "汇率波动将影响出口收入折算与采购成本，若人民币汇率大幅波动，公司汇兑损益可能对利润表产生扰动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1374,
+                    1471,
+                    1399
+                ],
+                "score": 0.999,
+                "text": "；海外市场亦面临贸易政策、出口管制与本地化合规要求变化的不确定性，可能影响公司海外拓展节奏。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    168,
+                    1438,
+                    1491,
+                    1463
+                ],
+                "score": 0.987,
+                "text": "(十）知识产权与技术秘密风险。刻蚀设备涉及等离子体源、射频匹配、工艺控制等大量核心技术与商业"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1487,
+                    1479,
+                    1508
+                ],
+                "score": 0.989,
+                "text": "秘密，公司虽已累计获得授权专利2,400余件，但不排除与同业发生知识产权争议或遭遇第三方权利主张"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1534,
+                    1488,
+                    1555
+                ],
+                "score": 0.995,
+                "text": "的可能；若发生知识产权诉讼，可能增加公司经营成本并影响市场拓展。公司将持续完善境内外知识产权"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1579,
+                    683,
+                    1604
+                ],
+                "score": 1.0,
+                "text": "布局与商业秘密管理制度，防范相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1655,
+                    500,
+                    1709
+                ],
+                "score": 0.971,
+                "text": "第六节 财务报表摘要"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1737,
+                    1475,
+                    1762
+                ],
+                "score": 1.0,
+                "text": "本节列示经审计的2024年度合并财务报表主要项目及简明分析。报告期末，公司合并总资产128.60亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1781,
+                    1477,
+                    1812
+                ],
+                "score": 1.0,
+                "text": "，归母净资产55.70亿元，少数股东权益6.60亿元，资产负债率51.6%，负债结构以经营性预收与应付款"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1829,
+                    686,
+                    1860
+                ],
+                "score": 1.0,
+                "text": "项为主，有息负债占比低，财务结构稳健。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1898,
+                    798,
+                    1927
+                ],
+                "score": 0.972,
+                "text": "表11：合并资产负债表主要项目（单位：人民币百万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第9页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9403,
+                "bbox": [
+                    128,
+                    19,
+                    636,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9375,
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.989,
+                "bbox": [
+                    132,
+                    119,
+                    1522,
+                    516
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年12月31日</td><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年12月31日</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>2,680</td><td rowspan=1 colspan=1>长期借款</td><td rowspan=1 colspan=1>1,460</td></tr><tr><td rowspan=1 colspan=1>固定资产</td><td rowspan=1 colspan=1>1,250</td><td rowspan=1 colspan=1>其他负债合计</td><td rowspan=1 colspan=1>340</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>1,860</td><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>6,630</td></tr><tr><td rowspan=1 colspan=1>其他资产合计</td><td rowspan=1 colspan=1>2,310</td><td rowspan=1 colspan=1>归属于母公司股东权益</td><td rowspan=1 colspan=1>5,570</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>少数股东权益</td><td rowspan=1 colspan=1>660</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>12,860</td><td rowspan=1 colspan=1>负债和股东权益总计</td><td rowspan=1 colspan=1>12,860</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9475,
+                "bbox": [
+                    142,
+                    527,
+                    599,
+                    560
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9492,
+                "bbox": [
+                    141,
+                    582,
+                    754,
+                    619
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    131,
+                    627,
+                    1522,
+                    1421
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>3,820</td><td rowspan=1 colspan=1>4,760</td><td rowspan=1 colspan=1>+24.62%</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>2,109</td><td rowspan=1 colspan=1>2,608</td><td rowspan=1 colspan=1>+23.66%</td></tr><tr><td rowspan=1 colspan=1>毛利</td><td rowspan=1 colspan=1>1,711</td><td rowspan=1 colspan=1>2,152</td><td rowspan=1 colspan=1>+25.77%</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>102</td><td rowspan=1 colspan=1>124</td><td rowspan=1 colspan=1>+21.6%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>245</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>+17.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>624</td><td rowspan=1 colspan=1>768</td><td rowspan=1 colspan=1>+23.1%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-8</td><td rowspan=1 colspan=1>-12</td><td rowspan=1 colspan=1>利息净收入增加</td></tr><tr><td rowspan=1 colspan=1>其他收益</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>98</td><td rowspan=1 colspan=1>+36.1%</td></tr><tr><td rowspan=1 colspan=1>信用及资产减值损失</td><td rowspan=1 colspan=1>-45</td><td rowspan=1 colspan=1>-65</td><td rowspan=1 colspan=1>存货增长计提</td></tr><tr><td rowspan=1 colspan=1>利润总额</td><td rowspan=1 colspan=1>815</td><td rowspan=1 colspan=1>1,018</td><td rowspan=1 colspan=1>+24.9%</td></tr><tr><td rowspan=1 colspan=1>所得税费用</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1>-1.3%</td></tr><tr><td rowspan=1 colspan=1>净利润</td><td rowspan=1 colspan=1>655</td><td rowspan=1 colspan=1>860</td><td rowspan=1 colspan=1>+31.3%</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>610</td><td rowspan=1 colspan=1>830</td><td rowspan=1 colspan=1>+36.07%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9472,
+                "bbox": [
+                    143,
+                    1430,
+                    599,
+                    1464
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9467,
+                "bbox": [
+                    142,
+                    1487,
+                    805,
+                    1524
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9889,
+                "bbox": [
+                    133,
+                    1530,
+                    1521,
+                    1928
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>经营活动现金流入小计</td><td rowspan=1 colspan=1>4,260</td><td rowspan=1 colspan=1>5,310</td><td rowspan=1 colspan=1>+24.6%</td></tr><tr><td rowspan=1 colspan=1>经营活动现金流量净额</td><td rowspan=1 colspan=1>560</td><td rowspan=1 colspan=1>690</td><td rowspan=1 colspan=1>+23.21%</td></tr><tr><td rowspan=1 colspan=1>投资活动现金流量净额</td><td rowspan=1 colspan=1>-680</td><td rowspan=1 colspan=1>-1,340</td><td rowspan=1 colspan=1>南通基地投入</td></tr><tr><td rowspan=1 colspan=1>筹资活动现金流量净额</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>+86.7%</td></tr><tr><td rowspan=1 colspan=1>期末现金及现金等价物余额</td><td rowspan=1 colspan=1>2,730</td><td rowspan=1 colspan=1>2,360</td><td rowspan=1 colspan=1>-13.6%</td></tr><tr><td rowspan=1 colspan=1>购建固定资产等支付的现金（资本开支）</td><td rowspan=1 colspan=1>620</td><td rowspan=1 colspan=1>950</td><td rowspan=1 colspan=1>+53.2%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9441,
+                "bbox": [
+                    142,
+                    1938,
+                    600,
+                    1973
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8953,
+                "bbox": [
+                    141,
+                    1995,
+                    694,
+                    2035
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8302,
+                "bbox": [
+                    141,
+                    2064,
+                    834,
+                    2102
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9385,
+                "bbox": [
+                    129,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9386,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.987,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1525,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    532,
+                    592,
+                    556
+                ],
+                "score": 0.981,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    585,
+                    745,
+                    615
+                ],
+                "score": 0.973,
+                "text": "表12：合并利润表主要项目（单位：人民币百万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1437,
+                    592,
+                    1461
+                ],
+                "score": 0.979,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1491,
+                    799,
+                    1520
+                ],
+                "score": 0.97,
+                "text": "表13：合并现金流量表主要项目（单位：人民币百万元)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1943,
+                    592,
+                    1968
+                ],
+                "score": 0.984,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2002,
+                    684,
+                    2028
+                ],
+                "score": 0.999,
+                "text": "报告期末主要资产负债项目变动情况如下："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2068,
+                    825,
+                    2097
+                ],
+                "score": 0.983,
+                "text": "表14：主要资产负债项目变动分析（单位：人民币百万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.948,
+                "bbox": [
+                    129,
+                    19,
+                    635,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9372,
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    132,
+                    119,
+                    1521,
+                    516
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年末</td><td rowspan=1 colspan=1>2023年末</td><td rowspan=1 colspan=1>变动幅度</td><td rowspan=1 colspan=1>主要原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>2,360</td><td rowspan=1 colspan=1>2,730</td><td rowspan=1 colspan=1>-13.6%</td><td rowspan=1 colspan=1>南通基地建设与资本开支投入加大</td></tr><tr><td rowspan=1 colspan=1>应收票据及应收账款</td><td rowspan=1 colspan=1>1,580</td><td rowspan=1 colspan=1>1,180</td><td rowspan=1 colspan=1>+33.9%</td><td rowspan=1 colspan=1>四季度设备集中交付形成验收期内应收款</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>2,680</td><td rowspan=1 colspan=1>1,950</td><td rowspan=1 colspan=1>+37.4%</td><td rowspan=1 colspan=1>发出商品随交付量增长（期末占比62%）</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>1,860</td><td rowspan=1 colspan=1>980</td><td rowspan=1 colspan=1>+89.8%</td><td rowspan=1 colspan=1>南通产业化基地土建主体与配套投入</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2,130</td><td rowspan=1 colspan=1>1,470</td><td rowspan=1 colspan=1>+44.9%</td><td rowspan=1 colspan=1>在手订单预收进度款增加</td></tr><tr><td rowspan=1 colspan=1>长期借款</td><td rowspan=1 colspan=1>1,460</td><td rowspan=1 colspan=1>1,150</td><td rowspan=1 colspan=1>+27.0%</td><td rowspan=1 colspan=1>南通基地项目贷款提款</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9504,
+                "bbox": [
+                    142,
+                    526,
+                    600,
+                    561
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9861,
+                "bbox": [
+                    140,
+                    582,
+                    1499,
+                    767
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852,
+                "bbox": [
+                    140,
+                    787,
+                    1511,
+                    974
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.949,
+                "bbox": [
+                    142,
+                    999,
+                    632,
+                    1037
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9893,
+                "bbox": [
+                    133,
+                    1043,
+                    1521,
+                    1437
+                ],
+                "index": 8,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>2023年</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>5,200</td><td rowspan=1 colspan=1>5,600</td><td rowspan=1 colspan=1>高端装备产业扶持与研发专项（税后归母口径）</td></tr><tr><td rowspan=1 colspan=1>理财产品及利息增值收益</td><td rowspan=1 colspan=1>1,200</td><td rowspan=1 colspan=1>1,300</td><td rowspan=1 colspan=1>闲置资金现金管理</td></tr><tr><td rowspan=1 colspan=1>股权处置及投资收益</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>参股公司股权处置</td></tr><tr><td rowspan=1 colspan=1>金融资产公允价值变动损益</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>结构性存款等金融资产</td></tr><tr><td rowspan=1 colspan=1>其他营业外收支净额</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>600</td><td rowspan=1 colspan=1>罚没支出、捐赠等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>7,000</td><td rowspan=1 colspan=1>8,000</td><td rowspan=1 colspan=1>占2024年归母净利润8.4%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9396,
+                "bbox": [
+                    142,
+                    1450,
+                    1213,
+                    1486
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9417,
+                "bbox": [
+                    143,
+                    1507,
+                    788,
+                    1543
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    1550,
+                    1522,
+                    2176
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>股东性质</td><td rowspan=1 colspan=1>持股数量（亿股）</td><td rowspan=1 colspan=1>持股比例</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>上海云浦创业投资合伙企业(有限合伙)</td><td rowspan=1 colspan=1>境内非国有法人</td><td rowspan=1 colspan=1>0.93</td><td rowspan=1 colspan=1>21.8%</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家集成电路产业投资基金二期股份有限公司</td><td rowspan=1 colspan=1>国有法人</td><td rowspan=1 colspan=1>0.35</td><td rowspan=1 colspan=1>8.2%</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>苏州工业园区产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>国有法人</td><td rowspan=1 colspan=1>0.19</td><td rowspan=1 colspan=1>4.5%</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>境外法人</td><td rowspan=1 colspan=1>0.14</td><td rowspan=1 colspan=1>3.2%</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>上海临港科创产业投资合伙企业(有限合伙)</td><td rowspan=1 colspan=1>国有法人</td><td rowspan=1 colspan=1>0.09</td><td rowspan=1 colspan=1>2.2%</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>全国社保基金四一四组合</td><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.09</td><td rowspan=1 colspan=1>2.1%</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>中国国有企业混合所有制改革基金有限公司</td><td rowspan=1 colspan=1>国有法人</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>1.8%</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>基本养老保险基金一二零一组合</td><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>1.3%</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏上证科创板50成份交易型开放式指数基金</td><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>1.1%</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>睿远成长价值混合型证券投资基金</td><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.04</td><td rowspan=1 colspan=1>0.9%</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.936,
+                "bbox": [
+                    129,
+                    2231,
+                    397,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9381,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.988,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1342,
+                    21,
+                    1525,
+                    57
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    531,
+                    592,
+                    556
+                ],
+                "score": 0.984,
+                "text": "资料来源：公司2024年年度报告(经审计)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    590,
+                    1450,
+                    615
+                ],
+                "score": 0.994,
+                "text": "简明分析：公司收入与利润高质量同步增长，合同负债21.3亿元（+44.9%）与发出商品16.6亿元构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    639,
+                    1470,
+                    660
+                ],
+                "score": 0.987,
+                "text": "2025年业绩的前置保障；经营现金流为净利润的83%，与预收款节奏匹配。资本开支与在建工程随南通"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    682,
+                    1490,
+                    710
+                ],
+                "score": 1.0,
+                "text": "基地推进显著上升，资金来源以自有现金为主，财务风险可控。经审阅，公司财务报表在所有重大方面公"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    729,
+                    1178,
+                    755
+                ],
+                "score": 1.0,
+                "text": "允反映了2024年12月31日的合并财务状况及2024年度合并经营成果和现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    795,
+                    1501,
+                    821
+                ],
+                "score": 0.99,
+                "text": "审计情况说明：中衡会计师事务所（特殊普通合伙）对公司2024年度财务报表实施了审计，并出具标准无"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    843,
+                    1500,
+                    869
+                ],
+                "score": 0.984,
+                "text": "保留意见的审计报告(中衡审字[2025]第0521号)，不涉及与持续经营相关的重大不确定性；该所同时对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    889,
+                    1498,
+                    915
+                ],
+                "score": 1.0,
+                "text": "公司财务报告内部控制的有效性出具了标准无保留意见的内部控制审计报告。公司自2021年度起连续聘请"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    937,
+                    1327,
+                    963
+                ],
+                "score": 1.0,
+                "text": "该所提供审计服务，本节所列财务数据均取自经审计的合并财务报表，口径与审计报告一致。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1005,
+                    624,
+                    1031
+                ],
+                "score": 0.969,
+                "text": "附表1：非经常性损益明细（单位：万元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1455,
+                    1203,
+                    1479
+                ],
+                "score": 0.985,
+                "text": "资料来源：公司2024年年度报告（已列示为税后归母口径，合计与第二节非经常性损益0.70亿元一致）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1513,
+                    780,
+                    1539
+                ],
+                "score": 0.968,
+                "text": "附表2：前十大股东持股情况(截至2024年12月31日)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9423,
+                "bbox": [
+                    129,
+                    19,
+                    635,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9394,
+                "bbox": [
+                    1345,
+                    23,
+                    1522,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9793,
+                "bbox": [
+                    133,
+                    119,
+                    1520,
+                    233
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>股东性质</td><td rowspan=1 colspan=1>持股数量（亿股)</td><td rowspan=1 colspan=1>持股比例</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2.02</td><td rowspan=1 colspan=1>47.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.8361,
+                "bbox": [
+                    141,
+                    242,
+                    1487,
+                    311
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8719,
+                "bbox": [
+                    142,
+                    332,
+                    921,
+                    369
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9872,
+                "bbox": [
+                    133,
+                    377,
+                    1519,
+                    726
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>募投项目</td><td rowspan=1 colspan=1>承诺投入（万元）</td><td rowspan=1 colspan=1>累计投入（万元）</td><td rowspan=1 colspan=1>投入进度</td><td rowspan=1 colspan=1>项目状态</td></tr><tr><td rowspan=1 colspan=1>高端刻蚀设备产业化项目</td><td rowspan=1 colspan=1>185,000</td><td rowspan=1 colspan=1>179,200</td><td rowspan=1 colspan=1>96.8%</td><td rowspan=1 colspan=1>已达预定可使用状态并批量交付</td></tr><tr><td rowspan=1 colspan=1>研发中心建设项目</td><td rowspan=1 colspan=1>36,000</td><td rowspan=1 colspan=1>31,000</td><td rowspan=1 colspan=1>86.1%</td><td rowspan=1 colspan=1>已结项</td></tr><tr><td rowspan=1 colspan=1>营销与技术服务网络建设项目</td><td rowspan=1 colspan=1>22,000</td><td rowspan=1 colspan=1>14,000</td><td rowspan=1 colspan=1>63.6%</td><td rowspan=1 colspan=1>结合海外拓展计划调整至2025年末</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>243,000</td><td rowspan=1 colspan=1>224,200</td><td rowspan=1 colspan=1>92.2%</td><td rowspan=1 colspan=1>超募资金用于南通基地建设与补充流动资金</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.941,
+                "bbox": [
+                    143,
+                    738,
+                    954,
+                    772
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    140,
+                    794,
+                    1510,
+                    1026
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9406,
+                "bbox": [
+                    156,
+                    1067,
+                    826,
+                    1103
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9422,
+                "bbox": [
+                    130,
+                    2231,
+                    396,
+                    2263
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9378,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 11
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    129,
+                    19,
+                    634,
+                    56
+                ],
+                "score": 0.988,
+                "text": "云浦微电（688586.SH）2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1344,
+                    23,
+                    1523,
+                    55
+                ],
+                "score": 1.0,
+                "text": "2025年03月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    247,
+                    1480,
+                    270
+                ],
+                "score": 0.996,
+                "text": "资料来源：公司2024年年度报告（香港中央结算有限公司所持股份为沪股通渠道名义持有；控股股东所持股份不存在质押、冻结"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    279,
+                    210,
+                    310
+                ],
+                "score": 0.995,
+                "text": "情形)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    336,
+                    913,
+                    365
+                ],
+                "score": 0.977,
+                "text": "附表3：首次公开发行募集资金使用情况（截至2024年12月31日）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    745,
+                    943,
+                    765
+                ],
+                "score": 0.981,
+                "text": "资料来源：公司2024年年度报告(超募资金使用已经公司股东大会审议通过）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    800,
+                    1499,
+                    826
+                ],
+                "score": 0.987,
+                "text": "备查文件：(一）载有公司法定代表人、主管会计工作负责人及会计机构负责人签名并盖章的2024年度财"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    848,
+                    1490,
+                    873
+                ],
+                "score": 0.98,
+                "text": "务报表；（二）载有会计师事务所盖章、注册会计师签名并盖章的审计报告原件；（三）报告期内在中国"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    895,
+                    1499,
+                    920
+                ],
+                "score": 0.983,
+                "text": "证监会指定信息披露媒体公开披露过的所有文件的正本及公告原稿；(四）公司2024年度内部控制评价报"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    941,
+                    1488,
+                    966
+                ],
+                "score": 0.976,
+                "text": "告：（五）报告期内经股东大会审议通过的定期报告及相关决议文件。以上备查文件存放于公司董事会办"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    990,
+                    888,
+                    1015
+                ],
+                "score": 1.0,
+                "text": "公室，投资者可登录上海证券交易所网站或公司网站查阅。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    1074,
+                    818,
+                    1096
+                ],
+                "score": 0.989,
+                "text": "(本报告为虚构公司模拟数据，仅供知识库检索与研究测试使用)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2237,
+                    391,
+                    2259
+                ],
+                "score": 1.0,
+                "text": "云浦微电2024年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第12页/共12页"
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

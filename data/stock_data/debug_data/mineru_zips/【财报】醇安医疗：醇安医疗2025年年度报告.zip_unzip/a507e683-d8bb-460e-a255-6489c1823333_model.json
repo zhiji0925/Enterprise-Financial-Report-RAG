@@ -1,0 +1,4736 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9245,
+                "bbox": [
+                    127,
+                    19,
+                    896,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6668,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9686,
+                "bbox": [
+                    314,
+                    395,
+                    1334,
+                    480
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5285,
+                "bbox": [
+                    680,
+                    536,
+                    971,
+                    582
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7807,
+                "bbox": [
+                    458,
+                    669,
+                    1194,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9332,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9257,
+                "bbox": [
+                    552,
+                    1156,
+                    1099,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9423,
+                "bbox": [
+                    127,
+                    2232,
+                    636,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9301,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    895,
+                    56
+                ],
+                "score": 0.979,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    21,
+                    1527,
+                    59
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    320,
+                    400,
+                    1329,
+                    477
+                ],
+                "score": 1.0,
+                "text": "苏州醇安医疗器械股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    538,
+                    966,
+                    582
+                ],
+                "score": 1.0,
+                "text": "2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    467,
+                    677,
+                    1186,
+                    712
+                ],
+                "score": 0.985,
+                "text": "(股票简称：醇安医疗股票代码：300781.SZ)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    678,
+                    747,
+                    974,
+                    776
+                ],
+                "score": 0.979,
+                "text": "(深圳证券交易所创业板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月10日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    560,
+                    1163,
+                    1092,
+                    1187
+                ],
+                "score": 0.995,
+                "text": "公司统一社会信用代码：91320594MA25Q1N6YT"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.997,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9378,
+                "bbox": [
+                    127,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8688,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9471,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9742,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    141,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9662,
+                "bbox": [
+                    142,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9721,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9715,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9463,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9404,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9687,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9435,
+                "bbox": [
+                    128,
+                    2232,
+                    634,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9373,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    313,
+                    1475,
+                    338
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    357,
+                    1472,
+                    386
+                ],
+                "score": 0.964,
+                "text": "红利4.00元（含税），合计派发现金红利1.92亿元(含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    405,
+                    882,
+                    435
+                ],
+                "score": 1.0,
+                "text": "31.89%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    514,
+                    279,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.982,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.964,
+                "text": "报告(中衡审字[2026]第0312号)。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    930,
+                    1491,
+                    959
+                ],
+                "score": 0.986,
+                "text": "八、公司负责人程书堂、主管会计工作负责人冉静姝及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.997,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    629,
+                    2260
+                ],
+                "score": 0.994,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9443,
+                "bbox": [
+                    127,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8884,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    54
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9759,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9302,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9431,
+                "bbox": [
+                    128,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.935,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1527,
+                    57
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.95,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 1.0,
+                "text": "第四节管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.964,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.997,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9504,
+                "bbox": [
+                    127,
+                    19,
+                    895,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9061,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6208,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、醇安医疗</td><td rowspan=1 colspan=1>指苏州醇安医疗器械股份有限公司</td></tr><tr><td rowspan=1 colspan=1>骨科植入耗材</td><td rowspan=1 colspan=1>指植入人体用于骨折固定、脊柱矫形、韧带修复等治疗的医疗器械</td></tr><tr><td rowspan=1 colspan=1>带线锚钉</td><td rowspan=1 colspan=1>指运动医学手术中将缝线固定于骨质的植入物</td></tr><tr><td rowspan=1 colspan=1>椎体成形</td><td rowspan=1 colspan=1>指向病变椎体内注入骨水泥以稳定椎体的微创术式</td></tr><tr><td rowspan=1 colspan=1>集采续约</td><td rowspan=1 colspan=1>指集中带量采购协议期满后就下一采购周期的再次招标</td></tr><tr><td rowspan=1 colspan=1>运动医学</td><td rowspan=1 colspan=1>指针对关节、韧带、软骨等运动系统损伤的诊疗领域</td></tr><tr><td rowspan=1 colspan=1>EPD/电动工具</td><td rowspan=1 colspan=1>指手术中使用的电池动力手术器械系统</td></tr><tr><td rowspan=1 colspan=1>MDR</td><td rowspan=1 colspan=1>指欧盟医疗器械法规新的注册监管体系</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9641,
+                "bbox": [
+                    143,
+                    797,
+                    468,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    141,
+                    868,
+                    1490,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9857,
+                "bbox": [
+                    141,
+                    1026,
+                    1498,
+                    1164
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9776,
+                "bbox": [
+                    141,
+                    1184,
+                    1498,
+                    1275
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9528,
+                "bbox": [
+                    200,
+                    1295,
+                    570,
+                    1335
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.964,
+                "bbox": [
+                    142,
+                    1383,
+                    693,
+                    1433
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9528,
+                "bbox": [
+                    142,
+                    1467,
+                    412,
+                    1509
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4834,
+                "bbox": [
+                    145,
+                    1534,
+                    314,
+                    1569
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    132,
+                    1579,
+                    1521,
+                    2146
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>苏州醇安医疗器械股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>醇安医疗</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>300781.SZ</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>深圳证券交易所创业板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省苏州市工业园区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2021年3月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>医疗器械（骨科植入耗材）</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>程书堂</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>白清越</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9467,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9403,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    19,
+                    894,
+                    56
+                ],
+                "score": 0.979,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    795,
+                    463,
+                    847
+                ],
+                "score": 0.988,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    871,
+                    1472,
+                    902
+                ],
+                "score": 0.999,
+                "text": "2025年，骨科耗材行业完成了从'集采冲击'到'量价修复'的转折。醇安医疗实现营业收入31.20亿元，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    922,
+                    1478,
+                    947
+                ],
+                "score": 1.0,
+                "text": "同比增长19.5%；归属于上市公司股东的净利润6.02亿元，同比增长12.5%；综合毛利率62.5%，恢复到"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    971,
+                    449,
+                    996
+                ],
+                "score": 1.0,
+                "text": "集采前的最好水平之上。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1034,
+                    1489,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "这一年，公司做了三件正确的事：一是抓集采续约的窗口，创伤与脊柱主力产品全线中选且价格企稳"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1082,
+                    1481,
+                    1107
+                ],
+                "score": 0.999,
+                "text": "；二是把运动医学做成第二增长曲线，收入同比增长31.7%，带线锚钉与全缝合修复产品进入400余家核"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1128,
+                    1352,
+                    1153
+                ],
+                "score": 1.0,
+                "text": "心医院；三是坚持出海，境外收入占比提升至14.0%，在东南亚与中东建立本地化经销商体系。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1192,
+                    1489,
+                    1218
+                ],
+                "score": 0.998,
+                "text": "骨科的竞争力最终是'产品+手术服务能力'的竞争。2026年，公司将推进3D打印定制化假体注册与机"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1237,
+                    1475,
+                    1267
+                ],
+                "score": 1.0,
+                "text": "器人辅助手术工具生态，把创新产品收入占比提升到25%以上。感谢每一位信任醇安的股东与临床伙伴。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1300,
+                    562,
+                    1334
+                ],
+                "score": 1.0,
+                "text": "董事长：程书堂2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1385,
+                    685,
+                    1429
+                ],
+                "score": 0.979,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1466,
+                    407,
+                    1511
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1539,
+                    309,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9276,
+                "bbox": [
+                    127,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.908,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    346
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>冉静姝</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>5,600</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    142,
+                    375,
+                    414,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    141,
+                    434,
+                    1506,
+                    524
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782,
+                "bbox": [
+                    140,
+                    545,
+                    1498,
+                    635
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    142,
+                    667,
+                    573,
+                    712
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8042,
+                "bbox": [
+                    143,
+                    736,
+                    526,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    783,
+                    1520,
+                    1323
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>26.10</td><td rowspan=1 colspan=1>+19.5%</td><td rowspan=1 colspan=1>22.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>6.02</td><td rowspan=1 colspan=1>5.35</td><td rowspan=1 colspan=1>+12.5%</td><td rowspan=1 colspan=1>4.72</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>5.48</td><td rowspan=1 colspan=1>4.96</td><td rowspan=1 colspan=1>+10.5%</td><td rowspan=1 colspan=1>4.38</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>7.20</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>+30.9%</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>1.25</td><td rowspan=1 colspan=1>1.11</td><td rowspan=1 colspan=1>+12.5%</td><td rowspan=1 colspan=1>0.98</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%)</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>13.00</td><td rowspan=1 colspan=1>增加1.20个百分点</td><td rowspan=1 colspan=1>11.90</td></tr><tr><td rowspan=1 colspan=1>总资产 (亿元)</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>56.80</td><td rowspan=1 colspan=1>+3.2%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>43.90</td><td rowspan=1 colspan=1>40.90</td><td rowspan=1 colspan=1>+7.3%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9541,
+                "bbox": [
+                    142,
+                    1335,
+                    968,
+                    1371
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9575,
+                "bbox": [
+                    142,
+                    1398,
+                    573,
+                    1442
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9271,
+                "bbox": [
+                    144,
+                    1466,
+                    511,
+                    1504
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883,
+                "bbox": [
+                    132,
+                    1512,
+                    1520,
+                    1794
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.20</td><td rowspan=1 colspan=1>高端医疗器械产业化专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.14</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.20</td><td rowspan=1 colspan=1>增值税加计抵减及资产处置收益</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.54</td><td rowspan=1 colspan=1>占归母净利润比例 9.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9562,
+                "bbox": [
+                    144,
+                    1805,
+                    825,
+                    1840
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.961,
+                "bbox": [
+                    143,
+                    1867,
+                    508,
+                    1910
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8418,
+                "bbox": [
+                    143,
+                    1936,
+                    485,
+                    1973
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9855,
+                "bbox": [
+                    132,
+                    1981,
+                    1521,
+                    2151
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>7.00</td><td rowspan=1 colspan=1>7.60</td><td rowspan=1 colspan=1>8.10</td><td rowspan=1 colspan=1>8.50</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>1.32</td><td rowspan=1 colspan=1>1.44</td><td rowspan=1 colspan=1>1.56</td><td rowspan=1 colspan=1>1.70</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9469,
+                "bbox": [
+                    127,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9364,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ)2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    376,
+                    409,
+                    419
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    442,
+                    1498,
+                    467
+                ],
+                "score": 1.0,
+                "text": "公司成立于2005年，总部位于苏州，2021年3月在深圳证券交易所创业板上市，是国内骨科植入耗材"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    489,
+                    1004,
+                    515
+                ],
+                "score": 1.0,
+                "text": "领域的头部企业之一，产品覆盖创伤、脊柱、运动医学三大产品线。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    553,
+                    1489,
+                    578
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司取得医疗器械注册证138项，其中国家三类证52项；建有苏州与常州两个生产与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    600,
+                    640,
+                    626
+                ],
+                "score": 0.999,
+                "text": "灭菌基地，年产植入物能力1,100万件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    672,
+                    566,
+                    709
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    743,
+                    519,
+                    768
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1342,
+                    960,
+                    1364
+                ],
+                "score": 1.0,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1402,
+                    565,
+                    1438
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1473,
+                    504,
+                    1498
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1812,
+                    817,
+                    1833
+                ],
+                "score": 1.0,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1873,
+                    501,
+                    1906
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1941,
+                    478,
+                    1967
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9432,
+                "bbox": [
+                    127,
+                    19,
+                    896,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8814,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9503,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9576,
+                "bbox": [
+                    141,
+                    205,
+                    605,
+                    248
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9822,
+                "bbox": [
+                    140,
+                    264,
+                    1501,
+                    399
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9836,
+                "bbox": [
+                    140,
+                    421,
+                    1508,
+                    559
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9492,
+                "bbox": [
+                    142,
+                    585,
+                    641,
+                    623
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9739,
+                "bbox": [
+                    225,
+                    642,
+                    1467,
+                    1143
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9153,
+                "bbox": [
+                    143,
+                    1170,
+                    1024,
+                    1206
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9491,
+                "bbox": [
+                    141,
+                    1232,
+                    637,
+                    1276
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.977,
+                "bbox": [
+                    140,
+                    1292,
+                    1480,
+                    1382
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    143,
+                    1402,
+                    1485,
+                    1493
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9515,
+                "bbox": [
+                    142,
+                    1524,
+                    573,
+                    1568
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9036,
+                "bbox": [
+                    143,
+                    1593,
+                    498,
+                    1630
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9867,
+                "bbox": [
+                    132,
+                    1639,
+                    1520,
+                    1918
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>创伤类产品</td><td rowspan=1 colspan=1>14.98</td><td rowspan=1 colspan=1>48.0%</td><td rowspan=1 colspan=1>60.5%</td><td rowspan=1 colspan=1>+16.6%</td></tr><tr><td rowspan=1 colspan=1>脊柱类产品</td><td rowspan=1 colspan=1>9.04</td><td rowspan=1 colspan=1>29.0%</td><td rowspan=1 colspan=1>63.8%</td><td rowspan=1 colspan=1>+15.9%</td></tr><tr><td rowspan=1 colspan=1>运动医学类产品</td><td rowspan=1 colspan=1>7.18</td><td rowspan=1 colspan=1>23.0%</td><td rowspan=1 colspan=1>64.2%</td><td rowspan=1 colspan=1>+31.7%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>62.5%</td><td rowspan=1 colspan=1>+19.5%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9716,
+                "bbox": [
+                    139,
+                    1926,
+                    1502,
+                    2061
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.509,
+                "bbox": [
+                    141,
+                    2088,
+                    668,
+                    2125
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9419,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9337,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    895,
+                    56
+                ],
+                "score": 0.979,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    209,
+                    597,
+                    247
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    271,
+                    1487,
+                    296
+                ],
+                "score": 0.996,
+                "text": "骨科耗材集采在主要标全面落地后进入'后集采'时代，2025年多省创伤、脊柱集采续约报价趋于理性"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    314,
+                    1493,
+                    346
+                ],
+                "score": 0.992,
+                "text": "，中标价格降幅明显收窄，行业进入量价修复期。2025年国内骨科植入物市场规模约360亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    362,
+                    253,
+                    395
+                ],
+                "score": 1.0,
+                "text": "约15%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    429,
+                    1491,
+                    454
+                ],
+                "score": 1.0,
+                "text": "需求端，人口老龄化与运动损伤年轻化共同驱动手术量增长；供给端，行业格局重塑后头部企业份额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    477,
+                    1500,
+                    502
+                ],
+                "score": 0.986,
+                "text": "提升，创新产品（3D打印、数字化手术工具、生物材料）成为新的竞争焦点。海外新兴市场对中国骨科产"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    524,
+                    420,
+                    549
+                ],
+                "score": 1.0,
+                "text": "品的接受度持续提高。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    587,
+                    635,
+                    621
+                ],
+                "score": 0.959,
+                "text": "图1：2022-2025年公司综合毛利率(%）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1178,
+                    1016,
+                    1200
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司历年年度报告；2023年为集采全面落地冲击年，2024年起量价修复"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1238,
+                    627,
+                    1273
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1298,
+                    1471,
+                    1324
+                ],
+                "score": 0.993,
+                "text": "公司主营业务为骨科植入耗材及配套手术工具的研发、生产与销售，主要产品覆盖创伤接骨板/髓内"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1346,
+                    1351,
+                    1371
+                ],
+                "score": 0.999,
+                "text": "钉、脊柱椎弓根螺钉/融合器、运动医学锚钉/缝线等，并为医疗机构提供全流程手术配套服务。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1410,
+                    1476,
+                    1436
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司集采主力产品在13个省级续约标的中全线中选；3D打印椎间融合器取得三类注册证"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1453,
+                    1120,
+                    1485
+                ],
+                "score": 1.0,
+                "text": "，成为国产首批获批的同代产品；海外在巴西、沙特完成两款脊柱产品注册。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1527,
+                    567,
+                    1568
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1596,
+                    492,
+                    1628
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1929,
+                    1476,
+                    1958
+                ],
+                "score": 1.0,
+                "text": "创伤类产品收入14.98亿元，同比增长16.6%，量价修复驱动明显；脊柱类产品收入9.04亿元，同比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1974,
+                    1494,
+                    2005
+                ],
+                "score": 0.991,
+                "text": "增长15.9%，3D打印融合器贡献增量；运动医学类产品收入7.18亿元，同比增长31.7%，是公司成长最快"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2021,
+                    252,
+                    2058
+                ],
+                "score": 1.0,
+                "text": "的板块。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2089,
+                    661,
+                    2124
+                ],
+                "score": 0.982,
+                "text": "图2：2023-2025年分板块营业收入（亿元）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8036,
+                "bbox": [
+                    128,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8871,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9754,
+                "bbox": [
+                    244,
+                    119,
+                    1468,
+                    637
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9278,
+                "bbox": [
+                    145,
+                    671,
+                    493,
+                    705
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9397,
+                "bbox": [
+                    145,
+                    728,
+                    432,
+                    762
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9841,
+                "bbox": [
+                    132,
+                    772,
+                    1521,
+                    997
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>26.83</td><td rowspan=1 colspan=1>86.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>4.37</td><td rowspan=1 colspan=1>14.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9465,
+                "bbox": [
+                    142,
+                    1009,
+                    728,
+                    1044
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.956,
+                "bbox": [
+                    143,
+                    1071,
+                    412,
+                    1114
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9059,
+                "bbox": [
+                    144,
+                    1139,
+                    535,
+                    1177
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9858,
+                "bbox": [
+                    133,
+                    1186,
+                    1520,
+                    1411
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>钛材及植入物原材料</td><td rowspan=1 colspan=1>41.5%</td><td rowspan=1 colspan=1>44.2%</td><td rowspan=1 colspan=1>钛材价格回落与工艺良率提升</td></tr><tr><td rowspan=1 colspan=1>灭菌包装及耗材</td><td rowspan=1 colspan=1>18.6%</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>自建灭菌中心投产</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>39.9%</td><td rowspan=1 colspan=1>37.8%</td><td rowspan=1 colspan=1>常州基地产能爬坡</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9551,
+                "bbox": [
+                    143,
+                    1442,
+                    507,
+                    1485
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8879,
+                "bbox": [
+                    144,
+                    1511,
+                    313,
+                    1547
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.986,
+                "bbox": [
+                    132,
+                    1556,
+                    1521,
+                    1835
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>5.85</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+14.7%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>+8.3%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>+13.5%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.18</td><td rowspan=1 colspan=1>-0.15</td><td rowspan=1 colspan=1>+20.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.766,
+                "bbox": [
+                    140,
+                    1842,
+                    1488,
+                    1932
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561,
+                "bbox": [
+                    142,
+                    1964,
+                    412,
+                    2007
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4776,
+                "bbox": [
+                    142,
+                    2034,
+                    366,
+                    2069
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9412,
+                "bbox": [
+                    128,
+                    2231,
+                    634,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9328,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    678,
+                    488,
+                    702
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    729,
+                    428,
+                    761
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1016,
+                    722,
+                    1037
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的23.8%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1074,
+                    408,
+                    1115
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1146,
+                    528,
+                    1172
+                ],
+                "score": 0.952,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1447,
+                    500,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1515,
+                    308,
+                    1544
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1844,
+                    1479,
+                    1874
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计2.35亿元，占营业收入比例7.5%，其中费用化研发费用2.10亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1894,
+                    1107,
+                    1923
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.25亿元；研发人员1,020人，占员工总数比例18.2%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1968,
+                    405,
+                    2006
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2036,
+                    360,
+                    2066
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.924,
+                "bbox": [
+                    128,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9141,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    340
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>7.20</td><td rowspan=1 colspan=1>5.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.40</td><td rowspan=1 colspan=1>-2.00</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>1.20</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9043,
+                "bbox": [
+                    141,
+                    349,
+                    1496,
+                    438
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9625,
+                "bbox": [
+                    142,
+                    471,
+                    572,
+                    514
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8379,
+                "bbox": [
+                    142,
+                    540,
+                    446,
+                    576
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.987,
+                "bbox": [
+                    132,
+                    585,
+                    1520,
+                    811
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>13.20</td><td rowspan=1 colspan=1>-3.0%</td><td rowspan=1 colspan=1>经营积累，理财结构调节</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>16.50</td><td rowspan=1 colspan=1>+12.7%</td><td rowspan=1 colspan=1>常州运动医学产线投入</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>-2.0%</td><td rowspan=1 colspan=1>集采回款账期稳定</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9615,
+                "bbox": [
+                    142,
+                    842,
+                    510,
+                    885
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    140,
+                    900,
+                    1503,
+                    990
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    140,
+                    1012,
+                    1484,
+                    1101
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9525,
+                "bbox": [
+                    142,
+                    1134,
+                    350,
+                    1178
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9606,
+                "bbox": [
+                    141,
+                    1191,
+                    1073,
+                    1232
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9529,
+                "bbox": [
+                    197,
+                    1256,
+                    1508,
+                    1297
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9423,
+                "bbox": [
+                    197,
+                    1319,
+                    1130,
+                    1360
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    198,
+                    1383,
+                    1228,
+                    1424
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9621,
+                "bbox": [
+                    198,
+                    1447,
+                    1187,
+                    1488
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9596,
+                "bbox": [
+                    199,
+                    1511,
+                    1071,
+                    1553
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9598,
+                "bbox": [
+                    143,
+                    1599,
+                    467,
+                    1647
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9797,
+                "bbox": [
+                    140,
+                    1669,
+                    1491,
+                    1759
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.983,
+                "bbox": [
+                    140,
+                    1780,
+                    1483,
+                    1915
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    140,
+                    1939,
+                    1510,
+                    2075
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9599,
+                "bbox": [
+                    143,
+                    2122,
+                    429,
+                    2169
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9475,
+                "bbox": [
+                    127,
+                    2232,
+                    634,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9378,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    352,
+                    1488,
+                    382
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额7.20亿元，同比增长30.9%，集采结算方式下回款确定性增强；投资"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    402,
+                    770,
+                    427
+                ],
+                "score": 1.0,
+                "text": "活动净流出2.40亿元；筹资活动净流入0.80亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    471,
+                    565,
+                    511
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    542,
+                    440,
+                    574
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    846,
+                    501,
+                    881
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    906,
+                    1497,
+                    936
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入37亿元左右，同比增长约19%；运动医学收入突破9亿元，境外收入占比"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    954,
+                    1035,
+                    984
+                ],
+                "score": 1.0,
+                "text": "提升至17%；推进手术机器人配套工具注册与骨科数字化平台商业化。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1020,
+                    1474,
+                    1045
+                ],
+                "score": 1.0,
+                "text": "产能方面，常州运动医学二期产线将于2026年上半年投产，新增锚钉年产能60万件；公司将建设骨"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1065,
+                    883,
+                    1090
+                ],
+                "score": 0.995,
+                "text": "科3D打印定制化服务中心，缩短定制假体交付周期至7天。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1136,
+                    344,
+                    1178
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1198,
+                    1063,
+                    1225
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1262,
+                    1502,
+                    1291
+                ],
+                "score": 1.0,
+                "text": "集采价格风险：若未来续约集采降价超预期或集采范围扩大，公司主力产品价格与盈利能力将受影响。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1326,
+                    1120,
+                    1353
+                ],
+                "score": 1.0,
+                "text": "产品结构风险：公司收入集中于骨科单一领域，跨赛道布局尚在培育期。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1390,
+                    1219,
+                    1417
+                ],
+                "score": 1.0,
+                "text": "海外注册风险：境外认证周期长、投入大，MDR等法规变化可能影响出海进度。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1454,
+                    1178,
+                    1481
+                ],
+                "score": 1.0,
+                "text": "经销商管理风险：公司以经销为主，渠道库存与终端价格秩序存在管理挑战。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1519,
+                    1062,
+                    1545
+                ],
+                "score": 1.0,
+                "text": "研发转化风险：创新产品注册临床周期长，投入产出存在不确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1590,
+                    463,
+                    1648
+                ],
+                "score": 0.961,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1674,
+                    1485,
+                    1705
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1724,
+                    1147,
+                    1750
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1786,
+                    1477,
+                    1815
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1834,
+                    1413,
+                    1864
+                ],
+                "score": 0.965,
+                "text": "4.00元（含税)，合计派发现金红利1.92亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1878,
+                    266,
+                    1914
+                ],
+                "score": 0.985,
+                "text": "31.89%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1944,
+                    1502,
+                    1975
+                ],
+                "score": 0.984,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙)，报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1991,
+                    1499,
+                    2022
+                ],
+                "score": 0.976,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2039,
+                    618,
+                    2069
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2115,
+                    428,
+                    2172
+                ],
+                "score": 0.992,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    630,
+                    2260
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.939,
+                "bbox": [
+                    127,
+                    19,
+                    896,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8994,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9871,
+                "bbox": [
+                    139,
+                    122,
+                    1505,
+                    306
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9791,
+                "bbox": [
+                    140,
+                    327,
+                    1499,
+                    417
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.975,
+                "bbox": [
+                    141,
+                    438,
+                    1500,
+                    527
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9655,
+                "bbox": [
+                    142,
+                    573,
+                    806,
+                    623
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9555,
+                "bbox": [
+                    141,
+                    655,
+                    413,
+                    699
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9148,
+                "bbox": [
+                    142,
+                    724,
+                    368,
+                    760
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9881,
+                "bbox": [
+                    132,
+                    770,
+                    1519,
+                    1047
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>医疗废物规范化处置率</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>持平</td></tr><tr><td rowspan=1 colspan=1>综合能耗 (吨标准煤)</td><td rowspan=1 colspan=1>12,600</td><td rowspan=1 colspan=1>+2.1%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>30,200</td><td rowspan=1 colspan=1>+2.8%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元)</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>+12.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9146,
+                "bbox": [
+                    199,
+                    1056,
+                    1506,
+                    1097
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.948,
+                "bbox": [
+                    142,
+                    1129,
+                    350,
+                    1173
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    140,
+                    1188,
+                    1503,
+                    1279
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9565,
+                "bbox": [
+                    143,
+                    1310,
+                    479,
+                    1354
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9769,
+                "bbox": [
+                    140,
+                    1370,
+                    1498,
+                    1460
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9584,
+                "bbox": [
+                    142,
+                    1504,
+                    433,
+                    1552
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9785,
+                "bbox": [
+                    141,
+                    1575,
+                    1503,
+                    1663
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9605,
+                "bbox": [
+                    199,
+                    1686,
+                    1042,
+                    1726
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9607,
+                "bbox": [
+                    199,
+                    1750,
+                    809,
+                    1790
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9607,
+                "bbox": [
+                    199,
+                    1813,
+                    1309,
+                    1855
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    141,
+                    1878,
+                    1500,
+                    1966
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9144,
+                "bbox": [
+                    142,
+                    2013,
+                    618,
+                    2061
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434,
+                "bbox": [
+                    143,
+                    2088,
+                    351,
+                    2126
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.944,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9388,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    895,
+                    56
+                ],
+                "score": 0.979,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1446,
+                    19,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    125,
+                    1492,
+                    156
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    176,
+                    1497,
+                    201
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    224,
+                    1489,
+                    250
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    270,
+                    465,
+                    295
+                ],
+                "score": 0.994,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    335,
+                    1490,
+                    360
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    382,
+                    1222,
+                    408
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    444,
+                    1492,
+                    474
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    490,
+                    333,
+                    519
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    575,
+                    798,
+                    621
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    657,
+                    406,
+                    698
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    730,
+                    361,
+                    756
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1060,
+                    1497,
+                    1085
+                ],
+                "score": 0.997,
+                "text": "公司在行业内较早推行植入物可追溯UDI系统全覆盖，报告期内对11家上游供应商完成社会责任审核"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1127,
+                    345,
+                    1178
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1195,
+                    1494,
+                    1220
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数5,600人，其中研发人员1,020人。报告期内公司持续完善职业发展通道与培"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1241,
+                    1471,
+                    1271
+                ],
+                "score": 1.0,
+                "text": "训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1313,
+                    470,
+                    1354
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1375,
+                    1492,
+                    1405
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1422,
+                    1027,
+                    1448
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1502,
+                    426,
+                    1553
+                ],
+                "score": 0.98,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1581,
+                    1495,
+                    1610
+                ],
+                "score": 1.0,
+                "text": "集采中标情况：报告期内公司参与13个省级骨科耗材集采续约项目并全线中选，价格降幅与上一采购"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1628,
+                    393,
+                    1657
+                ],
+                "score": 1.0,
+                "text": "周期相比明显收窄。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1693,
+                    1032,
+                    1719
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1757,
+                    799,
+                    1783
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1821,
+                    1300,
+                    1847
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为95万元，程序合规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1885,
+                    1491,
+                    1910
+                ],
+                "score": 1.0,
+                "text": "股权激励：报告期内公司实施2025年第二期限制性股票激励计划，向112名核心技术与营销人员授予"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1931,
+                    1030,
+                    1956
+                ],
+                "score": 1.0,
+                "text": "260万股，考核目标为2026-2028年营业收入复合增长率不低于15%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2015,
+                    611,
+                    2059
+                ],
+                "score": 0.977,
+                "text": "第九节 股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2090,
+                    346,
+                    2125
+                ],
+                "score": 0.914,
+                "text": "股份结构 (万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.997,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9272,
+                "bbox": [
+                    128,
+                    19,
+                    895,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8924,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    120,
+                    1522,
+                    345
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>37,440.0</td><td rowspan=1 colspan=1>78.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>10,560.0</td><td rowspan=1 colspan=1>22.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>48,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9312,
+                "bbox": [
+                    143,
+                    376,
+                    444,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5304,
+                "bbox": [
+                    143,
+                    444,
+                    550,
+                    481
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    131,
+                    490,
+                    1521,
+                    1166
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>醇安控股集团有限公司</td><td rowspan=1 colspan=1>26.40%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>苏州工业园区科创基金（有限合伙)</td><td rowspan=1 colspan=1>7.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>国药资本医疗产业基金</td><td rowspan=1 colspan=1>4.10%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——四组合</td><td rowspan=1 colspan=1>3.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零六组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>泰康人寿保险一分红险产品</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>醇安员工持股计划</td><td rowspan=1 colspan=1>1.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>易方达创业板ETF</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>招商国证生物医药指数基金</td><td rowspan=1 colspan=1>1.05%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>55.25%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9268,
+                "bbox": [
+                    140,
+                    1172,
+                    1477,
+                    1262
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9583,
+                "bbox": [
+                    142,
+                    1306,
+                    430,
+                    1357
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9434,
+                "bbox": [
+                    142,
+                    1390,
+                    349,
+                    1433
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9851,
+                "bbox": [
+                    139,
+                    1448,
+                    1509,
+                    1632
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9532,
+                "bbox": [
+                    142,
+                    1663,
+                    680,
+                    1709
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4721,
+                "bbox": [
+                    143,
+                    1734,
+                    391,
+                    1771
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    131,
+                    1779,
+                    1522,
+                    2176
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>13.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.60</td><td rowspan=1 colspan=1>9.80</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>6.40</td><td rowspan=1 colspan=1>6.10</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>16.50</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>11.20</td><td rowspan=1 colspan=1>11.20</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>56.80</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9393,
+                "bbox": [
+                    127,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9377,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    377,
+                    438,
+                    418
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    449,
+                    545,
+                    479
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1177,
+                    1470,
+                    1207
+                ],
+                "score": 1.0,
+                "text": "公司控股股东为醇安控股集团有限公司，实际控制人为程书堂。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1221,
+                    280,
+                    1259
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1300,
+                    428,
+                    1359
+                ],
+                "score": 0.972,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1389,
+                    344,
+                    1434
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1456,
+                    1496,
+                    1481
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1503,
+                    1499,
+                    1528
+                ],
+                "score": 0.987,
+                "text": "意见（中衡审字[2026]第0312号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1550,
+                    1489,
+                    1576
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1595,
+                    277,
+                    1626
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1668,
+                    672,
+                    1706
+                ],
+                "score": 0.953,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1739,
+                    386,
+                    1768
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.995,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8801,
+                "bbox": [
+                    128,
+                    19,
+                    896,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9037,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    457
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初 (亿元)</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>5.60</td><td rowspan=1 colspan=1>6.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>1.30</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>8.30</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>14.70</td><td rowspan=1 colspan=1>15.90</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>43.90</td><td rowspan=1 colspan=1>40.90</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9465,
+                "bbox": [
+                    141,
+                    470,
+                    1203,
+                    504
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9573,
+                "bbox": [
+                    142,
+                    531,
+                    616,
+                    575
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.505,
+                "bbox": [
+                    144,
+                    601,
+                    338,
+                    636
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    646,
+                    1521,
+                    1041
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>31.20</td><td rowspan=1 colspan=1>26.10</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>11.70</td><td rowspan=1 colspan=1>10.23</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>10.37</td><td rowspan=1 colspan=1>9.20</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>2.10</td><td rowspan=1 colspan=1>1.85</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>6.02</td><td rowspan=1 colspan=1>5.35</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>5.48</td><td rowspan=1 colspan=1>4.96</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9588,
+                "bbox": [
+                    142,
+                    1074,
+                    680,
+                    1117
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7849,
+                "bbox": [
+                    143,
+                    1143,
+                    390,
+                    1178
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9856,
+                "bbox": [
+                    133,
+                    1187,
+                    1520,
+                    1407
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>7.20</td><td rowspan=1 colspan=1>5.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.40</td><td rowspan=1 colspan=1>-2.00</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>1.20</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9196,
+                "bbox": [
+                    140,
+                    1416,
+                    1497,
+                    1505
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564,
+                "bbox": [
+                    144,
+                    1551,
+                    382,
+                    1599
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    1622,
+                    1265,
+                    1662
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609,
+                "bbox": [
+                    143,
+                    1686,
+                    1130,
+                    1726
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9604,
+                "bbox": [
+                    144,
+                    1750,
+                    887,
+                    1790
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.959,
+                "bbox": [
+                    144,
+                    1814,
+                    722,
+                    1854
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9556,
+                "bbox": [
+                    157,
+                    1898,
+                    827,
+                    1934
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9468,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9408,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    894,
+                    56
+                ],
+                "score": 0.98,
+                "text": "苏州醇安医疗器械股份有限公司（300781.SZ）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    18,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "创业板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    474,
+                    1197,
+                    498
+                ],
+                "score": 1.0,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    536,
+                    608,
+                    571
+                ],
+                "score": 0.945,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    607,
+                    333,
+                    632
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1079,
+                    672,
+                    1112
+                ],
+                "score": 0.95,
+                "text": "四、合并现金流量表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1148,
+                    385,
+                    1173
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1419,
+                    1491,
+                    1449
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1465,
+                    307,
+                    1502
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1543,
+                    379,
+                    1601
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1626,
+                    1260,
+                    1660
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1693,
+                    1121,
+                    1719
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1757,
+                    878,
+                    1783
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1820,
+                    713,
+                    1849
+                ],
+                "score": 1.0,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    1905,
+                    818,
+                    1927
+                ],
+                "score": 0.987,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.997,
+                "text": "苏州醇安医疗器械股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

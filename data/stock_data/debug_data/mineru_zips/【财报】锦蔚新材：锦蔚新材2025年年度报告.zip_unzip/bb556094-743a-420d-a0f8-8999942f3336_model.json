@@ -1,0 +1,4750 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9245,
+                "bbox": [
+                    126,
+                    19,
+                    901,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.649,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9686,
+                "bbox": [
+                    314,
+                    394,
+                    1334,
+                    480
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6188,
+                "bbox": [
+                    681,
+                    536,
+                    971,
+                    582
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7809,
+                "bbox": [
+                    455,
+                    669,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9349,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9265,
+                "bbox": [
+                    549,
+                    1156,
+                    1103,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9419,
+                "bbox": [
+                    127,
+                    2232,
+                    636,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9297,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    320,
+                    400,
+                    1329,
+                    479
+                ],
+                "score": 1.0,
+                "text": "连云港锦蔚新材料股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    583
+                ],
+                "score": 1.0,
+                "text": "2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.985,
+                "text": "(股票简称：锦蔚新材股票代码：688289.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    677,
+                    747,
+                    973,
+                    776
+                ],
+                "score": 0.987,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年3月26日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    557,
+                    1163,
+                    1095,
+                    1187
+                ],
+                "score": 0.995,
+                "text": "公司统一社会信用代码：91320700MA3W9K7Q2T"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9417,
+                "bbox": [
+                    126,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8657,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9469,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9742,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9667,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.972,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9715,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    773
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9465,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9408,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9736,
+                "bbox": [
+                    140,
+                    925,
+                    1498,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9685,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9433,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9372,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.989,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1476,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.959,
+                "text": "红利2.00元(含税)，合计派发现金红利1.12亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "24.24%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.962,
+                "text": "报告(中衡审字[2026]第0621号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    694,
+                    1490,
+                    719
+                ],
+                "score": 0.999,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    767
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 0.995,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1490,
+                    958
+                ],
+                "score": 0.992,
+                "text": "八、公司负责人霍锦澜、主管会计工作负责人桑岚及会计机构负责人（财务部部长）保证本报告中财务报"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    980,
+                    448,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.991,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9462,
+                "bbox": [
+                    126,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8867,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9756,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9297,
+                "bbox": [
+                    781,
+                    123,
+                    876,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9428,
+                "bbox": [
+                    128,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9348,
+                "bbox": [
+                    1339,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.95,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 0.96,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.964,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    123,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9507,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9038,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9585,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6781,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    131,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、锦蔚新材</td><td rowspan=1 colspan=1>指连云港锦蔚新材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>碳纤维</td><td rowspan=1 colspan=1>指含碳量高于90%的高强度高模量纤维材料</td></tr><tr><td rowspan=1 colspan=1>T800级</td><td rowspan=1 colspan=1>指拉伸强度5,500MPa级的高性能碳纤维牌号</td></tr><tr><td rowspan=1 colspan=1>芳纶</td><td rowspan=1 colspan=1>指芳香族聚酰胺纤维，分为对位芳纶与间位芳纶两类</td></tr><tr><td rowspan=1 colspan=1>预浸料</td><td rowspan=1 colspan=1>指将树脂基体浸渍纤维后制成的复合材料中间体</td></tr><tr><td rowspan=1 colspan=1>复合材料制品</td><td rowspan=1 colspan=1>指以碳纤维或芳纶为增强体制成的成型结构件</td></tr><tr><td rowspan=1 colspan=1>eVTOL</td><td rowspan=1 colspan=1>指电动垂直起降航空器</td></tr><tr><td rowspan=1 colspan=1>拉挤工艺</td><td rowspan=1 colspan=1>指纤维束经树脂浸渍后连续拉制成型的复合材料工艺</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9637,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838,
+                "bbox": [
+                    141,
+                    868,
+                    1502,
+                    1004
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    140,
+                    1026,
+                    1498,
+                    1116
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9797,
+                "bbox": [
+                    140,
+                    1137,
+                    1497,
+                    1227
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9531,
+                "bbox": [
+                    200,
+                    1248,
+                    569,
+                    1288
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9636,
+                "bbox": [
+                    142,
+                    1336,
+                    693,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9524,
+                "bbox": [
+                    142,
+                    1418,
+                    412,
+                    1461
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7519,
+                "bbox": [
+                    145,
+                    1488,
+                    313,
+                    1522
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    1532,
+                    1521,
+                    2157
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>连云港锦蔚新材料股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>锦蔚新材</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688289.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省连云港市徐圩新区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2022年1月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>高性能纤维材料（碳纤维/芳纶）</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>霍锦澜</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>尉蔚然</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>桑岚</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9456,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9401,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    898,
+                    56
+                ],
+                "score": 0.987,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.974,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    873,
+                    1490,
+                    902
+                ],
+                "score": 1.0,
+                "text": "2025年，国产碳纤维在价格寒冬中熬出了自己的春天。锦蔚新材实现营业收入36.20亿元，同比增长"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    921,
+                    1494,
+                    951
+                ],
+                "score": 0.985,
+                "text": "19.1%；归属于上市公司股东的净利润4.62亿元，同比增长17.9%；T800级碳纤维干吨线全线贯通，产线"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    968,
+                    395,
+                    998
+                ],
+                "score": 1.0,
+                "text": "开工率提升至93%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1034,
+                    1489,
+                    1059
+                ],
+                "score": 1.0,
+                "text": "这一年，行业低端产线加速出清，公司逆势放量：碳纤维销量同比增长两成以上，风电与低空经济两"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1081,
+                    1299,
+                    1107
+                ],
+                "score": 1.0,
+                "text": "大市场同步打开；eVTOL机身复合材料部件通过客户首件鉴定，把纤维的强度带上了天空。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1142,
+                    1488,
+                    1173
+                ],
+                "score": 0.999,
+                "text": "高性能纤维是复合材料的'工业粮食'。2026年，公司将把产能优势转化为应用优势，推进纤维一预浸"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1191,
+                    887,
+                    1216
+                ],
+                "score": 0.99,
+                "text": "料一制品一体化布局。感谢股东在行业低谷期给予的信任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1253,
+                    562,
+                    1286
+                ],
+                "score": 0.997,
+                "text": "董事长：霍锦澜2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1337,
+                    686,
+                    1382
+                ],
+                "score": 0.988,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1419,
+                    406,
+                    1462
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1489,
+                    311,
+                    1525
+                ],
+                "score": 0.997,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9421,
+                "bbox": [
+                    126,
+                    19,
+                    900,
+                    58
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9019,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9842,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    292
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>4,800</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9536,
+                "bbox": [
+                    142,
+                    319,
+                    415,
+                    363
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9788,
+                "bbox": [
+                    141,
+                    377,
+                    1507,
+                    467
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9787,
+                "bbox": [
+                    140,
+                    487,
+                    1501,
+                    579
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9599,
+                "bbox": [
+                    142,
+                    610,
+                    572,
+                    655
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7819,
+                "bbox": [
+                    143,
+                    680,
+                    526,
+                    717
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    725,
+                    1520,
+                    1269
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>30.40</td><td rowspan=1 colspan=1>+19.1%</td><td rowspan=1 colspan=1>26.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>4.62</td><td rowspan=1 colspan=1>3.92</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>3.35</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>4.08</td><td rowspan=1 colspan=1>3.48</td><td rowspan=1 colspan=1>+17.2%</td><td rowspan=1 colspan=1>2.95</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.80</td><td rowspan=1 colspan=1>+19.0%</td><td rowspan=1 colspan=1>5.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.83</td><td rowspan=1 colspan=1>0.70</td><td rowspan=1 colspan=1>+17.9%</td><td rowspan=1 colspan=1>0.60</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>9.50</td><td rowspan=1 colspan=1>8.30</td><td rowspan=1 colspan=1>增加1.20个百分点</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>95.60</td><td rowspan=1 colspan=1>88.20</td><td rowspan=1 colspan=1>+8.4%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>49.70</td><td rowspan=1 colspan=1>47.60</td><td rowspan=1 colspan=1>+4.4%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9462,
+                "bbox": [
+                    141,
+                    1279,
+                    968,
+                    1314
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9573,
+                "bbox": [
+                    143,
+                    1341,
+                    573,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9325,
+                "bbox": [
+                    144,
+                    1409,
+                    511,
+                    1447
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    1455,
+                    1520,
+                    1738
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.32</td><td rowspan=1 colspan=1>新材料首批次应用保险补偿及技改专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.54</td><td rowspan=1 colspan=1>占归母净利润比例11.7%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9529,
+                "bbox": [
+                    143,
+                    1748,
+                    824,
+                    1784
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    1811,
+                    507,
+                    1854
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9221,
+                "bbox": [
+                    144,
+                    1879,
+                    484,
+                    1915
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9853,
+                "bbox": [
+                    132,
+                    1925,
+                    1521,
+                    2094
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>7.80</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>9.50</td><td rowspan=1 colspan=1>10.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.92</td><td rowspan=1 colspan=1>1.06</td><td rowspan=1 colspan=1>1.22</td><td rowspan=1 colspan=1>1.42</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9466,
+                "bbox": [
+                    127,
+                    2231,
+                    635,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9366,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    57
+                ],
+                "score": 0.984,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    320,
+                    409,
+                    363
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    383,
+                    1500,
+                    413
+                ],
+                "score": 1.0,
+                "text": "公司成立于2010年，总部位于江苏连云港，2022年1月在上海证券交易所科创板上市，是国内高性能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    434,
+                    622,
+                    459
+                ],
+                "score": 0.975,
+                "text": "碳纤维与芳纶双线布局的新材料企业。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    493,
+                    1489,
+                    523
+                ],
+                "score": 0.989,
+                "text": "截至报告期末，公司拥有碳纤维产能1.8万吨/年(其中T800级产线1,000吨/年)、芳纶产能0.5万吨/"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    542,
+                    712,
+                    572
+                ],
+                "score": 1.0,
+                "text": "年，并建成预浸料与复合材料制品中试基地。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    614,
+                    565,
+                    651
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    687,
+                    519,
+                    711
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1285,
+                    960,
+                    1309
+                ],
+                "score": 0.999,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1347,
+                    566,
+                    1380
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1416,
+                    504,
+                    1441
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1755,
+                    818,
+                    1777
+                ],
+                "score": 0.992,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1816,
+                    501,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1885,
+                    478,
+                    1911
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9467,
+                "bbox": [
+                    126,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9014,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.956,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9585,
+                "bbox": [
+                    141,
+                    204,
+                    604,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9839,
+                "bbox": [
+                    140,
+                    263,
+                    1492,
+                    399
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    141,
+                    421,
+                    1504,
+                    512
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9435,
+                "bbox": [
+                    141,
+                    537,
+                    685,
+                    575
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.981,
+                "bbox": [
+                    237,
+                    596,
+                    1462,
+                    1135
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9474,
+                "bbox": [
+                    144,
+                    1165,
+                    606,
+                    1200
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9507,
+                "bbox": [
+                    142,
+                    1226,
+                    636,
+                    1272
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9784,
+                "bbox": [
+                    141,
+                    1285,
+                    1497,
+                    1375
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    141,
+                    1397,
+                    1490,
+                    1487
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9513,
+                "bbox": [
+                    142,
+                    1518,
+                    573,
+                    1563
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8685,
+                "bbox": [
+                    143,
+                    1587,
+                    497,
+                    1625
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9859,
+                "bbox": [
+                    131,
+                    1635,
+                    1520,
+                    1910
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>碳纤维</td><td rowspan=1 colspan=1>26.06</td><td rowspan=1 colspan=1>72.0%</td><td rowspan=1 colspan=1>32.0%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>芳纶</td><td rowspan=1 colspan=1>7.61</td><td rowspan=1 colspan=1>21.0%</td><td rowspan=1 colspan=1>36.0%</td><td rowspan=1 colspan=1>+19.2%</td></tr><tr><td rowspan=1 colspan=1>复合材料制品</td><td rowspan=1 colspan=1>2.53</td><td rowspan=1 colspan=1>7.0%</td><td rowspan=1 colspan=1>45.0%</td><td rowspan=1 colspan=1>+25.4%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>33.8%</td><td rowspan=1 colspan=1>+19.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9737,
+                "bbox": [
+                    140,
+                    1920,
+                    1497,
+                    2056
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9203,
+                "bbox": [
+                    142,
+                    2083,
+                    670,
+                    2121
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9428,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9341,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.989,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    208,
+                    596,
+                    245
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    269,
+                    1475,
+                    299
+                ],
+                "score": 1.0,
+                "text": "2025年国内碳纤维表观需求约8万吨，国产化率提升至约75%；经历2023-2024年价格快速回落后，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    316,
+                    1483,
+                    346
+                ],
+                "score": 1.0,
+                "text": "T300级产品价格于2025年触底企稳，行业低端产能加速出清，具备T700/T800级量产能力的企业竞争格"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    362,
+                    250,
+                    394
+                ],
+                "score": 1.0,
+                "text": "局改善。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    426,
+                    1496,
+                    458
+                ],
+                "score": 0.983,
+                "text": "需求端，风电叶片大型化拉动大丝束碳纤维需求，低空经济（eVTOL机身与结构件）与压力容器（储"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    477,
+                    1237,
+                    502
+                ],
+                "score": 0.99,
+                "text": "氢气瓶）打开新的应用空间；高性能小丝束在航空航天与体育休闲领域保持稳定增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    544,
+                    677,
+                    569
+                ],
+                "score": 0.999,
+                "text": "图1：2021-2025年碳纤维产能及产线开工率"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1171,
+                    598,
+                    1195
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司历年年度报告，经审计数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1233,
+                    628,
+                    1267
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1293,
+                    1489,
+                    1318
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为高性能碳纤维、芳纶及其复合材料制品的研发、生产与销售，产品覆盖从纤维原丝到"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1340,
+                    1119,
+                    1366
+                ],
+                "score": 1.0,
+                "text": "制品的一体化链路，主要应用于风电、航空航天、低空经济与体育休闲领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1402,
+                    1484,
+                    1432
+                ],
+                "score": 0.997,
+                "text": "报告期内，T800级干吨线全线贯通并实现稳定量产，产品进入两家风电头部客户的拉挤工艺供应链；"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1452,
+                    775,
+                    1478
+                ],
+                "score": 1.0,
+                "text": "eVTOL机身复材部件完成首件鉴定并小批量交付。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1523,
+                    566,
+                    1560
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1591,
+                    492,
+                    1621
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1923,
+                    1486,
+                    1954
+                ],
+                "score": 1.0,
+                "text": "碳纤维收入26.06亿元，同比增长18.5%，T800级放量与开工率提升是主因；芳纶收入7.61亿元，同"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1973,
+                    1488,
+                    1998
+                ],
+                "score": 0.999,
+                "text": "比增长19.2%，工业防护与光缆增强需求旺盛；复合材料制品收入2.53亿元，同比增长25.4%，eVTOL与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2015,
+                    539,
+                    2050
+                ],
+                "score": 1.0,
+                "text": "航空复材小批量交付贡献增量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2089,
+                    661,
+                    2114
+                ],
+                "score": 0.968,
+                "text": "图2：2025年碳纤维下游应用结构（按销量）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8459,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9093,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 3,
+                "label": "chart",
+                "score": 0.9733,
+                "bbox": [
+                    131,
+                    141,
+                    959,
+                    552
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9002,
+                "bbox": [
+                    145,
+                    561,
+                    493,
+                    594
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8902,
+                "bbox": [
+                    145,
+                    617,
+                    432,
+                    651
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9855,
+                "bbox": [
+                    133,
+                    661,
+                    1520,
+                    886
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>31.02</td><td rowspan=1 colspan=1>85.7%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>5.18</td><td rowspan=1 colspan=1>14.3%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9482,
+                "bbox": [
+                    142,
+                    897,
+                    727,
+                    933
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.958,
+                "bbox": [
+                    143,
+                    960,
+                    412,
+                    1003
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8881,
+                "bbox": [
+                    144,
+                    1028,
+                    534,
+                    1066
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.985,
+                "bbox": [
+                    133,
+                    1075,
+                    1520,
+                    1299
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>原丝及聚合原料</td><td rowspan=1 colspan=1>44.5%</td><td rowspan=1 colspan=1>43.8%</td><td rowspan=1 colspan=1>丙烯腈价格中枢回落</td></tr><tr><td rowspan=1 colspan=1>电力及能源</td><td rowspan=1 colspan=1>30.6%</td><td rowspan=1 colspan=1>31.8%</td><td rowspan=1 colspan=1>绿电采购比例提升至25%</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>24.9%</td><td rowspan=1 colspan=1>24.4%</td><td rowspan=1 colspan=1>产能利用率提升摊薄</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9601,
+                "bbox": [
+                    143,
+                    1331,
+                    506,
+                    1375
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8534,
+                "bbox": [
+                    144,
+                    1400,
+                    313,
+                    1436
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9869,
+                "bbox": [
+                    132,
+                    1446,
+                    1520,
+                    1723
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>1.25</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.05</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>+7.9%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.02</td><td rowspan=1 colspan=1>+13.9%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.22</td><td rowspan=1 colspan=1>0.26</td><td rowspan=1 colspan=1>-15.4%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.523,
+                "bbox": [
+                    140,
+                    1731,
+                    1488,
+                    1821
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9537,
+                "bbox": [
+                    142,
+                    1853,
+                    412,
+                    1895
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9075,
+                "bbox": [
+                    144,
+                    1923,
+                    364,
+                    1958
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9832,
+                "bbox": [
+                    133,
+                    1967,
+                    1520,
+                    2137
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元)</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-8.60</td><td rowspan=1 colspan=1>-7.20</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.946,
+                "bbox": [
+                    127,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9361,
+                "bbox": [
+                    1339,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.987,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    566,
+                    488,
+                    590
+                ],
+                "score": 1.0,
+                "text": "资料来源：公司2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    618,
+                    428,
+                    650
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    904,
+                    722,
+                    926
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的24.6%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    963,
+                    408,
+                    1004
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1035,
+                    527,
+                    1061
+                ],
+                "score": 0.965,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1336,
+                    499,
+                    1371
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1404,
+                    308,
+                    1433
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1733,
+                    1479,
+                    1763
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计2.60亿元，占营业收入比例7.2%，其中费用化研发费用2.30亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1783,
+                    1082,
+                    1812
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.30亿元；研发人员820人，占员工总数比例17.1%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1855,
+                    407,
+                    1896
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1926,
+                    360,
+                    1954
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9383,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9032,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.974,
+                "bbox": [
+                    133,
+                    121,
+                    1520,
+                    228
+                ],
+                "index": 3,
+                "html": "<table><tr><td>项目</td><td>2025年(亿元）</td><td>2024年(亿元)</td></tr><tr><td>筹资活动产生的现金流量净额</td><td>6.20</td><td>5.00</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9603,
+                "bbox": [
+                    141,
+                    236,
+                    1504,
+                    325
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9621,
+                "bbox": [
+                    142,
+                    358,
+                    572,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6512,
+                "bbox": [
+                    142,
+                    426,
+                    446,
+                    463
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9875,
+                "bbox": [
+                    132,
+                    473,
+                    1520,
+                    698
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>+12.7%</td><td rowspan=1 colspan=1>项目贷款与票据融资到位</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>45.60</td><td rowspan=1 colspan=1>42.10</td><td rowspan=1 colspan=1>+8.3%</td><td rowspan=1 colspan=1>T800千吨线及配套工程投入</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>+10.1%</td><td rowspan=1 colspan=1>Q4发货集中，尚在账期内</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9624,
+                "bbox": [
+                    143,
+                    729,
+                    509,
+                    772
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    140,
+                    786,
+                    1500,
+                    876
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9798,
+                "bbox": [
+                    141,
+                    897,
+                    1507,
+                    987
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9531,
+                "bbox": [
+                    142,
+                    1020,
+                    350,
+                    1064
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9615,
+                "bbox": [
+                    141,
+                    1078,
+                    1073,
+                    1119
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    198,
+                    1142,
+                    1245,
+                    1184
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9586,
+                "bbox": [
+                    198,
+                    1207,
+                    984,
+                    1246
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9618,
+                "bbox": [
+                    197,
+                    1270,
+                    1129,
+                    1311
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9602,
+                "bbox": [
+                    198,
+                    1334,
+                    1248,
+                    1375
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9598,
+                "bbox": [
+                    198,
+                    1397,
+                    984,
+                    1438
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9608,
+                "bbox": [
+                    142,
+                    1485,
+                    468,
+                    1534
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    1557,
+                    1491,
+                    1646
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9841,
+                "bbox": [
+                    141,
+                    1667,
+                    1484,
+                    1802
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9855,
+                "bbox": [
+                    140,
+                    1825,
+                    1510,
+                    1963
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9635,
+                "bbox": [
+                    142,
+                    2008,
+                    431,
+                    2055
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    140,
+                    2078,
+                    1505,
+                    2168
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9466,
+                "bbox": [
+                    127,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9353,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 25
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.987,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    239,
+                    1498,
+                    267
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额6.90亿元，同比增长19.0%；投资活动净流出8.60亿元，主要为T800"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    289,
+                    1353,
+                    314
+                ],
+                "score": 0.991,
+                "text": "千吨线及配套项目投入；筹资活动净流入6.20亿元，主要为银行项目贷款与中期票据融资到位。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    358,
+                    565,
+                    398
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    431,
+                    440,
+                    459
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    733,
+                    502,
+                    768
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    792,
+                    1494,
+                    822
+                ],
+                "score": 1.0,
+                "text": "2026年经营目标：营业收入42亿元左右，同比增长约16%；T800级产线开工率保持在90%以上，低"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    843,
+                    796,
+                    868
+                ],
+                "score": 0.999,
+                "text": "空经济相关收入实现翻番；启动T1000级工艺验证。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    903,
+                    1502,
+                    933
+                ],
+                "score": 0.999,
+                "text": "产能方面，公司将推进2万吨/年碳纤维扩能项目前期工作，并建设预浸料一期产线，向'纤维一预浸料"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    949,
+                    545,
+                    979
+                ],
+                "score": 0.998,
+                "text": "一制品'的一体化布局纵深推进。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1022,
+                    344,
+                    1064
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1085,
+                    1063,
+                    1112
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1150,
+                    1235,
+                    1176
+                ],
+                "score": 0.995,
+                "text": "价格竞争风险：碳纤维行业价格竞争仍然激烈，低端产品价格存在再度探底可能。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1215,
+                    977,
+                    1240
+                ],
+                "score": 0.998,
+                "text": "原材料及能源风险：丙烯腈价格与电力成本波动影响毛利率。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1277,
+                    1121,
+                    1304
+                ],
+                "score": 1.0,
+                "text": "产能消化风险：行业新增产能释放快于需求增长，开工率存在波动风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1341,
+                    1240,
+                    1368
+                ],
+                "score": 1.0,
+                "text": "客户认证风险：航空航天与eVTOL客户验证周期长，订单释放节奏存在不确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1405,
+                    977,
+                    1432
+                ],
+                "score": 1.0,
+                "text": "技术迭代风险：国际龙头在高强高模牌号上仍保有代差优势。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1476,
+                    464,
+                    1535
+                ],
+                "score": 0.987,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1565,
+                    1484,
+                    1590
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1612,
+                    1147,
+                    1637
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1673,
+                    1477,
+                    1702
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1723,
+                    1411,
+                    1748
+                ],
+                "score": 0.969,
+                "text": "2.00元（含税），合计派发现金红利1.12亿元（含税），占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1767,
+                    264,
+                    1798
+                ],
+                "score": 0.998,
+                "text": "24.24%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1833,
+                    1500,
+                    1858
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1878,
+                    1499,
+                    1909
+                ],
+                "score": 0.979,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1928,
+                    617,
+                    1953
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2001,
+                    427,
+                    2058
+                ],
+                "score": 0.991,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2086,
+                    1491,
+                    2111
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2133,
+                    1497,
+                    2159
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.99,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.951,
+                "bbox": [
+                    126,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9005,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.978,
+                "bbox": [
+                    139,
+                    122,
+                    1499,
+                    210
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    140,
+                    233,
+                    1498,
+                    323
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    141,
+                    343,
+                    1500,
+                    433
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9654,
+                "bbox": [
+                    142,
+                    479,
+                    806,
+                    528
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9553,
+                "bbox": [
+                    141,
+                    561,
+                    413,
+                    605
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8809,
+                "bbox": [
+                    142,
+                    630,
+                    368,
+                    666
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.988,
+                "bbox": [
+                    131,
+                    675,
+                    1519,
+                    952
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元）</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1>-4.2%</td></tr><tr><td rowspan=1 colspan=1>绿电采购比例</td><td rowspan=1 colspan=1>25.0%</td><td rowspan=1 colspan=1>提高10.0个百分点</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>389,000</td><td rowspan=1 colspan=1>+8.6%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>1,650</td><td rowspan=1 colspan=1>+18.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6049,
+                "bbox": [
+                    140,
+                    961,
+                    1490,
+                    1049
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9467,
+                "bbox": [
+                    142,
+                    1082,
+                    350,
+                    1126
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.976,
+                "bbox": [
+                    140,
+                    1141,
+                    1508,
+                    1232
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9565,
+                "bbox": [
+                    142,
+                    1263,
+                    479,
+                    1307
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9763,
+                "bbox": [
+                    139,
+                    1321,
+                    1499,
+                    1413
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9581,
+                "bbox": [
+                    142,
+                    1456,
+                    433,
+                    1505
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9761,
+                "bbox": [
+                    143,
+                    1528,
+                    1479,
+                    1616
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9566,
+                "bbox": [
+                    199,
+                    1638,
+                    1042,
+                    1680
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9575,
+                "bbox": [
+                    199,
+                    1702,
+                    810,
+                    1743
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9565,
+                "bbox": [
+                    198,
+                    1766,
+                    1327,
+                    1808
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9771,
+                "bbox": [
+                    140,
+                    1830,
+                    1498,
+                    1920
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9632,
+                "bbox": [
+                    142,
+                    1964,
+                    618,
+                    2013
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7374,
+                "bbox": [
+                    142,
+                    2041,
+                    352,
+                    2079
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9453,
+                "bbox": [
+                    127,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9395,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    128,
+                    1491,
+                    157
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    175,
+                    468,
+                    204
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    236,
+                    1490,
+                    268
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    288,
+                    1223,
+                    314
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    351,
+                    1491,
+                    376
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    395,
+                    333,
+                    425
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    482,
+                    796,
+                    523
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    563,
+                    406,
+                    604
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    636,
+                    361,
+                    662
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    964,
+                    1483,
+                    993
+                ],
+                "score": 0.999,
+                "text": "公司碳纤维产线属于高耗能环节，报告期内绿电采购比例提升至25%，丙烯腈储运完成VOCs在线监"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1014,
+                    773,
+                    1039
+                ],
+                "score": 0.999,
+                "text": "测改造；锦蔚助学'项目覆盖连云港6所乡村学校。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    1080,
+                    345,
+                    1131
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1149,
+                    1500,
+                    1175
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司员工总数4,800人，其中研发人员820人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1194,
+                    1440,
+                    1224
+                ],
+                "score": 1.0,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1268,
+                    469,
+                    1306
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1329,
+                    1490,
+                    1355
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1377,
+                    1029,
+                    1403
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1457,
+                    423,
+                    1503
+                ],
+                "score": 0.94,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1534,
+                    1471,
+                    1563
+                ],
+                "score": 0.992,
+                "text": "重大项目：报告期内T800级高性能碳纤维干吨线项目全线贯通，报告期内投入6.80亿元，累计投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1578,
+                    295,
+                    1613
+                ],
+                "score": 1.0,
+                "text": "10.50亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1646,
+                    1033,
+                    1672
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1710,
+                    799,
+                    1737
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1774,
+                    1318,
+                    1803
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为180万元，程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1836,
+                    1490,
+                    1866
+                ],
+                "score": 1.0,
+                "text": "政府补助：报告期内计入当期损益的政府补助0.32亿元，主要为新材料首批次应用保险补偿及技改专"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    140,
+                    1878,
+                    193,
+                    1921
+                ],
+                "score": 1.0,
+                "text": "项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1965,
+                    610,
+                    2010
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2046,
+                    346,
+                    2076
+                ],
+                "score": 0.924,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.996,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9334,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8907,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9876,
+                "bbox": [
+                    132,
+                    120,
+                    1522,
+                    345
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>50,400.0</td><td rowspan=1 colspan=1>90.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>5,600.0</td><td rowspan=1 colspan=1>10.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>56,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.936,
+                "bbox": [
+                    143,
+                    376,
+                    444,
+                    419
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5793,
+                "bbox": [
+                    143,
+                    444,
+                    550,
+                    481
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    131,
+                    490,
+                    1521,
+                    1166
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>锦蔚控股集团有限公司</td><td rowspan=1 colspan=1>27.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家先进新材料产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>7.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>江苏新材料产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>4.30%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——七组合</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八零五组合</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>锦蔚员工持股计划</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>国联新材料混合型证券投资基金</td><td rowspan=1 colspan=1>1.70%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>连云港金蔚创业投资合伙企业(有限合伙)</td><td rowspan=1 colspan=1>1.00%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>57.20%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9355,
+                "bbox": [
+                    141,
+                    1172,
+                    1477,
+                    1262
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    142,
+                    1306,
+                    430,
+                    1357
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9437,
+                "bbox": [
+                    142,
+                    1390,
+                    349,
+                    1433
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9852,
+                "bbox": [
+                    139,
+                    1448,
+                    1509,
+                    1632
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9535,
+                "bbox": [
+                    142,
+                    1663,
+                    680,
+                    1709
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5021,
+                "bbox": [
+                    143,
+                    1734,
+                    391,
+                    1771
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9888,
+                "bbox": [
+                    131,
+                    1779,
+                    1522,
+                    2176
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>14.20</td><td rowspan=1 colspan=1>12.60</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>9.80</td><td rowspan=1 colspan=1>8.90</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>8.40</td><td rowspan=1 colspan=1>7.60</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>45.60</td><td rowspan=1 colspan=1>42.10</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>17.60</td><td rowspan=1 colspan=1>17.00</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>95.60</td><td rowspan=1 colspan=1>88.20</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9388,
+                "bbox": [
+                    126,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9385,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.986,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    377,
+                    438,
+                    418
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    449,
+                    545,
+                    479
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1177,
+                    1470,
+                    1207
+                ],
+                "score": 0.999,
+                "text": "公司控股股东为锦蔚控股集团有限公司，实际控制人为霍锦澜。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1221,
+                    279,
+                    1259
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1300,
+                    428,
+                    1359
+                ],
+                "score": 0.972,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1389,
+                    344,
+                    1434
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1456,
+                    1496,
+                    1481
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1503,
+                    1499,
+                    1528
+                ],
+                "score": 0.988,
+                "text": "意见（中衡审字[2026]第0621号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1550,
+                    1489,
+                    1576
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1595,
+                    277,
+                    1626
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1668,
+                    672,
+                    1706
+                ],
+                "score": 0.953,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1739,
+                    386,
+                    1768
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    628,
+                    2259
+                ],
+                "score": 0.992,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8928,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9018,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    120,
+                    1521,
+                    457
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初 (亿元)</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>16.80</td><td rowspan=1 colspan=1>15.60</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>3.60</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>24.90</td><td rowspan=1 colspan=1>21.40</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>45.90</td><td rowspan=1 colspan=1>40.60</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>49.70</td><td rowspan=1 colspan=1>47.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9466,
+                "bbox": [
+                    141,
+                    470,
+                    1203,
+                    504
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9573,
+                "bbox": [
+                    142,
+                    531,
+                    616,
+                    575
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.496,
+                "bbox": [
+                    144,
+                    601,
+                    338,
+                    636
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    132,
+                    646,
+                    1521,
+                    1041
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>30.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>23.96</td><td rowspan=1 colspan=1>20.49</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>5.97</td><td rowspan=1 colspan=1>5.43</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.02</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>4.62</td><td rowspan=1 colspan=1>3.92</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>4.08</td><td rowspan=1 colspan=1>3.48</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9586,
+                "bbox": [
+                    142,
+                    1074,
+                    680,
+                    1117
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.793,
+                "bbox": [
+                    143,
+                    1143,
+                    390,
+                    1178
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9856,
+                "bbox": [
+                    133,
+                    1187,
+                    1520,
+                    1407
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-8.60</td><td rowspan=1 colspan=1>-7.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>5.00</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9242,
+                "bbox": [
+                    140,
+                    1416,
+                    1497,
+                    1505
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9563,
+                "bbox": [
+                    144,
+                    1551,
+                    382,
+                    1599
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9595,
+                "bbox": [
+                    143,
+                    1622,
+                    1265,
+                    1662
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.961,
+                "bbox": [
+                    143,
+                    1686,
+                    1130,
+                    1726
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9605,
+                "bbox": [
+                    144,
+                    1750,
+                    887,
+                    1790
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.959,
+                "bbox": [
+                    144,
+                    1814,
+                    722,
+                    1854
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9556,
+                "bbox": [
+                    157,
+                    1898,
+                    827,
+                    1934
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9466,
+                "bbox": [
+                    127,
+                    2232,
+                    634,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9409,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.987,
+                "text": "连云港锦蔚新材料股份有限公司（688289.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    474,
+                    1197,
+                    498
+                ],
+                "score": 1.0,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    536,
+                    608,
+                    571
+                ],
+                "score": 0.954,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    607,
+                    333,
+                    632
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1079,
+                    672,
+                    1112
+                ],
+                "score": 0.946,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1148,
+                    385,
+                    1173
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1419,
+                    1491,
+                    1449
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1465,
+                    307,
+                    1502
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1543,
+                    379,
+                    1601
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1626,
+                    1260,
+                    1660
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1693,
+                    1121,
+                    1719
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1757,
+                    878,
+                    1783
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1820,
+                    713,
+                    1849
+                ],
+                "score": 1.0,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    1905,
+                    818,
+                    1927
+                ],
+                "score": 0.982,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    131,
+                    2235,
+                    630,
+                    2260
+                ],
+                "score": 0.982,
+                "text": "连云港锦蔚新材料股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

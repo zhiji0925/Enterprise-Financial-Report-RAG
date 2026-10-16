@@ -1,0 +1,1862 @@
+[
+    {
+        "type": "text",
+        "text": "青岛沧澜海洋工程股份有限公司",
+        "text_level": 1,
+        "bbox": [
+            189,
+            167,
+            806,
+            204
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2025 年年度报告",
+        "bbox": [
+            411,
+            228,
+            586,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(股票简称：沧澜海工股票代码：605205.SH)(上海证券交易所主板)",
+        "bbox": [
+            273,
+            285,
+            722,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "披露日期：2026年3月30日",
+        "bbox": [
+            381,
+            462,
+            613,
+            480
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公司统一社会信用代码：91370200MA3T7C2K9F",
+        "bbox": [
+            336,
+            494,
+            662,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            873,
+            9,
+            922,
+            22
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "第1页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "重要提示",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            184,
+            71
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。",
+        "bbox": [
+            84,
+            82,
+            905,
+            120
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.20元(含税)，合计派发现金红利2.94亿元（含税)，占2025年度归属于上市公司股东净利润的30.56%。该预案尚需提交公司2025年年度股东大会审议。",
+        "bbox": [
+            84,
+            129,
+            897,
+            187
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。",
+        "bbox": [
+            84,
+            197,
+            902,
+            235
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告（中衡审字[2026]第0436号）。",
+        "bbox": [
+            84,
+            244,
+            910,
+            282
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。",
+        "bbox": [
+            84,
+            292,
+            905,
+            330
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。",
+        "bbox": [
+            84,
+            340,
+            665,
+            357
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。",
+        "bbox": [
+            84,
+            367,
+            576,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "八、公司负责人祁海川、主管会计工作负责人解观澜及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。",
+        "bbox": [
+            84,
+            394,
+            904,
+            434
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。",
+        "bbox": [
+            84,
+            442,
+            905,
+            480
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            873,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "第2页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节 管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录",
+        "bbox": [
+            85,
+            87,
+            413,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 2,
+        "bbox": [
+            472,
+            52,
+            529,
+            71
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "第3页/共11页",
+        "bbox": [
+            810,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一节释义",
+        "text_level": 2,
+        "bbox": [
+            85,
+            51,
+            213,
+            72
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "释义表",
+        "text_level": 2,
+        "bbox": [
+            85,
+            84,
+            141,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/476b6c4eb4ace74da606c0becd8f38b61c6b6a8c9f11aeaa484ed351c5e3a0be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、沧澜海工</td><td rowspan=1 colspan=1>指青岛沧澜海洋工程股份有限公司</td></tr><tr><td rowspan=1 colspan=1>FPSO</td><td rowspan=1 colspan=1>指浮式生产储卸油装置，海上油气开发的核心装备</td></tr><tr><td rowspan=1 colspan=1>风电安装船</td><td rowspan=1 colspan=1>指用于海上风机运输与安装的自升式或自航式工程船舶</td></tr><tr><td rowspan=1 colspan=1>模块建造</td><td rowspan=1 colspan=1>指将工艺单元预制为整体模块的建造方式</td></tr><tr><td rowspan=1 colspan=1>总装</td><td rowspan=1 colspan=1>指对船体、模块、系统进行集成合拢的建造环节</td></tr><tr><td rowspan=1 colspan=1>Ultrajack</td><td rowspan=1 colspan=1>指公司自研的深水桩腿升降锁紧系统技术平台</td></tr><tr><td rowspan=1 colspan=1>在手订单</td><td rowspan=1 colspan=1>指已签约尚未确认收入的合同金额</td></tr><tr><td rowspan=1 colspan=1>绿色船舶</td><td rowspan=1 colspan=1>指满足能效与排放新规范的环保型船舶</td></tr></table>",
+        "bbox": [
+            78,
+            104,
+            919,
+            322
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二节 致股东的信",
+        "text_level": 2,
+        "bbox": [
+            85,
+            340,
+            282,
+            361
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2025年，深海的作业地图上有了更多中国坐标。沧澜海工实现营业收入194.80亿元，同比增长13.0%；归属于上市公司股东的净利润9.62亿元，同比增长10.3%；期末在手订单286亿元，创历史新高。",
+        "bbox": [
+            85,
+            370,
+            904,
+            410
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这一年，公司交付了第七艘FPSO并开工第八艘，深海油气开发周期带来的总装订单已排至2028年；海上风电安装船交付3艘、开工2艘，运维服务随存量资产扩张收入同比增长26.8%；Ultrajack'深水桩腿技术平台完成新一代升级，奠定了公司在深水安装装备上的差异化地位。",
+        "bbox": [
+            84,
+            418,
+            902,
+            478
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "海洋工程是长周期、重资产、慢回报的行业，但每一座深海平台背后都是二十年的服务现金流。2026年，公司将围绕'总装+模块+运维'的全寿期服务模式继续深耕，把蓝色国土变成确定的增长曲线。",
+        "bbox": [
+            84,
+            486,
+            910,
+            524
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "董事长：祁海川2026年3月",
+        "bbox": [
+            121,
+            533,
+            344,
+            551
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三节 公司简介和主要财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            570,
+            418,
+            592
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一、公司基本情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            606,
+            248,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "公司基本情况",
+        "text_level": 2,
+        "bbox": [
+            87,
+            636,
+            188,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f66b03c05f24c5f94967a085bebfec1d6926f2edf99b024319cfde6335199785.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">青岛沧澜海洋工程股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">沧澜海工</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">605205.SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">上海证券交易所主板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">山东省青岛市黄岛区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2021年3月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">海洋工程装备</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">祁海川</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">连若波</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">解观澜</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">中衡会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">26,500</td></tr></table>",
+        "bbox": [
+            78,
+            655,
+            919,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "第4页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            78,
+            51,
+            919,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "二、公司历史沿革",
+        "text_level": 2,
+        "bbox": [
+            84,
+            135,
+            250,
+            154
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公司成立于1999年，总部位于青岛，2021年3月在上海证券交易所主板上市，是国内领先的海洋工程装备总装建造与海上运维服务商，拥有大型海洋工程装备建造船坞与深水码头。",
+        "bbox": [
+            84,
+            160,
+            910,
+            199
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "截至报告期末，公司具备年建造FPSO两艘、风电安装船四艘的总装能力，运维服务覆盖渤海、南海两个海域的32座海上设施。",
+        "bbox": [
+            84,
+            208,
+            899,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三、主要会计数据和财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            260,
+            346,
+            279
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近三年主要会计数据和财务指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            290,
+            317,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bdefc64d8da947762c16c1c265082e296067b51f6dc3c59fb02993ebce813b3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>194.80</td><td rowspan=1 colspan=1>172.40</td><td rowspan=1 colspan=1>+13.0%</td><td rowspan=1 colspan=1>158.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>9.62</td><td rowspan=1 colspan=1>8.72</td><td rowspan=1 colspan=1>+10.3%</td><td rowspan=1 colspan=1>8.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>8.85</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>+10.6%</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>12.50</td><td rowspan=1 colspan=1>+21.6%</td><td rowspan=1 colspan=1>9.80</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.39</td><td rowspan=1 colspan=1>0.36</td><td rowspan=1 colspan=1>+10.3%</td><td rowspan=1 colspan=1>0.33</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>5.40</td><td rowspan=1 colspan=1>增加0.50个百分点</td><td rowspan=1 colspan=1>5.30</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>420.60</td><td rowspan=1 colspan=1>408.20</td><td rowspan=1 colspan=1>+3.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>166.10</td><td rowspan=1 colspan=1>160.00</td><td rowspan=1 colspan=1>+3.8%</td><td rowspan=1 colspan=1>一</td></tr></table>",
+        "bbox": [
+            78,
+            310,
+            919,
+            542
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "四、非经常性损益项目及金额",
+        "text_level": 2,
+        "bbox": [
+            85,
+            573,
+            346,
+            592
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/164470077d7b1586731d2c198ade9d4e736fb9c00b1d1817d20ff38a4f5eee92.jpg",
+        "table_caption": [
+            "2025年非经常性损益项目明细"
+        ],
+        "table_footnote": [
+            "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=2 colspan=1>说明海洋工程装备专项及船舶工业结构调整补贴</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.35</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>闲置自有资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.30</td><td rowspan=1 colspan=1>递延收益摊销及增值税加计抵减</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.77</td><td rowspan=1 colspan=1>占归母净利润比例 8.0%</td></tr></table>",
+        "bbox": [
+            78,
+            621,
+            919,
+            744
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "五、分季度主要财务数据",
+        "text_level": 2,
+        "bbox": [
+            85,
+            774,
+            305,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d0cb1891dd4dac206e36f28794acc044389475f554cdd05d7ce2cf25d69f645.jpg",
+        "table_caption": [
+            "2025年分季度主要财务数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>39.20</td><td rowspan=1 colspan=1>45.60</td><td rowspan=1 colspan=1>49.80</td><td rowspan=1 colspan=1>60.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>1.72</td><td rowspan=1 colspan=1>2.08</td><td rowspan=1 colspan=1>2.48</td><td rowspan=1 colspan=1>3.34</td></tr></table>",
+        "bbox": [
+            78,
+            824,
+            919,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            23
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "第5页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第四节 管理层讨论与分析",
+        "text_level": 2,
+        "bbox": [
+            85,
+            51,
+            351,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一、报告期内公司所处行业情况",
+        "text_level": 2,
+        "bbox": [
+            84,
+            86,
+            364,
+            105
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全球深海油气投资在2025年保持高景气，巴西、西非、圭亚那等热点区块持续释放FPSO订单，全球在手FPSO订单量处于近十年高位。国内'深海科技'上升为国家战略方向，深远海装备自主化率加速提升。",
+        "bbox": [
+            84,
+            111,
+            904,
+            151
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "海上风电方面，国内海风招标在2025年放量重启，深远海化趋势推动安装船与运维船需求升级；绿色燃料(LNG/甲醇动力）规范生效推动存量船舶改造市场启动。海洋工程装备正从'周期品'逐步走向'周期+成长'的复合结构。",
+        "bbox": [
+            84,
+            159,
+            910,
+            218
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "二、报告期内公司从事的主要业务",
+        "text_level": 2,
+        "bbox": [
+            84,
+            231,
+            383,
+            250
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "公司主营业务为海洋工程装备的总装建造、模块建造与集成及海上设施运维服务，产品聚焦FPSO、风电安装船、海上平台模块三大品类，并提供全寿期运维一体化服务。",
+        "bbox": [
+            84,
+            256,
+            885,
+            296
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司第七艘FPSO'沧澜七号'按期交付并出海试航成功；3艘风电安装船交付舟山、盐城两大海上风电基地；首个海外运维合同（西非）正式生效。",
+        "bbox": [
+            84,
+            304,
+            899,
+            343
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三、营业收入构成及变动分析",
+        "text_level": 2,
+        "bbox": [
+            85,
+            356,
+            346,
+            375
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d51987ff350ff7743bcfc37145bae5553cdb5c44a027ae496b7e9762aa12069f.jpg",
+        "table_caption": [
+            "2025年分产品/业务收入构成"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>海洋工程装备总装</td><td rowspan=1 colspan=1>109.09</td><td rowspan=1 colspan=1>56.0%</td><td rowspan=1 colspan=1>18.2%</td><td rowspan=1 colspan=1>+15.6%</td></tr><tr><td rowspan=1 colspan=1>模块建造与集成</td><td rowspan=1 colspan=1>56.49</td><td rowspan=1 colspan=1>29.0%</td><td rowspan=1 colspan=1>16.5%</td><td rowspan=1 colspan=1>+11.2%</td></tr><tr><td rowspan=1 colspan=1>海上运维服务</td><td rowspan=1 colspan=1>29.22</td><td rowspan=1 colspan=1>15.0%</td><td rowspan=1 colspan=1>32.0%</td><td rowspan=1 colspan=1>+26.8%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>194.80</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>19.6%</td><td rowspan=1 colspan=1>+13.0%</td></tr></table>",
+        "bbox": [
+            78,
+            406,
+            919,
+            524
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "海洋工程装备总装收入109.09亿元，同比增长15.6%，FPSO交付节奏与风电安装船放量共同驱动；模块建造与集成收入56.49亿元，同比增长11.2%；海上运维服务收入29.22亿元，同比增长26.8%，为公司面向全寿期服务的战略板块。",
+        "bbox": [
+            84,
+            527,
+            904,
+            587
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc12ac32b7d9c31e98b1d4e8b17672a8910b6e6814805036ae751df7755aacbf.jpg",
+        "table_caption": [
+            "2025年分地区收入构成"
+        ],
+        "table_footnote": [
+            "注：前五名客户合计销售金额占年度销售总额的42.8%。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>136.36</td><td rowspan=1 colspan=1>70.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>58.44</td><td rowspan=1 colspan=1>30.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>194.80</td><td rowspan=1 colspan=1>100.0%</td></tr></table>",
+        "bbox": [
+            78,
+            618,
+            919,
+            714
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "四、营业成本构成",
+        "text_level": 2,
+        "bbox": [
+            85,
+            745,
+            248,
+            763
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a0b8c962a81b652486e12d53d425d51694989caa094423508e5e32e4a7fb9ef.jpg",
+        "table_caption": [
+            "营业成本构成（占营业成本比例）"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>钢材及管件</td><td rowspan=1 colspan=1>38.6%</td><td rowspan=1 colspan=1>40.2%</td><td rowspan=1 colspan=1>船板钢价格中枢下移</td></tr><tr><td rowspan=1 colspan=1>设备与系统采购</td><td rowspan=1 colspan=1>35.4%</td><td rowspan=1 colspan=1>34.6%</td><td rowspan=1 colspan=1>国产化采购比例升至71%</td></tr><tr><td rowspan=1 colspan=1>人工及分包费用</td><td rowspan=1 colspan=1>26.0%</td><td rowspan=1 colspan=1>25.2%</td><td rowspan=1 colspan=1>总装场地效率提升</td></tr></table>",
+        "bbox": [
+            78,
+            794,
+            919,
+            891
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "五、期间费用与研发投入",
+        "text_level": 2,
+        "bbox": [
+            85,
+            904,
+            305,
+            923
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            23
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "第6页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "期间费用变动",
+        "text_level": 2,
+        "bbox": [
+            85,
+            51,
+            188,
+            66
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/58b77d3f2c7b9725f13f5a1247a27ce3d5af708011a96870bcf3fc7e9f223481.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "研发投入方面，公司2025年研发投入合计6.20亿元，占营业收入比例3.2%，其中费用化研发费用5.70亿元、资本化研发投入0.50亿元；研发人员2,200人，占员工总数比例8.3%。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>+8.8%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>7.40</td><td rowspan=1 colspan=1>6.90</td><td rowspan=1 colspan=1>+7.2%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>5.70</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+11.8%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>-8.7%</td></tr></table>",
+        "bbox": [
+            78,
+            71,
+            919,
+            189
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "六、现金流量情况",
+        "text_level": 2,
+        "bbox": [
+            84,
+            246,
+            248,
+            263
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/773bf24a5888caf59ce3ff436873f5fb937a466ccd5182eeeaf3c521cb76ed02.jpg",
+        "table_caption": [
+            "现金流量主要项目"
+        ],
+        "table_footnote": [
+            "报告期内经营活动现金流量净额15.20亿元，同比增长21.6%，里程碑收款节奏改善；投资活动净流出18.60亿元，为船坞改造与深水装备投入；筹资活动净流入12.80亿元。"
+        ],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>12.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-18.60</td><td rowspan=1 colspan=1>-20.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>8.60</td></tr></table>",
+        "bbox": [
+            78,
+            294,
+            919,
+            388
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "七、资产及负债项目重大变动",
+        "text_level": 2,
+        "bbox": [
+            85,
+            444,
+            344,
+            462
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/611a93a0608204bf4425a7287c405248ecea31790cae42d9213c38af2be5893c.jpg",
+        "table_caption": [
+            "资产、负债项目重大变动"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初（亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>68.40</td><td rowspan=1 colspan=1>62.20</td><td rowspan=1 colspan=1>+10.0%</td><td rowspan=1 colspan=1>项目预收款及中期票据发行</td></tr><tr><td rowspan=1 colspan=1>存货（在建装备）</td><td rowspan=1 colspan=1>96.30</td><td rowspan=1 colspan=1>98.60</td><td rowspan=1 colspan=1>-2.3%</td><td rowspan=1 colspan=1>新开工FPSO与安装船投入</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>55.40</td><td rowspan=1 colspan=1>+5.8%</td><td rowspan=1 colspan=1>里程碑结算节奏</td></tr></table>",
+        "bbox": [
+            78,
+            493,
+            919,
+            590
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "八、公司未来发展的展望",
+        "text_level": 2,
+        "bbox": [
+            85,
+            604,
+            307,
+            621
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2026年经营目标：营业收入215亿元左右，同比增长约10%；交付FPSO一艘、风电安装船三艘，第八艘FPS0完成合拢；运维服务收入突破35亿元。公司在手订单286亿元可支撑约1.5年收入。",
+        "bbox": [
+            84,
+            629,
+            900,
+            667
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "技术方面，公司将推进'Ultrajack'平台适配20兆瓦级风机安装需求，并启动绿色甲醇动力安装船的概念设计，卡位深远海风电下一代装备。",
+        "bbox": [
+            84,
+            676,
+            904,
+            714
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "九、风险因素",
+        "text_level": 2,
+        "bbox": [
+            85,
+            728,
+            210,
+            746
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注",
+        "bbox": [
+            84,
+            752,
+            648,
+            770
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "订单周期风险：海洋工程装备单笔金额大、建造周期长，客户取消或延期将直接冲击收入与存货。",
+        "bbox": [
+            119,
+            781,
+            877,
+            799
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "油价波动风险：深海油气资本开支与油价预期高度相关，油价中枢下移可能延缓FPSO订单释放。",
+        "bbox": [
+            119,
+            808,
+            868,
+            826
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "汇率与利率风险：境外订单以美元计价，汇率与融资成本波动影响利润。",
+        "bbox": [
+            119,
+            835,
+            682,
+            852
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "应收与存货风险：建造合同的里程碑结算与在建装备存在减值压力。",
+        "bbox": [
+            119,
+            863,
+            647,
+            879
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "安全运营风险：海上作业环境复杂，安全事件可能带来损失与商誉影响。",
+        "bbox": [
+            121,
+            889,
+            682,
+            907
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "第7页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第五节 董事会报告",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            282,
+            72
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司共召开董事会会议10次、监事会会议6次、股东大会3次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。",
+        "bbox": [
+            84,
+            82,
+            912,
+            121
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.20元（含税)，合计派发现金红利2.94亿元（含税），占2025年度归属于上市公司股东净利润的30.56%。",
+        "bbox": [
+            84,
+            129,
+            897,
+            187
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。",
+        "bbox": [
+            84,
+            197,
+            912,
+            256
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第六节 公司治理",
+        "text_level": 2,
+        "bbox": [
+            85,
+            275,
+            260,
+            296
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。",
+        "bbox": [
+            84,
+            305,
+            909,
+            385
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。",
+        "bbox": [
+            84,
+            393,
+            905,
+            432
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。",
+        "bbox": [
+            84,
+            441,
+            907,
+            479
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第七节环境、社会责任和其他公司治理",
+        "text_level": 2,
+        "bbox": [
+            85,
+            499,
+            487,
+            520
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一、环境保护信息",
+        "text_level": 2,
+        "bbox": [
+            84,
+            535,
+            248,
+            552
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "环境信息主要指标",
+        "text_level": 2,
+        "bbox": [
+            85,
+            563,
+            221,
+            579
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fd494e3b35d4cf46b83a91847fcbb3a280292389fbe0fd579a0f8c299376efc.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "公司交付国内首艘氢电混合动力海上运维母船，报告期内重大安全责任事故为零，获评国家级绿色工厂。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>万元产值综合能耗(吨标准煤）</td><td rowspan=1 colspan=1>0.42</td><td rowspan=1 colspan=1>-3.8%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（万吨CO2e）</td><td rowspan=1 colspan=1>52.6</td><td rowspan=1 colspan=1>-2.1%</td></tr><tr><td rowspan=1 colspan=1>工业用水重复利用率</td><td rowspan=1 colspan=1>87.0%</td><td rowspan=1 colspan=1>提高2.0个百分点</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>3,850</td><td rowspan=1 colspan=1>+14.0%</td></tr></table>",
+        "bbox": [
+            78,
+            583,
+            919,
+            702
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "二、社会责任",
+        "text_level": 2,
+        "bbox": [
+            85,
+            757,
+            211,
+            776
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "截至报告期末，公司员工总数26,500人，其中研发人员2,200人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域",
+        "bbox": [
+            84,
+            782,
+            910,
+            821
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三、公司治理专项情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            834,
+            289,
+            853
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。",
+        "bbox": [
+            84,
+            859,
+            905,
+            898
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            75,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            23
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "第8页/共11页",
+        "bbox": [
+            808,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第八节 重要事项",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            260,
+            72
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重大合同：报告期内公司新签FPSO总装合同1艘（金额约68亿元）、风电安装船合同5艘（合计约52亿元)，海外模块合同约30亿元。",
+        "bbox": [
+            84,
+            82,
+            907,
+            120
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。",
+        "bbox": [
+            119,
+            130,
+            630,
+            147
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对外担保：报告期内公司为建造项目的卖方信贷安排提供担保合计5.6亿元，均履行审议程序。",
+        "bbox": [
+            119,
+            156,
+            848,
+            174
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为2.3亿元，主要为场地与码头服务，定价公允。",
+        "bbox": [
+            87,
+            184,
+            895,
+            223
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "承诺履行情况：控股股东、实际控制人及董监高报告期内不存在违反承诺情形。",
+        "bbox": [
+            119,
+            231,
+            734,
+            249
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第九节 股份变动及股东情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            269,
+            373,
+            290
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c96898117894a0a5976c7fa16becedbaffb638bdf12c0d9b599b783bdf15b563.jpg",
+        "table_caption": [
+            "股份结构(万股)"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>134,750.0</td><td rowspan=1 colspan=1>55.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>110,250.0</td><td rowspan=1 colspan=1>45.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>245,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>",
+        "bbox": [
+            78,
+            322,
+            919,
+            418
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "前十大股东持股情况",
+        "text_level": 2,
+        "bbox": [
+            85,
+            431,
+            267,
+            450
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce883eb59cb33da46640f090143d3d63d451b11b36d7921707b548f7a5f715dd.jpg",
+        "table_caption": [
+            "截至2025年12月31日前十大股东"
+        ],
+        "table_footnote": [
+            "公司控股股东为沧澜海洋工程控股集团有限公司，实际控制人为祁海川。控股股东所持股份报告期内不存在质押、冻结情形。"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>沧澜海洋工程控股集团有限公司</td><td rowspan=1 colspan=1>21.60%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>青岛市国有资本投资运营集团</td><td rowspan=1 colspan=1>9.80%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>中国国有企业混合所有制改革基金</td><td rowspan=1 colspan=1>6.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.80%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——八组合</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>中国人寿保险一传统险产品</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>国家制造业转型升级基金</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>沧澜员工持股计划</td><td rowspan=1 colspan=1>2.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华泰柏瑞沪深300ETF</td><td rowspan=1 colspan=1>1.75%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>基本养老保险基金一零零三组合</td><td rowspan=1 colspan=1>1.45%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>59.10%</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            78,
+            480,
+            919,
+            770
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第十节 财务报告",
+        "text_level": 2,
+        "bbox": [
+            85,
+            829,
+            258,
+            851
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一、审计意见",
+        "text_level": 2,
+        "bbox": [
+            85,
+            865,
+            210,
+            883
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见（中衡审字[2026]第0436号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规",
+        "bbox": [
+            84,
+            890,
+            912,
+            928
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            23
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "第9页/共11页",
+        "bbox": [
+            808,
+            954,
+            919,
+            969
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。",
+        "bbox": [
+            84,
+            51,
+            907,
+            87
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "二、合并资产负债表主要项目（摘要）",
+        "text_level": 2,
+        "bbox": [
+            85,
+            103,
+            411,
+            122
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bf1858b51f84907d9d2d9ca00a4207209581bc857d99ca7cbe3f72fc2e7d5e9.jpg",
+        "table_caption": [
+            "资产负债表主要项目"
+        ],
+        "table_footnote": [
+            "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初（亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>68.40</td><td rowspan=1 colspan=1>62.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>58.60</td><td rowspan=1 colspan=1>55.40</td></tr><tr><td rowspan=1 colspan=1>存货（在建装备）</td><td rowspan=1 colspan=1>96.30</td><td rowspan=1 colspan=1>98.60</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>142.60</td><td rowspan=1 colspan=1>134.20</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>54.70</td><td rowspan=1 colspan=1>57.80</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>420.60</td><td rowspan=1 colspan=1>408.20</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>98.40</td><td rowspan=1 colspan=1>96.20</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>46.20</td><td rowspan=1 colspan=1>42.80</td></tr><tr><td rowspan=1 colspan=1>借款</td><td rowspan=1 colspan=1>88.60</td><td rowspan=1 colspan=1>82.40</td></tr><tr><td rowspan=1 colspan=1>其他负债</td><td rowspan=1 colspan=1>21.30</td><td rowspan=1 colspan=1>26.80</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>254.50</td><td rowspan=1 colspan=1>248.20</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>166.10</td><td rowspan=1 colspan=1>160.00</td></tr></table>",
+        "bbox": [
+            78,
+            152,
+            919,
+            467
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "三、合并利润表主要项目(摘要)",
+        "text_level": 2,
+        "bbox": [
+            85,
+            498,
+            371,
+            517
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "利润表主要项目",
+        "text_level": 2,
+        "bbox": [
+            85,
+            527,
+            203,
+            543
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/93bf61a7034eed22e7d5ecef03340c8563d62eeb11a4b3c582198e64a09e4c99.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>194.80</td><td rowspan=1 colspan=1>172.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>156.62</td><td rowspan=1 colspan=1>139.99</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>20.40</td><td rowspan=1 colspan=1>19.45</td></tr><tr><td rowspan=1 colspan=1>研发费用(含于期间费用)</td><td rowspan=1 colspan=1>5.70</td><td rowspan=1 colspan=1>5.10</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>9.62</td><td rowspan=1 colspan=1>8.72</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>8.85</td><td rowspan=1 colspan=1>8.00</td></tr></table>",
+        "bbox": [
+            78,
+            546,
+            919,
+            717
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四、合并现金流量表主要项目（摘要）",
+        "text_level": 2,
+        "bbox": [
+            85,
+            731,
+            410,
+            749
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad111b74828dd468465f7f44e91b4bdd8b82ee2192ae2a563c55b3d1f3758981.jpg",
+        "table_caption": [
+            "现金流量表主要项目"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元)</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>12.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-18.60</td><td rowspan=1 colspan=1>-20.40</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>8.60</td></tr><tr><td rowspan=1 colspan=3>公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。</td></tr></table>",
+        "bbox": [
+            78,
+            778,
+            917,
+            916
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司(605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            542,
+            23
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "第10页/共11页",
+        "bbox": [
+            801,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "备查文件目录",
+        "text_level": 2,
+        "bbox": [
+            85,
+            52,
+            230,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。",
+        "bbox": [
+            85,
+            82,
+            764,
+            99
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。",
+        "bbox": [
+            85,
+            109,
+            682,
+            127
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。",
+        "bbox": [
+            85,
+            136,
+            534,
+            154
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "公司2025年年度股东大会会议资料及决议。",
+        "bbox": [
+            85,
+            164,
+            435,
+            181
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)",
+        "bbox": [
+            94,
+            200,
+            499,
+            216
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "青岛沧澜海洋工程股份有限公司（605205.SH）2025年年度报告",
+        "bbox": [
+            77,
+            7,
+            544,
+            23
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "沪主板",
+        "bbox": [
+            875,
+            9,
+            921,
+            22
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "第11页/共11页",
+        "bbox": [
+            801,
+            954,
+            921,
+            969
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "footer",
+        "text": "青岛沧澜海洋工程股份有限公司 2025年年度报告",
+        "bbox": [
+            77,
+            954,
+            383,
+            969
+        ],
+        "page_idx": 10
+    }
+]

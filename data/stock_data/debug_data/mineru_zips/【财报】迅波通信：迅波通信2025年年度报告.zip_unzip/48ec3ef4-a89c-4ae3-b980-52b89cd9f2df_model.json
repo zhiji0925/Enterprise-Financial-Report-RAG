@@ -1,0 +1,4597 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9155,
+                "bbox": [
+                    127,
+                    19,
+                    901,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6181,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9686,
+                "bbox": [
+                    316,
+                    394,
+                    1334,
+                    480
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6265,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8291,
+                "bbox": [
+                    455,
+                    669,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9346,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9275,
+                "bbox": [
+                    557,
+                    1156,
+                    1095,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9421,
+                "bbox": [
+                    129,
+                    2232,
+                    636,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9297,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    322,
+                    402,
+                    1329,
+                    477
+                ],
+                "score": 1.0,
+                "text": "成都迅波通信技术股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.985,
+                "text": "(股票简称：迅波通信股票代码：688335.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    677,
+                    747,
+                    973,
+                    776
+                ],
+                "score": 0.982,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年4月10日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    565,
+                    1163,
+                    1087,
+                    1187
+                ],
+                "score": 0.995,
+                "text": "公司统一社会信用代码：91510100MA6C4J9K5R"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.993,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9403,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8671,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.947,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9752,
+                "bbox": [
+                    139,
+                    193,
+                    1498,
+                    283
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    140,
+                    305,
+                    1485,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9687,
+                "bbox": [
+                    141,
+                    463,
+                    1492,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9729,
+                "bbox": [
+                    141,
+                    574,
+                    1506,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9723,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9487,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9434,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9743,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9701,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9435,
+                "bbox": [
+                    129,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9379,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1490,
+                    226
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    250,
+                    974,
+                    275
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    311,
+                    1478,
+                    341
+                ],
+                "score": 1.0,
+                "text": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    358,
+                    1472,
+                    388
+                ],
+                "score": 0.966,
+                "text": "红利1.20元(含税)，合计派发现金红利0.38亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    405,
+                    883,
+                    435
+                ],
+                "score": 1.0,
+                "text": "20.88%。该预案尚需提交公司2025年年度股东大会审议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    580,
+                    1501,
+                    610
+                ],
+                "score": 0.981,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.965,
+                "text": "报告(中衡审字[2026]第0664号)。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    691,
+                    1491,
+                    721
+                ],
+                "score": 1.0,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    768
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 0.995,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1489,
+                    958
+                ],
+                "score": 0.976,
+                "text": "八、公司负责人池映寰、主管会计工作负责人佘梦珊及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.998,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2258
+                ],
+                "score": 0.994,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9451,
+                "bbox": [
+                    128,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8869,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9756,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9298,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9425,
+                "bbox": [
+                    129,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9348,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.955,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 1.0,
+                "text": "第四节管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.954,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.961,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2258
+                ],
+                "score": 0.994,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9502,
+                "bbox": [
+                    128,
+                    19,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9052,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9589,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6775,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    132,
+                    245,
+                    1522,
+                    755
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、迅波通信</td><td rowspan=1 colspan=1>指成都迅波通信技术股份有限公司</td></tr><tr><td rowspan=1 colspan=1>低轨卫星互联网</td><td rowspan=1 colspan=1>指由部署于低地球轨道的通信卫星星座构成的互联网接入网络</td></tr><tr><td rowspan=1 colspan=1>相控阵天线</td><td rowspan=1 colspan=1>指通过控制阵列单元相位实现波束电扫描的天线技术</td></tr><tr><td rowspan=1 colspan=1>Ka频段</td><td rowspan=1 colspan=1>指26.5-40GHz的卫星通信频段</td></tr><tr><td rowspan=1 colspan=1>车载前装</td><td rowspan=1 colspan=1>指在整车生产环节集成安装的供货模式</td></tr><tr><td rowspan=1 colspan=1>动中通</td><td rowspan=1 colspan=1>指车辆、船舶等移动平台在运动中保持卫星通信的技术</td></tr><tr><td rowspan=1 colspan=1>卫星通信终端</td><td rowspan=1 colspan=1>指实现卫星信号收发与用户交互的整机设备</td></tr><tr><td rowspan=1 colspan=1>射频前端</td><td rowspan=1 colspan=1>指天线与收发信机之间的射频信号处理单元</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9632,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    141,
+                    867,
+                    1496,
+                    1005
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    141,
+                    1026,
+                    1504,
+                    1116
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9778,
+                "bbox": [
+                    141,
+                    1137,
+                    1489,
+                    1227
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9532,
+                "bbox": [
+                    200,
+                    1248,
+                    569,
+                    1288
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9636,
+                "bbox": [
+                    142,
+                    1336,
+                    693,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9523,
+                "bbox": [
+                    142,
+                    1418,
+                    412,
+                    1461
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.7672,
+                "bbox": [
+                    145,
+                    1488,
+                    313,
+                    1522
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    132,
+                    1532,
+                    1521,
+                    2156
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>成都迅波通信技术股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>迅波通信</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688335.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>四川省成都市高新区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2023年6月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>卫星通信（终端/射频）</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>池映寰</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>燕北辰</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>佘梦珊</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9452,
+                "bbox": [
+                    128,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.94,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    19,
+                    899,
+                    56
+                ],
+                "score": 0.985,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.974,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    875,
+                    1485,
+                    900
+                ],
+                "score": 1.0,
+                "text": "2025年，低轨星座把天空铺成了新的网络。迅波通信实现营业收入15.20亿元，同比增长33.3%；归"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    923,
+                    1487,
+                    948
+                ],
+                "score": 0.999,
+                "text": "属于上市公司股东的净利润1.82亿元，同比增长23.0%；卫星通信终端出货量稳居国内前二，车载卫星通"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    970,
+                    567,
+                    995
+                ],
+                "score": 1.0,
+                "text": "信获得头部新能源车企前装定点。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    205,
+                    1032,
+                    1498,
+                    1062
+                ],
+                "score": 1.0,
+                "text": "这一年，国内低轨星座组网发射提速，公司Ka频段动中通终端在海事、应急与越野场景批量交付；相"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1080,
+                    1222,
+                    1105
+                ],
+                "score": 0.999,
+                "text": "控阵组件进入商业航天供应链；手机直连卫星的浪潮，把'天上的网'带进了寻常口袋。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1145,
+                    1482,
+                    1170
+                ],
+                "score": 1.0,
+                "text": "通信的尽头是连接每一个人。2026年，公司将陪跑星座组网节奏，让终端随卫星上天、随汽车上路。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1192,
+                    857,
+                    1218
+                ],
+                "score": 1.0,
+                "text": "感谢这个把梦想写进频谱表的行业，也感谢每一位股东。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1250,
+                    562,
+                    1288
+                ],
+                "score": 1.0,
+                "text": "董事长：池映寰2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1337,
+                    686,
+                    1382
+                ],
+                "score": 0.986,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1419,
+                    406,
+                    1462
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1489,
+                    311,
+                    1525
+                ],
+                "score": 0.997,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.993,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9421,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8994,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9844,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    292
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>1,980</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9533,
+                "bbox": [
+                    141,
+                    319,
+                    415,
+                    363
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    141,
+                    377,
+                    1507,
+                    467
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9785,
+                "bbox": [
+                    141,
+                    488,
+                    1502,
+                    578
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9586,
+                "bbox": [
+                    142,
+                    610,
+                    573,
+                    655
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5731,
+                "bbox": [
+                    142,
+                    680,
+                    526,
+                    717
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9901,
+                "bbox": [
+                    132,
+                    725,
+                    1520,
+                    1269
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>11.40</td><td rowspan=1 colspan=1>+33.3%</td><td rowspan=1 colspan=1>8.90</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>1.82</td><td rowspan=1 colspan=1>1.48</td><td rowspan=1 colspan=1>+23.0%</td><td rowspan=1 colspan=1>1.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>1.55</td><td rowspan=1 colspan=1>1.26</td><td rowspan=1 colspan=1>+23.0%</td><td rowspan=1 colspan=1>1.02</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.40</td><td rowspan=1 colspan=1>+28.6%</td><td rowspan=1 colspan=1>1.10</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.57</td><td rowspan=1 colspan=1>0.46</td><td rowspan=1 colspan=1>+23.0%</td><td rowspan=1 colspan=1>0.37</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>7.40</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>增加1.20个百分点</td><td rowspan=1 colspan=1>5.30</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>42.80</td><td rowspan=1 colspan=1>39.60</td><td rowspan=1 colspan=1>+8.1%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>25.40</td><td rowspan=1 colspan=1>23.80</td><td rowspan=1 colspan=1>+6.7%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9469,
+                "bbox": [
+                    141,
+                    1279,
+                    968,
+                    1314
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9573,
+                "bbox": [
+                    142,
+                    1341,
+                    573,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9338,
+                "bbox": [
+                    144,
+                    1409,
+                    511,
+                    1447
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9885,
+                "bbox": [
+                    132,
+                    1455,
+                    1520,
+                    1738
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.16</td><td rowspan=1 colspan=1>卫星互联网产业专项</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.05</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.27</td><td rowspan=1 colspan=1>占归母净利润比例14.8%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9525,
+                "bbox": [
+                    143,
+                    1748,
+                    824,
+                    1784
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9593,
+                "bbox": [
+                    143,
+                    1811,
+                    507,
+                    1854
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9235,
+                "bbox": [
+                    144,
+                    1879,
+                    484,
+                    1915
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9853,
+                "bbox": [
+                    132,
+                    1925,
+                    1521,
+                    2094
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>3.50</td><td rowspan=1 colspan=1>4.00</td><td rowspan=1 colspan=1>4.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.34</td><td rowspan=1 colspan=1>0.41</td><td rowspan=1 colspan=1>0.49</td><td rowspan=1 colspan=1>0.58</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9459,
+                "bbox": [
+                    128,
+                    2231,
+                    635,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9373,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    320,
+                    409,
+                    363
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    383,
+                    1499,
+                    413
+                ],
+                "score": 1.0,
+                "text": "公司成立于2012年，总部位于四川成都，2023年6月在上海证券交易所科创板上市，专注于卫星互联"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    434,
+                    654,
+                    459
+                ],
+                "score": 1.0,
+                "text": "网终端与射频组件的研发、生产与销售。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    496,
+                    1493,
+                    521
+                ],
+                "score": 0.998,
+                "text": "截至报告期末，公司具备年产卫星通信终端12万台、相控阵组件3万套的产能，产品覆盖车载、海事、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    542,
+                    450,
+                    572
+                ],
+                "score": 1.0,
+                "text": "应急与消费级直连场景。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    615,
+                    566,
+                    652
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    687,
+                    519,
+                    711
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1285,
+                    960,
+                    1309
+                ],
+                "score": 0.999,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1347,
+                    565,
+                    1380
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1416,
+                    504,
+                    1441
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1755,
+                    818,
+                    1777
+                ],
+                "score": 0.991,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1816,
+                    501,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1885,
+                    478,
+                    1911
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.993,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9452,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8938,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8609,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9602,
+                "bbox": [
+                    141,
+                    204,
+                    604,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9811,
+                "bbox": [
+                    140,
+                    263,
+                    1509,
+                    354
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9804,
+                "bbox": [
+                    141,
+                    374,
+                    1500,
+                    465
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9566,
+                "bbox": [
+                    142,
+                    495,
+                    636,
+                    541
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9791,
+                "bbox": [
+                    141,
+                    555,
+                    1499,
+                    645
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9785,
+                "bbox": [
+                    142,
+                    666,
+                    1504,
+                    757
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9569,
+                "bbox": [
+                    142,
+                    788,
+                    572,
+                    833
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9311,
+                "bbox": [
+                    143,
+                    857,
+                    497,
+                    894
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    903,
+                    1520,
+                    1180
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>卫星通信终端</td><td rowspan=1 colspan=1>9.58</td><td rowspan=1 colspan=1>63.0%</td><td rowspan=1 colspan=1>42.0%</td><td rowspan=1 colspan=1>+36.5%</td></tr><tr><td rowspan=1 colspan=1>相控阵组件</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>27.0%</td><td rowspan=1 colspan=1>50.0%</td><td rowspan=1 colspan=1>+21.0%</td></tr><tr><td rowspan=1 colspan=1>测试服务及其他</td><td rowspan=1 colspan=1>1.52</td><td rowspan=1 colspan=1>10.0%</td><td rowspan=1 colspan=1>48.0%</td><td rowspan=1 colspan=1>+15.6%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>44.8%</td><td rowspan=1 colspan=1>+33.3%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9774,
+                "bbox": [
+                    141,
+                    1189,
+                    1495,
+                    1324
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9101,
+                "bbox": [
+                    143,
+                    1352,
+                    432,
+                    1388
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    132,
+                    1398,
+                    1520,
+                    1623
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元)</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>13.60</td><td rowspan=1 colspan=1>89.5%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>1.60</td><td rowspan=1 colspan=1>10.5%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9528,
+                "bbox": [
+                    142,
+                    1634,
+                    728,
+                    1669
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.958,
+                "bbox": [
+                    143,
+                    1696,
+                    412,
+                    1739
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9341,
+                "bbox": [
+                    145,
+                    1765,
+                    534,
+                    1801
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9866,
+                "bbox": [
+                    133,
+                    1810,
+                    1520,
+                    2036
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>射频芯片及器件</td><td rowspan=1 colspan=1>46.8%</td><td rowspan=1 colspan=1>45.2%</td><td rowspan=1 colspan=1>国产替代比例升至58%</td></tr><tr><td rowspan=1 colspan=1>结构件及辅料</td><td rowspan=1 colspan=1>18.4%</td><td rowspan=1 colspan=1>17.6%</td><td rowspan=1 colspan=1>车载结构件占比提升</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>34.8%</td><td rowspan=1 colspan=1>37.2%</td><td rowspan=1 colspan=1>产线自动化改造摊薄</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9583,
+                "bbox": [
+                    143,
+                    2067,
+                    506,
+                    2110
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5955,
+                "bbox": [
+                    142,
+                    2136,
+                    313,
+                    2172
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.944,
+                "bbox": [
+                    128,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9391,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    208,
+                    596,
+                    245
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    271,
+                    1499,
+                    297
+                ],
+                "score": 1.0,
+                "text": "2025年国内商业航天进入规模组网阶段，全年运载火箭发射次数创历史新高，低轨卫星互联网星座加"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    317,
+                    1331,
+                    343
+                ],
+                "score": 0.998,
+                "text": "速组网；手机直连卫星从旗舰机型走向普及，天通+低轨'双轨并进带动终端与组件需求放量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    382,
+                    1491,
+                    408
+                ],
+                "score": 1.0,
+                "text": "全球卫星互联网进入规模商用元年，海外星座加速部署，海事、航空、应急与车载前装成为四大落地"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    425,
+                    1152,
+                    457
+                ],
+                "score": 1.0,
+                "text": "场景；国内产业链在终端成本与迭代速度上形成独特优势，出海窗口正在打开。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    502,
+                    628,
+                    536
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    561,
+                    1490,
+                    591
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为卫星通信终端与相控阵组件的研发、生产与销售，并提供卫星链路测试服务，产品覆"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    610,
+                    624,
+                    636
+                ],
+                "score": 1.0,
+                "text": "盖车载、海事、应急与消费直连场景。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    674,
+                    1495,
+                    700
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司车载卫星通信终端获得头部新能源车企前装定点并完成冬季标定测试；Ka频段海事动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    720,
+                    1004,
+                    746
+                ],
+                "score": 1.0,
+                "text": "中通批量交付东南亚船东；相控阵组件中标商业航天星座批量订单。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    793,
+                    565,
+                    830
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    860,
+                    492,
+                    892
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1195,
+                    1487,
+                    1220
+                ],
+                "score": 1.0,
+                "text": "卫星通信终端收入9.58亿元，同比增长36.5%，车载与海事场景双双放量；相控阵组件收入4.10亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    1240,
+                    1466,
+                    1270
+                ],
+                "score": 1.0,
+                "text": "，同比增长21.0%，商业航天星座组网带来批量订单；测试服务及其他收入1.52亿元，同比增长15.6%，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1287,
+                    392,
+                    1317
+                ],
+                "score": 1.0,
+                "text": "随终端保有量增长。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1354,
+                    428,
+                    1386
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1641,
+                    722,
+                    1662
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的46.2%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1699,
+                    408,
+                    1740
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1771,
+                    527,
+                    1797
+                ],
+                "score": 0.97,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    2073,
+                    499,
+                    2106
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    2140,
+                    309,
+                    2170
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2259
+                ],
+                "score": 0.997,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9402,
+                "bbox": [
+                    128,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9114,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9888,
+                "bbox": [
+                    133,
+                    120,
+                    1521,
+                    397
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>1.30</td><td rowspan=1 colspan=1>1.15</td><td rowspan=1 colspan=1>+13.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>1.45</td><td rowspan=1 colspan=1>1.30</td><td rowspan=1 colspan=1>+11.5%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>1.75</td><td rowspan=1 colspan=1>1.50</td><td rowspan=1 colspan=1>+16.7%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.08</td><td rowspan=1 colspan=1>-0.05</td><td rowspan=1 colspan=1>+60.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.6105,
+                "bbox": [
+                    140,
+                    406,
+                    1506,
+                    495
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9609,
+                "bbox": [
+                    142,
+                    528,
+                    413,
+                    571
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8658,
+                "bbox": [
+                    143,
+                    596,
+                    365,
+                    632
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9879,
+                "bbox": [
+                    132,
+                    644,
+                    1520,
+                    863
+                ],
+                "index": 7,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.80</td><td rowspan=1 colspan=1>-2.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>0.60</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8464,
+                "bbox": [
+                    140,
+                    871,
+                    1494,
+                    960
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.962,
+                "bbox": [
+                    142,
+                    993,
+                    571,
+                    1036
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.8832,
+                "bbox": [
+                    143,
+                    1061,
+                    445,
+                    1099
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9878,
+                "bbox": [
+                    133,
+                    1108,
+                    1520,
+                    1334
+                ],
+                "index": 11,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>9.40</td><td rowspan=1 colspan=1>+8.5%</td><td rowspan=1 colspan=1>经营积累与募集资金存放</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>6.10</td><td rowspan=1 colspan=1>+11.5%</td><td rowspan=1 colspan=1>Q4终端批量交付</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>+10.3%</td><td rowspan=1 colspan=1>相控阵组件产线建设</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9616,
+                "bbox": [
+                    143,
+                    1364,
+                    510,
+                    1407
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9812,
+                "bbox": [
+                    140,
+                    1422,
+                    1467,
+                    1511
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9774,
+                "bbox": [
+                    141,
+                    1534,
+                    1505,
+                    1621
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9568,
+                "bbox": [
+                    142,
+                    1656,
+                    349,
+                    1699
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9629,
+                "bbox": [
+                    142,
+                    1714,
+                    1073,
+                    1755
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9632,
+                "bbox": [
+                    198,
+                    1778,
+                    1184,
+                    1819
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9626,
+                "bbox": [
+                    200,
+                    1841,
+                    1187,
+                    1882
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    199,
+                    1905,
+                    925,
+                    1945
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9624,
+                "bbox": [
+                    198,
+                    1970,
+                    1071,
+                    2010
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9618,
+                "bbox": [
+                    199,
+                    2033,
+                    1129,
+                    2074
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9622,
+                "bbox": [
+                    143,
+                    2122,
+                    466,
+                    2169
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9481,
+                "bbox": [
+                    129,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9438,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 24
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    899,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    408,
+                    1496,
+                    437
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计1.90亿元，占营业收入比例12.5%，其中费用化研发费用1.75亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    459,
+                    1081,
+                    484
+                ],
+                "score": 0.998,
+                "text": "元、资本化研发投入0.15亿元；研发人员620人，占员工总数比例31.3%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    531,
+                    407,
+                    572
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    602,
+                    360,
+                    628
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    874,
+                    1488,
+                    904
+                ],
+                "score": 1.0,
+                "text": "报告期内经营活动现金流量净额1.80亿元，同比增长28.6%；投资活动净流出2.80亿元，为相控阵组"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    924,
+                    799,
+                    949
+                ],
+                "score": 0.998,
+                "text": "件产线与研发中心投入；筹资活动净流入1.00亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    992,
+                    567,
+                    1037
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1068,
+                    439,
+                    1094
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1368,
+                    501,
+                    1403
+                ],
+                "score": 0.999,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1428,
+                    1459,
+                    1458
+                ],
+                "score": 0.998,
+                "text": "2026年经营目标：营业收入20亿元左右，同比增长约32%；车载前装车型于二季度SOP批量下线，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1475,
+                    509,
+                    1505
+                ],
+                "score": 1.0,
+                "text": "相控阵组件出货量实现翻番。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1540,
+                    1499,
+                    1569
+                ],
+                "score": 1.0,
+                "text": "研发方面，公司将完成下一代Ka/K频段双模终端的样机开发，推进手机直连卫星射频前端芯片的国产"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1583,
+                    250,
+                    1620
+                ],
+                "score": 1.0,
+                "text": "化验证。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1657,
+                    344,
+                    1700
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1721,
+                    1063,
+                    1748
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1783,
+                    1176,
+                    1814
+                ],
+                "score": 1.0,
+                "text": "客户集中风险：公司前五名客户收入占比46.2%，大客户订单波动影响显著。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1848,
+                    1179,
+                    1875
+                ],
+                "score": 1.0,
+                "text": "星座进度风险：低轨星座组网进度不及预期将直接影响终端与组件需求节奏。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    1911,
+                    918,
+                    1940
+                ],
+                "score": 1.0,
+                "text": "频谱监管风险：卫星频率与用频政策变化存在不确定性。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1975,
+                    1064,
+                    2004
+                ],
+                "score": 1.0,
+                "text": "技术替代风险：手机直连卫星形态演进快，终端产品面临重构压力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2040,
+                    1121,
+                    2067
+                ],
+                "score": 1.0,
+                "text": "供应链风险：高性能射频芯片仍有部分依赖进口，存在断供与成本风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    2112,
+                    463,
+                    2170
+                ],
+                "score": 0.969,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2259
+                ],
+                "score": 0.997,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9519,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.892,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    140,
+                    122,
+                    1492,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.982,
+                "bbox": [
+                    141,
+                    232,
+                    1485,
+                    368
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9838,
+                "bbox": [
+                    140,
+                    391,
+                    1510,
+                    529
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.958,
+                "bbox": [
+                    142,
+                    573,
+                    431,
+                    622
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9869,
+                "bbox": [
+                    140,
+                    643,
+                    1504,
+                    827
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9779,
+                "bbox": [
+                    140,
+                    849,
+                    1497,
+                    939
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9739,
+                "bbox": [
+                    141,
+                    960,
+                    1500,
+                    1048
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9641,
+                "bbox": [
+                    142,
+                    1096,
+                    805,
+                    1145
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9516,
+                "bbox": [
+                    142,
+                    1178,
+                    413,
+                    1221
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8381,
+                "bbox": [
+                    143,
+                    1247,
+                    368,
+                    1283
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9881,
+                "bbox": [
+                    132,
+                    1292,
+                    1520,
+                    1569
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>18.6</td><td rowspan=1 colspan=1>-5.1%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(吨CO2e）</td><td rowspan=1 colspan=1>12,400</td><td rowspan=1 colspan=1>+9.0%</td></tr><tr><td rowspan=1 colspan=1>无铅化工艺产品占比</td><td rowspan=1 colspan=1>100%</td><td rowspan=1 colspan=1>持续保持</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>+16.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9146,
+                "bbox": [
+                    141,
+                    1579,
+                    1485,
+                    1666
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9466,
+                "bbox": [
+                    142,
+                    1698,
+                    349,
+                    1743
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9759,
+                "bbox": [
+                    140,
+                    1758,
+                    1508,
+                    1848
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9524,
+                "bbox": [
+                    142,
+                    1880,
+                    478,
+                    1924
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9762,
+                "bbox": [
+                    140,
+                    1938,
+                    1499,
+                    2029
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9588,
+                "bbox": [
+                    143,
+                    2074,
+                    431,
+                    2122
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9432,
+                "bbox": [
+                    128,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9387,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    130,
+                    1483,
+                    155
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    177,
+                    1146,
+                    202
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    237,
+                    1478,
+                    268
+                ],
+                "score": 1.0,
+                "text": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    288,
+                    1412,
+                    313
+                ],
+                "score": 0.964,
+                "text": "1.20元(含税)，合计派发现金红利0.38亿元（含税)，占2025年度归属于上市公司股东净利润的"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    332,
+                    265,
+                    366
+                ],
+                "score": 0.991,
+                "text": "20.88%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    399,
+                    1500,
+                    424
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    447,
+                    1499,
+                    472
+                ],
+                "score": 0.994,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    490,
+                    620,
+                    521
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    569,
+                    427,
+                    624
+                ],
+                "score": 0.982,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    649,
+                    1491,
+                    674
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    699,
+                    1498,
+                    725
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    747,
+                    1490,
+                    772
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    790,
+                    467,
+                    819
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    857,
+                    1489,
+                    882
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    904,
+                    1222,
+                    930
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    967,
+                    1489,
+                    992
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1011,
+                    333,
+                    1041
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1097,
+                    797,
+                    1141
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1181,
+                    407,
+                    1222
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1253,
+                    361,
+                    1279
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1582,
+                    1478,
+                    1611
+                ],
+                "score": 0.995,
+                "text": "公司开展电子废弃物以旧换新回收计划，全年回收终端3.2万台；'迅波应急通信公益'为4次重大自然"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1631,
+                    508,
+                    1656
+                ],
+                "score": 1.0,
+                "text": "灾害提供卫星通信保障支持。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    1699,
+                    347,
+                    1746
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1766,
+                    1500,
+                    1791
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数1,980人，其中研发人员620人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1813,
+                    1439,
+                    1839
+                ],
+                "score": 1.0,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1885,
+                    470,
+                    1923
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1946,
+                    1490,
+                    1972
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1989,
+                    1029,
+                    2021
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2072,
+                    426,
+                    2121
+                ],
+                "score": 0.975,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    629,
+                    2258
+                ],
+                "score": 0.993,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9509,
+                "bbox": [
+                    127,
+                    19,
+                    900,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8876,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.98,
+                "bbox": [
+                    141,
+                    122,
+                    1500,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9593,
+                "bbox": [
+                    199,
+                    233,
+                    1042,
+                    273
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9589,
+                "bbox": [
+                    199,
+                    297,
+                    809,
+                    337
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.96,
+                "bbox": [
+                    199,
+                    360,
+                    1309,
+                    402
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9772,
+                "bbox": [
+                    142,
+                    424,
+                    1482,
+                    514
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9587,
+                "bbox": [
+                    142,
+                    560,
+                    618,
+                    609
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6621,
+                "bbox": [
+                    144,
+                    635,
+                    350,
+                    672
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9865,
+                "bbox": [
+                    133,
+                    681,
+                    1520,
+                    906
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>20,800.0</td><td rowspan=1 colspan=1>65.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>11,200.0</td><td rowspan=1 colspan=1>35.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>32,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9419,
+                "bbox": [
+                    143,
+                    938,
+                    444,
+                    981
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5822,
+                "bbox": [
+                    144,
+                    1007,
+                    549,
+                    1043
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    131,
+                    1051,
+                    1521,
+                    1727
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>迅波控股集团有限公司</td><td rowspan=1 colspan=1>26.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>航天卫通产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>8.40%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>蓉城电子信息产业投资基金（有限合伙）</td><td rowspan=1 colspan=1>6.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>4.80%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——五组合</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金八—一组合</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>迅波员工持股计划</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>1.70%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>嘉实上证科创板新一代信息技术ETF</td><td rowspan=1 colspan=1>1.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>中欧电子信息产业混合型证券投资基金</td><td rowspan=1 colspan=1>1.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>58.00%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9243,
+                "bbox": [
+                    141,
+                    1735,
+                    1477,
+                    1822
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9614,
+                "bbox": [
+                    142,
+                    1867,
+                    430,
+                    1918
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9487,
+                "bbox": [
+                    142,
+                    1952,
+                    349,
+                    1994
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9833,
+                "bbox": [
+                    140,
+                    2009,
+                    1510,
+                    2147
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9428,
+                "bbox": [
+                    128,
+                    2231,
+                    635,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9308,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    898,
+                    56
+                ],
+                "score": 0.983,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    126,
+                    1491,
+                    155
+                ],
+                "score": 1.0,
+                "text": "重大合同：报告期内公司获得某头部新能源车企车载卫星通信终端前装定点，生命周期预计订单金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    173,
+                    307,
+                    208
+                ],
+                "score": 1.0,
+                "text": "约4.50亿元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    240,
+                    1032,
+                    266
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    304,
+                    799,
+                    330
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    368,
+                    1300,
+                    394
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为95万元，程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    430,
+                    1476,
+                    460
+                ],
+                "score": 1.0,
+                "text": "募集资金：截至报告期末，公司首次公开发行募集资金累计投入2.10亿元，占募集资金净额的58%，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    479,
+                    566,
+                    505
+                ],
+                "score": 1.0,
+                "text": "全部用于卫星通信终端扩产项目。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    560,
+                    610,
+                    605
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    639,
+                    346,
+                    672
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    939,
+                    438,
+                    980
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1013,
+                    543,
+                    1039
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1739,
+                    1469,
+                    1768
+                ],
+                "score": 1.0,
+                "text": "公司控股股东为迅波控股集团有限公司，实际控制人为池映寰。控股股东所持股份报告期内不存在质押"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1783,
+                    279,
+                    1819
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1861,
+                    428,
+                    1920
+                ],
+                "score": 0.972,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1951,
+                    344,
+                    1996
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    2017,
+                    1497,
+                    2042
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2065,
+                    1499,
+                    2090
+                ],
+                "score": 0.989,
+                "text": "意见（中衡审字[2026]第0664号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    2108,
+                    1493,
+                    2139
+                ],
+                "score": 1.0,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2259
+                ],
+                "score": 0.997,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9512,
+                "bbox": [
+                    129,
+                    19,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8989,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9299,
+                "bbox": [
+                    143,
+                    123,
+                    281,
+                    160
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9563,
+                "bbox": [
+                    142,
+                    196,
+                    680,
+                    241
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4928,
+                "bbox": [
+                    144,
+                    267,
+                    391,
+                    302
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9895,
+                "bbox": [
+                    131,
+                    311,
+                    1522,
+                    990
+                ],
+                "index": 6,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元）</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>9.40</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>6.10</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>5.40</td><td rowspan=1 colspan=1>4.70</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>12.80</td><td rowspan=1 colspan=1>11.60</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>7.60</td><td rowspan=1 colspan=1>7.80</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>42.80</td><td rowspan=1 colspan=1>39.60</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>7.60</td><td rowspan=1 colspan=1>7.10</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>4.60</td><td rowspan=1 colspan=1>3.80</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>5.20</td><td rowspan=1 colspan=1>4.90</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>17.40</td><td rowspan=1 colspan=1>15.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>25.40</td><td rowspan=1 colspan=1>23.80</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9225,
+                "bbox": [
+                    141,
+                    1002,
+                    1203,
+                    1036
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9557,
+                "bbox": [
+                    142,
+                    1063,
+                    616,
+                    1107
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5254,
+                "bbox": [
+                    144,
+                    1133,
+                    338,
+                    1167
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9887,
+                "bbox": [
+                    132,
+                    1177,
+                    1521,
+                    1574
+                ],
+                "index": 10,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>15.20</td><td rowspan=1 colspan=1>11.40</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>8.39</td><td rowspan=1 colspan=1>6.43</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>4.42</td><td rowspan=1 colspan=1>3.90</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>1.75</td><td rowspan=1 colspan=1>1.50</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>1.82</td><td rowspan=1 colspan=1>1.48</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>1.55</td><td rowspan=1 colspan=1>1.26</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9489,
+                "bbox": [
+                    143,
+                    1605,
+                    680,
+                    1648
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7044,
+                "bbox": [
+                    144,
+                    1674,
+                    390,
+                    1709
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9751,
+                "bbox": [
+                    134,
+                    1719,
+                    1520,
+                    1941
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.40</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-2.80</td><td rowspan=1 colspan=1>-2.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>0.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.701,
+                "bbox": [
+                    141,
+                    1948,
+                    1496,
+                    2036
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9541,
+                "bbox": [
+                    144,
+                    2083,
+                    381,
+                    2130
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9435,
+                "bbox": [
+                    129,
+                    2232,
+                    635,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.937,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    899,
+                    56
+                ],
+                "score": 0.988,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    123,
+                    279,
+                    162
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    200,
+                    671,
+                    237
+                ],
+                "score": 0.957,
+                "text": "二、合并资产负债表主要项目（摘要）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    271,
+                    387,
+                    299
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1006,
+                    1197,
+                    1030
+                ],
+                "score": 1.0,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1068,
+                    608,
+                    1103
+                ],
+                "score": 0.95,
+                "text": "三、合并利润表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1137,
+                    334,
+                    1166
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1609,
+                    672,
+                    1643
+                ],
+                "score": 0.95,
+                "text": "四、合并现金流量表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1679,
+                    385,
+                    1704
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1951,
+                    1490,
+                    1980
+                ],
+                "score": 1.0,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1996,
+                    308,
+                    2032
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    2073,
+                    382,
+                    2134
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2258
+                ],
+                "score": 0.994,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1523,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9576,
+                "bbox": [
+                    128,
+                    20,
+                    900,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8718,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9609,
+                "bbox": [
+                    143,
+                    123,
+                    1265,
+                    161
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9591,
+                "bbox": [
+                    143,
+                    186,
+                    1129,
+                    225
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9571,
+                "bbox": [
+                    145,
+                    250,
+                    886,
+                    289
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9518,
+                "bbox": [
+                    144,
+                    314,
+                    721,
+                    353
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9387,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9452,
+                "bbox": [
+                    157,
+                    398,
+                    827,
+                    433
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9438,
+                "bbox": [
+                    129,
+                    2232,
+                    635,
+                    2263
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    126,
+                    20,
+                    900,
+                    55
+                ],
+                "score": 0.988,
+                "text": "成都迅波通信技术股份有限公司（688335.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    126,
+                    1259,
+                    159
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    190,
+                    1121,
+                    221
+                ],
+                "score": 0.991,
+                "text": "·载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    255,
+                    879,
+                    285
+                ],
+                "score": 0.983,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    318,
+                    715,
+                    351
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    404,
+                    819,
+                    428
+                ],
+                "score": 0.995,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    135,
+                    2238,
+                    628,
+                    2259
+                ],
+                "score": 0.997,
+                "text": "成都迅波通信技术股份有限公司 2025年年度报告"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

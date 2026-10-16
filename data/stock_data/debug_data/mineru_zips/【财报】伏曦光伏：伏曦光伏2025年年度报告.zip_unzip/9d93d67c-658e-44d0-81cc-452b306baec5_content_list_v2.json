@@ -1,0 +1,3030 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                233,
+                168,
+                761,
+                204
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025 年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                411,
+                228,
+                586,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(股票简称：伏曦光伏股票代码：601375.SH)(上海证券交易所主板)"
+                    }
+                ]
+            },
+            "bbox": [
+                273,
+                285,
+                722,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "披露日期：2026年4月2日"
+                    }
+                ]
+            },
+            "bbox": [
+                388,
+                462,
+                608,
+                479
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司统一社会信用代码：91320900MA1XR8T7BQ"
+                    }
+                ]
+            },
+            "bbox": [
+                334,
+                494,
+                663,
+                510
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                512,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                873,
+                9,
+                922,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第1页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "重要提示"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                52,
+                184,
+                71
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                82,
+                905,
+                120
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.50元(含税)，合计派发现金红利1.43亿元（含税)，占2025年度归属于上市公司股东净利润的16.07%。该预案尚需提交公司2025年年度股东大会审议。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                129,
+                897,
+                187
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                197,
+                902,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "四、公司2025年度财务报告已经正行会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(正行审字[2026]第0339号）。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                244,
+                910,
+                282
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                292,
+                905,
+                330
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                340,
+                665,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                367,
+                576,
+                385
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "八、公司负责人岑昭阳、主管会计工作负责人平雅宁及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                395,
+                904,
+                434
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                442,
+                905,
+                480
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第2页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "重要提示"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第一节释义"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第二节 致股东的信"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第三节公司简介和主要财务指标"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第四节 管理层讨论与分析"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第五节 董事会报告"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第六节公司治理"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第七节环境、社会责任和其他公司治理"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第八节 重要事项"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第九节股份变动及股东情况"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "第十节财务报告"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "备查文件目录"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                87,
+                413,
+                395
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                472,
+                52,
+                529,
+                71
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第3页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                810,
+                954,
+                919,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第一节释义"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                51,
+                213,
+                72
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "释义表"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                84,
+                141,
+                99
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bc7c5f16d656c3d4faf4e242e742589099d0629915f7810409612af68f2755d4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、伏曦光伏</td><td rowspan=1 colspan=1>指伏曦光伏科技股份有限公司</td></tr><tr><td rowspan=1 colspan=1>组件</td><td rowspan=1 colspan=1>指由电池片、玻璃、封装材料等组成的光伏发电单元</td></tr><tr><td rowspan=1 colspan=1>BC电池</td><td rowspan=1 colspan=1>指电极全部布置在电池背面的背接触电池技术路线</td></tr><tr><td rowspan=1 colspan=1>TOPCon</td><td rowspan=1 colspan=1>指隧穿氧化层钝化接触电池技术路线</td></tr><tr><td rowspan=1 colspan=1>一体化</td><td rowspan=1 colspan=1>指覆盖硅片、电池、组件的垂直一体化产能布局</td></tr><tr><td rowspan=1 colspan=1>分布式/集中式</td><td rowspan=1 colspan=1>指屋顶等分散式电站与荒漠戈壁大型地面电站两类装机场景</td></tr><tr><td rowspan=1 colspan=1>行业自律</td><td rowspan=1 colspan=1>光伏行业协会引导下以产能与价格自律为目标的行业治理机制</td></tr><tr><td rowspan=1 colspan=1>弃光率</td><td rowspan=1 colspan=1>指光伏电站未能并网消纳的发电量占理论总发电量的比例</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                104,
+                919,
+                322
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第二节 致股东的信"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                340,
+                282,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025年，光伏行业完成了最痛苦也最有价值的一次出清。伏曦光伏实现营业收入236.40亿元，同比增长20.1%；归属于上市公司股东的净利润8.90亿元，同比增长380.5%；经营活动现金流量净额18.60亿元，为近三年最好水平。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                370,
+                904,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2024年组件价格击穿成本、全行业失血的记忆犹新。2025年，行业自律机制推动落后产能实质性退出，组件价格自二季度起企稳修复；公司坚持'少产组件、多产电力'的经营主线，BC差异化组件实现分销端约0.04元/瓦的溢价，电站运营收入首次突破18亿元，成为穿越周期的压舱石。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                438,
+                902,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光伏的长期逻辑从未改变—度电成本仍在下降，全球装机仍在增长。2026年，公司将以'提价、出海、轻资产运营'为基调，把资产负债表的健康度放在规模之前。潮水退去之后，留在牌桌上的人，理应赢得更多。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                506,
+                910,
+                564
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "董事长：岑昭阳2026年3月"
+                    }
+                ]
+            },
+            "bbox": [
+                121,
+                574,
+                342,
+                590
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第三节 公司简介和主要财务指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                611,
+                418,
+                632
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、公司基本情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                648,
+                248,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "公司基本情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                87,
+                676,
+                189,
+                692
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9d07ea60e826d5323dbff161e54e2b816f6281f2cff02ad1dbfb067d09b768b0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">伏曦光伏科技股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">伏曦光伏</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">601375.SH</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">上海证券交易所主板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">江苏省盐城市经济技术开发区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2011年5月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">光伏组件、电池片制造及电站运营</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">岑昭阳</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">莫砚初</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">平雅宁</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">正行会计师事务所（特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数 （人)</td><td colspan=\"1\" rowspan=\"1\">21,000</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                695,
+                919,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                8,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第4页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                172
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、公司历史沿革"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                184,
+                250,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司成立于2007年，总部位于江苏盐城，2011年5月在上海证券交易所主板上市，系全球组件出货前十的光伏制造企业，业务覆盖电池片、组件制造及电站开发运营。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                209,
+                910,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截至报告期末，公司拥有拉棒、切片、电池、组件全链条产能，其中高效电池产能28GW、组件产能32GW，并在江苏、安徽、内蒙古持有并网电站1.4GW。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                256,
+                905,
+                296
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、主要会计数据和财务指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                309,
+                344,
+                328
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/17e9db78f87ece80faf47b9fe62bdec4ff2f8cb5fc71db43c98aa5bfa51b0623.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "近三年主要会计数据和财务指标"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>196.80</td><td rowspan=1 colspan=1>+20.1%</td><td rowspan=1 colspan=1>213.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>1.85</td><td rowspan=1 colspan=1>+381.1%</td><td rowspan=1 colspan=1>7.20</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>+456.3%</td><td rowspan=1 colspan=1>6.50</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td><td rowspan=1 colspan=1>-420.7%</td><td rowspan=1 colspan=1>12.50</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.31</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>+381.1%</td><td rowspan=1 colspan=1>0.25</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>5.00</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>增加3.90个百分点</td><td rowspan=1 colspan=1>4.20</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>310.60</td><td rowspan=1 colspan=1>302.40</td><td rowspan=1 colspan=1>+2.7%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>184.00</td><td rowspan=1 colspan=1>172.00</td><td rowspan=1 colspan=1>+7.0%</td><td rowspan=1 colspan=1>一</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                359,
+                919,
+                590
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、非经常性损益项目及金额"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                621,
+                346,
+                639
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8d7ad79a1d4706c92f8371c6073c73a193896d968bd09da5f0ffd1c6727c6a2f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年非经常性损益项目明细"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元)</td><td rowspan=1 colspan=1>说明</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.55</td><td rowspan=1 colspan=1>光伏制造技改及智能化改造专项资金</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.18</td><td rowspan=1 colspan=1>闲置自有资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.27</td><td rowspan=1 colspan=1>递延收益摊销及增值税加计抵减</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>1.00</td><td rowspan=1 colspan=1>占归母净利润比例11.2%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                670,
+                919,
+                791
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "五、分季度主要财务数据"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                822,
+                305,
+                841
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/31701c4a66ad91f0cb3b1f9926e3c6d65f96ef2eaa3cf55bc4e564b58dce097a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分季度主要财务数据"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">第一季度</td><td colspan=\"1\" rowspan=\"1\">第二季度</td><td colspan=\"1\" rowspan=\"1\">第三季度</td><td colspan=\"1\" rowspan=\"1\">第四季度</td></tr><tr><td colspan=\"1\" rowspan=\"1\">营业收入(亿元)</td><td colspan=\"1\" rowspan=\"1\">48.20</td><td colspan=\"1\" rowspan=\"1\">56.80</td><td colspan=\"1\" rowspan=\"1\">60.40</td><td colspan=\"1\" rowspan=\"1\">71.00</td></tr><tr><td colspan=\"1\" rowspan=\"1\">归属于上市公司股东的净利润(亿元）</td><td colspan=\"1\" rowspan=\"1\">0.90</td><td colspan=\"1\" rowspan=\"1\">1.90</td><td colspan=\"1\" rowspan=\"1\">2.50</td><td colspan=\"1\" rowspan=\"1\">3.60</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                871,
+                919,
+                921
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第5页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                99
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第四节 管理层讨论与分析"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                117,
+                351,
+                139
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、报告期内公司所处行业情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                152,
+                364,
+                171
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2025年全球光伏新增装机约600GW，同比增长约10%，增速回归常态区间；国内装机在电价市场化与并网消纳约束下结构性放缓，而中东、拉美等新兴市场需求高增。供给端，行业自律推动多晶硅、组件价格自低位修复，主产业链亏损面明显收窄。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                177,
+                905,
+                236
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "技术端，BC组件凭借美观与高功率在分布式场景形成溢价，TOPCon仍占集中式主流。政策端，新能源全面入市电价机制落地，光伏制造从'规模红利'彻底切换到'技术+运营'的效率竞争。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                243,
+                909,
+                284
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、报告期内公司从事的主要业务"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                296,
+                383,
+                316
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司主营业务为高效光伏电池片、组件的研发、生产与销售，并开展电站开发建设与持有运营业务，形成'制造+运营'双轮结构。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                322,
+                895,
+                360
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司TBC（隧穿背接触）组件量产效率达24.8%，分布式场景销量占比提升至35%；电站板块新增并网260MW，'滚动开发、择机出让'的轻资产模式开始贡献稳定回报。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                369,
+                902,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、营业收入构成及变动分析"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                420,
+                346,
+                441
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/391f4d3a4e2ab7a2ff768d53850a4f4338e61c7e941582c5d0f8ea5f0e828d9f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分产品/业务收入构成"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>光伏组件</td><td rowspan=1 colspan=1>191.48</td><td rowspan=1 colspan=1>81.0%</td><td rowspan=1 colspan=1>10.2%</td><td rowspan=1 colspan=1>+18.5%</td></tr><tr><td rowspan=1 colspan=1>电池片 (对外销售)</td><td rowspan=1 colspan=1>26.00</td><td rowspan=1 colspan=1>11.0%</td><td rowspan=1 colspan=1>14.8%</td><td rowspan=1 colspan=1>+30.0%</td></tr><tr><td rowspan=1 colspan=1>电站运营及发电</td><td rowspan=1 colspan=1>18.92</td><td rowspan=1 colspan=1>8.0%</td><td rowspan=1 colspan=1>60.0%</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>14.8%</td><td rowspan=1 colspan=1>+20.1%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                472,
+                919,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光伏组件收入191.48亿元，同比增长18.5%，价格修复叠加出货增长是主因；电池片对外销售26.00亿元，同比增长30.0%；电站运营及发电收入18.92亿元，同比增长12.0%，毛利率60.0%，为公司盈利的重要稳定器。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                594,
+                910,
+                651
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/308bdde1584d0e850ceb20fea94803b63c4d91ffa22eeac4c6120e3c861579f0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "2025年分地区收入构成"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：前五名客户合计销售金额占年度销售总额的21.5%。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入(亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>158.40</td><td rowspan=1 colspan=1>67.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>78.00</td><td rowspan=1 colspan=1>33.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>100.0%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                683,
+                919,
+                778
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、营业成本构成"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                810,
+                248,
+                829
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ad5ac94ca65088682e38f8f6eacff7cf6dc4b3ac15ac456aa90a88791414d944.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "营业成本构成（占营业成本比例)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">成本项目</td><td colspan=\"1\" rowspan=\"1\">2025年</td><td colspan=\"1\" rowspan=\"1\">2024年</td><td colspan=\"1\" rowspan=\"2\">变动说明硅料价格低位叠加自供比例提升</td></tr><tr><td colspan=\"1\" rowspan=\"1\">硅片及电池片</td><td colspan=\"1\" rowspan=\"1\">52.6%</td><td colspan=\"1\" rowspan=\"1\">58.4%</td></tr><tr><td colspan=\"1\" rowspan=\"1\">玻璃、辅材及封装材料</td><td colspan=\"1\" rowspan=\"1\">24.8%</td><td colspan=\"1\" rowspan=\"1\">23.1%</td><td colspan=\"1\" rowspan=\"1\">双玻占比提升</td></tr><tr><td colspan=\"1\" rowspan=\"1\">成本项目</td><td colspan=\"1\" rowspan=\"1\">2025年</td><td colspan=\"1\" rowspan=\"1\">2024年</td><td colspan=\"1\" rowspan=\"1\">变动说明</td></tr><tr><td colspan=\"1\" rowspan=\"1\">人工及制造费用</td><td colspan=\"1\" rowspan=\"1\">13.6%</td><td colspan=\"1\" rowspan=\"1\">13.2%</td><td colspan=\"1\" rowspan=\"1\">产线智能化改造摊薄</td></tr><tr><td colspan=\"1\" rowspan=\"1\">运输及电站运维成本</td><td colspan=\"1\" rowspan=\"1\">9.0%</td><td colspan=\"1\" rowspan=\"1\">5.3%</td><td colspan=\"1\" rowspan=\"1\">出口运价回落、电站规模扩大</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                859,
+                919,
+                932
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第6页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                919,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                123
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "五、期间费用与研发投入"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                136,
+                305,
+                154
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/13a2fcea1c79dd4b06da147a8641db71c1b78b85234b8743de693057992f55cc.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "期间费用变动"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>3.60</td><td rowspan=1 colspan=1>+5.6%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>6.80</td><td rowspan=1 colspan=1>-8.8%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>5.10</td><td rowspan=1 colspan=1>+7.8%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>3.10</td><td rowspan=1 colspan=1>-16.1%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                185,
+                919,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "研发投入方面，公司2025年研发投入合计5.90亿元，占营业收入比例2.5%，其中费用化研发费用5.50亿元、资本化研发投入0.40亿元；研发人员3,150人，占员工总数比例15.0%。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                307,
+                900,
+                346
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "六、现金流量情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                360,
+                248,
+                378
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5dada9b3d1f4a6df47847601fea64375fc482943babebe5f7f7c50bf1ddcdfc2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "现金流量主要项目"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-22.40</td><td rowspan=1 colspan=1>-25.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.00</td><td rowspan=1 colspan=1>9.50</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                409,
+                919,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内经营活动现金流量净额18.60亿元，上年同期为净流出5.80亿元，存货去化与回款改善是核心原因；投资活动净流出22.40亿元，主要为电站建设与技改投入；筹资活动净流入12.00亿元。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                506,
+                899,
+                545
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "七、资产及负债项目重大变动"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                558,
+                344,
+                577
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/fa4e2d2a1a46155cbd3a6766300e6472e62aa7d87e56f7e476adccb7b0603a4f.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "资产、负债项目重大变动"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>48.60</td><td rowspan=1 colspan=1>+7.6%</td><td rowspan=1 colspan=1>经营回款改善及中期票据发行</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>45.80</td><td rowspan=1 colspan=1>52.40</td><td rowspan=1 colspan=1>-12.6%</td><td rowspan=1 colspan=1>行业去库存、按单生产模式见效</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>36.20</td><td rowspan=1 colspan=1>+6.6%</td><td rowspan=1 colspan=1>境外应收随出口增加</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                607,
+                919,
+                705
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "八、公司未来发展的展望"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                718,
+                307,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2026年经营目标：营业收入255亿元左右，同比增长约8%；组件出货维持全球前十，BC组件出货占比提升至25%；新增并网电站300MW以上。公司判断主产业链价格将呈'弱修复、低波动'格局。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                741,
+                904,
+                782
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "海外方面，公司将在中东推进200MW组件合资产能落地，规避贸易壁垒并贴近高溢价市场；国内以电站运营+绿电交易'增强盈利的确定性。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                790,
+                905,
+                828
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "九、风险因素"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                843,
+                211,
+                862
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                868,
+                648,
+                884
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "价格波动风险：若行业自律约束弱化、产能再度无序释放，组件价格存在再度探底的可能。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                895,
+                823,
+                913
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "贸易壁垒风险：美国、欧盟等市场关税与溯源政策多变，公司出口收入占比较高，受影响面大。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                51,
+                858,
+                68
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "技术路线风险：BC产能投入较大，若下代电池技术迭代超预期，存在资产减值压力。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                78,
+                776,
+                96
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "应收及电站资产风险：境外应收账款回收与电站补贴电价结算周期存在不确定性。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                105,
+                752,
+                123
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "汇率风险：公司境外收入占比约33%，人民币汇率波动影响汇兑损益。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                133,
+                665,
+                151
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第五节 董事会报告"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                171,
+                282,
+                191
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司共召开董事会会议10次、监事会会议6次、股东大会3次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                200,
+                912,
+                239
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利0.50元（含税)，合计派发现金红利1.43亿元（含税)，占2025年度归属于上市公司股东净利润的16.07%。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                248,
+                897,
+                306
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度财务报告审计机构为正行会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘正行会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                316,
+                912,
+                375
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第六节 公司治理"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                394,
+                260,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                424,
+                909,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                512,
+                905,
+                551
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                560,
+                905,
+                598
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第七节环境、社会责任和其他公司治理"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                618,
+                485,
+                639
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、环境保护信息"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                653,
+                248,
+                671
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "环境信息主要指标"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                682,
+                221,
+                697
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6d6a8b1d948c79851bd1cebc515ab369a5be660bf785fdcf05ec4fa8e1eb7e55.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>绿电使用比例</td><td rowspan=1 colspan=1>42.0%</td><td rowspan=1 colspan=1>提高6.5个百分点</td></tr><tr><td rowspan=1 colspan=1>单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>18.6</td><td rowspan=1 colspan=1>-3.2%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二(万吨CO2e)</td><td rowspan=1 colspan=1>86.5</td><td rowspan=1 colspan=1>-4.5%</td></tr><tr><td rowspan=1 colspan=1>单位产值水耗（立方米/百万元)</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>-6.0%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                702,
+                919,
+                821
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司自有电站年发电约16.5亿千瓦时，可折算减少二氧化碳排放约95万吨；盐城基地获评国家级绿色工厂。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                825,
+                909,
+                862
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、社会责任"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                876,
+                210,
+                895
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "截至报告期末，公司员工总数21,000人，其中研发人员3,150人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                51,
+                909,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、公司治理专项情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                103,
+                289,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                128,
+                907,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第八节 重要事项"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                186,
+                260,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "行业自律参与情况：公司作为组件产能自律机制参与方，报告期内主动压缩低效名义产能3GW，技改转产BC产品。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                216,
+                912,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                263,
+                630,
+                281
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对外担保：报告期内公司为控股电站项目公司提供融资担保合计8.2亿元，均为正常经营所需，履行了审议程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                291,
+                895,
+                329
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为1.2亿元，主要为硅料长协采购，定价参照市场价。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                338,
+                884,
+                378
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "承诺履行情况：控股股东、实际控制人及董监高报告期内不存在违反承诺情形。"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                386,
+                734,
+                404
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第九节 股份变动及股东情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                424,
+                373,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "股份结构(万股)"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                456,
+                211,
+                473
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/dfd3394a45a5ce47bcdd60dcda9cb3d2454a8d394dfe372216f4246a694b4e0b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>128,700.0</td><td rowspan=1 colspan=1>45.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>157,300.0</td><td rowspan=1 colspan=1>55.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>286,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                476,
+                919,
+                573
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "前十大股东持股情况"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                586,
+                267,
+                605
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/48e4a651a67aa0fa0fdeb12f7b29e82bb3d5039c55b99c35b4a7e70e89625ef6.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "截至2025年12月31日前十大股东"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>伏曦控股集团有限公司</td><td rowspan=1 colspan=1>24.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>盐城市国有资产投资集团有限公司</td><td rowspan=1 colspan=1>6.50%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.60%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>中证光伏产业指数基金（等）</td><td rowspan=1 colspan=1>4.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——八组合</td><td rowspan=1 colspan=1>3.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>中国人寿保险股份有限公司一传统险产品</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>江苏沿海开发集团产业基金</td><td rowspan=1 colspan=1>2.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>伏曦员工持股计划</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>基本养老保险基金一零零一组合</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>易方达上证50指数增强基金</td><td rowspan=1 colspan=1>1.10%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>54.10%</td><td rowspan=1 colspan=1></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                634,
+                919,
+                927
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第9页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                808,
+                954,
+                921,
+                969
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司控股股东为伏曦控股集团有限公司，实际控制人为岑昭阳家族。控股股东所持股份报告期内不存在质押、冻结情形。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                51,
+                905,
+                89
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第十节 财务报告"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                109,
+                258,
+                129
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "一、审计意见"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                145,
+                210,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年度财务报表业经正行会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见(正行审字[2026]第0339号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。"
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                168,
+                912,
+                248
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二、合并资产负债表主要项目（摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                261,
+                411,
+                281
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5c1bfb57c1682c9f35c27be57940e6d7f8c9a437b3be71558f9d85012d0661aa.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "资产负债表主要项目"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末（亿元）</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>52.30</td><td rowspan=1 colspan=1>48.60</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>38.60</td><td rowspan=1 colspan=1>36.20</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>45.80</td><td rowspan=1 colspan=1>52.40</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>128.40</td><td rowspan=1 colspan=1>126.80</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>45.50</td><td rowspan=1 colspan=1>38.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>310.60</td><td rowspan=1 colspan=1>302.40</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>68.40</td><td rowspan=1 colspan=1>72.30</td></tr><tr><td rowspan=1 colspan=1>短期借款及一年内到期的非流动负债</td><td rowspan=1 colspan=1>24.60</td><td rowspan=1 colspan=1>28.50</td></tr><tr><td rowspan=1 colspan=1>长期借款及其他负债</td><td rowspan=1 colspan=1>33.60</td><td rowspan=1 colspan=1>29.60</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>126.60</td><td rowspan=1 colspan=1>130.40</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>184.00</td><td rowspan=1 colspan=1>172.00</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                310,
+                919,
+                601
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "三、合并利润表主要项目(摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                632,
+                371,
+                651
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/839faa404b8bd592b5d714ad2248f5fc84d768700057857eaaee1c33d9c6f4ab.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "利润表主要项目"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>236.40</td><td rowspan=1 colspan=1>196.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>201.41</td><td rowspan=1 colspan=1>188.73</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>18.10</td><td rowspan=1 colspan=1>18.60</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>5.50</td><td rowspan=1 colspan=1>5.10</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>8.90</td><td rowspan=1 colspan=1>1.85</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>7.90</td><td rowspan=1 colspan=1>1.42</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                681,
+                919,
+                851
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "四、合并现金流量表主要项目(摘要)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                864,
+                410,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "现金流量表主要项目"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                894,
+                235,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                75,
+                7,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                23
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第10页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                954,
+                921,
+                969
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6e343661847314cf5bdb8048738f3fcd0641e1d3ef8647f0f813d2e2910ff00c.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>18.60</td><td rowspan=1 colspan=1>-5.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-22.40</td><td rowspan=1 colspan=1>-25.80</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>12.00</td><td rowspan=1 colspan=1>9.50</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                78,
+                51,
+                919,
+                145
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "备查文件目录"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                85,
+                206,
+                230,
+                227
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                236,
+                764,
+                253
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                263,
+                682,
+                280
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                291,
+                534,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "公司2025年年度股东大会会议资料及决议。"
+                    }
+                ]
+            },
+            "bbox": [
+                85,
+                318,
+                435,
+                335
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+                    }
+                ]
+            },
+            "bbox": [
+                94,
+                355,
+                499,
+                369
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司（601375.SH）2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                8,
+                510,
+                23
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "沪主板"
+                    }
+                ]
+            },
+            "bbox": [
+                875,
+                9,
+                921,
+                22
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "伏曦光伏科技股份有限公司 2025年年度报告"
+                    }
+                ]
+            },
+            "bbox": [
+                77,
+                954,
+                356,
+                969
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第11页/共11页"
+                    }
+                ]
+            },
+            "bbox": [
+                801,
+                954,
+                921,
+                969
+            ]
+        }
+    ]
+]

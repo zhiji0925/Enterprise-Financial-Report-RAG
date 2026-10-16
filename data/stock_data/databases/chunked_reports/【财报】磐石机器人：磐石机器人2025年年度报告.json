@@ -1,0 +1,218 @@
+{
+  "metainfo": {
+    "sha1": "stock_10024",
+    "company_name": "磐石机器人",
+    "file_name": "【财报】磐石机器人：磐石机器人2025年年度报告.md"
+  },
+  "content": {
+    "chunks": [
+      {
+        "id": 0,
+        "page": 1,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "佛山磐石机器人股份有限公司\n2025 年年度报告\n(股票简称：磐石机器人股票代码：301502.SZ)(深圳证券交易所创业板)\n披露日期：2026年4月15日\n公司统一社会信用代码：91440605MA51R7X6DQ"
+      },
+      {
+        "id": 1,
+        "page": 2,
+        "lines": [
+          1,
+          10
+        ],
+        "text": "重要提示\n一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。\n二、公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.50元(含税)，合计派发现金红利1.02亿元（含税)，占2025年度归属于上市公司股东净利润的24.00%。该预案尚需提交公司2025年年度股东大会审议。\n三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过了本报告。\n四、公司2025年度财务报告已经正行会计师事务所（特殊普通合伙）审计，并出具了标准无保留意见审计报告(正行审字[2026]第0452号）。\n五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保持足够的风险认识。\n六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。\n七、报告期内，公司不存在违反规定程序对外提供担保的情况。\n八、公司负责人石镌坚、主管会计工作负责人邝天泽及会计机构负责人（财务部部长）保证本报告中财务报告的真实、准确、完整。\n九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中可能面临的相关风险。"
+      },
+      {
+        "id": 2,
+        "page": 3,
+        "lines": [
+          1,
+          13
+        ],
+        "text": "重要提示  \n第一节释义  \n第二节 致股东的信  \n第三节公司简介和主要财务指标  \n第四节 管理层讨论与分析  \n第五节 董事会报告  \n第六节公司治理  \n第七节环境、社会责任和其他公司治理  \n第八节 重要事项  \n第九节股份变动及股东情况  \n第十节财务报告  \n备查文件目录\n目录"
+      },
+      {
+        "id": 3,
+        "page": 4,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "第一节释义"
+      },
+      {
+        "id": 4,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "释义表\n<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、磐石机器人</td><td rowspan=1 colspan=1>指佛山磐石机器人股份有限公司</td></tr><tr><td rowspan=1 colspan=1>SCARA</td><td rowspan=1 colspan=1>指应用于高速拾放的平面关节型工业机器人</td></tr><tr><td rowspan=1 colspan=1>六轴机器人</td><td rowspan=1 colspan=1>指具有六个自由度、可模拟人臂运动的多关节机器人</td></tr><tr><td rowspan=1 colspan=1>谐波减速器</td><td rowspan=1 colspan=1>指利用柔性齿轮变形实现减速传动的精密部件</td></tr><tr><td rowspan=1 colspan=1>行星滚柱丝杠</td><td rowspan=1 colspan=1>指以滚柱为传动元件的直线执行部件</td></tr><tr><td rowspan=1 colspan=1>磁组件</td><td rowspan=1 colspan=1>指永磁体与结构件集成的机器人驱动部件</td></tr><tr><td rowspan=1 colspan=1>人形机器人</td><td rowspan=1 colspan=1>指具有类人形态与运动能力的机器人整机</td></tr><tr><td rowspan=1 colspan=1>MTBF</td><td rowspan=1 colspan=1>指平均无故障工作时间，衡量可靠性</td></tr></table>"
+      },
+      {
+        "id": 5,
+        "page": 4,
+        "lines": [
+          1,
+          7
+        ],
+        "text": "第二节 致股东的信\n2025年，工业机器人的国产份额曲线越过了又一个山头。磐石机器人实现营业收入48.90亿元，同比增长22.9%；归属于上市公司股东的净利润4.25亿元，同比增长13.0%；机器人整机出货量3.4万台，连续两年跻身全球前十。\n这一年，公司在汽车与新能源两大场景完成大客户整厂导入，六轴机器人出货同比增长28%；核心零部件板块external销售占比首次过半——谐波减速器与行星滚柱丝杠不仅自给，还开始反向供应同行。人形机器人元年，我们的减速器与磁组件已进入三家头部样机供应链。\n制造业的耐心与野心同样重要。2026年，公司将以'整机上量、部件外供、人形卡位'三线并进，把国产机器人的成本与响应优势写进更多工厂的产线。感谢股东的一路同行。\n董事长：石镌坚2026年3月\n第三节 公司简介和主要财务指标\n一、公司基本情况"
+      },
+      {
+        "id": 6,
+        "page": 4,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "公司基本情况\n<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">内容</td></tr><tr><td colspan=\"1\" rowspan=\"1\">公司中文全称</td><td colspan=\"1\" rowspan=\"1\">佛山磐石机器人股份有限公司</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券简称</td><td colspan=\"1\" rowspan=\"1\">磐石机器人</td></tr><tr><td colspan=\"1\" rowspan=\"1\">证券代码</td><td colspan=\"1\" rowspan=\"1\">301502.SZ</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市板块</td><td colspan=\"1\" rowspan=\"1\">深圳证券交易所创业板</td></tr><tr><td colspan=\"1\" rowspan=\"1\">注册地/总部</td><td colspan=\"1\" rowspan=\"1\">广东省佛山市顺德区</td></tr><tr><td colspan=\"1\" rowspan=\"1\">上市时间</td><td colspan=\"1\" rowspan=\"1\">2020年9月</td></tr><tr><td colspan=\"1\" rowspan=\"1\">所处行业</td><td colspan=\"1\" rowspan=\"1\">工业机器人及核心零部件</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事长</td><td colspan=\"1\" rowspan=\"1\">石镌坚</td></tr><tr><td colspan=\"1\" rowspan=\"1\">总经理</td><td colspan=\"1\" rowspan=\"1\">郁恒基</td></tr><tr><td colspan=\"1\" rowspan=\"1\">董事会秘书</td><td colspan=\"1\" rowspan=\"1\">邝天泽</td></tr><tr><td colspan=\"1\" rowspan=\"1\">审计机构</td><td colspan=\"1\" rowspan=\"1\">正行会计师事务所(特殊普通合伙)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">员工总数（人）</td><td colspan=\"1\" rowspan=\"1\">6,600</td></tr></table>"
+      },
+      {
+        "id": 7,
+        "page": 5,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "二、公司历史沿革\n公司成立于2011年，总部位于佛山，2020年9月在深圳证券交易所创业板上市，是国内少数同时具备机器人整机与核心零部件自研能力的厂商。\n截至报告期末，公司形成整机年产能4.2万台、谐波减速器年产能30万台的格局，服务汽车、3C电子、新能源、通用制造四大下游，境内外客户合计1,600余家。\n三、主要会计数据和财务指标\n近三年主要会计数据和财务指标"
+      },
+      {
+        "id": 8,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>39.80</td><td rowspan=1 colspan=1>+22.9%</td><td rowspan=1 colspan=1>32.60</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润（亿元）</td><td rowspan=1 colspan=1>4.25</td><td rowspan=1 colspan=1>3.76</td><td rowspan=1 colspan=1>+13.0%</td><td rowspan=1 colspan=1>3.30</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润(亿元)</td><td rowspan=1 colspan=1>3.82</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>+12.4%</td><td rowspan=1 colspan=1>2.95</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>+22.9%</td><td rowspan=1 colspan=1>4.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>0.55</td><td rowspan=1 colspan=1>+13.0%</td><td rowspan=1 colspan=1>0.49</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>8.80</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>增加0.80个百分点</td><td rowspan=1 colspan=1>7.40</td></tr><tr><td rowspan=1 colspan=1>总资产（亿元)</td><td rowspan=1 colspan=1>86.40</td><td rowspan=1 colspan=1>80.80</td><td rowspan=1 colspan=1>+6.9%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>49.60</td><td rowspan=1 colspan=1>47.00</td><td rowspan=1 colspan=1>+5.5%</td><td rowspan=1 colspan=1>一</td></tr></table>\n注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+      },
+      {
+        "id": 9,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "四、非经常性损益项目及金额"
+      },
+      {
+        "id": 10,
+        "page": 5,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "2025年非经常性损益项目明细\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=2 colspan=1>说明智能制造专项与人形机器人产业链培育资金</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.25</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.08</td><td rowspan=1 colspan=1>闲置募集资金现金管理</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.10</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.43</td><td rowspan=1 colspan=1>占归母净利润比例10.1%</td></tr></table>\n非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+      },
+      {
+        "id": 11,
+        "page": 5,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "五、分季度主要财务数据"
+      },
+      {
+        "id": 12,
+        "page": 5,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "2025年分季度主要财务数据\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>10.20</td><td rowspan=1 colspan=1>11.60</td><td rowspan=1 colspan=1>12.70</td><td rowspan=1 colspan=1>14.40</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.80</td><td rowspan=1 colspan=1>0.96</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>1.39</td></tr></table>"
+      },
+      {
+        "id": 13,
+        "page": 6,
+        "lines": [
+          1,
+          12
+        ],
+        "text": "第四节 管理层讨论与分析\n一、报告期内公司所处行业情况\n2025年中国工业机器人产量同比增长约20%，连续多年居全球第一大市场；国产份额从2023年的约35%提升至2025年的约52%，中大负载六轴机型成为国产替代主战场。全球人形机器人进入量产元年，核心部件（丝杠、减速器、磁组件)需求启动。\n需求结构上，新能源车产线改造、3C自动化回暖与通用制造业复苏形成共振；供给端，价格战趋缓后行业竞争焦点转向MTBF可靠性、交付速度与整线服务能力。\n二、报告期内公司从事的主要业务\n公司主营业务为工业机器人整机、核心零部件的研发、生产与销售，并提供自动化系统集成方案，下游覆盖汽车、3C电子、新能源与通用制造。\n报告期内，公司中大负载六轴机器人在两家整车厂焊装线批量替代外资品牌；谐波减速器与行星滚柱丝杠外供收入同比增长45%；人形机器人用磁组件完成A样定点。\n三、营业收入构成及变动分析\n2025年分产品/业务收入构成\n<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>工业机器人整机</td><td rowspan=1 colspan=1>22.78</td><td rowspan=1 colspan=1>46.6%</td><td rowspan=1 colspan=1>30.5%</td><td rowspan=1 colspan=1>+27.8%</td></tr><tr><td rowspan=1 colspan=1>核心零部件</td><td rowspan=1 colspan=1>16.40</td><td rowspan=1 colspan=1>33.5%</td><td rowspan=1 colspan=1>36.0%</td><td rowspan=1 colspan=1>+23.3%</td></tr><tr><td rowspan=1 colspan=1>系统集成</td><td rowspan=1 colspan=1>9.72</td><td rowspan=1 colspan=1>19.9%</td><td rowspan=1 colspan=1>25.5%</td><td rowspan=1 colspan=1>+12.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>31.2%</td><td rowspan=1 colspan=1>+22.9%</td></tr></table>\n工业机器人整机收入22.78亿元，同比增长27.8%，出货3.4万台、均价6.7万元/台，中大负载机型占比提升带动均价上行；核心零部件收入16.40亿元，同比增长23.3%；系统集成收入9.72亿元，同比增长12.0%。\n图2：2022-2025年整机出货量及均价"
+      },
+      {
+        "id": 14,
+        "page": 7,
+        "lines": [
+          1,
+          12
+        ],
+        "text": "2025年分地区收入构成\n<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>44.98</td><td rowspan=1 colspan=1>92.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>3.92</td><td rowspan=1 colspan=1>8.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>100.0%</td></tr></table>\n注：前五名客户合计销售金额占年度销售总额的24.6%。\n四、营业成本构成\n营业成本构成（占营业成本比例）\n<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>减速器、伺服等核心部件</td><td rowspan=1 colspan=1>46.2%</td><td rowspan=1 colspan=1>48.4%</td><td rowspan=1 colspan=1>自产减速器替代外购</td></tr><tr><td rowspan=1 colspan=1>铸件、机身及电气件</td><td rowspan=1 colspan=1>28.4%</td><td rowspan=1 colspan=1>27.6%</td><td rowspan=1 colspan=1>规模化采购议价</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>25.4%</td><td rowspan=1 colspan=1>24.0%</td><td rowspan=1 colspan=1>产量爬坡摊薄</td></tr></table>\n五、期间费用与研发投入\n期间费用变动\n<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>3.55</td><td rowspan=1 colspan=1>+15.5%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>2.85</td><td rowspan=1 colspan=1>2.60</td><td rowspan=1 colspan=1>+9.6%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.80</td><td rowspan=1 colspan=1>+14.3%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>-0.20</td><td rowspan=1 colspan=1>-0.18</td><td rowspan=1 colspan=1>+11.1%</td></tr></table>\n研发投入方面，公司2025年研发投入合计3.40亿元，占营业收入比例7.0%，其中费用化研发费用3.20亿元、资本化研发投入0.20亿元；研发人员1,320人，占员工总数比例20.0%。\n六、现金流量情况\n现金流量主要项目"
+      },
+      {
+        "id": 15,
+        "page": 8,
+        "lines": [
+          1,
+          20
+        ],
+        "text": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.60</td><td rowspan=1 colspan=1>-4.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.50</td></tr></table>\n报告期内经营活动现金流量净额5.90亿元，同比增长22.9%；投资活动净流出4.60亿元，为整机产能扩建与减速器产线投入；筹资活动净流入1.80亿元。\n七、资产及负债项目重大变动\n资产、负债项目重大变动\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>15.80</td><td rowspan=1 colspan=1>14.60</td><td rowspan=1 colspan=1>+8.2%</td><td rowspan=1 colspan=1>经营积累及中期票据</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>11.40</td><td rowspan=1 colspan=1>+10.5%</td><td rowspan=1 colspan=1>在手订单备产与发出商品增加</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.40</td><td rowspan=1 colspan=1>+16.2%</td><td rowspan=1 colspan=1>整线项目预收款增加</td></tr></table>\n八、公司未来发展的展望\n2026年经营目标：营业收入60亿元左右，同比增长约23%；整机出货4.3万台，核心零部件外供收入突破10亿元；人形机器人丝杠与磁组件形成小批量交付。\n产能方面，顺德三期整机基地将于2026年二季度投产，新增年产能1.5万台；减速器产线完成二代工艺切换，单位成本目标再降8%。\n九、风险因素\n公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注：\n下游波动风险：汽车与新能源行业资本开支若放缓，公司订单增长将受到直接影响。\n价格竞争风险：整机市场竞争者众多，价格战若重启将侵蚀毛利率。\n人形机器人不确定性风险：人形产业化节奏存在不确定性，相关部件投入短期难以兑现收入。\n原材料风险：钕铁硼磁材与精密轴承价格波动影响成本。\n海外拓展风险：境外收入占比尚低，认证、关税与本地化服务能力仍在建设期。\n第五节 董事会报告\n报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。\n公司2025年度利润分配预案为：以实施权益分派股权登记日登记的总股本为基数，每10股派发现金红利1.50元(含税)，合计派发现金红利1.02亿元（含税)，占2025年度归属于上市公司股东净利润的24.00%。\n公司2025年度财务报告审计机构为正行会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘会计师事务所的情形。公司已就2026年度财务报告审计服务续聘正行会计师事务所（特殊普通合伙）并提请股东大会审议，审计收费180万元。\n第六节 公司治理"
+      },
+      {
+        "id": 16,
+        "page": 9,
+        "lines": [
+          1,
+          20
+        ],
+        "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共召开专门委员会会议6次。\n投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。\n内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺陷或重要缺陷。\n第七节环境、社会责任和其他公司治理\n一、环境保护信息\n环境信息主要指标\n<table><tr><td rowspan=2 colspan=1>指标单位产值综合能耗(吨标准煤/百万元)</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>11.2</td><td rowspan=1 colspan=1>-4.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>36,800</td><td rowspan=1 colspan=1>+2.6%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>32.4</td><td rowspan=1 colspan=1>+1.8%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>540</td><td rowspan=1 colspan=1>+16.0%</td></tr></table>\n公司机器人替代人工累计帮助下游客户减少重复性高强度岗位暴露，报告期内获评省级绿色工厂；供应链社会责任审核覆盖65家核心供应商。\n二、社会责任\n截至报告期末，公司员工总数6,600人，其中研发人员1,320人。报告期内公司持续完善职业发展通道与培训体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。\n三、公司治理专项情况\n报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。\n第八节 重要事项\n重大项目：报告期内公司中标某头部新能源电池厂商整厂机器人项目，金额约4.5亿元，为单一最大订单。\n重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。\n对外担保：报告期内公司不存在对外担保事项。\n关联交易：报告期内公司与关联方发生的日常关联交易合计金额为210万元，程序合规。\n股权激励：报告期内公司实施2025年第二期限制性股票激励计划，向160名核心人员授予380万股，考核目标为2026-2028年营业收入复合增长率不低于20%。\n第九节 股份变动及股东情况\n股份结构(万股)"
+      },
+      {
+        "id": 17,
+        "page": 10,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>55,760.0</td><td rowspan=1 colspan=1>82.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>12,240.0</td><td rowspan=1 colspan=1>18.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>68,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+      },
+      {
+        "id": 18,
+        "page": 10,
+        "lines": [
+          1,
+          1
+        ],
+        "text": "前十大股东持股情况"
+      },
+      {
+        "id": 19,
+        "page": 10,
+        "lines": [
+          1,
+          3
+        ],
+        "text": "截至2025年12月31日前十大股东\n<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>磐石控股集团有限公司</td><td rowspan=1 colspan=1>23.80%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家制造业转型升级基金股份有限公司</td><td rowspan=1 colspan=1>6.50%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>5.40%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>广东智能制造产业基金（有限合伙）</td><td rowspan=1 colspan=1>4.60%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>全国社保基金——六组合</td><td rowspan=1 colspan=1>3.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>基本养老保险基金一二零二组合</td><td rowspan=1 colspan=1>2.90%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>磐石员工持股计划</td><td rowspan=1 colspan=1>2.40%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>易方达创业板ETF</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>华夏中证机器人ETF</td><td rowspan=1 colspan=1>1.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>招商国证智能制造指数基金</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>54.30%</td><td rowspan=1 colspan=1></td></tr></table>\n公司控股股东为磐石控股集团有限公司，实际控制人为石镌坚。控股股东所持股份报告期内不存在质押、冻结情形。"
+      },
+      {
+        "id": 20,
+        "page": 10,
+        "lines": [
+          1,
+          5
+        ],
+        "text": "第十节 财务报告\n一、审计意见\n公司2025年度财务报表业经正行会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留意见(正行审字[2026]第0452号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和现金流量。\n二、合并资产负债表主要项目（摘要)\n资产负债表主要项目"
+      },
+      {
+        "id": 21,
+        "page": 10,
+        "lines": [
+          1,
+          2
+        ],
+        "text": "<table><tr><td colspan=\"1\" rowspan=\"1\">项目</td><td colspan=\"1\" rowspan=\"1\">期末（亿元)</td><td colspan=\"1\" rowspan=\"1\">期初(亿元)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">货币资金</td><td colspan=\"1\" rowspan=\"1\">15.80</td><td colspan=\"1\" rowspan=\"1\">14.60</td></tr><tr><td colspan=\"1\" rowspan=\"1\">应收账款及合同资产</td><td colspan=\"1\" rowspan=\"1\">14.20</td><td colspan=\"1\" rowspan=\"1\">13.10</td></tr><tr><td colspan=\"1\" rowspan=\"1\">存货</td><td colspan=\"1\" rowspan=\"1\">12.60</td><td colspan=\"1\" rowspan=\"1\">11.40</td></tr><tr><td colspan=\"1\" rowspan=\"1\">固定资产及在建工程</td><td colspan=\"1\" rowspan=\"1\">28.40</td><td colspan=\"1\" rowspan=\"1\">26.20</td></tr><tr><td colspan=\"1\" rowspan=\"1\">其他资产</td><td colspan=\"1\" rowspan=\"1\">15.40</td><td colspan=\"1\" rowspan=\"1\">15.50</td></tr><tr><td colspan=\"1\" rowspan=\"1\">资产总计</td><td colspan=\"1\" rowspan=\"1\">86.40</td><td colspan=\"1\" rowspan=\"1\">80.80</td></tr><tr><td colspan=\"1\" rowspan=\"1\">应付账款及应付票据</td><td colspan=\"1\" rowspan=\"1\">16.40</td><td colspan=\"1\" rowspan=\"1\">15.20</td></tr><tr><td colspan=\"1\" rowspan=\"1\">合同负债</td><td colspan=\"1\" rowspan=\"1\">8.60</td><td colspan=\"1\" rowspan=\"1\">7.40</td></tr><tr><td colspan=\"1\" rowspan=\"1\">借款及其他负债</td><td colspan=\"1\" rowspan=\"1\">11.80</td><td colspan=\"1\" rowspan=\"1\">11.20</td></tr><tr><td colspan=\"1\" rowspan=\"1\">负债合计</td><td colspan=\"1\" rowspan=\"1\">36.80</td><td colspan=\"1\" rowspan=\"1\">33.80</td></tr><tr><td colspan=\"1\" rowspan=\"1\">归属于母公司股东权益合计</td><td colspan=\"1\" rowspan=\"1\">49.60</td><td colspan=\"1\" rowspan=\"1\">47.00</td></tr></table>\n注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准。"
+      },
+      {
+        "id": 22,
+        "page": 11,
+        "lines": [
+          1,
+          13
+        ],
+        "text": "三、合并利润表主要项目（摘要)\n利润表主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>48.90</td><td rowspan=1 colspan=1>39.80</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>33.64</td><td rowspan=1 colspan=1>27.66</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>9.95</td><td rowspan=1 colspan=1>8.77</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>3.20</td><td rowspan=1 colspan=1>2.80</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>4.25</td><td rowspan=1 colspan=1>3.76</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>3.82</td><td rowspan=1 colspan=1>3.40</td></tr></table>\n四、合并现金流量表主要项目（摘要)\n现金流量表主要项目\n<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元)</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>5.90</td><td rowspan=1 colspan=1>4.80</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.60</td><td rowspan=1 colspan=1>-4.20</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>1.80</td><td rowspan=1 colspan=1>1.50</td></tr></table>\n公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会计估计变更。\n备查文件目录\n载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。\n载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。\n·报告期内公开披露过的所有公司文件的正本及公告原稿。\n公司2025年年度股东大会会议资料及决议。\n(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+      }
+    ]
+  }
+}

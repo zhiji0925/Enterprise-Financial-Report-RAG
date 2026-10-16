@@ -1,0 +1,4673 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8977,
+                "bbox": [
+                    127,
+                    19,
+                    848,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6396,
+                "bbox": [
+                    1448,
+                    24,
+                    1525,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 6,
+                "label": "doc_title",
+                "score": 0.9691,
+                "bbox": [
+                    387,
+                    395,
+                    1261,
+                    479
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5839,
+                "bbox": [
+                    681,
+                    536,
+                    970,
+                    581
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8236,
+                "bbox": [
+                    455,
+                    670,
+                    1196,
+                    782
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9365,
+                "bbox": [
+                    633,
+                    1081,
+                    1016,
+                    1123
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9296,
+                "bbox": [
+                    555,
+                    1156,
+                    1096,
+                    1193
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9426,
+                "bbox": [
+                    128,
+                    2232,
+                    590,
+                    2264
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9287,
+                "bbox": [
+                    1338,
+                    2233,
+                    1523,
+                    2264
+                ],
+                "index": 9
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    847,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    21,
+                    1527,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    389,
+                    399,
+                    1258,
+                    478
+                ],
+                "score": 1.0,
+                "text": "苏州氢澜动力股份有限公司"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    687,
+                    536,
+                    966,
+                    582
+                ],
+                "score": 0.969,
+                "text": "2025 年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    466,
+                    678,
+                    1187,
+                    710
+                ],
+                "score": 0.986,
+                "text": "(股票简称：氢澜动力股票代码：688349.SH)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    676,
+                    745,
+                    973,
+                    776
+                ],
+                "score": 0.989,
+                "text": "(上海证券交易所科创板)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    639,
+                    1083,
+                    1009,
+                    1120
+                ],
+                "score": 1.0,
+                "text": "披露日期：2026年3月28日"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    563,
+                    1163,
+                    1089,
+                    1187
+                ],
+                "score": 0.998,
+                "text": "公司统一社会信用代码：91320594MA26P8K3XC"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.994,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2233,
+                    1522,
+                    2264
+                ],
+                "score": 1.0,
+                "text": "第1页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9412,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8712,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9478,
+                "bbox": [
+                    142,
+                    124,
+                    307,
+                    169
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9764,
+                "bbox": [
+                    139,
+                    193,
+                    1500,
+                    284
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9809,
+                "bbox": [
+                    140,
+                    304,
+                    1510,
+                    441
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.969,
+                "bbox": [
+                    141,
+                    463,
+                    1493,
+                    551
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9738,
+                "bbox": [
+                    140,
+                    574,
+                    1507,
+                    663
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9732,
+                "bbox": [
+                    140,
+                    685,
+                    1499,
+                    774
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9508,
+                "bbox": [
+                    140,
+                    796,
+                    1100,
+                    838
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9459,
+                "bbox": [
+                    141,
+                    860,
+                    955,
+                    902
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9747,
+                "bbox": [
+                    140,
+                    925,
+                    1497,
+                    1014
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9711,
+                "bbox": [
+                    140,
+                    1035,
+                    1499,
+                    1124
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9449,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9379,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 14
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.989,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    122,
+                    304,
+                    171
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    201,
+                    1491,
+                    227
+                ],
+                "score": 1.0,
+                "text": "一、公司董事会、监事会及董事、监事、高级管理人员保证年度报告内容的真实、准确、完整，不存在虚"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    153,
+                    249,
+                    973,
+                    274
+                ],
+                "score": 0.999,
+                "text": "假记载、误导性陈述或重大遗漏，并承担个别和连带的法律责任。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    313,
+                    1500,
+                    338
+                ],
+                "score": 1.0,
+                "text": "二、鉴于公司2025年为实现盈利后的首个会计年度，整体经营规模仍处于快速扩张期，碱性电解槽二期等"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    358,
+                    1502,
+                    387
+                ],
+                "score": 1.0,
+                "text": "产能建设项目资金需求较大，为保持财务稳健、增强持续发展能力，公司2025年度不进行利润分配，亦不"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    405,
+                    450,
+                    435
+                ],
+                "score": 1.0,
+                "text": "实施资本公积转增股本。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    472,
+                    1482,
+                    497
+                ],
+                "score": 1.0,
+                "text": "三、公司全体董事出席了审议本次年度报告的董事会会议，会议以9票同意、0票反对、0票弃权审议通过"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    513,
+                    280,
+                    550
+                ],
+                "score": 1.0,
+                "text": "了本报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    579,
+                    1499,
+                    608
+                ],
+                "score": 0.985,
+                "text": "四、公司2025年度财务报告已经中衡会计师事务所(特殊普通合伙）审计，并出具了标准无保留意见审计"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    627,
+                    607,
+                    657
+                ],
+                "score": 0.966,
+                "text": "报告（中衡审字[2026]第0187号）。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    691,
+                    1491,
+                    721
+                ],
+                "score": 1.0,
+                "text": "五、本报告所载未来计划、经营目标等前瞻性陈述不构成公司对投资者的实质性承诺，投资者应当对此保"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    738,
+                    392,
+                    768
+                ],
+                "score": 1.0,
+                "text": "持足够的风险认识。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    804,
+                    1089,
+                    830
+                ],
+                "score": 1.0,
+                "text": "六、报告期内，不存在控股股东及其关联方非经营性占用公司资金的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    868,
+                    945,
+                    894
+                ],
+                "score": 1.0,
+                "text": "七、报告期内，公司不存在违反规定程序对外提供担保的情况。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    933,
+                    1489,
+                    958
+                ],
+                "score": 0.994,
+                "text": "八、公司负责人厉承澜、主管会计工作负责人闻人潇及会计机构负责人（财务部部长）保证本报告中财务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    980,
+                    479,
+                    1005
+                ],
+                "score": 1.0,
+                "text": "报告的真实、准确、完整。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1040,
+                    1490,
+                    1069
+                ],
+                "score": 0.996,
+                "text": "九、敬请投资者认真阅读本报告第四节'管理层讨论与分析'中'风险因素'部分的内容，充分关注公司经营中"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1087,
+                    420,
+                    1116
+                ],
+                "score": 1.0,
+                "text": "可能面临的相关风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第2页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9487,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8808,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    55
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 4,
+                "label": "content",
+                "score": 0.9762,
+                "bbox": [
+                    142,
+                    207,
+                    685,
+                    927
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9291,
+                "bbox": [
+                    781,
+                    123,
+                    875,
+                    169
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9434,
+                "bbox": [
+                    129,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9355,
+                "bbox": [
+                    1339,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    20,
+                    1526,
+                    58
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    214,
+                    273,
+                    246
+                ],
+                "score": 1.0,
+                "text": "重要提示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    276,
+                    310,
+                    307
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    337,
+                    403,
+                    367
+                ],
+                "score": 0.952,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    398,
+                    585,
+                    428
+                ],
+                "score": 1.0,
+                "text": "第三节公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    460,
+                    495,
+                    489
+                ],
+                "score": 1.0,
+                "text": "第四节管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    521,
+                    402,
+                    551
+                ],
+                "score": 0.949,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    582,
+                    372,
+                    611
+                ],
+                "score": 1.0,
+                "text": "第六节公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    643,
+                    677,
+                    672
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    703,
+                    373,
+                    736
+                ],
+                "score": 0.968,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    766,
+                    525,
+                    796
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    826,
+                    372,
+                    857
+                ],
+                "score": 1.0,
+                "text": "第十节财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    887,
+                    334,
+                    918
+                ],
+                "score": 0.999,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    782,
+                    122,
+                    874,
+                    172
+                ],
+                "score": 1.0,
+                "text": "目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2238,
+                    585,
+                    2259
+                ],
+                "score": 0.997,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1340,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第3页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9548,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    56
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9034,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    143,
+                    122,
+                    353,
+                    170
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.6535,
+                "bbox": [
+                    143,
+                    199,
+                    235,
+                    235
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    131,
+                    245,
+                    1521,
+                    754
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>术语/简称</td><td rowspan=1 colspan=1>释义</td></tr><tr><td rowspan=1 colspan=1>公司、氢澜动力</td><td rowspan=1 colspan=1>指苏州氢澜动力股份有限公司</td></tr><tr><td rowspan=1 colspan=1>电解槽</td><td rowspan=1 colspan=1>指通过电解水制取氢气的核心装备</td></tr><tr><td rowspan=1 colspan=1>碱性电解槽(ALK）</td><td rowspan=1 colspan=1>指以氢氧化钾溶液为电解液的电解水制氢设备</td></tr><tr><td rowspan=1 colspan=1>PEM电解槽</td><td rowspan=1 colspan=1>指以质子交换膜为电解质的电解水制氢设备</td></tr><tr><td rowspan=1 colspan=1>燃料电池系统</td><td rowspan=1 colspan=1>指以氢气为燃料、通过电化学反应发电的车用或固定式动力系统</td></tr><tr><td rowspan=1 colspan=1>绿氢</td><td rowspan=1 colspan=1>指使用可再生能源电力电解水制取的氢气</td></tr><tr><td rowspan=1 colspan=1>电堆</td><td rowspan=1 colspan=1>指燃料电池或电解槽中由多片单电池堆叠而成的核心部件</td></tr><tr><td rowspan=1 colspan=1>示范应用城市群</td><td rowspan=1 colspan=1>指国家燃料电池汽车示范应用政策中以城市联合体为单位实施的示范项目</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9638,
+                "bbox": [
+                    143,
+                    797,
+                    467,
+                    846
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9769,
+                "bbox": [
+                    141,
+                    868,
+                    1513,
+                    959
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843,
+                "bbox": [
+                    141,
+                    979,
+                    1493,
+                    1117
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9805,
+                "bbox": [
+                    141,
+                    1137,
+                    1492,
+                    1227
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9536,
+                "bbox": [
+                    200,
+                    1248,
+                    570,
+                    1289
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9643,
+                "bbox": [
+                    142,
+                    1335,
+                    693,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9526,
+                "bbox": [
+                    142,
+                    1418,
+                    412,
+                    1461
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.737,
+                "bbox": [
+                    145,
+                    1487,
+                    313,
+                    1522
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    132,
+                    1532,
+                    1521,
+                    2156
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>公司中文全称</td><td rowspan=1 colspan=1>苏州氢澜动力股份有限公司</td></tr><tr><td rowspan=1 colspan=1>证券简称</td><td rowspan=1 colspan=1>氢澜动力</td></tr><tr><td rowspan=1 colspan=1>证券代码</td><td rowspan=1 colspan=1>688349.SH</td></tr><tr><td rowspan=1 colspan=1>上市板块</td><td rowspan=1 colspan=1>上海证券交易所科创板</td></tr><tr><td rowspan=1 colspan=1>注册地/总部</td><td rowspan=1 colspan=1>江苏省苏州市虎丘区</td></tr><tr><td rowspan=1 colspan=1>上市时间</td><td rowspan=1 colspan=1>2022年9月</td></tr><tr><td rowspan=1 colspan=1>所处行业</td><td rowspan=1 colspan=1>氢能装备（电解槽及燃料电池系统）</td></tr><tr><td rowspan=1 colspan=1>董事长</td><td rowspan=1 colspan=1>厉承澜</td></tr><tr><td rowspan=1 colspan=1>总经理</td><td rowspan=1 colspan=1>欧叙白</td></tr><tr><td rowspan=1 colspan=1>董事会秘书</td><td rowspan=1 colspan=1>闻人潇</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9475,
+                "bbox": [
+                    127,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.94,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    19,
+                    846,
+                    56
+                ],
+                "score": 0.981,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    120,
+                    350,
+                    173
+                ],
+                "score": 1.0,
+                "text": "第一节释义"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    201,
+                    232,
+                    236
+                ],
+                "score": 1.0,
+                "text": "释义表"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    797,
+                    462,
+                    846
+                ],
+                "score": 0.975,
+                "text": "第二节 致股东的信"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    872,
+                    1486,
+                    903
+                ],
+                "score": 1.0,
+                "text": "2025年，绿氢产业从示范走向了规模化。氢澜动力实现营业收入12.60亿元，同比增长37.0%；归属"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    921,
+                    1506,
+                    951
+                ],
+                "score": 1.0,
+                "text": "于上市公司股东的净利润0.68亿元，实现了上市以来的首次年度盈利这条扭亏的曲线，公司走了三年。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    987,
+                    1476,
+                    1012
+                ],
+                "score": 0.999,
+                "text": "这一年，公司1000标方碱性电解槽在内蒙古、新疆三个绿氢大项目中标，全年电解槽出货248台套；"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1035,
+                    1482,
+                    1060
+                ],
+                "score": 0.998,
+                "text": "PEM电解槽在化工副产氢提纯与电网调峰场景实现批量交付；燃料电池系统搭载商用车交付1,150台。行"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1081,
+                    917,
+                    1106
+                ],
+                "score": 1.0,
+                "text": "业最困难的时刻已经过去，装备企业的订单正在变成现金流。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1145,
+                    1483,
+                    1170
+                ],
+                "score": 1.0,
+                "text": "氢能的产业长坡才刚刚开始。2026年，公司将持续加码大标方碱槽与兆瓦级PEM两条产品线，把'度"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1192,
+                    1303,
+                    1218
+                ],
+                "score": 0.996,
+                "text": "电制氢成本'降下来的每一次技术迭代，都当作对股东的承诺。感谢一路信任氢澜的投资者。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    207,
+                    1253,
+                    562,
+                    1286
+                ],
+                "score": 0.998,
+                "text": "董事长：厉承澜2026年3月"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1336,
+                    686,
+                    1382
+                ],
+                "score": 0.973,
+                "text": "第三节 公司简介和主要财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1419,
+                    406,
+                    1462
+                ],
+                "score": 1.0,
+                "text": "一、公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1491,
+                    310,
+                    1523
+                ],
+                "score": 1.0,
+                "text": "公司基本情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第4页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.944,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    58
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9008,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9841,
+                "bbox": [
+                    132,
+                    121,
+                    1521,
+                    292
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>内容</td></tr><tr><td rowspan=1 colspan=1>审计机构</td><td rowspan=1 colspan=1>中衡会计师事务所(特殊普通合伙)</td></tr><tr><td rowspan=1 colspan=1>员工总数（人）</td><td rowspan=1 colspan=1>3,100</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9529,
+                "bbox": [
+                    141,
+                    319,
+                    415,
+                    363
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9782,
+                "bbox": [
+                    140,
+                    377,
+                    1506,
+                    468
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9783,
+                "bbox": [
+                    141,
+                    488,
+                    1508,
+                    579
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9586,
+                "bbox": [
+                    142,
+                    610,
+                    573,
+                    655
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4877,
+                "bbox": [
+                    143,
+                    680,
+                    526,
+                    717
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9902,
+                "bbox": [
+                    132,
+                    725,
+                    1520,
+                    1269
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>本年比上年增减</td><td rowspan=1 colspan=1>2023年</td></tr><tr><td rowspan=1 colspan=1>营业收入(亿元)</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>9.20</td><td rowspan=1 colspan=1>+37.0%</td><td rowspan=1 colspan=1>6.80</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元)</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>-0.35</td><td rowspan=1 colspan=1>-294.3%</td><td rowspan=1 colspan=1>-0.82</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的扣除非经常性损益的净利润 (亿元)</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>-0.55</td><td rowspan=1 colspan=1>-138.2%</td><td rowspan=1 colspan=1>-1.02</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额（亿元）</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td><td rowspan=1 colspan=1>+80.0%</td><td rowspan=1 colspan=1>0.20</td></tr><tr><td rowspan=1 colspan=1>基本每股收益（元/股）</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>-0.06</td><td rowspan=1 colspan=1>-294.3%</td><td rowspan=1 colspan=1>-0.15</td></tr><tr><td rowspan=1 colspan=1>加权平均净资产收益率（%）</td><td rowspan=1 colspan=1>2.40</td><td rowspan=1 colspan=1>-1.30</td><td rowspan=1 colspan=1>增加3.70个百分点</td><td rowspan=1 colspan=1>-3.10</td></tr><tr><td rowspan=1 colspan=1>总资产(亿元)</td><td rowspan=1 colspan=1>42.60</td><td rowspan=1 colspan=1>39.80</td><td rowspan=1 colspan=1>+7.0%</td><td rowspan=1 colspan=1>一</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净资产（亿元）</td><td rowspan=1 colspan=1>29.50</td><td rowspan=1 colspan=1>27.20</td><td rowspan=1 colspan=1>+8.5%</td><td rowspan=1 colspan=1>一</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9457,
+                "bbox": [
+                    141,
+                    1279,
+                    968,
+                    1314
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9567,
+                "bbox": [
+                    143,
+                    1341,
+                    573,
+                    1384
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9313,
+                "bbox": [
+                    144,
+                    1409,
+                    511,
+                    1447
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9883,
+                "bbox": [
+                    132,
+                    1455,
+                    1520,
+                    1738
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>金额（亿元）</td><td rowspan=2 colspan=1>说明燃料电池汽车示范应用城市群奖励及绿氢制备装备专项补助</td></tr><tr><td rowspan=1 colspan=1>计入当期损益的政府补助</td><td rowspan=1 colspan=1>0.42</td></tr><tr><td rowspan=1 colspan=1>理财收益</td><td rowspan=1 colspan=1>0.03</td><td rowspan=1 colspan=1>闲置募集资金现金管理收益</td></tr><tr><td rowspan=1 colspan=1>其他</td><td rowspan=1 colspan=1>0.02</td><td rowspan=1 colspan=1>增值税加计抵减等</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>0.47</td><td rowspan=1 colspan=1>占归母净利润比例 69.1%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9532,
+                "bbox": [
+                    143,
+                    1748,
+                    824,
+                    1784
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9592,
+                "bbox": [
+                    143,
+                    1811,
+                    507,
+                    1854
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9181,
+                "bbox": [
+                    144,
+                    1879,
+                    484,
+                    1915
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9853,
+                "bbox": [
+                    132,
+                    1925,
+                    1521,
+                    2094
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>第一季度</td><td rowspan=1 colspan=1>第二季度</td><td rowspan=1 colspan=1>第三季度</td><td rowspan=1 colspan=1>第四季度</td></tr><tr><td rowspan=1 colspan=1>营业收入（亿元）</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>2.90</td><td rowspan=1 colspan=1>3.40</td><td rowspan=1 colspan=1>4.00</td></tr><tr><td rowspan=1 colspan=1>归属于上市公司股东的净利润(亿元）</td><td rowspan=1 colspan=1>0.06</td><td rowspan=1 colspan=1>0.13</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>0.28</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9473,
+                "bbox": [
+                    127,
+                    2231,
+                    590,
+                    2265
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9369,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2265
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    18,
+                    847,
+                    58
+                ],
+                "score": 0.987,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    320,
+                    409,
+                    363
+                ],
+                "score": 1.0,
+                "text": "二、公司历史沿革"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    385,
+                    1496,
+                    411
+                ],
+                "score": 1.0,
+                "text": "公司成立于2016年，总部位于苏州，2022年9月在上海证券交易所科创板上市，是国内少数同时布局"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    431,
+                    1034,
+                    457
+                ],
+                "score": 1.0,
+                "text": "碱性电解槽、PEM电解槽与燃料电池系统三大产品线的氢能装备企业"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    496,
+                    1498,
+                    522
+                ],
+                "score": 1.0,
+                "text": "截至报告期末，公司在苏州、内蒙古包头两地建有制造基地，形成碱性电解槽年产1.2GW、PEM电解"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    544,
+                    867,
+                    569
+                ],
+                "score": 1.0,
+                "text": "槽年产300MW、燃料电池系统年产3,000台的产能格局。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    615,
+                    566,
+                    652
+                ],
+                "score": 1.0,
+                "text": "三、主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    687,
+                    519,
+                    711
+                ],
+                "score": 1.0,
+                "text": "近三年主要会计数据和财务指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1285,
+                    960,
+                    1309
+                ],
+                "score": 0.999,
+                "text": "注：除特别注明外，金额单位均为人民币亿元；净资产收益率口径为加权平均。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1347,
+                    566,
+                    1380
+                ],
+                "score": 1.0,
+                "text": "四、非经常性损益项目及金额"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1416,
+                    504,
+                    1441
+                ],
+                "score": 1.0,
+                "text": "2025年非经常性损益项目明细"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1755,
+                    818,
+                    1777
+                ],
+                "score": 0.991,
+                "text": "非经常性损益项目数据来源：公司财务报表附注，并经审计确认。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1816,
+                    501,
+                    1850
+                ],
+                "score": 1.0,
+                "text": "五、分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1885,
+                    478,
+                    1911
+                ],
+                "score": 1.0,
+                "text": "2025年分季度主要财务数据"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2236,
+                    584,
+                    2261
+                ],
+                "score": 0.99,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2235,
+                    1521,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第5页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9477,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.892,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    57
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.5622,
+                "bbox": [
+                    142,
+                    122,
+                    582,
+                    171
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9599,
+                "bbox": [
+                    141,
+                    204,
+                    605,
+                    249
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9853,
+                "bbox": [
+                    139,
+                    263,
+                    1501,
+                    401
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9849,
+                "bbox": [
+                    140,
+                    421,
+                    1508,
+                    559
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564,
+                "bbox": [
+                    141,
+                    589,
+                    636,
+                    635
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9803,
+                "bbox": [
+                    140,
+                    649,
+                    1504,
+                    740
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9843,
+                "bbox": [
+                    140,
+                    760,
+                    1505,
+                    898
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9561,
+                "bbox": [
+                    142,
+                    928,
+                    573,
+                    974
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9048,
+                "bbox": [
+                    143,
+                    998,
+                    498,
+                    1036
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9884,
+                "bbox": [
+                    132,
+                    1046,
+                    1520,
+                    1322
+                ],
+                "index": 12,
+                "html": "<table><tr><td rowspan=1 colspan=1>产品/业务</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td><td rowspan=1 colspan=1>毛利率</td><td rowspan=1 colspan=1>收入比上年增减</td></tr><tr><td rowspan=1 colspan=1>碱性电解槽</td><td rowspan=1 colspan=1>8.06</td><td rowspan=1 colspan=1>64.0%</td><td rowspan=1 colspan=1>23.5%</td><td rowspan=1 colspan=1>+37.4%</td></tr><tr><td rowspan=1 colspan=1>PEM电解槽</td><td rowspan=1 colspan=1>2.27</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>18.6%</td><td rowspan=1 colspan=1>+29.1%</td></tr><tr><td rowspan=1 colspan=1>燃料电池系统</td><td rowspan=1 colspan=1>2.27</td><td rowspan=1 colspan=1>18.0%</td><td rowspan=1 colspan=1>15.2%</td><td rowspan=1 colspan=1>+41.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>100.0%</td><td rowspan=1 colspan=1>21.3%</td><td rowspan=1 colspan=1>+37.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    141,
+                    1331,
+                    1500,
+                    1467
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.924,
+                "bbox": [
+                    143,
+                    1493,
+                    432,
+                    1530
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    132,
+                    1541,
+                    1520,
+                    1764
+                ],
+                "index": 15,
+                "html": "<table><tr><td rowspan=1 colspan=1>地区</td><td rowspan=1 colspan=1>收入（亿元）</td><td rowspan=1 colspan=1>收入占比</td></tr><tr><td rowspan=1 colspan=1>境内</td><td rowspan=1 colspan=1>11.72</td><td rowspan=1 colspan=1>93.0%</td></tr><tr><td rowspan=1 colspan=1>境外</td><td rowspan=1 colspan=1>0.88</td><td rowspan=1 colspan=1>7.0%</td></tr><tr><td rowspan=1 colspan=1>合计</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>100.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9454,
+                "bbox": [
+                    142,
+                    1775,
+                    728,
+                    1810
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9523,
+                "bbox": [
+                    143,
+                    1838,
+                    412,
+                    1881
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.9358,
+                "bbox": [
+                    144,
+                    1906,
+                    534,
+                    1944
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9868,
+                "bbox": [
+                    133,
+                    1952,
+                    1521,
+                    2179
+                ],
+                "index": 19,
+                "html": "<table><tr><td rowspan=1 colspan=1>成本项目</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>2024年</td><td rowspan=1 colspan=1>变动说明</td></tr><tr><td rowspan=1 colspan=1>电极及膜材料</td><td rowspan=1 colspan=1>44.6%</td><td rowspan=1 colspan=1>46.8%</td><td rowspan=1 colspan=1>国产铱基催化剂导入降本</td></tr><tr><td rowspan=1 colspan=1>钢结构及极板</td><td rowspan=1 colspan=1>28.4%</td><td rowspan=1 colspan=1>27.2%</td><td rowspan=1 colspan=1>大宗价格平稳，自制比例提升</td></tr><tr><td rowspan=1 colspan=1>人工及制造费用</td><td rowspan=1 colspan=1>27.0%</td><td rowspan=1 colspan=1>26.0%</td><td rowspan=1 colspan=1>包头基地投产摊薄</td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.943,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2265
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.938,
+                "bbox": [
+                    1338,
+                    2232,
+                    1522,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.987,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1444,
+                    19,
+                    1526,
+                    61
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    125,
+                    574,
+                    169
+                ],
+                "score": 0.991,
+                "text": "第四节 管理层讨论与分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    209,
+                    597,
+                    246
+                ],
+                "score": 1.0,
+                "text": "一、报告期内公司所处行业情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    271,
+                    1479,
+                    296
+                ],
+                "score": 1.0,
+                "text": "2025年国内绿氢项目进入招标放量期，全年电解槽招标规模约4.5GW，同比增长超过60%；绿氢在"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    314,
+                    1493,
+                    345
+                ],
+                "score": 1.0,
+                "text": "合成氨、合成甲醇、炼化替代等场景的经济性拐点渐近。政策层面，氢能被纳入《能源法》管理体系，绿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    365,
+                    506,
+                    390
+                ],
+                "score": 0.996,
+                "text": "氢管道输送与储运试点扩大。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    429,
+                    1498,
+                    454
+                ],
+                "score": 0.998,
+                "text": "燃料电池汽车示范应用城市群政策进入收官评估期，重卡成为主力车型，2025年燃料电池重卡销量同"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    477,
+                    1475,
+                    502
+                ],
+                "score": 1.0,
+                "text": "比增长约50%。装备端，1000标方以上大标方碱槽、兆瓦级PEM成为招标主流规格，行业集中度快速提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    518,
+                    196,
+                    557
+                ],
+                "score": 1.0,
+                "text": "升。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    596,
+                    627,
+                    629
+                ],
+                "score": 1.0,
+                "text": "二、报告期内公司从事的主要业务"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    656,
+                    1493,
+                    681
+                ],
+                "score": 1.0,
+                "text": "公司主营业务为氢能装备的研发、生产与销售，产品覆盖碱性电解槽、PEM电解槽两大制氢装备及燃"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    700,
+                    914,
+                    732
+                ],
+                "score": 1.0,
+                "text": "料电池系统用氢装备，并提供绿氢项目EPC配套与运维服务。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    768,
+                    1482,
+                    793
+                ],
+                "score": 0.998,
+                "text": "报告期内，公司第二代1000标方碱性电解槽实现直流电耗4.3千瓦时/标方，较第一代下降8%，在新"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    814,
+                    1492,
+                    839
+                ],
+                "score": 1.0,
+                "text": "疆库车、内蒙古鄂尔多斯两个国家级绿氢项目中中标份额居前；兆瓦级PEM电解槽切入电网侧储能调峰示"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    859,
+                    250,
+                    891
+                ],
+                "score": 1.0,
+                "text": "范场景。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    933,
+                    566,
+                    971
+                ],
+                "score": 1.0,
+                "text": "三、营业收入构成及变动分析"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1002,
+                    492,
+                    1032
+                ],
+                "score": 1.0,
+                "text": "2025年分产品/业务收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    1337,
+                    1492,
+                    1362
+                ],
+                "score": 0.999,
+                "text": "碱性电解槽收入8.06亿元，同比增长37.4%，大标方产品占比提升至70%；PEM电解槽收入2.27亿元"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1383,
+                    1486,
+                    1412
+                ],
+                "score": 1.0,
+                "text": "，同比增长29.1%，电网侧与出口订单贡献增量；燃料电池系统收入2.27亿元，同比增长41.0%，重卡配"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1429,
+                    393,
+                    1458
+                ],
+                "score": 1.0,
+                "text": "套放量是主要驱动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1496,
+                    427,
+                    1529
+                ],
+                "score": 1.0,
+                "text": "2025年分地区收入构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1782,
+                    722,
+                    1803
+                ],
+                "score": 1.0,
+                "text": "注：前五名客户合计销售金额占年度销售总额的46.8%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1841,
+                    408,
+                    1882
+                ],
+                "score": 1.0,
+                "text": "四、营业成本构成"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1913,
+                    527,
+                    1939
+                ],
+                "score": 0.966,
+                "text": "营业成本构成（占营业成本比例）"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2236,
+                    585,
+                    2261
+                ],
+                "score": 0.99,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第6页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9498,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9082,
+                "bbox": [
+                    1449,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9631,
+                "bbox": [
+                    142,
+                    122,
+                    506,
+                    165
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.4912,
+                "bbox": [
+                    143,
+                    191,
+                    313,
+                    228
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9882,
+                "bbox": [
+                    132,
+                    237,
+                    1521,
+                    515
+                ],
+                "index": 5,
+                "html": "<table><tr><td rowspan=1 colspan=1>费用项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td><td rowspan=1 colspan=1>同比</td></tr><tr><td rowspan=1 colspan=1>销售费用</td><td rowspan=1 colspan=1>0.48</td><td rowspan=1 colspan=1>0.40</td><td rowspan=1 colspan=1>+20.0%</td></tr><tr><td rowspan=1 colspan=1>管理费用</td><td rowspan=1 colspan=1>0.72</td><td rowspan=1 colspan=1>0.62</td><td rowspan=1 colspan=1>+16.1%</td></tr><tr><td rowspan=1 colspan=1>研发费用</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>+22.2%</td></tr><tr><td rowspan=1 colspan=1>财务费用</td><td rowspan=1 colspan=1>0.15</td><td rowspan=1 colspan=1>0.12</td><td rowspan=1 colspan=1>+25.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.5899,
+                "bbox": [
+                    140,
+                    522,
+                    1489,
+                    611
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9596,
+                "bbox": [
+                    141,
+                    644,
+                    413,
+                    688
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7827,
+                "bbox": [
+                    143,
+                    713,
+                    365,
+                    749
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    760,
+                    1520,
+                    979
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年(亿元）</td></tr><tr><td rowspan=1 colspan=1>经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.20</td><td rowspan=1 colspan=1>-3.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>2.60</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9636,
+                "bbox": [
+                    140,
+                    988,
+                    1499,
+                    1125
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9583,
+                "bbox": [
+                    142,
+                    1157,
+                    571,
+                    1200
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7461,
+                "bbox": [
+                    142,
+                    1225,
+                    446,
+                    1262
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9871,
+                "bbox": [
+                    132,
+                    1271,
+                    1520,
+                    1498
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末 (亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td><td rowspan=1 colspan=1>变动比例</td><td rowspan=1 colspan=1>变动原因</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.20</td><td rowspan=1 colspan=1>+19.4%</td><td rowspan=1 colspan=1>经营积累及可转债募集资金到位</td></tr><tr><td rowspan=1 colspan=1>在建工程</td><td rowspan=1 colspan=1>6.20</td><td rowspan=1 colspan=1>4.10</td><td rowspan=1 colspan=1>+51.2%</td><td rowspan=1 colspan=1>碱性电解槽二期产能建设投入</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.90</td><td rowspan=1 colspan=1>+21.1%</td><td rowspan=1 colspan=1>绿氢项目预收设备款增加</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9599,
+                "bbox": [
+                    142,
+                    1528,
+                    510,
+                    1570
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9802,
+                "bbox": [
+                    140,
+                    1587,
+                    1484,
+                    1676
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    139,
+                    1698,
+                    1489,
+                    1787
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9547,
+                "bbox": [
+                    142,
+                    1820,
+                    350,
+                    1863
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.96,
+                "bbox": [
+                    141,
+                    1879,
+                    1073,
+                    1919
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9795,
+                "bbox": [
+                    140,
+                    1942,
+                    1498,
+                    2031
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9601,
+                "bbox": [
+                    198,
+                    2053,
+                    1480,
+                    2095
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9462,
+                "bbox": [
+                    127,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9389,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 22
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.989,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    59
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    127,
+                    499,
+                    161
+                ],
+                "score": 1.0,
+                "text": "五、期间费用与研发投入"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    196,
+                    308,
+                    224
+                ],
+                "score": 1.0,
+                "text": "期间费用变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    525,
+                    1482,
+                    555
+                ],
+                "score": 1.0,
+                "text": "研发投入方面，公司2025年研发投入合计1.25亿元，占营业收入比例9.9%，其中费用化研发费用1.10亿"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    575,
+                    1082,
+                    600
+                ],
+                "score": 1.0,
+                "text": "元、资本化研发投入0.15亿元；研发人员780人，占员工总数比例25.2%。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    646,
+                    407,
+                    687
+                ],
+                "score": 1.0,
+                "text": "六、现金流量情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    719,
+                    360,
+                    745
+                ],
+                "score": 1.0,
+                "text": "现金流量主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    994,
+                    1487,
+                    1019
+                ],
+                "score": 0.997,
+                "text": "报告期内经营活动现金流量净额0.90亿元，同比改善0.40亿元，大项目执行'3331'回款节奏；投资活"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1037,
+                    1490,
+                    1068
+                ],
+                "score": 1.0,
+                "text": "动净流出4.20亿元，主要为包头基地与二期产能建设；筹资活动净流入3.80亿元，为发行可转换公司债券"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    142,
+                    1082,
+                    225,
+                    1122
+                ],
+                "score": 1.0,
+                "text": "所致。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1156,
+                    567,
+                    1201
+                ],
+                "score": 1.0,
+                "text": "七、资产及负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1231,
+                    440,
+                    1260
+                ],
+                "score": 1.0,
+                "text": "资产、负债项目重大变动"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1530,
+                    501,
+                    1569
+                ],
+                "score": 1.0,
+                "text": "八、公司未来发展的展望"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1595,
+                    1474,
+                    1620
+                ],
+                "score": 0.999,
+                "text": "2026年经营目标：营业收入16亿元左右，同比增长约27%；碱性电解槽出货350台套以上，PEM电"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1642,
+                    1373,
+                    1667
+                ],
+                "score": 1.0,
+                "text": "解槽在电网侧形成规模化订单。公司第三代2000标方碱槽样机预计2026年下半年完成客户验证。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1706,
+                    1480,
+                    1731
+                ],
+                "score": 0.998,
+                "text": "降本方面，公司目标将碱性电解槽单位制氢电耗再降3%，铱载量降低30%的PEM膜电极实现中试量"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1753,
+                    874,
+                    1778
+                ],
+                "score": 0.992,
+                "text": "产，以'度电制氢成本'为核心指标参与全球绿氢项目竞争。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    1821,
+                    344,
+                    1864
+                ],
+                "score": 1.0,
+                "text": "九、风险因素"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1886,
+                    1063,
+                    1912
+                ],
+                "score": 1.0,
+                "text": "公司在本报告期及未来经营中可能面临以下主要风险，敬请投资者关注："
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    1947,
+                    1492,
+                    1976
+                ],
+                "score": 1.0,
+                "text": "政策依赖风险：燃料电池系统业务与示范应用城市群补贴政策挂钩，财政奖补退坡可能影响下游整车"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    1992,
+                    278,
+                    2028
+                ],
+                "score": 1.0,
+                "text": "客户需求。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    2062,
+                    1471,
+                    2087
+                ],
+                "score": 0.999,
+                "text": "招标节奏风险：绿氢大项目审批与招标节奏受宏观投资与并网消纳影响，订单确认存在季度间波动。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第7页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9561,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8883,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9801,
+                "bbox": [
+                    140,
+                    122,
+                    1503,
+                    210
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9808,
+                "bbox": [
+                    141,
+                    233,
+                    1500,
+                    322
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.959,
+                "bbox": [
+                    198,
+                    344,
+                    1250,
+                    385
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9612,
+                "bbox": [
+                    142,
+                    432,
+                    468,
+                    480
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    503,
+                    1493,
+                    591
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9844,
+                "bbox": [
+                    140,
+                    613,
+                    1510,
+                    750
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9846,
+                "bbox": [
+                    141,
+                    771,
+                    1510,
+                    909
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9595,
+                "bbox": [
+                    142,
+                    953,
+                    431,
+                    1002
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9872,
+                "bbox": [
+                    140,
+                    1024,
+                    1503,
+                    1209
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9793,
+                "bbox": [
+                    140,
+                    1230,
+                    1497,
+                    1320
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9741,
+                "bbox": [
+                    141,
+                    1342,
+                    1499,
+                    1429
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9649,
+                "bbox": [
+                    142,
+                    1476,
+                    805,
+                    1526
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9518,
+                "bbox": [
+                    141,
+                    1558,
+                    412,
+                    1601
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.8601,
+                "bbox": [
+                    143,
+                    1627,
+                    368,
+                    1663
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9886,
+                "bbox": [
+                    132,
+                    1673,
+                    1520,
+                    1949
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>指标</td><td rowspan=1 colspan=1>2025年</td><td rowspan=1 colspan=1>同比变动</td></tr><tr><td rowspan=1 colspan=1>综合能耗（吨标准煤）</td><td rowspan=1 colspan=1>28,500</td><td rowspan=1 colspan=1>+28.5%</td></tr><tr><td rowspan=1 colspan=1>温室气体排放范围一+二（吨CO2e）</td><td rowspan=1 colspan=1>62,300</td><td rowspan=1 colspan=1>+25.2%</td></tr><tr><td rowspan=1 colspan=1>水资源消耗（万立方米）</td><td rowspan=1 colspan=1>46.2</td><td rowspan=1 colspan=1>+18.0%</td></tr><tr><td rowspan=1 colspan=1>环保投入（万元）</td><td rowspan=1 colspan=1>420</td><td rowspan=1 colspan=1>+35.0%</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9655,
+                "bbox": [
+                    140,
+                    1959,
+                    1498,
+                    2048
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9463,
+                "bbox": [
+                    141,
+                    2079,
+                    348,
+                    2124
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9451,
+                "bbox": [
+                    127,
+                    2232,
+                    589,
+                    2264
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9383,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 21
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.989,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    129,
+                    1494,
+                    154
+                ],
+                "score": 1.0,
+                "text": "技术路线风险：碱性与PEM两大路线仍处并行竞争阶段，若技术路线切换快于预期，存在产能与研发"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    175,
+                    334,
+                    204
+                ],
+                "score": 1.0,
+                "text": "投入错配风险。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    211,
+                    241,
+                    1489,
+                    266
+                ],
+                "score": 0.999,
+                "text": "应收账款风险：大项目客户回款周期长，公司应收账款及合同资产随收入扩张而增加，存在坏账计提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    283,
+                    223,
+                    323
+                ],
+                "score": 1.0,
+                "text": "压力。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    212,
+                    350,
+                    1241,
+                    377
+                ],
+                "score": 0.999,
+                "text": "原材料价格风险：铱、铂等贵金属价格高位波动，对PEM电解槽毛利率形成挤压。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    423,
+                    463,
+                    481
+                ],
+                "score": 0.961,
+                "text": "第五节 董事会报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    510,
+                    1484,
+                    535
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司共召开董事会会议9次、监事会会议5次、股东大会2次。公司董事会严格执行股东大会决"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    556,
+                    1148,
+                    585
+                ],
+                "score": 1.0,
+                "text": "议，勤勉尽责开展各项工作，2025年6月完成了上一年度利润分配方案的实施。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    621,
+                    1502,
+                    646
+                ],
+                "score": 1.0,
+                "text": "鉴于公司2025年为实现盈利后的首个会计年度，整体经营规模仍处于快速扩张期，碱性电解槽二期等产能"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    668,
+                    1500,
+                    693
+                ],
+                "score": 0.999,
+                "text": "建设项目资金需求较大，为保持财务稳健、增强持续发展能力，公司2025年度不进行利润分配，亦不实施"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    716,
+                    392,
+                    741
+                ],
+                "score": 1.0,
+                "text": "资本公积转增股本。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    779,
+                    1500,
+                    804
+                ],
+                "score": 0.986,
+                "text": "公司2025年度财务报告审计机构为中衡会计师事务所(特殊普通合伙），报告期内公司不存在改聘、解聘"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    824,
+                    1500,
+                    855
+                ],
+                "score": 0.988,
+                "text": "会计师事务所的情形。公司已就2026年度财务报告审计服务续聘中衡会计师事务所（特殊普通合伙）并提"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    874,
+                    617,
+                    899
+                ],
+                "score": 1.0,
+                "text": "请股东大会审议，审计收费180万元。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    146,
+                    949,
+                    427,
+                    1004
+                ],
+                "score": 0.982,
+                "text": "第六节 公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1030,
+                    1489,
+                    1056
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司按照《公司法》《证券法》《上市公司治理准则》及公司章程的要求规范运作。公司董事"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1079,
+                    1497,
+                    1105
+                ],
+                "score": 1.0,
+                "text": "会由9名董事组成，其中独立董事3名，占比不低于三分之一；监事会由3名监事组成，其中职工代表监事1"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1127,
+                    1489,
+                    1152
+                ],
+                "score": 1.0,
+                "text": "名。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，报告期内共"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1174,
+                    466,
+                    1200
+                ],
+                "score": 1.0,
+                "text": "召开专门委员会会议6次。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    1238,
+                    1489,
+                    1263
+                ],
+                "score": 1.0,
+                "text": "投资者关系方面，报告期内公司通过业绩说明会、投资者调研接待、互动平台答复等方式与投资者保持沟"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1285,
+                    1222,
+                    1311
+                ],
+                "score": 1.0,
+                "text": "通，共接待机构投资者调研28批次，举办业绩说明会3次，回复互动平台提问120条。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1348,
+                    1491,
+                    1377
+                ],
+                "score": 1.0,
+                "text": "内部控制方面，公司已建立覆盖全部业务流程的内部控制体系，报告期内未发现财务报告内部控制重大缺"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    1393,
+                    332,
+                    1422
+                ],
+                "score": 1.0,
+                "text": "陷或重要缺陷。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1478,
+                    797,
+                    1523
+                ],
+                "score": 1.0,
+                "text": "第七节环境、社会责任和其他公司治理"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1561,
+                    406,
+                    1602
+                ],
+                "score": 1.0,
+                "text": "一、环境保护信息"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1633,
+                    361,
+                    1659
+                ],
+                "score": 1.0,
+                "text": "环境信息主要指标"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    1962,
+                    1492,
+                    1992
+                ],
+                "score": 1.0,
+                "text": "公司产品本身服务于绿色低碳转型，生产环节以装配与测试为主。报告期内包头基地引入屋顶光伏与"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    154,
+                    2012,
+                    830,
+                    2037
+                ],
+                "score": 1.0,
+                "text": "余热回收系统，单位产值综合能耗同比实现由升转稳。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    2080,
+                    347,
+                    2127
+                ],
+                "score": 1.0,
+                "text": "二、社会责任"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    133,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.994,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第8页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9522,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8551,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9823,
+                "bbox": [
+                    139,
+                    121,
+                    1509,
+                    211
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9564,
+                "bbox": [
+                    142,
+                    243,
+                    478,
+                    287
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.979,
+                "bbox": [
+                    140,
+                    302,
+                    1499,
+                    392
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9627,
+                "bbox": [
+                    142,
+                    437,
+                    432,
+                    486
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9786,
+                "bbox": [
+                    140,
+                    507,
+                    1487,
+                    597
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9569,
+                "bbox": [
+                    199,
+                    619,
+                    1041,
+                    659
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9578,
+                "bbox": [
+                    198,
+                    683,
+                    809,
+                    723
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9777,
+                "bbox": [
+                    141,
+                    746,
+                    1473,
+                    836
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9769,
+                "bbox": [
+                    142,
+                    857,
+                    1509,
+                    947
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9591,
+                "bbox": [
+                    142,
+                    993,
+                    617,
+                    1042
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5593,
+                "bbox": [
+                    143,
+                    1069,
+                    350,
+                    1106
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9874,
+                "bbox": [
+                    133,
+                    1114,
+                    1520,
+                    1339
+                ],
+                "index": 14,
+                "html": "<table><tr><td rowspan=1 colspan=1>股份类别</td><td rowspan=1 colspan=1>数量(万股)</td><td rowspan=1 colspan=1>占总股本比例</td></tr><tr><td rowspan=1 colspan=1>无限售条件流通股</td><td rowspan=1 colspan=1>50,400.0</td><td rowspan=1 colspan=1>90.00%</td></tr><tr><td rowspan=1 colspan=1>限售股</td><td rowspan=1 colspan=1>5,600.0</td><td rowspan=1 colspan=1>10.00%</td></tr><tr><td rowspan=1 colspan=1>股份总数</td><td rowspan=1 colspan=1>56,000.0</td><td rowspan=1 colspan=1>100.00%</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9539,
+                "bbox": [
+                    143,
+                    1371,
+                    444,
+                    1414
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6952,
+                "bbox": [
+                    144,
+                    1440,
+                    550,
+                    1476
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    131,
+                    1484,
+                    1522,
+                    2167
+                ],
+                "index": 17,
+                "html": "<table><tr><td rowspan=1 colspan=1>序号</td><td rowspan=1 colspan=1>股东名称</td><td rowspan=1 colspan=1>持股比例</td><td rowspan=1 colspan=1>股东性质</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>氢澜控股集团有限公司</td><td rowspan=1 colspan=1>28.50%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>国家绿色发展基金股份有限公司</td><td rowspan=1 colspan=1>8.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>长三角制造业转型升级基金（有限合伙）</td><td rowspan=1 colspan=1>4.50%</td><td rowspan=1 colspan=1>境内非国有法人</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>苏州创新产业引导基金（有限合伙)</td><td rowspan=1 colspan=1>3.20%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>氢澜一号员工持股计划</td><td rowspan=1 colspan=1>2.60%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>香港中央结算有限公司</td><td rowspan=1 colspan=1>1.80%</td><td rowspan=1 colspan=1>境外法人</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>全国社保基金——六组合</td><td rowspan=1 colspan=1>1.50%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>基本养老保险基金一二零一组合</td><td rowspan=1 colspan=1>1.20%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>国家能源集团绿色产业基金</td><td rowspan=1 colspan=1>0.95%</td><td rowspan=1 colspan=1>国有法人</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>华夏上证科创板50成份ETF</td><td rowspan=1 colspan=1>0.80%</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>前十大股东合计</td><td rowspan=1 colspan=1>53.25%</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9476,
+                "bbox": [
+                    128,
+                    2231,
+                    590,
+                    2264
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9395,
+                "bbox": [
+                    1338,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 19
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.989,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    129,
+                    1499,
+                    154
+                ],
+                "score": 0.999,
+                "text": "截至报告期末，公司员工总数3,100人，其中研发人员780人。报告期内公司持续完善职业发展通道与培训"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    176,
+                    1438,
+                    202
+                ],
+                "score": 1.0,
+                "text": "体系，人均培训时长24小时；全年对外捐赠及公益投入260万元，重点投向教育帮扶与乡村振兴领域。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    248,
+                    470,
+                    286
+                ],
+                "score": 1.0,
+                "text": "三、公司治理专项情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    310,
+                    1490,
+                    335
+                ],
+                "score": 1.0,
+                "text": "报告期内，公司控股股东、实际控制人不存在违规占用公司资金的情况，公司及控股子公司未发生违规对"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    357,
+                    1029,
+                    383
+                ],
+                "score": 1.0,
+                "text": "外担保。公司已披露ESG相关专项报告，详情见公司可持续发展报告。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    436,
+                    424,
+                    485
+                ],
+                "score": 0.957,
+                "text": "第八节 重要事项"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    208,
+                    513,
+                    1480,
+                    543
+                ],
+                "score": 1.0,
+                "text": "重大合同：报告期内公司及子公司中标金额1亿元以上的绿氢装备合同3项，合计金额约5.6亿元，均"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    561,
+                    277,
+                    592
+                ],
+                "score": 1.0,
+                "text": "在履行中。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    626,
+                    1032,
+                    652
+                ],
+                "score": 1.0,
+                "text": "重大诉讼、仲裁事项：报告期内公司不存在重大诉讼、仲裁事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    690,
+                    799,
+                    716
+                ],
+                "score": 1.0,
+                "text": "对外担保：报告期内公司不存在对外担保事项。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    209,
+                    752,
+                    1466,
+                    782
+                ],
+                "score": 1.0,
+                "text": "关联交易：报告期内公司与关联方发生的日常关联交易合计金额为230万元，主要为委托检测服务，"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    797,
+                    276,
+                    833
+                ],
+                "score": 1.0,
+                "text": "程序合规。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    210,
+                    863,
+                    1501,
+                    893
+                ],
+                "score": 1.0,
+                "text": "可转债：公司2025年8月完成向不特定对象发行可转换公司债券，募集资金4.2亿元，用于碱性电解槽"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    908,
+                    393,
+                    942
+                ],
+                "score": 1.0,
+                "text": "二期产能建设项目。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    994,
+                    611,
+                    1039
+                ],
+                "score": 1.0,
+                "text": "第九节股份变动及股东情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1073,
+                    346,
+                    1106
+                ],
+                "score": 0.939,
+                "text": "股份结构(万股)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1372,
+                    438,
+                    1413
+                ],
+                "score": 1.0,
+                "text": "前十大股东持股情况"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    1446,
+                    543,
+                    1472
+                ],
+                "score": 1.0,
+                "text": "截至2025年12月31日前十大股东"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1339,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 0.998,
+                "text": "第9页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9514,
+                "bbox": [
+                    127,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8966,
+                "bbox": [
+                    1448,
+                    23,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9753,
+                "bbox": [
+                    140,
+                    121,
+                    1480,
+                    209
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9598,
+                "bbox": [
+                    142,
+                    256,
+                    430,
+                    305
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.943,
+                "bbox": [
+                    141,
+                    339,
+                    348,
+                    382
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9847,
+                "bbox": [
+                    139,
+                    396,
+                    1509,
+                    581
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9546,
+                "bbox": [
+                    142,
+                    612,
+                    681,
+                    659
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.4503,
+                "bbox": [
+                    144,
+                    683,
+                    390,
+                    719
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    131,
+                    726,
+                    1521,
+                    1407
+                ],
+                "index": 9,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>期末(亿元)</td><td rowspan=1 colspan=1>期初(亿元)</td></tr><tr><td rowspan=1 colspan=1>货币资金</td><td rowspan=1 colspan=1>8.60</td><td rowspan=1 colspan=1>7.20</td></tr><tr><td rowspan=1 colspan=1>应收账款及合同资产</td><td rowspan=1 colspan=1>3.90</td><td rowspan=1 colspan=1>2.60</td></tr><tr><td rowspan=1 colspan=1>存货</td><td rowspan=1 colspan=1>4.80</td><td rowspan=1 colspan=1>3.40</td></tr><tr><td rowspan=1 colspan=1>固定资产及在建工程</td><td rowspan=1 colspan=1>17.30</td><td rowspan=1 colspan=1>16.20</td></tr><tr><td rowspan=1 colspan=1>其他资产</td><td rowspan=1 colspan=1>8.00</td><td rowspan=1 colspan=1>10.40</td></tr><tr><td rowspan=1 colspan=1>资产总计</td><td rowspan=1 colspan=1>42.60</td><td rowspan=1 colspan=1>39.80</td></tr><tr><td rowspan=1 colspan=1>应付账款及应付票据</td><td rowspan=1 colspan=1>4.20</td><td rowspan=1 colspan=1>3.60</td></tr><tr><td rowspan=1 colspan=1>合同负债</td><td rowspan=1 colspan=1>2.30</td><td rowspan=1 colspan=1>1.90</td></tr><tr><td rowspan=1 colspan=1>借款及其他负债</td><td rowspan=1 colspan=1>6.60</td><td rowspan=1 colspan=1>7.10</td></tr><tr><td rowspan=1 colspan=1>负债合计</td><td rowspan=1 colspan=1>13.10</td><td rowspan=1 colspan=1>12.60</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东权益合计</td><td rowspan=1 colspan=1>29.50</td><td rowspan=1 colspan=1>27.20</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9276,
+                "bbox": [
+                    141,
+                    1418,
+                    1203,
+                    1454
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.955,
+                "bbox": [
+                    142,
+                    1479,
+                    616,
+                    1524
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5838,
+                "bbox": [
+                    144,
+                    1549,
+                    338,
+                    1585
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    132,
+                    1594,
+                    1521,
+                    1989
+                ],
+                "index": 13,
+                "html": "<table><tr><td rowspan=1 colspan=1>项目</td><td rowspan=1 colspan=1>2025年（亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>营业收入</td><td rowspan=1 colspan=1>12.60</td><td rowspan=1 colspan=1>9.20</td></tr><tr><td rowspan=1 colspan=1>营业成本</td><td rowspan=1 colspan=1>9.92</td><td rowspan=1 colspan=1>7.43</td></tr><tr><td rowspan=1 colspan=1>期间费用合计</td><td rowspan=1 colspan=1>2.45</td><td rowspan=1 colspan=1>2.04</td></tr><tr><td rowspan=1 colspan=1>研发费用（含于期间费用）</td><td rowspan=1 colspan=1>1.10</td><td rowspan=1 colspan=1>0.90</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的净利润</td><td rowspan=1 colspan=1>0.68</td><td rowspan=1 colspan=1>-0.35</td></tr><tr><td rowspan=1 colspan=1>归属于母公司股东的扣除非经常性损益的净利润</td><td rowspan=1 colspan=1>0.21</td><td rowspan=1 colspan=1>-0.55</td></tr></table>"
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9589,
+                "bbox": [
+                    142,
+                    2021,
+                    679,
+                    2065
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.6773,
+                "bbox": [
+                    143,
+                    2091,
+                    391,
+                    2127
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9436,
+                "bbox": [
+                    128,
+                    2231,
+                    589,
+                    2264
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9381,
+                "bbox": [
+                    1325,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 17
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    127,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.989,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    19,
+                    1527,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    127,
+                    1472,
+                    156
+                ],
+                "score": 1.0,
+                "text": "公司控股股东为氢澜控股集团有限公司，实际控制人为厉承澜。控股股东所持股份报告期内不存在质押、"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    174,
+                    277,
+                    205
+                ],
+                "score": 1.0,
+                "text": "冻结情形。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    144,
+                    248,
+                    426,
+                    307
+                ],
+                "score": 0.961,
+                "text": "第十节 财务报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    145,
+                    339,
+                    344,
+                    384
+                ],
+                "score": 1.0,
+                "text": "一、审计意见"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    404,
+                    1496,
+                    429
+                ],
+                "score": 0.989,
+                "text": "公司2025年度财务报表业经中衡会计师事务所(特殊普通合伙）审计，并于2026年3月出具了标准无保留"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    451,
+                    1499,
+                    477
+                ],
+                "score": 0.986,
+                "text": "意见（中衡审字[2026]第0187号）。审计机构认为：公司财务报表在所有重大方面按照企业会计准则的规"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    499,
+                    1490,
+                    524
+                ],
+                "score": 0.999,
+                "text": "定编制，公允反映了公司2025年12月31日的合并及公司财务状况以及2025年度的合并及公司经营成果和"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    543,
+                    277,
+                    575
+                ],
+                "score": 1.0,
+                "text": "现金流量。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    618,
+                    672,
+                    655
+                ],
+                "score": 0.952,
+                "text": "二、合并资产负债表主要项目（摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    688,
+                    386,
+                    717
+                ],
+                "score": 1.0,
+                "text": "资产负债表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    1426,
+                    1194,
+                    1444
+                ],
+                "score": 0.999,
+                "text": "注：上述为合并口径主要项目摘要，完整资产负债表及附注以公司指定信息披露媒体披露的版本为准"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    148,
+                    1484,
+                    609,
+                    1521
+                ],
+                "score": 0.955,
+                "text": "三、合并利润表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    1555,
+                    333,
+                    1581
+                ],
+                "score": 1.0,
+                "text": "利润表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2025,
+                    673,
+                    2062
+                ],
+                "score": 0.97,
+                "text": "四、合并现金流量表主要项目(摘要)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    2096,
+                    386,
+                    2122
+                ],
+                "score": 1.0,
+                "text": "现金流量表主要项目"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    134,
+                    2238,
+                    584,
+                    2259
+                ],
+                "score": 0.993,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1326,
+                    2233,
+                    1522,
+                    2265
+                ],
+                "score": 1.0,
+                "text": "第10页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9312,
+                "bbox": [
+                    128,
+                    19,
+                    847,
+                    57
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9009,
+                "bbox": [
+                    1449,
+                    24,
+                    1524,
+                    56
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9849,
+                "bbox": [
+                    133,
+                    120,
+                    1520,
+                    341
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=2 colspan=1>项目经营活动产生的现金流量净额</td><td rowspan=1 colspan=1>2025年(亿元）</td><td rowspan=1 colspan=1>2024年（亿元）</td></tr><tr><td rowspan=1 colspan=1>0.90</td><td rowspan=1 colspan=1>0.50</td></tr><tr><td rowspan=1 colspan=1>投资活动产生的现金流量净额</td><td rowspan=1 colspan=1>-4.20</td><td rowspan=1 colspan=1>-3.60</td></tr><tr><td rowspan=1 colspan=1>筹资活动产生的现金流量净额</td><td rowspan=1 colspan=1>3.80</td><td rowspan=1 colspan=1>2.60</td></tr></table>"
+            },
+            {
+                "cls_id": 24,
+                "label": "vision_footnote",
+                "score": 0.9165,
+                "bbox": [
+                    142,
+                    349,
+                    1497,
+                    437
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.962,
+                "bbox": [
+                    144,
+                    484,
+                    382,
+                    532
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9638,
+                "bbox": [
+                    144,
+                    554,
+                    1265,
+                    594
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9635,
+                "bbox": [
+                    144,
+                    618,
+                    1129,
+                    658
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9639,
+                "bbox": [
+                    144,
+                    682,
+                    886,
+                    722
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9594,
+                "bbox": [
+                    144,
+                    746,
+                    721,
+                    785
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9562,
+                "bbox": [
+                    157,
+                    831,
+                    827,
+                    866
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 8,
+                "label": "footer",
+                "score": 0.9473,
+                "bbox": [
+                    129,
+                    2232,
+                    589,
+                    2264
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9438,
+                "bbox": [
+                    1326,
+                    2232,
+                    1523,
+                    2264
+                ],
+                "index": 12
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    128,
+                    20,
+                    846,
+                    56
+                ],
+                "score": 0.986,
+                "text": "苏州氢澜动力股份有限公司（688349.SH）2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1445,
+                    20,
+                    1526,
+                    60
+                ],
+                "score": 1.0,
+                "text": "科创板"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    151,
+                    352,
+                    1491,
+                    381
+                ],
+                "score": 0.999,
+                "text": "公司执行财政部颁布的企业会计准则及相关规定，主要会计政策与上一年度保持一致，报告期内无重大会"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    147,
+                    397,
+                    307,
+                    433
+                ],
+                "score": 1.0,
+                "text": "计估计变更。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    143,
+                    476,
+                    379,
+                    534
+                ],
+                "score": 1.0,
+                "text": "备查文件目录"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    558,
+                    1260,
+                    592
+                ],
+                "score": 1.0,
+                "text": "载有公司法定代表人、主管会计工作负责人、会计机构负责人签名并盖章的财务报表。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    625,
+                    1121,
+                    651
+                ],
+                "score": 1.0,
+                "text": "载有会计师事务所盖章、注册会计师签名并盖章的2025年度审计报告原件。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    152,
+                    689,
+                    878,
+                    715
+                ],
+                "score": 0.986,
+                "text": "·报告期内公开披露过的所有公司文件的正本及公告原稿。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    750,
+                    715,
+                    783
+                ],
+                "score": 0.999,
+                "text": "公司2025年年度股东大会会议资料及决议。"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    165,
+                    837,
+                    819,
+                    861
+                ],
+                "score": 0.995,
+                "text": "(本报告为模拟数据，仅供研究测试使用，不构成任何投资建议)"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    132,
+                    2237,
+                    585,
+                    2260
+                ],
+                "score": 0.983,
+                "text": "苏州氢澜动力股份有限公司 2025年年度报告"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1327,
+                    2236,
+                    1522,
+                    2263
+                ],
+                "score": 1.0,
+                "text": "第11页/共11页"
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]
