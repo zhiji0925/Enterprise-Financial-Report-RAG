@@ -159,6 +159,7 @@ class VectorDBIngestor:
             if not sha1:
                 raise ValueError(f"分块报告 {report_path} 缺少 sha1 字段，无法保存 faiss 文件！")
             faiss_file_path = output_dir / f"{sha1}.faiss"
-            faiss.write_index(index, str(faiss_file_path))
+            # Windows 上 faiss.write_index 走 fopen，中文路径写不进去
+            faiss_file_path.write_bytes(faiss.serialize_index(index).tobytes())
 
         print(f"Processed {len(all_report_paths)} reports")
